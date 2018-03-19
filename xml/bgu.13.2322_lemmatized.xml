@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.13.2322" TM="9716" HGV="9716" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="72552" id="1" texid="9716" row="1" wordNum="1" hand="m1" regularized="τετελώνηται" original="τετελ(ώνηται)" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τελωνέω" lemmaFlag="ok"/>
+			<word wordref_id="72553" id="2" texid="9716" row="1" wordNum="2" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="72554" id="3" texid="9716" row="1" wordNum="3" hand="m1" regularized="πύλης" original="πύλ(ης)" completeness="complete" tag="noun.sg.fem.gen" lemma="πύλη" lemmaFlag="ok"/>
+			<word wordref_id="72555" id="4" texid="9716" row="1" wordNum="4" hand="m1" regularized="Φιλαδελφίας" original="Φιλαδελ(φίας)" completeness="complete" tag="noun.sg.masc.gen" lemma="Φιλαδέλφιος" lemmaFlag="ok"/>
+			<word wordref_id="72556" id="5" texid="9716" row="1" wordNum="5" hand="m1" regularized="λιμένος" original="λι(μένος)" completeness="complete" tag="noun.sg.masc.gen" lemma="λιμήν" lemmaFlag="ok"/>
+			<word wordref_id="72557" id="6" texid="9716" row="1" wordNum="6" hand="m1" regularized="Μ|gap=1|…" original="Μ|gap=1|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="72558" id="7" texid="9716" row="2" wordNum="1" hand="m1" regularized="Διογάτης" original="Διογάτης" completeness="complete" tag="noun.sg.masc.nom" lemma="Διογάτης" lemmaFlag="ok"/>
+			<word wordref_id="72559" id="8" texid="9716" row="2" wordNum="2" hand="m1" regularized="ἐξάγων" original="ἐξ(άγων)" completeness="complete" tag="participle.sg.pres.act.masc.nom" lemma="ἐξάγω" lemmaFlag="ok"/>
+			<word wordref_id="72560" id="9" texid="9716" row="2" wordNum="3" hand="m1" regularized="ἐπὶ" original="ἐπὶ" completeness="complete" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="72561" id="10" texid="9716" row="2" wordNum="4" hand="m1" regularized="ὄνῳ" original="ὄνῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="72562" id="11" texid="9716" row="3" wordNum="1" hand="m1" regularized="ἑνὶ|num=1|" original="[ἑ]νὶ|num=1|" completeness="partly_reconstructed" tag="numeral.sg.masc.dat" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="72563" id="12" texid="9716" row="3" wordNum="2" hand="m1" regularized="ἀράκου" original="[ἀ]ρά̣κ̣ου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="ἄρακος" lemmaFlag="ok"/>
+			<word wordref_id="72564" id="13" texid="9716" row="3" wordNum="3" hand="m1" regularized="χλωροῦ" original="χλωροῦ" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="χλωρός" lemmaFlag="ok"/>
+			<word wordref_id="72565" id="14" texid="9716" row="4" wordNum="1" hand="m1" regularized="|gap=1||gap=3|ον" original="|gap=1||gap=3|ο̣ν" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="72566" id="15" texid="9716" row="4" wordNum="2" hand="m1" regularized="ἕνα|num=1|" original="ἕνα|num=1|" completeness="complete" tag="numeral.sg.masc.acc" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="72567" id="16" texid="9716" row="4" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="72568" id="1" texid="9716" row="4" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="72569" id="2" texid="9716" row="4" wordNum="5" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="72570" id="3" texid="9716" row="4" wordNum="6" hand="m1" regularized="Φαῶφι" original="Φαῶφι" completeness="complete" tag="noun.sg.none.none" lemma="Φαῶφι" lemmaFlag="ok"/>
+			<word wordref_id="72571" id="4" texid="9716" row="5" wordNum="1" hand="m1" regularized="ἐννεακαιδεκάτῃ" original="ἐννεακ̣[αι]δεκάτῃ" completeness="partly_reconstructed" tag="adjective.sg.fem.dat.pos" lemma="ἐννεακαιδέκατος" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

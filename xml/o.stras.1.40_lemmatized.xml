@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.40" TM="75640" HGV="75640" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="784193" id="1" texid="75640" row="1" wordNum="1" hand="m1" regularized="Ὧρος" original="Ὧρος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ὧρος" lemmaFlag="ok"/>
+			<word wordref_id="784194" id="2" texid="75640" row="1" wordNum="2" hand="m1" regularized="Τεῶτος" original="Τ̣εῶτος" completeness="complete" tag="noun.sg.masc.gen" lemma="Τεῶτος" lemmaFlag="ok"/>
+			<word wordref_id="784195" id="3" texid="75640" row="1" wordNum="3" hand="m1" regularized="παστοφόρων" original="παστοφόρω(ν)" completeness="complete" tag="noun.pl.masc.gen" lemma="παστοφόρος" lemmaFlag="suspect"/>
+			<word wordref_id="784196" id="4" texid="75640" row="2" wordNum="1" hand="m1" regularized="τέτακται" original="τέτακ(ται)" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τάσσω" lemmaFlag="ok"/>
+			<word wordref_id="784197" id="5" texid="75640" row="2" wordNum="2" hand="m1" regularized="λαογραφίας" original="λαογ(ραφίας)" completeness="complete" tag="noun.pl.fem.acc" lemma="λαογραφία" lemmaFlag="ok"/>
+			<word wordref_id="784198" id="6" texid="75640" row="2" wordNum="3" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="784199" id="7" texid="75640" row="2" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="784200" id="8" texid="75640" row="2" wordNum="5" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="784201" id="9" texid="75640" row="2" wordNum="6" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="784202" id="10" texid="75640" row="2" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="784203" id="1" texid="75640" row="3" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="784204" id="2" texid="75640" row="3" wordNum="2" hand="m1" regularized="ιγ|digit=13|" original="[ιγ|digit=13|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="784205" id="3" texid="75640" row="3" wordNum="3" hand="m1" regularized="Καίσαρος" original="[Καίσα(ρος)]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="784206" id="4" texid="75640" row="3" wordNum="4" hand="m1" regularized="Φαμενὼθ" original="Φ[αμ]ε(νὼθ)" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Φαμενώθ" lemmaFlag="ok"/>
+			<word wordref_id="784207" id="5" texid="75640" row="3" wordNum="5" hand="m1" regularized="κ|digit=20|" original="κ̣|digit=20|" completeness="complete" tag="numeral.none.none.none" lemma="κ" lemmaFlag="ok"/>
+			<word wordref_id="784208" id="6" texid="75640" row="3" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

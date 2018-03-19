@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.464" TM="75617" HGV="75617" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="762209" id="1" texid="75617" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762210" id="2" texid="75617" row="1" wordNum="2" hand="m1" regularized="Φιλ…" original="Φιλ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762211" id="3" texid="75617" row="1" wordNum="3" hand="m1" regularized="ο|gap=1|γ|gap=1|λι|gap=1|ς" original="ο|gap=1|γ|gap=1|λ̣ι|gap=1|ς" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762212" id="4" texid="75617" row="2" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑ(πὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="762213" id="5" texid="75617" row="2" wordNum="2" hand="m1" regularized="προσθήκης" original="προ̣σ̣θήκ̣(ης)" completeness="complete" tag="noun.sg.fem.gen" lemma="προσθήκη" lemmaFlag="ok"/>
+			<word wordref_id="762214" id="6" texid="75617" row="2" wordNum="3" hand="m1" regularized="νομισματίου" original="ν̣ο(μισματίου)" completeness="complete" tag="noun.sg.neut.gen" lemma="νομισμάτιον" lemmaFlag="ok"/>
+			<word wordref_id="762215" id="7" texid="75617" row="2" wordNum="4" hand="m1" regularized="𐅵|digit=1/2|" original="𐅵|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="𐅵" lemmaFlag="ok"/>
+			<word wordref_id="762216" id="8" texid="75617" row="3" wordNum="1" hand="m1" regularized="Φαρμοῦθι" original="Φαρ(μοῦ)θ(ι)" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="762217" id="9" texid="75617" row="3" wordNum="2" hand="m1" regularized="ιγ|digit=13|" original="ι̣γ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="762218" id="10" texid="75617" row="3" wordNum="3" hand="m1" regularized="ἰνδικτίονος" original="ἰν̣δ(ικτίονος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="762219" id="11" texid="75617" row="3" wordNum="4" hand="m1" regularized="τρίτης" original="τρίτης" completeness="complete" tag="adjective.sg.fem.gen.pos" lemma="τρίτος" lemmaFlag="ok"/>
+			<word wordref_id="762220" id="12" texid="75617" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="762221" id="1" texid="75617" row="4" wordNum="1" hand="m2" regularized="Κόμες" original="Κόμες" completeness="complete" tag="noun.sg.masc.none" lemma="Κόμες" lemmaFlag="ok"/>
+			<word wordref_id="762222" id="2" texid="75617" row="4" wordNum="2" hand="m2" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762223" id="3" texid="75617" row="4" wordNum="3" hand="m2" regularized="στοιχεῖ" original="στυιχεῖ*" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="στοιχέω" lemmaFlag="ok"/>
+			<word wordref_id="762224" id="4" texid="75617" row="5" wordNum="1" hand="m3" regularized="Πχὲρ" original="Πχὲρ" completeness="complete" tag="noun.sg.masc.none" lemma="Πχέρ" lemmaFlag="ok"/>
+			<word wordref_id="762225" id="5" texid="75617" row="5" wordNum="2" hand="m3" regularized="Ἀθανασίου" original="Ἀθανασίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀθανάσιος" lemmaFlag="ok"/>
+			<word wordref_id="762226" id="6" texid="75617" row="5" wordNum="3" hand="m3" regularized="στοιχεῖ" original="στοιχεῖ" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="στοιχέω" lemmaFlag="ok"/>
+			<word wordref_id="762227" id="7" texid="75617" row="5" wordNum="4" hand="m3" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

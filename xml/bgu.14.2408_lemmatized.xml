@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.14.2408" TM="4060" HGV="4060" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="83244" id="1" texid="4060" row="1" wordNum="1" hand="m1" regularized="Εὐὼν" original="Εὐὼ̣ν" completeness="complete" tag="noun.sg.masc.nom" lemma="Εὐών" lemmaFlag="ok"/>
+			<word wordref_id="83245" id="2" texid="4060" row="1" wordNum="2" hand="m1" regularized="Ἡφαισττίωνι" original="Ἡφαιστ[τίωνι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἡφαισττίων" lemmaFlag="ok"/>
+			<word wordref_id="83246" id="3" texid="4060" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χ]α(ίρειν)" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="83247" id="4" texid="4060" row="1" wordNum="4" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="83248" id="1" texid="4060" row="2" wordNum="1" hand="m1" regularized="χρημάτισον" original="χρ̣η̣(μάτισον)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="χρηματίζω" lemmaFlag="ok"/>
+			<word wordref_id="83249" id="2" texid="4060" row="2" wordNum="2" hand="m1" regularized="|gap=unknown||gap=3|" original="|gap=unknown||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="83250" id="3" texid="4060" row="2" wordNum="3" hand="m1" regularized="χαλκοῦ" original="χ̣αλ̣[κοῦ]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="χαλκός" lemmaFlag="ok"/>
+			<word wordref_id="83251" id="4" texid="4060" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="83252" id="5" texid="4060" row="3" wordNum="1" hand="m1" regularized="τὰς" original="τὰς" completeness="complete" tag="article.pl.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="83253" id="6" texid="4060" row="3" wordNum="2" hand="m1" regularized="ς…" original="ς(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="83254" id="7" texid="4060" row="3" wordNum="3" hand="m1" regularized="Ακ|digit=1020|" original="Ακ|digit=1020|" completeness="complete" tag="numeral.none.none.none" lemma="Ἄκ" lemmaFlag="ok"/>
+			<word wordref_id="83255" id="8" texid="4060" row="3" wordNum="4" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="83256" id="9" texid="4060" row="3" wordNum="5" hand="m1" regularized="Ακ|digit=1020|" original="Ακ|digit=1020|" completeness="complete" tag="numeral.none.none.none" lemma="Ἄκ" lemmaFlag="ok"/>
+			<word wordref_id="83257" id="10" texid="4060" row="4" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="83258" id="11" texid="4060" row="4" wordNum="2" hand="m1" regularized="λε|digit=35|" original="λε|digit=35|" completeness="complete" tag="numeral.none.none.none" lemma="λε" lemmaFlag="ok"/>
+			<word wordref_id="83259" id="12" texid="4060" row="4" wordNum="3" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="83260" id="13" texid="4060" row="4" wordNum="4" hand="m1" regularized="ιη|digit=18|" original="ιη|digit=18|" completeness="complete" tag="numeral.none.none.none" lemma="ιη" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

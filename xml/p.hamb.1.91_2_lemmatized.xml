@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hamb.1.91" TM="5132" HGV="5132" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1669514" id="1" texid="5132" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|δ|gap=4||gap=1|" original="|gap=unknown|δ̣|gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1669515" id="2" texid="5132" row="1" wordNum="2" hand="m1" regularized="Ἡρακλείδου" original="Ἡρ̣[ακ]λ̣είδου̣" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="1669516" id="3" texid="5132" row="1" wordNum="3" hand="m1" regularized="Πέρσου" original="Πέ̣ρ̣σ̣ο̣υ̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Πέρσης" lemmaFlag="ok"/>
+			<word wordref_id="1669517" id="4" texid="5132" row="2" wordNum="1" hand="m1" regularized="περὶ" original="[περὶ]" completeness="fully_reconstructed" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="1669518" id="5" texid="5132" row="2" wordNum="2" hand="m1" regularized="|gap=unknown||gap=2||gap=4||gap=1|" original="|gap=unknown||gap=2||gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1669519" id="6" texid="5132" row="2" wordNum="3" hand="m1" regularized="αἰχμαλώτων" original="αἰχμ̣α(λώτων)" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="αἰχμάλωτος" lemmaFlag="ok"/>
+			<word wordref_id="1669520" id="7" texid="5132" row="2" wordNum="4" hand="m1" regularized="διαδεδραμένων" original="δια̣δεδρα(μένων)" completeness="complete" tag="participle.pl.pf.mid.masc.gen" lemma="διαδράω" lemmaFlag="suspect"/>
+			<word wordref_id="1669521" id="8" texid="5132" row="2" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

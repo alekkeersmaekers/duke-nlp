@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.heid.199" TM="80421" HGV="80421" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="685412" id="1" texid="80421" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|καὶ" original="|gap=unknown|κ̣α̣ὶ̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="685413" id="2" texid="80421" row="1" wordNum="2" hand="m1" regularized="μέτοχοι" original="μ̣(έτ)ο̣χ̣(οι)" completeness="complete" tag="adjective.pl.masc.nom.pos" lemma="μέτοχος" lemmaFlag="ok"/>
+			<word wordref_id="685414" id="3" texid="80421" row="1" wordNum="3" hand="m1" regularized="πράκτορες" original="πράκ̣(τορες)" completeness="complete" tag="noun.pl.masc.nom" lemma="πράκτωρ" lemmaFlag="ok"/>
+			<word wordref_id="685415" id="4" texid="80421" row="1" wordNum="4" hand="m1" regularized="ἀργυρικῶν" original="ἀργ(υρικῶν)" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="ἀργυρικός" lemmaFlag="ok"/>
+			<word wordref_id="685416" id="5" texid="80421" row="1" wordNum="5" hand="m1" regularized="Παναμεῖ" original="Παν̣α̣με̣ῖ" completeness="complete" tag="noun.sg.masc.dat" lemma="Παναμεύς" lemmaFlag="ok"/>
+			<word wordref_id="685417" id="6" texid="80421" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|Ψεναμούνιος" original="|gap=unknown|Ψ̣εναμούνιο(ς)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="685418" id="7" texid="80421" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="685419" id="1" texid="80421" row="3" wordNum="1" hand="m1" regularized="ἔσχομεν" original="ἔ̣σ̣χ̣(ομεν)" completeness="complete" tag="verb.1.pl.aor.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="685420" id="2" texid="80421" row="3" wordNum="2" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="685421" id="3" texid="80421" row="3" wordNum="3" hand="m1" regularized="σκοπέλων" original="σκ̣ο̣(πέλων)" completeness="complete" tag="noun.pl.masc.gen" lemma="σκόπελος" lemmaFlag="ok"/>
+			<word wordref_id="685422" id="4" texid="80421" row="3" wordNum="4" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="685423" id="5" texid="80421" row="3" wordNum="5" hand="m1" regularized="ἄλλων" original="ἄλ(λων)" completeness="complete" tag="indefinite.pl.masc.gen" lemma="ἄλλος" lemmaFlag="ok"/>
+			<word wordref_id="685424" id="6" texid="80421" row="3" wordNum="6" hand="m1" regularized="Νότου" original="Νό(του)" completeness="complete" tag="noun.sg.masc.gen" lemma="Νότος" lemmaFlag="ok"/>
+			<word wordref_id="685425" id="7" texid="80421" row="3" wordNum="7" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="685426" id="8" texid="80421" row="3" wordNum="8" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="685427" id="9" texid="80421" row="4" wordNum="1" hand="m1" regularized="ῥυπαρὰς" original="ῥυ̣π̣(αρὰς)" completeness="complete" tag="adjective.pl.fem.acc.pos" lemma="ῥυπαρός" lemmaFlag="ok"/>
+			<word wordref_id="685428" id="10" texid="80421" row="4" wordNum="2" hand="m1" regularized="δραχμὰς" original="[δρα]χ̣(μὰς)" completeness="partly_reconstructed" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="685429" id="11" texid="80421" row="4" wordNum="3" hand="m1" regularized="τέσσαρας|num=4|" original="τ̣έ̣σ̣[σαρας|num=4|]" completeness="partly_reconstructed" tag="numeral.pl.fem.acc" lemma="τέσσαρες" lemmaFlag="ok"/>
+			<word wordref_id="685430" id="12" texid="80421" row="4" wordNum="4" hand="m1" regularized="ὀβολόν" original="[ὀβολόν]" completeness="fully_reconstructed" tag="noun.sg.masc.acc" lemma="ὀβολός" lemmaFlag="ok"/>
+			<word wordref_id="685431" id="13" texid="80421" row="4" wordNum="5" hand="m1" regularized="," original="[,]" completeness="fully_reconstructed" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="685432" id="14" texid="80421" row="4" wordNum="6" hand="m1" regularized="γίνονται" original="[(γίνονται)]" completeness="fully_reconstructed" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="685433" id="15" texid="80421" row="5" wordNum="1" hand="m1" regularized="δραχμαὶ?" original="(δραχμαὶ?)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="685434" id="16" texid="80421" row="5" wordNum="2" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="685435" id="17" texid="80421" row="5" wordNum="3" hand="m1" regularized="ὀβολὸν" original="(ὀβολὸν)" completeness="complete" tag="noun.sg.masc.acc" lemma="ὀβολός" lemmaFlag="ok"/>
+			<word wordref_id="685436" id="18" texid="80421" row="5" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="685437" id="19" texid="80421" row="5" wordNum="5" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="685438" id="20" texid="80421" row="5" wordNum="6" hand="m1" regularized="|gap=7||gap=unknown|" original="|gap=7||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="685439" id="21" texid="80421" row="6" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

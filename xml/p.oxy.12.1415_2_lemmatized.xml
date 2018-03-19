@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.oxy.12.1415" TM="31740" HGV="31740" lang="grc" textpart="2">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2684579" id="1" texid="31740" row="32" wordNum="1" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2684580" id="2" texid="31740" row="32" wordNum="2" hand="m1" regularized="πρύτανις" original="πρύτανις" completeness="complete" tag="noun.sg.masc.nom" lemma="πρύτανις" lemmaFlag="ok"/>
+			<word wordref_id="2684581" id="3" texid="31740" row="32" wordNum="3" hand="m1" regularized="εἶπεν" original="[εἶπ(εν)]" completeness="fully_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="λέγω" lemmaFlag="ok"/>
+			<word wordref_id="2684582" id="4" texid="31740" row="32" wordNum="4" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2684583" id="1" texid="31740" row="32" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2684584" id="2" texid="31740" row="33" wordNum="1" hand="m1" regularized="κε|gap=1||gap=unknown|" original="κε|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2684585" id="3" texid="31740" row="34" wordNum="1" hand="m1" regularized="|gap=7_lines|" original="|gap=7_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2684586" id="4" texid="31740" row="41" wordNum="1" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2684587" id="5" texid="31740" row="41" wordNum="2" hand="m1" regularized="πρύτανις" original="πρύτανι[ς]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="πρύτανις" lemmaFlag="ok"/>
+			<word wordref_id="2684588" id="6" texid="31740" row="41" wordNum="3" hand="m1" regularized="εἶπεν" original="[εἶπ(εν)]" completeness="fully_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="λέγω" lemmaFlag="ok"/>
+			<word wordref_id="2684589" id="7" texid="31740" row="41" wordNum="4" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="2684590" id="1" texid="31740" row="41" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2684591" id="2" texid="31740" row="42" wordNum="1" hand="m1" regularized="α|gap=unknown|" original="α|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2684592" id="3" texid="31740" row="43" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

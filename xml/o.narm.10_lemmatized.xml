@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.10" TM="29546" HGV="29546" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="744855" id="1" texid="29546" row="1" wordNum="1" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="744856" id="2" texid="29546" row="2" wordNum="1" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="744857" id="3" texid="29546" row="2-3" wordNum="1" hand="m1" regularized="προφήτην" original="προφήτ-ου*" completeness="complete" tag="noun.sg.masc.acc" lemma="προφήτης" lemmaFlag="ok"/>
+			<word wordref_id="744858" id="4" texid="29546" row="3" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="744859" id="5" texid="29546" row="3" wordNum="2" hand="m1" regularized="τοὺς" original="τοὺς" completeness="complete" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="744860" id="6" texid="29546" row="3-4" wordNum="1" hand="m1" regularized="πραγματευτὰς" original="πραγ-ματευτὴς*" completeness="complete" tag="noun.pl.masc.acc" lemma="πραγματευτής" lemmaFlag="ok"/>
+			<word wordref_id="744861" id="7" texid="29546" row="4" wordNum="1" hand="m1" regularized="αὐτοῦ" original="αὐτοῦ" completeness="complete" tag="demonstrative.sg.masc.gen" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="744862" id="8" texid="29546" row="5" wordNum="1" hand="m1" regularized="οἱ" original="οἱ" completeness="complete" tag="article.pl.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="744863" id="9" texid="29546" row="5" wordNum="2" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="744864" id="10" texid="29546" row="5" wordNum="3" hand="m1" regularized="Τούρβωνα" original="Τούρβωνος*" completeness="complete" tag="noun.sg.masc.acc" lemma="Τούρβων" lemmaFlag="ok"/>
+			<word wordref_id="744865" id="11" texid="29546" row="6" wordNum="1" hand="m1" regularized="Σαραπίων" original="Σαραπίων" completeness="complete" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="744866" id="12" texid="29546" row="6-7" wordNum="1" hand="m1" regularized="Δαπε|gap=1||gap=unknown|ατης" original="Δαπε|gap=1||gap=unknown|-ατης" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="744867" id="13" texid="29546" row="7" wordNum="1" hand="m1" regularized="Χελῶνις" original="Χελῶνις" completeness="complete" tag="noun.sg.masc.nom" lemma="Χελῶνις" lemmaFlag="ok"/>
+			<word wordref_id="744868" id="14" texid="29546" row="7" wordNum="2" hand="m1" regularized="Η|gap=unknown|" original="Η̣|gap=unknown|" regularized_old="H|gap=unknown|" original_old="Ḥ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="744869" id="15" texid="29546" row="8" wordNum="1" hand="m1" regularized="υς" original="υς" completeness="complete" tag="noun.sg.masc.nom" lemma="υς" lemmaFlag="wrong-accent:ὗς"/>
+			<word wordref_id="744870" id="16" texid="29546" row="8" wordNum="2" hand="m1" regularized="φίλους" original="φίλους" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="φίλος" lemmaFlag="ok"/>
+			<word wordref_id="744871" id="17" texid="29546" row="8" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="744872" id="1" texid="29546" row="8" wordNum="4" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="744873" id="2" texid="29546" row="8" wordNum="5" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="744874" id="3" texid="29546" row="8" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

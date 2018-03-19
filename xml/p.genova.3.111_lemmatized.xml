@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.genova.3.111" TM="43239" HGV="43239" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1603030" id="1" texid="43239" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1603031" id="2" texid="43239" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1603032" id="3" texid="43239" row="1" wordNum="3" hand="m1" regularized="πολλοῖς" original="πολλοῖς" completeness="complete" tag="adjective.pl.masc.dat.pos" lemma="πολύς" lemmaFlag="ok"/>
+			<word wordref_id="1603033" id="4" texid="43239" row="1-2" wordNum="1" hand="m1" regularized="ἐπικεχώρηκας" original="ἐπι-κεχώρηκας" completeness="complete" tag="verb.2.sg.pf.ind.act" lemma="ἐπιχωρέω" lemmaFlag="ok"/>
+			<word wordref_id="1603034" id="5" texid="43239" row="2" wordNum="1" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1603035" id="1" texid="43239" row="2" wordNum="2" hand="m1" regularized="τούτου" original="τούτου" completeness="complete" tag="demonstrative.sg.neut.gen" lemma="οὗτος" lemmaFlag="ok"/>
+			<word wordref_id="1603036" id="2" texid="43239" row="3" wordNum="1" hand="m1" regularized="γὰρ" original="γὰρ" completeness="complete" tag="conjunction" lemma="γάρ" lemmaFlag="ok"/>
+			<word wordref_id="1603037" id="3" texid="43239" row="3" wordNum="2" hand="m1" regularized="γενομένου" original="γενομένου" completeness="complete" tag="participle.sg.aor.mid.neut.gen" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="1603038" id="4" texid="43239" row="4" wordNum="1" hand="m1" regularized="τευξόμεθα" original="τευ̣ξόμεθα" completeness="complete" tag="verb.1.pl.fut.ind.mid" lemma="τυγχάνω" lemmaFlag="ok"/>
+			<word wordref_id="1603039" id="5" texid="43239" row="4" wordNum="2" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1603040" id="6" texid="43239" row="5" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1603041" id="7" texid="43239" row="5" wordNum="2" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="1603042" id="8" texid="43239" row="5-6" wordNum="1" hand="m1" regularized="φιλανθρωπίας" original="φιλανθρω-πίας" completeness="complete" tag="noun.sg.fem.gen" lemma="φιλανθρωπία" lemmaFlag="ok"/>
+			<word wordref_id="1603043" id="9" texid="43239" row="6" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1603044" id="1" texid="43239" row="7" wordNum="1" hand="m1" regularized="εὐτύχει" original="ε̣[ὐτύχει]" completeness="partly_reconstructed" tag="verb.2.sg.pres.imp.act" lemma="εὐτυχέω" lemmaFlag="ok"/>
+			<word wordref_id="1603045" id="2" texid="43239" row="7" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

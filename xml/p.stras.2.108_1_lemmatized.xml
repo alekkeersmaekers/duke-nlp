@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.stras.2.108" TM="3935" HGV="3935" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3466924" id="1" texid="3935" row="1" wordNum="1" hand="m1" regularized="Ἀγαθοκλῆς" original="Ἀγαθοκλῆς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀγαθοκλῆς" lemmaFlag="ok"/>
+			<word wordref_id="3466925" id="2" texid="3935" row="1" wordNum="2" hand="m1" regularized="Ἑρμίαι" original="Ἑ̣ρ̣[μ]ί̣[αι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἑρμίας" lemmaFlag="ok"/>
+			<word wordref_id="3466926" id="3" texid="3935" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="3466927" id="4" texid="3935" row="1" wordNum="4" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3466928" id="1" texid="3935" row="1" wordNum="5" hand="m1" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.neut.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3466929" id="2" texid="3935" row="2" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="3466930" id="3" texid="3935" row="2" wordNum="2" hand="m1" regularized="Δίωνος" original="Δ̣[ί]ω̣[νο]ς" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Δίων" lemmaFlag="ok"/>
+			<word wordref_id="3466931" id="4" texid="3935" row="2" wordNum="3" hand="m1" regularized="ἐγλογίσματος" original="ἐ̣γ̣[λογίσματος]" completeness="partly_reconstructed" tag="noun.sg.neut.gen" lemma="ἔγλογισμα" lemmaFlag="suspect"/>
+			<word wordref_id="3466932" id="5" texid="3935" row="2" wordNum="4" hand="m1" regularized="|gap=5|" original="|gap=5|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3466933" id="6" texid="3935" row="3" wordNum="1" hand="m1" regularized="δ|gap=unknown|" original="δ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3466934" id="7" texid="3935" row="4" wordNum="1" hand="m1" regularized="ο|gap=unknown|" original="ο̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3466935" id="8" texid="3935" row="5" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

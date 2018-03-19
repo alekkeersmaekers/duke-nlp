@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.ifao.2.23" TM="32626" HGV="32626" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1790995" id="1" texid="32626" row="1" wordNum="1" hand="m1" regularized="τῇ" original="τῇ" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1790996" id="2" texid="32626" row="1" wordNum="2" hand="m1" regularized="κυρίᾳ" original="κυρ[ίᾳ]" completeness="partly_reconstructed" tag="noun.sg.fem.dat" lemma="κυρία" lemmaFlag="ok"/>
+			<word wordref_id="1790997" id="3" texid="32626" row="1" wordNum="3" hand="m1" regularized="Ἀμ|gap=unknown|" original="Ἀμ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1790998" id="4" texid="32626" row="2" wordNum="1" hand="m1" regularized="ασας" original="ασας" completeness="complete" tag="verb.2.sg.aor.ind.act" lemma="αζω" lemmaFlag="wrong-accent:ἄζω"/>
+			<word wordref_id="1790999" id="5" texid="32626" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1791000" id="6" texid="32626" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1791001" id="1" texid="32626" row="2" wordNum="4" hand="m1" regularized="π|gap=unknown|" original="π|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1791002" id="2" texid="32626" row="3" wordNum="1" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1791003" id="3" texid="32626" row="3" wordNum="2" hand="m1" regularized="παντοκράτορι" original="παντωκρ[άτορι]*" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="παντοκράτωρ" lemmaFlag="ok"/>
+			<word wordref_id="1791004" id="4" texid="32626" row="3" wordNum="3" hand="m1" regularized="θεῷ" original="[θεῷ]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="θεός" lemmaFlag="ok"/>
+			<word wordref_id="1791005" id="5" texid="32626" row="3" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

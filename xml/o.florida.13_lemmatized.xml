@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.florida.13" TM="74507" HGV="74507" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="680945" id="1" texid="74507" row="1" wordNum="1" hand="m1" regularized="Βαιβίῳ" original="Βαιβίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Βαίβιος" lemmaFlag="ok"/>
+			<word wordref_id="680946" id="2" texid="74507" row="1" wordNum="2" hand="m1" regularized="Σεουήρῳ" original="Σεουήρῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Σεουῆρος" lemmaFlag="ok"/>
+			<word wordref_id="680947" id="3" texid="74507" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680948" id="4" texid="74507" row="2" wordNum="1" hand="m1" regularized="|gap=1|υστος" original="|gap=1|υ̣στος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680949" id="5" texid="74507" row="2" wordNum="2" hand="m1" regularized="ἱππέως" original="ἱππέους*" completeness="complete" tag="noun.sg.masc.gen" lemma="ἱππεύς" lemmaFlag="ok"/>
+			<word wordref_id="680950" id="6" texid="74507" row="2" wordNum="3" hand="m1" regularized="π|gap=1||gap=unknown|" original="π|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680951" id="7" texid="74507" row="3" wordNum="1" hand="m1" regularized="|gap=2||gap=1|ριω" original="|gap=2||gap=1|ριω" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680952" id="8" texid="74507" row="3" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="680953" id="9" texid="74507" row="3" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="680954" id="1" texid="74507" row="3" wordNum="4" hand="m1" regularized="β|digit=2||gap=1||gap=unknown|" original="β|digit=2||gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680955" id="2" texid="74507" row="4" wordNum="1" hand="m1" regularized="|gap=4||gap=2|ισιου" original="|gap=4||gap=2|ισιου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680956" id="3" texid="74507" row="4" wordNum="2" hand="m1" regularized="παντ|gap=unknown|" original="παντ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680957" id="4" texid="74507" row="5" wordNum="1" hand="m1" regularized="|gap=7||gap=1|" original="|gap=7||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680958" id="5" texid="74507" row="5" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="680959" id="6" texid="74507" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="680960" id="1" texid="74507" row="5" wordNum="4" hand="m1" regularized="ἐρρω|gap=unknown|" original="ἐρρω|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680961" id="2" texid="74507" row="6" wordNum="1" hand="m1" regularized="|gap=8||gap=1|" original="|gap=8||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680962" id="3" texid="74507" row="6" wordNum="2" hand="m1" regularized="παντ|gap=1||gap=unknown|" original="παντ|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="680963" id="4" texid="74507" row="7" wordNum="1" hand="m1" regularized="|gap=10||gap=2|α|gap=unknown|" original="|gap=10||gap=2|α|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

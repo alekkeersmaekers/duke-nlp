@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.alex.inv42" TM="27991" HGV="27991" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="902555" id="1" texid="27991" row="1" wordNum="1" hand="m1" regularized="|gap=5_lines|" original="|gap=5_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902556" id="2" texid="27991" row="6" wordNum="1" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902557" id="3" texid="27991" row="6" wordNum="2" hand="m2" regularized="ἀντίγραφον" original="[ἀν]τ̣ί̣γ̣ρ̣αφον" completeness="partly_reconstructed" tag="noun.sg.neut.acc" lemma="ἀντίγραφον" lemmaFlag="suspect"/>
+			<word wordref_id="902558" id="4" texid="27991" row="6" wordNum="3" hand="m2" regularized="ἐπιστολῆς" original="ἐπιστολ̣ῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="ἐπιστολή" lemmaFlag="ok"/>
+			<word wordref_id="902559" id="5" texid="27991" row="6" wordNum="4" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902560" id="6" texid="27991" row="7" wordNum="1" hand="m2" regularized="|gap=unknown||gap=3|ειχου" original="|gap=unknown||gap=3|ε̣ι̣χ̣ου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902561" id="7" texid="27991" row="7" wordNum="2" hand="m2" regularized="ἐπάρχου" original="ἐπάρχου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἔπαρχος" lemmaFlag="ok"/>
+			<word wordref_id="902562" id="8" texid="27991" row="7" wordNum="3" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902563" id="9" texid="27991" row="8" wordNum="1" hand="m2" regularized="|gap=9_lines|" original="|gap=9_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902564" id="10" texid="27991" row="17" wordNum="1" hand="m2" regularized="|gap=unknown|μας" original="|gap=unknown|μας" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902565" id="11" texid="27991" row="17" wordNum="2" hand="m2" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="902566" id="12" texid="27991" row="17" wordNum="3" hand="m2" regularized="προτρέπομαι" original="προτρέ̣π̣ο̣μαι" completeness="complete" tag="verb.1.sg.pres.ind.mid" lemma="προσρέπω" lemmaFlag="ok"/>
+			<word wordref_id="902567" id="13" texid="27991" row="17" wordNum="4" hand="m2" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="902568" id="14" texid="27991" row="17" wordNum="5" hand="m2" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902569" id="15" texid="27991" row="18" wordNum="1" hand="m2" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902570" id="16" texid="27991" row="18" wordNum="2" hand="m2" regularized="ἐπέγνων" original="ἐπέγνων" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="ἐπιγιγνώσκω" lemmaFlag="ok"/>
+			<word wordref_id="902571" id="17" texid="27991" row="18" wordNum="3" hand="m2" regularized="ἐξαίρετόν" original="ἐξέρετόν*" completeness="complete" tag="adjective.sg.masc.acc.pos" lemma="ἐξαιρετός" lemmaFlag="ok"/>
+			<word wordref_id="902572" id="18" texid="27991" row="18" wordNum="4" hand="m2" regularized="τινα|gap=1||gap=unknown|" original="τινα|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902573" id="19" texid="27991" row="19" wordNum="1" hand="m2" regularized="|gap=unknown||gap=1|εισων" original="|gap=unknown||gap=1|εισων" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902574" id="20" texid="27991" row="19" wordNum="2" hand="m2" regularized="νομων" original="νομων" completeness="complete" tag="noun.pl.masc.gen" lemma="νομος" lemmaFlag="wrong-accent:νομός"/>
+			<word wordref_id="902575" id="21" texid="27991" row="19" wordNum="3" hand="m2" regularized="ἕξουσι" original="ἕξουσι" completeness="complete" tag="verb.3.pl.fut.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="902576" id="22" texid="27991" row="19" wordNum="4" hand="m2" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="902577" id="23" texid="27991" row="20" wordNum="1" hand="m2" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

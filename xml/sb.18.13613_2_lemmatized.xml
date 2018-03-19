@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.18.13613" TM="30984" HGV="30984" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4233239" id="1" texid="30984" row="1" wordNum="1" hand="m1" regularized="Κοπρῆς" original="[Κοπρῆς]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Κοπρῆς" lemmaFlag="ok"/>
+			<word wordref_id="4233240" id="2" texid="30984" row="1" wordNum="2" hand="m1" regularized="Ἑρμῆτι" original="Ἑ̣[ρμ]ῆτι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἑρμῆς" lemmaFlag="ok"/>
+			<word wordref_id="4233241" id="3" texid="30984" row="1" wordNum="3" hand="m1" regularized="πατρί" original="πατρί" completeness="complete" tag="noun.sg.masc.dat" lemma="πατήρ" lemmaFlag="ok"/>
+			<word wordref_id="4233242" id="4" texid="30984" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4233243" id="1" texid="30984" row="2" wordNum="1" hand="m1" regularized="ἀπόδος" original="ἀπόδος" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="4233244" id="2" texid="30984" row="2" wordNum="2" hand="m1" regularized="|x|" original="|x|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4233245" id="3" texid="30984" row="2" wordNum="3" hand="m1" regularized="Ἑρμῆτι" original="Ἑρμῆτι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἑρμῆς" lemmaFlag="ok"/>
+			<word wordref_id="4233246" id="4" texid="30984" row="2" wordNum="4" hand="m1" regularized="ἀπὸ" original="ἀπὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="4233247" id="5" texid="30984" row="3" wordNum="1" hand="m1" regularized="Κοπρέους" original="Κοπρές*" completeness="complete" tag="noun.sg.masc.gen" lemma="Κοπρῆς" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

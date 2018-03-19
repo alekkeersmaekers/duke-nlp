@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.sorb.1.55" TM="3170" HGV="3170" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3426263" id="1" texid="3170" row="1" wordNum="1" hand="m1" regularized="|gap=4||gap=2||gap=unknown|" original="|gap=4||gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426264" id="2" texid="3170" row="1-2" wordNum="1" hand="m1" regularized="Θεσενούφει" original="[Θεσε]-νούφει" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Θεσενουφις" lemmaFlag="ok"/>
+			<word wordref_id="3426265" id="3" texid="3170" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χ[αίρειν]" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="3426266" id="4" texid="3170" row="2" wordNum="2" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3426267" id="1" texid="3170" row="2" wordNum="3" hand="m1" regularized="καλῶς?" original="[καλῶς?]" completeness="fully_reconstructed" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="3426268" id="2" texid="3170" row="3" wordNum="1" hand="m1" regularized="ποιήσεις" original="ποιήσεις" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="3426269" id="3" texid="3170" row="3" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426270" id="4" texid="3170" row="4" wordNum="1" hand="m1" regularized="χρηματιζ" original="χρηματ[ιζ]" completeness="partly_reconstructed" tag="noun.none.none.none" lemma="χρηματιζ" lemmaFlag="suspect"/>
+			<word wordref_id="3426271" id="5" texid="3170" row="4" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426272" id="6" texid="3170" row="5" wordNum="1" hand="m1" regularized="σπερμα|gap=unknown|" original="σπερμα|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426273" id="7" texid="3170" row="6" wordNum="1" hand="m1" regularized="ἀνειλημ|gap=unknown|" original="ἀνειλημ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426274" id="8" texid="3170" row="7" wordNum="1" hand="m1" regularized="Θεοδωρ|gap=unknown|" original="Θεοδωρ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3426275" id="9" texid="3170" row="8" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.fay.330" TM="10872" HGV="10872" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1493216" id="1" texid="10872" row="1" wordNum="1" hand="m1" regularized="|gap=8_lines|" original="|gap=8_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1493217" id="2" texid="10872" row="00" wordNum="1" hand="m1" regularized="ἀριθμητικοῦ" original="ἀριθ(μητικοῦ)" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="ἀριθμητικός" lemmaFlag="ok"/>
+			<word wordref_id="1493218" id="3" texid="10872" row="00" wordNum="2" hand="m1" regularized="κατοίκων" original="κ̣α̣[τ(οίκων)]" completeness="partly_reconstructed" tag="noun.pl.masc.gen" lemma="κατοίκος" lemmaFlag="wrong-accent:κάτοικος"/>
+		</sentence>
+	</text>
+</file>

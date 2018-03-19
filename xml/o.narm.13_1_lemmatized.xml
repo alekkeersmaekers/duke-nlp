@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.13" TM="29549" HGV="29549" lang="grc" textpart="convex">
+	<text>
+		<sentence id="1">
+			<word wordref_id="744995" id="1" texid="29549" row="1-2" wordNum="1" hand="m1" regularized="πρὸς" original="πρ-ὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="744996" id="2" texid="29549" row="2-3" wordNum="1" hand="m1" regularized="ἱερογραμματεῖς" original="ἱ-ερο-ιερωγραμμ-ατεων*" completeness="complete" tag="noun.pl.masc.acc" lemma="ἱερογραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="744997" id="3" texid="29549" row="6" wordNum="1" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="744998" id="4" texid="29549" row="6-7" wordNum="1" hand="m1" regularized="ἄλλων" original="ἄλλ-ων" completeness="complete" tag="indefinite.pl.masc.gen" lemma="ἄλλος" lemmaFlag="ok"/>
+			<word wordref_id="744999" id="5" texid="29549" row="7-8" wordNum="1" hand="m1" regularized="νομῶν" original="νομῶ-ν" completeness="complete" tag="noun.pl.masc.gen" lemma="νομή" lemmaFlag="ok"/>
+			<word wordref_id="745000" id="6" texid="29549" row="8" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="745001" id="7" texid="29549" row="8" wordNum="2" hand="m1" regularized="δῶρα" original="δῶρα" completeness="complete" tag="noun.pl.neut.acc" lemma="δῶρον" lemmaFlag="ok"/>
+			<word wordref_id="745002" id="8" texid="29549" row="9" wordNum="1" hand="m1" regularized="μετὰ" original="μετὰ" completeness="complete" tag="preposition" lemma="μετά" lemmaFlag="ok"/>
+			<word wordref_id="745003" id="9" texid="29549" row="9-10" wordNum="1" hand="m1" regularized="κολακείας" original="κολακί-ας*" completeness="complete" tag="noun.sg.fem.gen" lemma="κολακεία" lemmaFlag="ok"/>
+			<word wordref_id="745004" id="10" texid="29549" row="10" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="745005" id="1" texid="29549" row="10" wordNum="2" hand="m1" regularized="κγ|digit=23|" original="κγ|digit=23|" completeness="complete" tag="numeral.none.none.none" lemma="κγ" lemmaFlag="ok"/>
+			<word wordref_id="745006" id="2" texid="29549" row="10" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

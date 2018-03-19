@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.2.155" TM="89181" HGV="89181" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="530817" id="1" texid="89181" row="1" wordNum="1" hand="m1" regularized="Σαραπίων" original="Σαραπ̣[ίων]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="530818" id="2" texid="89181" row="1" wordNum="2" hand="m1" regularized="Κασίου" original="[Κασίου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Κάσιος" lemmaFlag="ok"/>
+			<word wordref_id="530819" id="3" texid="89181" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χ(αίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="530820" id="4" texid="89181" row="2" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="530821" id="1" texid="89181" row="2" wordNum="3" hand="m1" regularized="διαπόστειλον" original="δι(απόστειλον)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="διαποστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="530822" id="2" texid="89181" row="2" wordNum="4" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="530823" id="3" texid="89181" row="3" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνο(υ)" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="530824" id="4" texid="89181" row="3" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="530825" id="5" texid="89181" row="4" wordNum="1" hand="m1" regularized="ἰταλικ…" original="ἰταλ[ικ](…)" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="530826" id="6" texid="89181" row="4" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

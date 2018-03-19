@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.2.105" TM="34440" HGV="34440" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="655818" id="1" texid="34440" row="1" wordNum="1" hand="m1" regularized="Ἀίος" original="[Ἀίος]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Ἀίος" lemmaFlag="ok"/>
+			<word wordref_id="655819" id="2" texid="34440" row="1" wordNum="2" hand="m1" regularized="ὀπτίων" original="[ὀπτί(ων)]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="ὀπτίων" lemmaFlag="ok"/>
+			<word wordref_id="655820" id="3" texid="34440" row="1" wordNum="3" hand="m1" regularized="Πετεχῶντι" original="[Π]ετεχον*" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Πετεχῶν" lemmaFlag="ok"/>
+			<word wordref_id="655821" id="4" texid="34440" row="1" wordNum="4" hand="m1" regularized="ἐπιμελητῇ" original="ἐπιμ(ελητῇ)" completeness="complete" tag="noun.sg.masc.dat" lemma="ἐπιμελητής" lemmaFlag="ok"/>
+			<word wordref_id="655822" id="5" texid="34440" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="655823" id="6" texid="34440" row="2" wordNum="2" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="655824" id="1" texid="34440" row="2" wordNum="3" hand="m1" regularized="παράσχου" original="[παράσ]χου" completeness="partly_reconstructed" tag="verb.2.sg.aor.ind.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="655825" id="2" texid="34440" row="2" wordNum="4" hand="m1" regularized="Παπνουθίῳ" original="Παπνοῦθις*" completeness="complete" tag="noun.sg.masc.dat" lemma="Παπνούθιος" lemmaFlag="ok"/>
+			<word wordref_id="655826" id="3" texid="34440" row="3" wordNum="1" hand="m1" regularized="ἀννώνας?" original="[ἀννώνας?]" completeness="fully_reconstructed" tag="noun.pl.fem.acc" lemma="ἀννώνη" lemmaFlag="ok"/>
+			<word wordref_id="655827" id="4" texid="34440" row="3" wordNum="2" hand="m1" regularized="δεκαπέντε" original="δεκαπέντε" completeness="complete" tag="numeral.none.none.none" lemma="δεκαπέντε" lemmaFlag="ok"/>
+			<word wordref_id="655828" id="5" texid="34440" row="3" wordNum="3" hand="m1" regularized="γίνονται" original="γί(νονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="655829" id="6" texid="34440" row="4" wordNum="1" hand="m1" regularized="ἀννῶναι" original="[ἀν(νῶναι)]" completeness="fully_reconstructed" tag="noun.pl.fem.nom" lemma="ἀννώνη" lemmaFlag="ok"/>
+			<word wordref_id="655830" id="7" texid="34440" row="4" wordNum="2" hand="m1" regularized="ιε|digit=15|" original="[ιε|digit=15|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="655831" id="8" texid="34440" row="4" wordNum="3" hand="m1" regularized="μόναι" original="[μ]ονος*" completeness="partly_reconstructed" tag="adjective.pl.fem.nom.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="655832" id="9" texid="34440" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="655833" id="1" texid="34440" row="4" wordNum="5" hand="m1" regularized="Ἀίος" original="Ἀίος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀίος" lemmaFlag="ok"/>
+			<word wordref_id="655834" id="2" texid="34440" row="4" wordNum="6" hand="m1" regularized="σεσημείωμαι" original="σεσημιωμ*" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="655835" id="3" texid="34440" row="5" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="655836" id="4" texid="34440" row="5" wordNum="2" hand="m1" regularized="|filler|" original="|filler|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

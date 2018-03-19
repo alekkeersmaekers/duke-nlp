@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.sorb.1.50" TM="3165" HGV="3165" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3426139" id="1" texid="3165" row="23" wordNum="1" hand="m2" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3426140" id="2" texid="3165" row="23" wordNum="2" hand="m2" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="3426141" id="3" texid="3165" row="23" wordNum="3" hand="m2" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="3426142" id="4" texid="3165" row="23" wordNum="4" hand="m2" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.nom" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="3426143" id="5" texid="3165" row="23" wordNum="5" hand="m2" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="3426144" id="6" texid="3165" row="23" wordNum="6" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3426145" id="1" texid="3165" row="24" wordNum="1" hand="m2" regularized="Εὔαρχος" original="Εὔαρχος" completeness="complete" tag="noun.sg.masc.nom" lemma="Εὔαρχος" lemmaFlag="ok"/>
+			<word wordref_id="3426146" id="2" texid="3165" row="24" wordNum="2" hand="m2" regularized="ἀπολύων" original="ἀπολύων" completeness="complete" tag="participle.sg.pres.act.masc.nom" lemma="ἀπολύω" lemmaFlag="ok"/>
+			<word wordref_id="3426147" id="3" texid="3165" row="25" wordNum="1" hand="m2" regularized="τοὺς" original="τοὺς" completeness="complete" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3426148" id="4" texid="3165" row="25" wordNum="2" hand="m2" regularized="ἀνθρώπους" original="ἀνθρώπους" completeness="complete" tag="noun.pl.masc.acc" lemma="ἄνθρωπος" lemmaFlag="ok"/>
+			<word wordref_id="3426149" id="5" texid="3165" row="25" wordNum="3" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="3426150" id="1" texid="3165" row="26" wordNum="1" hand="m1" regularized="Θεσενούφει" original="Θεσενούφει" completeness="complete" tag="noun.sg.masc.dat" lemma="Θεσενουφις" lemmaFlag="ok"/>
+			<word wordref_id="3426151" id="2" texid="3165" row="26" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

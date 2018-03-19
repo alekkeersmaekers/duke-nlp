@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.iand.zen.20" TM="110074" HGV="110074" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1783754" id="1" texid="110074" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1783755" id="2" texid="110074" row="1" wordNum="2" hand="m1" regularized="|gap=5||gap=unknown|" original="|gap=5||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1783756" id="3" texid="110074" row="2" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1783757" id="4" texid="110074" row="2" wordNum="2" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="1783758" id="5" texid="110074" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1783759" id="1" texid="110074" row="2" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1783760" id="2" texid="110074" row="2" wordNum="5" hand="m1" regularized="λβ|digit=32|" original="λβ|digit=32|" completeness="complete" tag="numeral.none.none.none" lemma="λβ" lemmaFlag="ok"/>
+			<word wordref_id="1783761" id="3" texid="110074" row="3" wordNum="1" hand="m1" regularized="Φαῶφι" original="Φαῶφι" completeness="complete" tag="noun.sg.none.none" lemma="Φαῶφι" lemmaFlag="ok"/>
+			<word wordref_id="1783762" id="4" texid="110074" row="3" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

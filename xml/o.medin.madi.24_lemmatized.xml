@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.medin.madi.24" TM="74958" HGV="74958" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="723262" id="1" texid="74958" row="1" wordNum="1" hand="m1" regularized="γενήματος" original="γενή(ματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="γένημα" lemmaFlag="ok"/>
+			<word wordref_id="723263" id="2" texid="74958" row="1" wordNum="2" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="723264" id="3" texid="74958" row="1" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="723265" id="4" texid="74958" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="723266" id="1" texid="74958" row="1" wordNum="5" hand="m1" regularized="θησαυροῦ" original="θησ(αυροῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="θησαυρός" lemmaFlag="ok"/>
+			<word wordref_id="723267" id="2" texid="74958" row="1" wordNum="6" hand="m1" regularized="Τριστόμου" original="Τριστόμου" completeness="complete" tag="noun.sg.masc.gen" lemma="Τριστόμος" lemmaFlag="ok"/>
+			<word wordref_id="723268" id="3" texid="74958" row="1" wordNum="7" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="723269" id="4" texid="74958" row="2" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="723270" id="5" texid="74958" row="2" wordNum="2" hand="m1" regularized="κτηνῶν" original="κτη(νῶν)" completeness="complete" tag="noun.pl.neut.gen" lemma="κτῆνος" lemmaFlag="ok"/>
+			<word wordref_id="723271" id="6" texid="74958" row="2" wordNum="3" hand="m1" regularized="Τεστυ…" original="Τεστυ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="723272" id="7" texid="74958" row="2" wordNum="4" hand="m1" regularized="Λασαρ|gap=3|" original="Λασαρ|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="723273" id="8" texid="74958" row="3" wordNum="1" hand="m1" regularized="ὄνοι" original="ὄνοι" completeness="complete" tag="noun.pl.fem.nom" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="723274" id="9" texid="74958" row="3" wordNum="2" hand="m1" regularized="δεκαεννέα|num=19|" original="δεκαεννέα|num=19|" completeness="complete" tag="numeral.none.none.none" lemma="δεκαεννέα" lemmaFlag="ok"/>
+			<word wordref_id="723275" id="10" texid="74958" row="3" wordNum="3" hand="m1" regularized="εἰσάγοντες" original="εἰσά(γοντες)" completeness="complete" tag="participle.pl.pres.act.masc.nom" lemma="εἰσάγω" lemmaFlag="ok"/>
+			<word wordref_id="723276" id="11" texid="74958" row="4" wordNum="1" hand="m1" regularized="σαργάνας" original="σαρ(γάνας)" completeness="complete" tag="noun.pl.fem.acc" lemma="σαργάνη" lemmaFlag="ok"/>
+			<word wordref_id="723277" id="12" texid="74958" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="723278" id="1" texid="74958" row="4" wordNum="3" hand="m1" regularized="Φαρμοῦθι" original="Φαρ(μοῦθι)" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="723279" id="2" texid="74958" row="4" wordNum="4" hand="m1" regularized="ιθ|digit=19|" original="ιθ|digit=19|" completeness="complete" tag="numeral.none.none.none" lemma="ιθ" lemmaFlag="ok"/>
+			<word wordref_id="723280" id="3" texid="74958" row="4" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

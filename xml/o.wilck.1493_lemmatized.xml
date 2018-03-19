@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.wilck.1493" TM="50798" HGV="50798" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="834455" id="1" texid="50798" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="834456" id="2" texid="50798" row="1" wordNum="2" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="834457" id="3" texid="50798" row="1" wordNum="3" hand="m1" regularized="Μεσορεὶ" original="Μεσορεὶ" completeness="complete" tag="noun.none.none.none" lemma="Μεσορεί" lemmaFlag="ok"/>
+			<word wordref_id="834458" id="4" texid="50798" row="1" wordNum="4" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="834459" id="5" texid="50798" row="1-2" wordNum="1" hand="m1" regularized="πέπτωκεν" original="πέπτω-κεν" completeness="complete" tag="verb.3.sg.pf.ind.act" lemma="πίπτω" lemmaFlag="ok"/>
+			<word wordref_id="834460" id="6" texid="50798" row="2" wordNum="1" hand="m1" regularized="ἁλικῆς" original="ἁλικῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="ἁλική" lemmaFlag="suspect"/>
+			<word wordref_id="834461" id="7" texid="50798" row="2" wordNum="2" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="834462" id="8" texid="50798" row="2-3" wordNum="1" hand="m1" regularized="Κλειτάνδροῦ" original="Κλειτάν-δροῦ" regularized_old="Κλειτάνδροῦ" original_old="Κλειτάν-δροῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Κλειτάνδρος" lemmaFlag="ok"/>
+			<word wordref_id="834463" id="9" texid="50798" row="3" wordNum="1" hand="m1" regularized="Το|gap=2|ς" original="Το|gap=2|ς" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="834464" id="10" texid="50798" row="3" wordNum="2" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="834465" id="11" texid="50798" row="3" wordNum="3" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="834466" id="12" texid="50798" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="834467" id="1" texid="50798" row="4" wordNum="1" hand="m1" regularized="|gap=3_lines|" original="|gap=3_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.7.1676" TM="27607" HGV="27607" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="282169" id="1" texid="27607" row="1" wordNum="1" hand="m1" regularized="|x|" original="|x|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="282170" id="2" texid="27607" row="1" wordNum="2" hand="m1" regularized="ἀπόδος" original="ἀπ̣ό(δος)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="282171" id="3" texid="27607" row="1" wordNum="3" hand="m1" regularized="Φανείωνι" original="Φανείωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Φανείων" lemmaFlag="ok"/>
+			<word wordref_id="282172" id="4" texid="27607" row="1" wordNum="4" hand="m1" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="282173" id="5" texid="27607" row="1" wordNum="5" hand="m1" regularized="Σαραποδώρου" original="Σαραποδώρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Σαραπόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="282174" id="6" texid="27607" row="2" wordNum="1" hand="m1" regularized="|gap=3|χράτου" original="|gap=3|χ̣ρ̣ά̣του" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="282175" id="7" texid="27607" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="282176" id="1" texid="27607" row="3" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

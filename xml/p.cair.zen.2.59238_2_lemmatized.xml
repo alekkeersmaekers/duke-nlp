@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.2.59238" TM="883" HGV="883" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1230990" id="1" texid="883" row="11" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1230991" id="2" texid="883" row="11" wordNum="2" hand="m1" regularized="λγ|digit=33|" original="λγ|digit=33|" completeness="complete" tag="numeral.none.none.none" lemma="λγ" lemmaFlag="ok"/>
+			<word wordref_id="1230992" id="3" texid="883" row="11" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="1230993" id="4" texid="883" row="11" wordNum="4" hand="m1" regularized="Φαρμοῦθι" original="Φαρμοῦθι" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="1230994" id="5" texid="883" row="11" wordNum="5" hand="m1" regularized="κ|digit=20|" original="κ|digit=20|" completeness="complete" tag="numeral.none.none.none" lemma="κ" lemmaFlag="ok"/>
+			<word wordref_id="1230995" id="6" texid="883" row="11" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1230996" id="1" texid="883" row="11" wordNum="7" hand="m1" regularized="Φιλέας" original="Φιλέας" completeness="complete" tag="noun.sg.masc.nom" lemma="Φιλέας" lemmaFlag="ok"/>
+			<word wordref_id="1230997" id="2" texid="883" row="12" wordNum="1" hand="m1" regularized="περὶ" original="π̣ε̣ρ̣ὶ̣" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="1230998" id="3" texid="883" row="12" wordNum="2" hand="m1" regularized="τῶν" original="τ̣ῶ̣ν̣" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1230999" id="4" texid="883" row="12" wordNum="3" hand="m1" regularized="|gap=4||gap=4||gap=4||gap=1|ων" original="|gap=4||gap=4||gap=4||gap=1|ω̣ν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1231000" id="5" texid="883" row="12" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1231001" id="1" texid="883" row="11" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

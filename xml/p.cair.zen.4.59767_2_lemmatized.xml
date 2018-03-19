@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.4.59767" TM="1392" HGV="1392" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1278935" id="1" texid="1392" row="11" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1278936" id="2" texid="1392" row="11" wordNum="2" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1278937" id="3" texid="1392" row="11" wordNum="3" hand="m1" regularized="Φαμενὼθ" original="Φαμενὼθ" completeness="complete" tag="noun.sg.none.none" lemma="Φαμενώθ" lemmaFlag="ok"/>
+			<word wordref_id="1278938" id="4" texid="1392" row="11" wordNum="4" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="1278939" id="5" texid="1392" row="11" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1278940" id="1" texid="1392" row="12" wordNum="1" hand="m1" regularized="παρὰ" original="[παρ]ὰ" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1278941" id="2" texid="1392" row="12" wordNum="2" hand="m1" regularized="Θεοφίλου" original="Θεοφίλου" completeness="complete" tag="noun.sg.masc.gen" lemma="Θεόφιλος" lemmaFlag="ok"/>
+			<word wordref_id="1278942" id="3" texid="1392" row="13" wordNum="1" hand="m1" regularized="ζωγράφου" original="[ζωγ]ράφου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="ζωγράφος" lemmaFlag="wrong-accent:ζώγραφος"/>
+			<word wordref_id="1278943" id="4" texid="1392" row="13" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

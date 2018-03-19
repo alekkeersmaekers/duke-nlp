@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mil.2.83" TM="33516" HGV="33516" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2525193" id="1" texid="33516" row="1" wordNum="1" hand="m1" regularized="κυρίῳ" original="[κυ]ρ[ίῳ]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="2525194" id="2" texid="33516" row="1" wordNum="2" hand="m1" regularized="μου" original="μου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="2525195" id="3" texid="33516" row="1" wordNum="3" hand="m1" regularized="ἀδελφῷ" original="ἀ[δελ(φῷ)]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="2525196" id="4" texid="33516" row="2" wordNum="1" hand="m1" regularized="Παπνούθῃ" original="Παπνούθῃ" completeness="complete" tag="noun.sg.masc.dat" lemma="Παπνουθης" lemmaFlag="ok"/>
+			<word wordref_id="2525197" id="5" texid="33516" row="3" wordNum="1" hand="m1" regularized="Γελάσιος" original="Γελάσιος" completeness="complete" tag="noun.sg.masc.nom" lemma="Γελάσιος" lemmaFlag="ok"/>
+			<word wordref_id="2525198" id="6" texid="33516" row="3" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="2525199" id="7" texid="33516" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2525200" id="1" texid="33516" row="4" wordNum="1" hand="m1" regularized="ἐδήλωσά" original="ἐδήλωσά" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="δηλόω" lemmaFlag="ok"/>
+			<word wordref_id="2525201" id="2" texid="33516" row="4" wordNum="2" hand="m1" regularized="σοι" original="σοι" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="2525202" id="3" texid="33516" row="4" wordNum="3" hand="m1" regularized="ἅπαξ" original="ἅπαξ" completeness="complete" tag="adverb" lemma="ἅπαξ" lemmaFlag="ok"/>
+			<word wordref_id="2525203" id="4" texid="33516" row="5" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2525204" id="5" texid="33516" row="5" wordNum="2" hand="m1" regularized="δεύτερον" original="δεύτερον" completeness="complete" tag="adjective.sg.neut.acc.pos" lemma="δεύτερος" lemmaFlag="ok"/>
+			<word wordref_id="2525205" id="6" texid="33516" row="6" wordNum="1" hand="m1" regularized="ὅτι" original="ὅτι" completeness="complete" tag="conjunction" lemma="ὅτι" lemmaFlag="ok"/>
+			<word wordref_id="2525206" id="7" texid="33516" row="6" wordNum="2" hand="m1" regularized="πέμψον" original="πέμ[ψ]ον" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="πέμπω" lemmaFlag="ok"/>
+			<word wordref_id="2525207" id="8" texid="33516" row="6" wordNum="3" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="2525208" id="9" texid="33516" row="7" wordNum="1" hand="m1" regularized="ὀρνίθια" original="ὀρνίθι[α]" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="ὀρνίθιον" lemmaFlag="ok"/>
+			<word wordref_id="2525209" id="10" texid="33516" row="7" wordNum="2" hand="m1" regularized="δέκα|num=10|" original="[δ]έκα|num=10|" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="δέκα" lemmaFlag="ok"/>
+			<word wordref_id="2525210" id="11" texid="33516" row="8" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2525211" id="12" texid="33516" row="8" wordNum="2" hand="m1" regularized="οὐδαμῶς" original="οὐδ[αμῶ]ς" completeness="partly_reconstructed" tag="adverb" lemma="οὐδαμῶς" lemmaFlag="ok"/>
+			<word wordref_id="2525212" id="13" texid="33516" row="8-9" wordNum="1" hand="m1" regularized="ἐφρόντισας" original="ἐφρόν-τισας" completeness="complete" tag="verb.2.sg.aor.ind.act" lemma="φροντίζω" lemmaFlag="ok"/>
+			<word wordref_id="2525213" id="14" texid="33516" row="9" wordNum="1" hand="m1" regularized="δ|gap=5|αι" original="δ|gap=5|αι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2525214" id="15" texid="33516" row="10" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

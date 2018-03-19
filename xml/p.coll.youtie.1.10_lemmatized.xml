@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.coll.youtie.1.10" TM="78159" HGV="78159" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1350664" id="1" texid="78159" row="1" wordNum="1" hand="m1" regularized="Κλέωνι" original="Κλέωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Κλέων" lemmaFlag="ok"/>
+			<word wordref_id="1350665" id="2" texid="78159" row="1" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1350666" id="3" texid="78159" row="1" wordNum="3" hand="m1" regularized="Ἡδίστη" original="Ἡδίστη" completeness="complete" tag="noun.sg.fem.nom" lemma="Ἡδίστη" lemmaFlag="ok"/>
+			<word wordref_id="1350667" id="4" texid="78159" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1350668" id="1" texid="78159" row="1" wordNum="5" hand="m1" regularized="ἀδικοῦμαι" original="ἀδικοῦμ[αι]" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.mid" lemma="ἀδικέω" lemmaFlag="ok"/>
+			<word wordref_id="1350669" id="2" texid="78159" row="1" wordNum="6" hand="m1" regularized="ὑπὸ" original="[ὑπὸ]" completeness="fully_reconstructed" tag="preposition" lemma="ὑπό" lemmaFlag="ok"/>
+			<word wordref_id="1350670" id="3" texid="78159" row="1" wordNum="7" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1350671" id="4" texid="78159" row="2" wordNum="1" hand="m1" regularized="ὀφείλων" original="ὀφείλων" completeness="complete" tag="participle.sg.pres.act.masc.nom" lemma="ὀφείλω" lemmaFlag="ok"/>
+			<word wordref_id="1350672" id="5" texid="78159" row="2" wordNum="2" hand="m1" regularized="γάρ" original="γάρ" completeness="complete" tag="conjunction" lemma="γάρ" lemmaFlag="ok"/>
+			<word wordref_id="1350673" id="6" texid="78159" row="2" wordNum="3" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1350674" id="7" texid="78159" row="2" wordNum="4" hand="m1" regularized="κ|gap=1||gap=8||gap=1|φ|gap=unknown|" original="κ|gap=1||gap=8||gap=1|φ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

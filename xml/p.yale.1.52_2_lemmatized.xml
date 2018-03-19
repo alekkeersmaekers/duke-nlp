@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.yale.1.52" TM="78825" HGV="78825" lang="grc" textpart="2">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3835439" id="1" texid="78825" row="1" wordNum="1" hand="m1" regularized="εατ|gap=5|τʼ" original="εατ|gap=5|τʼ" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3835440" id="2" texid="78825" row="1" wordNum="2" hand="m1" regularized="ἄδικα|gap=3||gap=1|" original="ἄδ[ι]κα|gap=3||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3835441" id="3" texid="78825" row="2" wordNum="1" hand="m1" regularized="ποιήσατε" original="ποήσ[α]τε*" completeness="partly_reconstructed" tag="verb.2.pl.aor.imp.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="3835442" id="4" texid="78825" row="2" wordNum="2" hand="m1" regularized="μήτʼ" original="μήτʼ" completeness="complete" tag="conjunction" lemma="μήτε" lemmaFlag="ok"/>
+			<word wordref_id="3835443" id="5" texid="78825" row="2" wordNum="3" hand="m1" regularized="αὐτοὶ" original="αὐτοὶ" completeness="complete" tag="demonstrative.pl.masc.nom" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="3835444" id="6" texid="78825" row="3" wordNum="1" hand="m1" regularized="περισπῶντες" original="περισπῶντες" completeness="complete" tag="participle.pl.pres.act.masc.nom" lemma="περισπάω" lemmaFlag="ok"/>
+			<word wordref_id="3835445" id="7" texid="78825" row="3" wordNum="2" hand="m1" regularized="αὐτὸν" original="αὐτὸν" completeness="complete" tag="demonstrative.sg.masc.acc" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="3835446" id="8" texid="78825" row="4" wordNum="1" hand="m1" regularized="μήτʼ" original="μήτʼ" completeness="complete" tag="conjunction" lemma="μήτε" lemmaFlag="ok"/>
+			<word wordref_id="3835447" id="9" texid="78825" row="4" wordNum="2" hand="m1" regularized="ἄλλοις" original="ἄλλοις" completeness="complete" tag="indefinite.pl.masc.dat" lemma="ἄλλος" lemmaFlag="ok"/>
+			<word wordref_id="3835448" id="10" texid="78825" row="4" wordNum="3" hand="m1" regularized="ἐπιτρέποντες" original="ἐπιτρέποντες" completeness="complete" tag="participle.pl.pres.act.masc.nom" lemma="ἐπιτρέπω" lemmaFlag="ok"/>
+			<word wordref_id="3835449" id="11" texid="78825" row="5" wordNum="1" hand="m1" regularized="νῦν" original="νῦν" completeness="complete" tag="adverb" lemma="νῦν" lemmaFlag="ok"/>
+			<word wordref_id="3835450" id="12" texid="78825" row="5" wordNum="2" hand="m1" regularized="τε" original="τε" completeness="complete" tag="conjunction" lemma="τέ" lemmaFlag="ok"/>
+			<word wordref_id="3835451" id="13" texid="78825" row="5" wordNum="3" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="3835452" id="14" texid="78825" row="5" wordNum="4" hand="m1" regularized="ὅταν" original="ὅταν" completeness="complete" tag="conjunction" lemma="ὅταν" lemmaFlag="ok"/>
+			<word wordref_id="3835453" id="15" texid="78825" row="5" wordNum="5" hand="m1" regularized="ἐπιστρέφηι" original="ἐπιστρέφηι" completeness="complete" tag="verb.3.sg.pres.subj.act" lemma="ἐπιστρέφω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

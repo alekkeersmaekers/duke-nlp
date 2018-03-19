@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.1.72" TM="1971" HGV="1971" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2240656" id="1" texid="1971" row="23" wordNum="1" hand="m1" regularized="ἔτους?" original="(ἔτους?)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="2240657" id="2" texid="1971" row="23" wordNum="2" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2240658" id="3" texid="1971" row="23" wordNum="3" hand="m1" regularized="Πα|gap=1||gap=unknown|" original="Π̣α̣|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2240659" id="4" texid="1971" row="23" wordNum="4" hand="m1" regularized="Αἴγυπτος" original="Αἴγυπτ̣[ο]ς̣" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="Αἴγυπτος" lemmaFlag="ok"/>
+			<word wordref_id="2240660" id="5" texid="1971" row="23" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2240661" id="1" texid="1971" row="23" wordNum="6" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="2240662" id="2" texid="1971" row="23" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

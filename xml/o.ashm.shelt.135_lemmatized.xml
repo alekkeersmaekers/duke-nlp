@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.ashm.shelt.135" TM="70685" HGV="70685" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="523519" id="1" texid="70685" row="1" wordNum="1" hand="m1" regularized="Κυρακὸς" original="[Κυρακὸς]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Κυρακός" lemmaFlag="ok"/>
+			<word wordref_id="523520" id="2" texid="70685" row="1" wordNum="2" hand="m1" regularized="Θέωνι" original="[Θ]έωνι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Θέων" lemmaFlag="ok"/>
+			<word wordref_id="523521" id="3" texid="70685" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="χ(αίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="523522" id="4" texid="70685" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="523523" id="1" texid="70685" row="1" wordNum="5" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="523524" id="2" texid="70685" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|ῳ" original="|gap=unknown|ῳ" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="523525" id="3" texid="70685" row="2" wordNum="2" hand="m1" regularized="ἀλείπτῃ" original="ἀλίπτῃ*" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀλείπτης" lemmaFlag="ok"/>
+			<word wordref_id="523526" id="4" texid="70685" row="2" wordNum="3" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="523527" id="5" texid="70685" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|υ" original="|gap=unknown|υ̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="523528" id="6" texid="70685" row="3" wordNum="2" hand="m1" regularized="κνίδιον" original="κνίδιον" completeness="complete" tag="noun.sg.neut.nom" lemma="κνίδιον" lemmaFlag="suspect"/>
+			<word wordref_id="523529" id="7" texid="70685" row="3" wordNum="3" hand="m1" regularized="ἕν" original="ἕν" completeness="complete" tag="numeral.sg.neut.nom" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="523530" id="8" texid="70685" row="3" wordNum="4" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="523531" id="9" texid="70685" row="4" wordNum="1" hand="m1" regularized="κνίδιον" original="[κνίδ(ιον)]" completeness="fully_reconstructed" tag="noun.sg.neut.acc" lemma="κνίδιον" lemmaFlag="suspect"/>
+			<word wordref_id="523532" id="10" texid="70685" row="4" wordNum="2" hand="m1" regularized="α|digit=1|" original="[α|digit=1|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="523533" id="11" texid="70685" row="4" wordNum="3" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="523534" id="1" texid="70685" row="4" wordNum="4" hand="m1" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok"/>
+			<word wordref_id="523535" id="2" texid="70685" row="4" wordNum="5" hand="m1" regularized="κε|digit=25|" original="κε|digit=25|" completeness="complete" tag="numeral.none.none.none" lemma="κε" lemmaFlag="ok"/>
+			<word wordref_id="523536" id="3" texid="70685" row="4" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="523537" id="1" texid="70685" row="4-5" wordNum="1" hand="m1" regularized="Κυρακός" original="Κυρα-κός" completeness="complete" tag="noun.sg.masc.nom" lemma="Κυρακός" lemmaFlag="ok"/>
+			<word wordref_id="523538" id="2" texid="70685" row="5" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="5">
+			<word wordref_id="523539" id="1" texid="70685" row="5" wordNum="2" hand="m1" regularized="|monogram|" original="|monogram|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

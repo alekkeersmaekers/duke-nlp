@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.wadi.hamm.53" TM="79179" HGV="79179" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="815741" id="1" texid="79179" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|Ἀμμωνίωι" original="|gap=unknown|[Ἀμ]μωνίωι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="815742" id="2" texid="79179" row="1" wordNum="2" hand="m1" regularized="Σωκράτους" original="Σω(κράτους)" completeness="complete" tag="noun.sg.masc.gen" lemma="Σωκράτης" lemmaFlag="ok"/>
+			<word wordref_id="815743" id="3" texid="79179" row="1" wordNum="3" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="815744" id="4" texid="79179" row="2" wordNum="1" hand="m1" regularized="κ" original="κ" completeness="complete" tag="numeral.none.none.none" lemma="κ" lemmaFlag="ok"/>
+			<word wordref_id="815745" id="5" texid="79179" row="3" wordNum="1" hand="m1" regularized="ιτε" original="ιτε" completeness="complete" tag="verb.2.pl.aor.opt.act" lemma="ιμι" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

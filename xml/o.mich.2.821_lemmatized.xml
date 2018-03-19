@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.2.821" TM="42699" HGV="42699" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="738060" id="1" texid="42699" row="1" wordNum="1" hand="m1" regularized="Κοπρῆς" original="Κοπρῆς" completeness="complete" tag="noun.sg.masc.nom" lemma="Κοπρῆς" lemmaFlag="ok"/>
+			<word wordref_id="738061" id="2" texid="42699" row="1" wordNum="2" hand="m1" regularized="Μουρανοῦ" original="Μουραν(οῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="Μουρανός" lemmaFlag="ok"/>
+			<word wordref_id="738062" id="3" texid="42699" row="2" wordNum="1" hand="m1" regularized="παρέδωκε" original="παρέδω(κε)" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="παραδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="738063" id="4" texid="42699" row="2" wordNum="2" hand="m1" regularized="ναύβιον" original="ναύβ(ιον)" completeness="complete" tag="noun.sg.neut.acc" lemma="ναύβιον" lemmaFlag="ok"/>
+			<word wordref_id="738064" id="5" texid="42699" row="2" wordNum="3" hand="m1" regularized="ἓν" original="ἓν" completeness="complete" tag="numeral.sg.neut.acc" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="738065" id="6" texid="42699" row="3" wordNum="1" hand="m1" regularized="ἥμισυ|num=1||digit=1/2|" original="ἥμισυ|num=1||digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἥμισυ" lemmaFlag="ok"/>
+			<word wordref_id="738066" id="7" texid="42699" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="738067" id="1" texid="42699" row="4" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="738068" id="2" texid="42699" row="4" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="738069" id="3" texid="42699" row="4" wordNum="3" hand="m1" regularized="Ἐπίφ" original="Ἐπίφ" completeness="complete" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok"/>
+			<word wordref_id="738070" id="4" texid="42699" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.138" TM="41898" HGV="41898" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="724489" id="1" texid="41898" row="1" wordNum="1" hand="m1" regularized="Θοτεῦς" original="Θοτεῦς" completeness="complete" tag="noun.sg.fem.gen" lemma="Θοτευς" lemmaFlag="ok"/>
+			<word wordref_id="724490" id="2" texid="41898" row="1-2" wordNum="1" hand="m1" regularized="Ἀλεμ…πραγματεύοντι" original="Ἀλεμ̣(…)πλα-γματ̣ευων̣*" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="724491" id="3" texid="41898" row="2" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπὲρ" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="724492" id="4" texid="41898" row="2" wordNum="2" hand="m1" regularized="τοῦ" original="το̣ῦ̣" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="724493" id="5" texid="41898" row="3" wordNum="1" hand="m1" regularized="πατρός" original="πατ̣ρ̣ός" completeness="complete" tag="noun.sg.masc.gen" lemma="πατήρ" lemmaFlag="ok"/>
+			<word wordref_id="724494" id="6" texid="41898" row="3" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="724495" id="1" texid="41898" row="4" wordNum="1" hand="m1" regularized="ἀπέχω" original="ἀπέχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+			<word wordref_id="724496" id="2" texid="41898" row="4" wordNum="2" hand="m1" regularized="παρὰ" original="π̣αρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="724497" id="3" texid="41898" row="4" wordNum="3" hand="m1" regularized="σοῦ" original="σ̣ο̣ῦ̣" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="724498" id="4" texid="41898" row="4" wordNum="4" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="724499" id="5" texid="41898" row="4" wordNum="5" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="724500" id="6" texid="41898" row="4" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="724501" id="1" texid="41898" row="5" wordNum="1" hand="m1" regularized="Χοίακ" original="Χοίακ̣" completeness="complete" tag="noun.sg.none.none" lemma="Χοίακ" lemmaFlag="ok"/>
+			<word wordref_id="724502" id="2" texid="41898" row="5" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="724503" id="3" texid="41898" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

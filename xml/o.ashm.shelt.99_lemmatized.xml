@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.ashm.shelt.99" TM="70649" HGV="70649" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="527392" id="1" texid="70649" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="527393" id="2" texid="70649" row="1" wordNum="2" hand="m1" regularized="καὶ" original="[κ]αὶ" completeness="partly_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="527394" id="3" texid="70649" row="1" wordNum="3" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="527395" id="4" texid="70649" row="1" wordNum="4" hand="m1" regularized="σὺν" original="σὺν" completeness="complete" tag="preposition" lemma="σύν" lemmaFlag="ok"/>
+			<word wordref_id="527396" id="5" texid="70649" row="1" wordNum="5" hand="m1" regularized="αὐτῷ" original="αὐτῷ" completeness="complete" tag="demonstrative.sg.masc.dat" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="527397" id="6" texid="70649" row="1" wordNum="6" hand="m1" regularized="ἱπποκόμοις" original="ἱπποκό[μοις]" completeness="partly_reconstructed" tag="adjective.pl.masc.dat.pos" lemma="ἱππόκομος" lemmaFlag="wrong-accent:ἱπποκόμος"/>
+			<word wordref_id="527398" id="7" texid="70649" row="2" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="527399" id="8" texid="70649" row="2" wordNum="2" hand="m1" regularized="κνίδια" original="κνίδια" completeness="complete" tag="noun.pl.neut.nom" lemma="κνίδιον" lemmaFlag="suspect"/>
+			<word wordref_id="527400" id="9" texid="70649" row="2" wordNum="3" hand="m1" regularized="τρία" original="τρία" completeness="complete" tag="numeral.pl.neut.nom" lemma="τρεῖς" lemmaFlag="ok"/>
+			<word wordref_id="527401" id="10" texid="70649" row="2" wordNum="4" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="527402" id="11" texid="70649" row="2" wordNum="5" hand="m1" regularized="κνίδια" original="κν[ίδ(ια)]" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="κνίδιον" lemmaFlag="suspect"/>
+			<word wordref_id="527403" id="12" texid="70649" row="3" wordNum="1" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="527404" id="13" texid="70649" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="527405" id="1" texid="70649" row="3" wordNum="3" hand="m1" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok"/>
+			<word wordref_id="527406" id="2" texid="70649" row="3" wordNum="4" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="527407" id="3" texid="70649" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="527408" id="1" texid="70649" row="3" wordNum="6" hand="m1" regularized="Κυριακός" original="Κυριακός" completeness="complete" tag="noun.sg.masc.nom" lemma="Κυριακός" lemmaFlag="ok"/>
+			<word wordref_id="527409" id="2" texid="70649" row="3" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="527410" id="1" texid="70649" row="4" wordNum="1" hand="m1" regularized="|monogram|" original="|monogram|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

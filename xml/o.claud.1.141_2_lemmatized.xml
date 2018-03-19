@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.1.141" TM="24153" HGV="24153" lang="grc" textpart="ms">
+	<text>
+		<sentence id="1">
+			<word wordref_id="618238" id="1" texid="24153" row="10" wordNum="1" hand="m1" regularized="λοιπὸν" original="λοιπὸν" completeness="complete" tag="adjective.sg.neut.acc.pos" lemma="λοιπός" lemmaFlag="ok"/>
+			<word wordref_id="618239" id="2" texid="24153" row="10" wordNum="2" hand="m1" regularized="οὖν" original="οὖν" completeness="complete" tag="conjunction" lemma="οὖν" lemmaFlag="ok"/>
+			<word wordref_id="618240" id="3" texid="24153" row="10" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="618241" id="4" texid="24153" row="10" wordNum="4" hand="m1" regularized="ἄδελφε" original="ἄδελφε" completeness="complete" tag="noun.sg.masc.voc" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="618242" id="5" texid="24153" row="10" wordNum="5" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="618243" id="6" texid="24153" row="10" wordNum="6" hand="m1" regularized="|extra|" original="{γρά&lt;ψις?&gt;}" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="618244" id="7" texid="24153" row="11" wordNum="1" hand="m1" regularized="καταγραφὴν" original="καταγρα[φ]ὶν*" completeness="partly_reconstructed" tag="noun.sg.fem.acc" lemma="καταγραφή" lemmaFlag="ok"/>
+			<word wordref_id="618245" id="8" texid="24153" row="11" wordNum="2" hand="m1" regularized="γράψεις" original="γράψις*" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="γράφω" lemmaFlag="ok"/>
+			<word wordref_id="618246" id="9" texid="24153" row="11" wordNum="3" hand="m1" regularized="τῶν?" original="τους*" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="618247" id="10" texid="24153" row="12" wordNum="1" hand="m1" regularized="ἐργατῶν?" original="ἐργατας*" completeness="complete" tag="noun.pl.masc.gen" lemma="ἐργάτης" lemmaFlag="ok"/>
+			<word wordref_id="618248" id="11" texid="24153" row="12" wordNum="2" hand="m1" regularized="ἕως" original="ἕως" completeness="complete" tag="conjunction" lemma="ἕως" lemmaFlag="ok"/>
+			<word wordref_id="618249" id="12" texid="24153" row="12" wordNum="3" hand="m1" regularized="ἔλθω" original="ἔλθωι*" completeness="complete" tag="verb.1.sg.aor.subj.act" lemma="ἔρχομαι" lemmaFlag="ok"/>
+			<word wordref_id="618250" id="13" texid="24153" row="12" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="618251" id="1" texid="24153" row="13" wordNum="1" hand="m1" regularized="ἐρρῶσθαι" original="ἐρρῶσθαι" completeness="complete" tag="infinitive.pf.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="618252" id="2" texid="24153" row="13" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="618253" id="1" texid="24153" row="13" wordNum="3" hand="m1" regularized="Χοιὰκ" original="Χοιὰκ" completeness="complete" tag="noun.none.none.none" lemma="Χοιάκ" lemmaFlag="ok"/>
+			<word wordref_id="618254" id="2" texid="24153" row="13" wordNum="4" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="618255" id="3" texid="24153" row="13" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

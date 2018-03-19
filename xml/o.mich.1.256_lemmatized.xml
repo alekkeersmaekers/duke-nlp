@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.256" TM="42020" HGV="42020" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="727139" id="1" texid="42020" row="1" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="727140" id="2" texid="42020" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="727141" id="3" texid="42020" row="1" wordNum="3" hand="m1" regularized="Ἰσίδωρος" original="Ἰσίδωρ[ος]" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="Ἰσιδωρος" lemmaFlag="ok"/>
+			<word wordref_id="727142" id="4" texid="42020" row="1" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="727143" id="5" texid="42020" row="2" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="727144" id="6" texid="42020" row="2" wordNum="2" hand="m1" regularized="Πτολλᾶς" original="Πτολλᾶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολλᾶς" lemmaFlag="ok"/>
+			<word wordref_id="727145" id="7" texid="42020" row="3" wordNum="1" hand="m1" regularized="στιχάριον" original="στιχάρι(ον)" completeness="complete" tag="noun.sg.neut.acc" lemma="στιχάριον" lemmaFlag="ok"/>
+			<word wordref_id="727146" id="8" texid="42020" row="3" wordNum="2" hand="m1" regularized="ἕν" original="[ἕν]" completeness="fully_reconstructed" tag="numeral.sg.neut.acc" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="727147" id="9" texid="42020" row="3" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="727148" id="10" texid="42020" row="4" wordNum="1" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="727149" id="11" texid="42020" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

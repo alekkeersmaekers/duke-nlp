@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.1.4814" TM="33901" HGV="33901" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4027451" id="1" texid="33901" row="1" wordNum="1" hand="m1" regularized="Αὐρηλίῳ" original="Αὐρηλίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Αὐρήλιος" lemmaFlag="ok"/>
+			<word wordref_id="4027452" id="2" texid="33901" row="1" wordNum="2" hand="m1" regularized="Πα|gap=unknown|" original="Πα|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027453" id="3" texid="33901" row="2" wordNum="1" hand="m1" regularized="|gap=2|κάνου" original="|gap=2|κάνου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027454" id="4" texid="33901" row="2" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="4027455" id="5" texid="33901" row="2" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027456" id="6" texid="33901" row="3" wordNum="1" hand="m1" regularized="Πεκυσίου" original="[Πε]κυσίου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Πεκυσιος" lemmaFlag="ok"/>
+			<word wordref_id="4027457" id="7" texid="33901" row="3" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4027458" id="8" texid="33901" row="3" wordNum="3" hand="m1" regularized="Ἑρμίου" original="Ἑρμί[ου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἑρμίας" lemmaFlag="ok"/>
+			<word wordref_id="4027459" id="9" texid="33901" row="4" wordNum="1" hand="m1" regularized="|gap=2|νεας" original="|gap=2|νεας" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027460" id="10" texid="33901" row="4" wordNum="2" hand="m1" regularized="Ἁρμωτ|gap=unknown|" original="Ἁρμωτ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027461" id="11" texid="33901" row="5" wordNum="1" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027462" id="12" texid="33901" row="5" wordNum="2" hand="m1" regularized="ἄπα" original="ἄπα" completeness="complete" tag="noun.sg.none.none" lemma="ἄπα" lemmaFlag="suspect"/>
+			<word wordref_id="4027463" id="13" texid="33901" row="5" wordNum="3" hand="m1" regularized="Σπόρου" original="Σπόρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Σπόρος" lemmaFlag="ok"/>
+			<word wordref_id="4027464" id="14" texid="33901" row="5" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027465" id="15" texid="33901" row="6" wordNum="1" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4027466" id="16" texid="33901" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4027467" id="1" texid="33901" row="6" wordNum="3" hand="m1" regularized="ὁμολογοῦμεν" original="ὁμολογοῦμεν" completeness="complete" tag="verb.1.pl.pres.ind.act" lemma="ὁμολογέω" lemmaFlag="ok"/>
+			<word wordref_id="4027468" id="2" texid="33901" row="6-7" wordNum="1" hand="m1" regularized="μεμισθωκέναι" original="μ[ε-μισ]θοκέναι*" completeness="partly_reconstructed" tag="infinitive.pf.act" lemma="μισθόω" lemmaFlag="ok"/>
+			<word wordref_id="4027469" id="3" texid="33901" row="7" wordNum="1" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4027470" id="4" texid="33901" row="7" wordNum="2" hand="m1" regularized="ὑπάρχον" original="ὑπ[άρχον]" completeness="partly_reconstructed" tag="participle.sg.pres.act.neut.acc" lemma="ὑπάρχω" lemmaFlag="ok"/>
+			<word wordref_id="4027471" id="5" texid="33901" row="8" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

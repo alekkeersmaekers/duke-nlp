@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.16.12841" TM="34893" HGV="34893" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4199464" id="1" texid="34893" row="1" wordNum="1" hand="m1" regularized="ιδ|digit=14|" original="ιδ|digit=14|" completeness="complete" tag="numeral.none.none.none" lemma="ιδ" lemmaFlag="ok"/>
+			<word wordref_id="4199465" id="2" texid="34893" row="1" wordNum="2" hand="m1" regularized="ἰνδικτίονος" original="ἰνδικ(τίονος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="4199466" id="3" texid="34893" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4199467" id="1" texid="34893" row="2" wordNum="1" hand="m1" regularized="Ἀππιανὸς" original="Ἀππιανὸς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀππιανός" lemmaFlag="ok"/>
+			<word wordref_id="4199468" id="2" texid="34893" row="2-3" wordNum="1" hand="m1" regularized="Ἀπολλωνίῳ" original="Ἀπολλω-νίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+			<word wordref_id="4199469" id="3" texid="34893" row="3" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4199470" id="1" texid="34893" row="3" wordNum="2" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="4199471" id="2" texid="34893" row="3" wordNum="3" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4199472" id="3" texid="34893" row="3-4" wordNum="1" hand="m1" regularized="ἀπαιτηταῖς" original="ἀπαιτη-ταῖς" completeness="complete" tag="noun.pl.masc.dat" lemma="ἀπαιτητής" lemmaFlag="ok"/>
+			<word wordref_id="4199473" id="4" texid="34893" row="4" wordNum="1" hand="m1" regularized="διαφόρων" original="διαφοροις*" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="διάφορος" lemmaFlag="ok"/>
+			<word wordref_id="4199474" id="5" texid="34893" row="5" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="4199475" id="6" texid="34893" row="5" wordNum="2" hand="m1" regularized="διπλᾶ" original="διδι(πλᾶ)*" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="διπλοῦς" lemmaFlag="suspect"/>
+			<word wordref_id="4199476" id="7" texid="34893" row="5" wordNum="3" hand="m1" regularized="ἐννέα|num=9|" original="ἐννέα|num=9|" completeness="complete" tag="numeral.none.none.none" lemma="ἐννέα" lemmaFlag="ok"/>
+			<word wordref_id="4199477" id="8" texid="34893" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="4199478" id="1" texid="34893" row="6" wordNum="1" hand="m1" regularized="Ἀππιανὸς" original="Ἀππι(ανὸς)" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀππιανός" lemmaFlag="ok"/>
+			<word wordref_id="4199479" id="2" texid="34893" row="6" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σε(σημείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="4199480" id="3" texid="34893" row="6" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

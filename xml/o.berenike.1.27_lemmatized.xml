@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.1.27" TM="70804" HGV="70804" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="528240" id="1" texid="70804" row="1" wordNum="1" hand="m1" regularized="Σωσίβιος" original="Σωσ̣ί̣β̣(ιος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Σωσίβιος" lemmaFlag="ok"/>
+			<word wordref_id="528241" id="2" texid="70804" row="1" wordNum="2" hand="m1" regularized="Ἀνδουρωι" original="Ἀ̣ν̣δ̣[ο]υ̣ρ̣ω̣(ι)" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀνδουρος" lemmaFlag="ok"/>
+			<word wordref_id="528242" id="3" texid="70804" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χα(ίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="528243" id="4" texid="70804" row="1" wordNum="4" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="528244" id="1" texid="70804" row="1" wordNum="5" hand="m1" regularized="πάρες" original="[πάρ]ε̣ς̣" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="παρίημι" lemmaFlag="ok"/>
+			<word wordref_id="528245" id="2" texid="70804" row="1" wordNum="6" hand="m1" regularized="|gap=11|" original="|gap=11|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="528246" id="3" texid="70804" row="2" wordNum="1" hand="m1" regularized="|extra|" original="⟦|gap=1|ο|gap=1|νι|gap=1|⟧" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="528247" id="4" texid="70804" row="3" wordNum="1" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="528248" id="5" texid="70804" row="3" wordNum="2" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="528249" id="6" texid="70804" row="3" wordNum="3" hand="m1" regularized="|gap=1|ο|gap=1|ονιω…" original="|gap=1|ο|gap=1|ον̣ιω(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="528250" id="7" texid="70804" row="3" wordNum="4" hand="m1" regularized="ῥόδια" original="ῥό̣δ̣(ια)" completeness="complete" tag="noun.pl.neut.acc" lemma="ῥόδιον" lemmaFlag="suspect"/>
+			<word wordref_id="528251" id="8" texid="70804" row="3" wordNum="5" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="528252" id="9" texid="70804" row="3" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.4.1129" TM="27483" HGV="27483" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="743309" id="1" texid="27483" row="1" wordNum="1" hand="m1" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="743310" id="2" texid="27483" row="1" wordNum="2" hand="m1" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+			<word wordref_id="743311" id="3" texid="27483" row="2" wordNum="1" hand="m1" regularized="ἐνέβαλες" original="[ἐ]νέ(βαλες)" completeness="partly_reconstructed" tag="verb.2.sg.aor.ind.act" lemma="ἐμβάλλω" lemmaFlag="ok"/>
+			<word wordref_id="743312" id="4" texid="27483" row="2-3" wordNum="1" hand="m1" regularized="|extra|" original="|extra|" regularized_old="κάλαθονἀννήσου" original_old="κάλ(αθον)ἀν-[ν]ίσου*" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="743313" id="5" texid="27483" row="2-3" wordNum="1@1" hand="m1" regularized="κάλαθον" original="κάλ(αθον)" completeness="complete" tag="noun.sg.masc.acc" lemma="κάλαθος" lemmaFlag="ok"/>
+			<word wordref_id="743314" id="6" texid="27483" row="2-3" wordNum="1@2" hand="m1" regularized="ἀννήσου" original="ἀν-[ν]ίσου*" completeness="partly_reconstructed" tag="noun.sg.neut.gen" lemma="ἄνηθον" lemmaFlag="ok"/>
+			<word wordref_id="743315" id="7" texid="27483" row="3" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="743316" id="1" texid="27483" row="3-4" wordNum="1" hand="m1" regularized="Ἰρηναῖος" original="Ἰρη-[ναῖο]ς" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἰρηναῖος" lemmaFlag="ok"/>
+			<word wordref_id="743317" id="2" texid="27483" row="4" wordNum="1" hand="m1" regularized="σεσημείωμαι" original="σεση̣(μείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="743318" id="3" texid="27483" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

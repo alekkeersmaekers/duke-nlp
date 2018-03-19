@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.18.13925" TM="36311" HGV="36311" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4245272" id="1" texid="36311" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4245273" id="2" texid="36311" row="1" wordNum="2" hand="m1" regularized="Γεωργίῳ" original="Γεωργίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Γεώργιος" lemmaFlag="ok"/>
+			<word wordref_id="4245274" id="3" texid="36311" row="1" wordNum="3" hand="m1" regularized="ταβουλαρίῳ" original="τα[β]ο̣υ̣λα̣ρ(ίῳ)" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="ταβουλάριος" lemmaFlag="suspect"/>
+			<word wordref_id="4245275" id="4" texid="36311" row="1" wordNum="4" hand="m1" regularized="δρόμου" original="δρόμ[ου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="δρόμος" lemmaFlag="ok"/>
+			<word wordref_id="4245276" id="5" texid="36311" row="1" wordNum="5" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4245277" id="1" texid="36311" row="2" wordNum="1" hand="m1" regularized="ἀπόλυσον" original="ἀπόλυσον" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀπολύω" lemmaFlag="ok"/>
+			<word wordref_id="4245278" id="2" texid="36311" row="2" wordNum="2" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.neut.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4245279" id="3" texid="36311" row="2" wordNum="3" hand="m1" regularized="λαμπροτάτοις" original="λαμπρ(οτάτοις)" completeness="complete" tag="adjective.pl.neut.dat.sup" lemma="λαμπρός" lemmaFlag="ok"/>
+			<word wordref_id="4245280" id="4" texid="36311" row="2" wordNum="4" hand="m1" regularized="πολιτευμένοις" original="πολιτευμ(ένοις)" completeness="complete" tag="noun.pl.neut.dat" lemma="πολιτεύμενα" lemmaFlag="suspect"/>
+			<word wordref_id="4245281" id="5" texid="36311" row="2" wordNum="5" hand="m1" regularized="Θηβαείδος" original="Θηβαείδος" completeness="complete" tag="noun.sg.fem.gen" lemma="Θηβαείς" lemmaFlag="ok"/>
+			<word wordref_id="4245282" id="6" texid="36311" row="3" wordNum="1" hand="m1" regularized="ἱππάρια" original="ἱππάρια" completeness="complete" tag="noun.pl.neut.acc" lemma="ἱππάριον" lemmaFlag="ok"/>
+			<word wordref_id="4245283" id="7" texid="36311" row="3" wordNum="2" hand="m1" regularized="δύο|num=2|" original="δύο|num=2|" completeness="complete" tag="numeral.none.none.none" lemma="δύο" lemmaFlag="ok"/>
+			<word wordref_id="4245284" id="8" texid="36311" row="3" wordNum="3" hand="m1" regularized="μόνα" original="μ(όνα)" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="4245285" id="9" texid="36311" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4245286" id="1" texid="36311" row="3" wordNum="5" hand="m1" regularized="Παχὼμ" original="Παχὼμ" completeness="complete" tag="noun.sg.neut.gen" lemma="Παχώμ" lemmaFlag="ok"/>
+			<word wordref_id="4245287" id="2" texid="36311" row="3" wordNum="6" hand="m1" regularized="ιθ|digit=19|" original="ιθ|digit=19|" completeness="complete" tag="numeral.none.none.none" lemma="ιθ" lemmaFlag="ok"/>
+			<word wordref_id="4245288" id="3" texid="36311" row="3" wordNum="7" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4245289" id="4" texid="36311" row="3" wordNum="8" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

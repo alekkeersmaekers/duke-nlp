@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.tebt.3.2.942" TM="7979" HGV="7979" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3689129" id="1" texid="7979" row="1" wordNum="1" hand="m1" regularized="Εὔβιος" original="Εὔβιος" completeness="complete" tag="noun.sg.masc.nom" lemma="Εὔβιος" lemmaFlag="ok"/>
+			<word wordref_id="3689130" id="2" texid="7979" row="1" wordNum="2" hand="m1" regularized="Ἡρακλείδει" original="Ἡρακλείδει" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="3689131" id="3" texid="7979" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="3689132" id="4" texid="7979" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3689133" id="1" texid="7979" row="2" wordNum="3" hand="m1" regularized="ὡς" original="ὡς" completeness="complete" tag="conjunction" lemma="ὡς" lemmaFlag="ok"/>
+			<word wordref_id="3689134" id="2" texid="7979" row="2" wordNum="4" hand="m1" regularized="ἂν" original="ἂν" completeness="complete" tag="particle" lemma="ἄν" lemmaFlag="ok"/>
+			<word wordref_id="3689135" id="3" texid="7979" row="3" wordNum="1" hand="m1" regularized="ἀναγνῶις" original="ἀναγνῶις" completeness="complete" tag="verb.2.sg.aor.subj.act" lemma="ἀναγιγνώσκω" lemmaFlag="ok"/>
+			<word wordref_id="3689136" id="4" texid="7979" row="3" wordNum="2" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3689137" id="5" texid="7979" row="4" wordNum="1" hand="m1" regularized="ἐπιστολήν" original="ἐπιστολήν" completeness="complete" tag="noun.sg.fem.acc" lemma="ἐπιστολή" lemmaFlag="ok"/>
+			<word wordref_id="3689138" id="6" texid="7979" row="4" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="3689139" id="7" texid="7979" row="4-5" wordNum="1" hand="m1" regularized="σύνελθε" original="σύνελ-θε" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="συνέρχομαι" lemmaFlag="ok"/>
+			<word wordref_id="3689140" id="8" texid="7979" row="5" wordNum="1" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3689141" id="9" texid="7979" row="5" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="3689142" id="10" texid="7979" row="6" wordNum="1" hand="m1" regularized="Πετεήσιος" original="Πετεήσιος" completeness="complete" tag="noun.sg.masc.gen" lemma="Πετεησις" lemmaFlag="ok"/>
+			<word wordref_id="3689143" id="11" texid="7979" row="6" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3689144" id="12" texid="7979" row="7" wordNum="1" hand="m1" regularized="τοπάρχου" original="τοπάρχου" completeness="complete" tag="noun.sg.masc.gen" lemma="τοπαρχής" lemmaFlag="wrong-accent:τοπάρχης"/>
+			<word wordref_id="3689145" id="13" texid="7979" row="7" wordNum="2" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="3689146" id="14" texid="7979" row="8" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

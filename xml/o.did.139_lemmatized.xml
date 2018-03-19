@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.did.139" TM="144705" HGV="144705" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="645198" id="1" texid="144705" row="1" wordNum="1" hand="m1" regularized="φορὰ" original="φορὰ" completeness="complete" tag="noun.sg.fem.nom" lemma="φορά" lemmaFlag="ok"/>
+			<word wordref_id="645199" id="2" texid="144705" row="1" wordNum="2" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="645200" id="3" texid="144705" row="1" wordNum="3" hand="m1" regularized="πρώτη|digit=1|" original="(πρώτη)|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="πρώτη" lemmaFlag="ok"/>
+			<word wordref_id="645201" id="4" texid="144705" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="645202" id="1" texid="144705" row="2" wordNum="1" hand="m1" regularized="ῥαφανίνου" original="ῥεφανίνου*" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="ῥαφάνινος" lemmaFlag="ok"/>
+			<word wordref_id="645203" id="2" texid="144705" row="3" wordNum="1" hand="m1" regularized="κεράμιν" original="κεράμιν" completeness="complete" tag="noun.sg.neut.acc" lemma="κεράμιν" lemmaFlag="suspect"/>
+			<word wordref_id="645204" id="3" texid="144705" row="3" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="645205" id="4" texid="144705" row="3" wordNum="3" hand="m1" regularized="οὐ" original="οὐ" completeness="complete" tag="adverb" lemma="οὐ" lemmaFlag="ok"/>
+			<word wordref_id="645206" id="5" texid="144705" row="4" wordNum="1" hand="m1" regularized="χρηστοῦ" original="χρηστο&lt;ῦ&gt;" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="χρηστός" lemmaFlag="ok"/>
+			<word wordref_id="645207" id="6" texid="144705" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

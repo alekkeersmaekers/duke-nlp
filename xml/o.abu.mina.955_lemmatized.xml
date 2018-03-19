@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.abu.mina.955" TM="117141" HGV="117141" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="516541" id="1" texid="117141" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="516542" id="2" texid="117141" row="1" wordNum="2" hand="m1" regularized="ἀπὸ" original="ἀπὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="516543" id="3" texid="117141" row="1" wordNum="3" hand="m1" regularized="Μηνᾶ" original="Μη(νᾶ)" completeness="complete" tag="noun.sg.masc.gen" lemma="Μηνᾶς" lemmaFlag="ok"/>
+			<word wordref_id="516544" id="4" texid="117141" row="1" wordNum="4" hand="m1" regularized="οἰκονόμου" original="ὐκονόμου*" completeness="complete" tag="noun.sg.masc.gen" lemma="οἰκονόμος" lemmaFlag="wrong-accent:οἰκόνομος"/>
+			<word wordref_id="516545" id="5" texid="117141" row="1" wordNum="5" hand="m1" regularized="ὀνικὴ" original="ὀν(ικαὶ)*" completeness="complete" tag="adjective.sg.fem.nom.pos" lemma="ὀνικός" lemmaFlag="ok"/>
+			<word wordref_id="516546" id="6" texid="117141" row="2" wordNum="1" hand="m1" regularized="φορά" original="φ(ο)ρὲ*" completeness="complete" tag="noun.sg.fem.nom" lemma="φορά" lemmaFlag="ok"/>
+			<word wordref_id="516547" id="7" texid="117141" row="2" wordNum="2" hand="m1" regularized="α|digit=1|" original="α̣|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

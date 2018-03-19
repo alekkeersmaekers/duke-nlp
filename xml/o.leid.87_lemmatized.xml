@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.leid.87" TM="26432" HGV="26432" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="721507" id="1" texid="26432" row="1" wordNum="1" hand="m1" regularized="Ἡρακλείδης" original="Ἡρακλε̣ί̣δ[ης]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="721508" id="2" texid="26432" row="1" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="721509" id="3" texid="26432" row="2" wordNum="1" hand="m1" regularized="Πετεψάιτι" original="Πετεψά(ιτι)" completeness="complete" tag="noun.sg.masc.dat" lemma="Πετεψάιτι" lemmaFlag="ok"/>
+			<word wordref_id="721510" id="4" texid="26432" row="2" wordNum="2" hand="m1" regularized="Πτολεμαίου" original="Π̣τ̣ο̣λ̣(εμαίου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="721511" id="5" texid="26432" row="2" wordNum="3" hand="m1" regularized="χαίρειν" original="[χα(ίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="721512" id="6" texid="26432" row="2" wordNum="4" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="721513" id="1" texid="26432" row="3" wordNum="1" hand="m1" regularized="ἀπέσχον" original="ἀπέσχ(ον)" completeness="complete" tag="verb.3.pl.aor.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+			<word wordref_id="721514" id="2" texid="26432" row="3" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="721515" id="3" texid="26432" row="3" wordNum="3" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="721516" id="4" texid="26432" row="3" wordNum="4" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="721517" id="5" texid="26432" row="4" wordNum="1" hand="m1" regularized="τέλος" original="τέλ(ος)" completeness="complete" tag="noun.sg.neut.nom" lemma="τέλος" lemmaFlag="ok"/>
+			<word wordref_id="721518" id="6" texid="26432" row="4" wordNum="2" hand="m1" regularized="λινοπωλῶν" original="λινωπολ(ῶν)*" completeness="complete" tag="noun.pl.masc.gen" lemma="λινοπώλης" lemmaFlag="ok"/>
+			<word wordref_id="721519" id="7" texid="26432" row="4" wordNum="3" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="721520" id="8" texid="26432" row="5" wordNum="1" hand="m1" regularized="Φαμ|gap=3|" original="Φαμ̣|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="721521" id="9" texid="26432" row="6" wordNum="1" hand="m1" regularized="Φαρμοῦθι" original="Φαρμ(οῦθι)" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="721522" id="10" texid="26432" row="7" wordNum="1" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="721523" id="11" texid="26432" row="7" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

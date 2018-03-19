@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.10.2001" TM="8327" HGV="8327" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="41518" id="1" texid="8327" row="1" wordNum="1" hand="m1" regularized="Διονύσιος" original="Διο̣νύσι[ο]ς" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Διονύσιος" lemmaFlag="ok"/>
+			<word wordref_id="41519" id="2" texid="8327" row="1" wordNum="2" hand="m1" regularized="Σεύθει" original="Σεύθει" completeness="complete" tag="noun.sg.masc.dat" lemma="Σεύθης" lemmaFlag="ok"/>
+			<word wordref_id="41520" id="3" texid="8327" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="41521" id="4" texid="8327" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="41522" id="1" texid="8327" row="2" wordNum="3" hand="m1" regularized="καλῶς" original="καλῶς" completeness="complete" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="41523" id="2" texid="8327" row="3" wordNum="1" hand="m1" regularized="ποιεῖς" original="[π]οεῖς*" completeness="partly_reconstructed" tag="verb.2.sg.pres.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="41524" id="3" texid="8327" row="3" wordNum="2" hand="m1" regularized="δοῦναι" original="δοῦναι" completeness="complete" tag="infinitive.aor.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="41525" id="4" texid="8327" row="3" wordNum="3" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="41526" id="5" texid="8327" row="4" wordNum="1" hand="m1" regularized="τὸ" original="[τὸ]" completeness="fully_reconstructed" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="41527" id="6" texid="8327" row="4" wordNum="2" hand="m1" regularized="ἐφόδιον" original="ἐφόδι̣[ον]" completeness="partly_reconstructed" tag="noun.sg.neut.acc" lemma="ἐφόδιον" lemmaFlag="ok"/>
+			<word wordref_id="41528" id="7" texid="8327" row="4" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

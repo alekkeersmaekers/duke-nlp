@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.2.59203" TM="848" HGV="848" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1228526" id="1" texid="848" row="15" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1228527" id="2" texid="848" row="15" wordNum="2" hand="m1" regularized="λβ|digit=32|" original="λβ|digit=32|" completeness="complete" tag="numeral.none.none.none" lemma="λβ" lemmaFlag="ok"/>
+			<word wordref_id="1228528" id="3" texid="848" row="15" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="1228529" id="4" texid="848" row="15" wordNum="4" hand="m1" regularized="Φαρμοῦθι" original="Φαρμοῦθι" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="1228530" id="5" texid="848" row="15" wordNum="5" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="1228531" id="6" texid="848" row="15" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1228532" id="1" texid="848" row="16" wordNum="1" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="1228533" id="2" texid="848" row="16" wordNum="2" hand="m1" regularized="τῶν" original="τ̣ῶ̣ν̣" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1228534" id="3" texid="848" row="16" wordNum="3" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="1228535" id="4" texid="848" row="16" wordNum="4" hand="m1" regularized="Ἡφαιστιάδι" original="Ἡ̣φαι[σ]τιάδι" completeness="partly_reconstructed" tag="noun.sg.fem.dat" lemma="Ἡφαιστιάς" lemmaFlag="ok"/>
+			<word wordref_id="1228536" id="5" texid="848" row="16" wordNum="5" hand="m1" regularized="λαῶν" original="λ̣α̣ῶν" completeness="complete" tag="noun.pl.masc.gen" lemma="λαός" lemmaFlag="ok"/>
+			<word wordref_id="1228537" id="6" texid="848" row="17" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1228538" id="7" texid="848" row="15" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1228539" id="8" texid="848" row="15" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1228540" id="1" texid="848" row="15" wordNum="3" hand="m1" regularized="ἀντίγραφα" original="ἀν(τίγραφα)" completeness="complete" tag="noun.pl.neut.nom" lemma="ἀντίγραφον" lemmaFlag="suspect"/>
+			<word wordref_id="1228541" id="2" texid="848" row="15" wordNum="4" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1228542" id="3" texid="848" row="15" wordNum="5" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="1228543" id="4" texid="848" row="15" wordNum="6" hand="m1" regularized="τοῦς" original="τοῦς" completeness="complete" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1228544" id="5" texid="848" row="16" wordNum="1" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="1228545" id="6" texid="848" row="16" wordNum="2" hand="m1" regularized="Ἡφαιστιάδι" original="Ἡφαιστιάδι" completeness="complete" tag="noun.sg.fem.dat" lemma="Ἡφαιστιάς" lemmaFlag="ok"/>
+			<word wordref_id="1228546" id="7" texid="848" row="17" wordNum="1" hand="m1" regularized="λαούς" original="λ̣αο̣ύ̣ς" completeness="complete" tag="noun.pl.masc.acc" lemma="λαός" lemmaFlag="ok"/>
+			<word wordref_id="1228547" id="8" texid="848" row="17" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

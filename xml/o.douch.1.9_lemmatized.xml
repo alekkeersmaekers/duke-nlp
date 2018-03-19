@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.1.9" TM="34345" HGV="34345" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="655748" id="1" texid="34345" row="1" wordNum="1" hand="m1" regularized="Ἀλεξάνδρος" original="Ἀλεξάνδρ[ος]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἀλεξάνδρος" lemmaFlag="ok"/>
+			<word wordref_id="655749" id="2" texid="34345" row="1" wordNum="2" hand="m1" regularized="ὁ" original="[ὁ]" completeness="fully_reconstructed" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="655750" id="3" texid="34345" row="1" wordNum="3" hand="m1" regularized="δεῖνα" original="[δεῖνα]" completeness="fully_reconstructed" tag="indefinite.sg.masc.acc" lemma="δεῖνα" lemmaFlag="ok"/>
+			<word wordref_id="655751" id="4" texid="34345" row="1" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="655752" id="5" texid="34345" row="2" wordNum="1" hand="m1" regularized="ἐπιμελητὴς" original="ἐπιμελ(ητὴς)" completeness="complete" tag="noun.sg.masc.nom" lemma="ἐπιμελητής" lemmaFlag="ok"/>
+			<word wordref_id="655753" id="6" texid="34345" row="2" wordNum="2" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="655754" id="7" texid="34345" row="2" wordNum="3" hand="m1" regularized="χαίρειν" original="[χ(αίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="655755" id="8" texid="34345" row="2" wordNum="4" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="655756" id="1" texid="34345" row="2-3" wordNum="1" hand="m1" regularized="παράσχου" original="[παράσ]-χου" completeness="partly_reconstructed" tag="verb.2.sg.aor.ind.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="655757" id="2" texid="34345" row="3" wordNum="1" hand="m1" regularized="Μένρῃ" original="Μένρῃ" completeness="complete" tag="noun.sg.masc.dat" lemma="Μένρης" lemmaFlag="ok"/>
+			<word wordref_id="655758" id="3" texid="34345" row="3" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="655759" id="4" texid="34345" row="4" wordNum="1" hand="m1" regularized="|gap=4||gap=2||gap=unknown|" original="|gap=4||gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

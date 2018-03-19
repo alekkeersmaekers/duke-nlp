@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.2.615" TM="28191" HGV="28191" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="164255" id="1" texid="28191" row="1" wordNum="1" hand="m1" regularized="|gap=4||gap=4||gap=3|" original="|gap=4||gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="164256" id="2" texid="28191" row="1" wordNum="2" hand="m1" regularized="Π|gap=4||gap=1|νορι" original="Π|gap=4||gap=1|νορι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="164257" id="3" texid="28191" row="1" wordNum="3" hand="m1" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="164258" id="4" texid="28191" row="2" wordNum="1" hand="m1" regularized="|x|" original="|x|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="164259" id="5" texid="28191" row="2" wordNum="2" hand="m1" regularized="Ἀμμωνοῦτος" original="Ἀμμωνοῦτος" completeness="complete" tag="noun.sg.fem.gen" lemma="Ἀμμωνοῦς" lemmaFlag="ok"/>
+			<word wordref_id="164260" id="6" texid="28191" row="2" wordNum="3" hand="m1" regularized="θυγατρός" original="θυ[γ]ατρός" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="θυγάτηρ" lemmaFlag="ok"/>
+			<word wordref_id="164261" id="7" texid="28191" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

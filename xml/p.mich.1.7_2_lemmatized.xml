@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.1.7" TM="1913" HGV="1913" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2240970" id="1" texid="1913" row="5" wordNum="1" hand="m1" regularized="Ποσειδωνίου" original="Ποσειδωνίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ποσειδώνιος" lemmaFlag="ok"/>
+			<word wordref_id="2240971" id="2" texid="1913" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2240972" id="1" texid="1913" row="6" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="2240973" id="2" texid="1913" row="6" wordNum="2" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="2240974" id="3" texid="1913" row="6" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="2240975" id="4" texid="1913" row="6" wordNum="4" hand="m1" regularized="Περιτίου" original="Περιτίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Περίτιος" lemmaFlag="ok"/>
+			<word wordref_id="2240976" id="5" texid="1913" row="6" wordNum="5" hand="m1" regularized="β|digit=2||gap=1|" original="β|digit=2||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2240977" id="6" texid="1913" row="6" wordNum="6" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="2240978" id="7" texid="1913" row="7" wordNum="1" hand="m1" regularized="ἐν" original="ἐμ*" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="2240979" id="8" texid="1913" row="7" wordNum="2" hand="m1" regularized="Βουβάστωι" original="Βουβάστωι" completeness="complete" tag="noun.sg.fem.dat" lemma="Βούβαστος" lemmaFlag="ok"/>
+			<word wordref_id="2240980" id="9" texid="1913" row="7" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

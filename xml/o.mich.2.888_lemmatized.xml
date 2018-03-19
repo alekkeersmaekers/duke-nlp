@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.2.888" TM="42767" HGV="42767" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="738850" id="1" texid="42767" row="1" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="738851" id="2" texid="42767" row="1" wordNum="2" hand="m1" regularized="κτηνῶν" original="κτηνῶ̣ν̣" completeness="complete" tag="noun.pl.neut.gen" lemma="κτῆνος" lemmaFlag="ok"/>
+			<word wordref_id="738852" id="3" texid="42767" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="738853" id="4" texid="42767" row="2" wordNum="1" hand="m1" regularized="γενήματος" original="γεν(ήματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="γένημα" lemmaFlag="ok"/>
+			<word wordref_id="738854" id="5" texid="42767" row="2" wordNum="2" hand="m1" regularized="ϛ|digit=6|" original="ϛ|digit=6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ" lemmaFlag="ok"/>
+			<word wordref_id="738855" id="6" texid="42767" row="2" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="738856" id="7" texid="42767" row="2" wordNum="4" hand="m1" regularized="σάκκους" original="σάκ[κους]" completeness="partly_reconstructed" tag="noun.pl.masc.acc" lemma="σάκκος" lemmaFlag="ok"/>
+			<word wordref_id="738857" id="8" texid="42767" row="2" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="738858" id="9" texid="42767" row="3" wordNum="1" hand="m1" regularized="Πτολλᾶς" original="Πτολλᾶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολλᾶς" lemmaFlag="ok"/>
+			<word wordref_id="738859" id="10" texid="42767" row="3" wordNum="2" hand="m1" regularized="Σωκράτους" original="Σ[ωκράτους]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Σωκράτης" lemmaFlag="ok"/>
+			<word wordref_id="738860" id="11" texid="42767" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="738861" id="1" texid="42767" row="4" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="738862" id="2" texid="42767" row="4" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="738863" id="3" texid="42767" row="4" wordNum="3" hand="m1" regularized="Φαρμοῦθι" original="Φαρμ[οῦθι]" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="738864" id="4" texid="42767" row="4" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

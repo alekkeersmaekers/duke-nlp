@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.oxy.44.3199" TM="26699" HGV="26699" lang="grc" textpart="FrB,r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2908094" id="1" texid="26699" row="11" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2908095" id="2" texid="26699" row="12" wordNum="1" hand="m1" regularized="|gap=1||gap=4||gap=1||gap=4||gap=1||gap=2|" original="|gap=1||gap=4||gap=1||gap=4||gap=1||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2908096" id="3" texid="26699" row="13" wordNum="1" hand="m1" regularized="ρον" original="ρον" completeness="complete" tag="noun.sg.masc.nom" lemma="ρος" lemmaFlag="suspect"/>
+			<word wordref_id="2908097" id="4" texid="26699" row="13" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2908098" id="1" texid="26699" row="13" wordNum="3" hand="m1" regularized="ἐρρῶσθαί" original="ἐρρῶστέ̣*" completeness="complete" tag="infinitive.pf.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="2908099" id="2" texid="26699" row="13" wordNum="4" hand="m1" regularized="σε" original="[σ]ε̣" completeness="partly_reconstructed" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="2908100" id="3" texid="26699" row="14" wordNum="1" hand="m1" regularized="εὔχομαι" original="εὔχομαι" completeness="complete" tag="verb.1.sg.pres.ind.mid" lemma="εὔχομαι" lemmaFlag="ok"/>
+			<word wordref_id="2908101" id="4" texid="26699" row="14" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="2908102" id="1" texid="26699" row="15" wordNum="1" hand="m1" regularized="ἀσπάζου" original="ἀσπάζου̣" completeness="complete" tag="verb.2.sg.pres.imp.mid" lemma="ἀσπάζομαι" lemmaFlag="ok"/>
+			<word wordref_id="2908103" id="2" texid="26699" row="15" wordNum="2" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2908104" id="3" texid="26699" row="15" wordNum="3" hand="m1" regularized="πατέρα" original="πατέρα" completeness="complete" tag="noun.sg.masc.acc" lemma="πατήρ" lemmaFlag="ok"/>
+			<word wordref_id="2908105" id="4" texid="26699" row="16" wordNum="1" hand="m1" regularized="Σαπρίωνα" original="Σαπρίωνα" completeness="complete" tag="noun.sg.masc.acc" lemma="Σαπρίων" lemmaFlag="ok"/>
+			<word wordref_id="2908106" id="5" texid="26699" row="16" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

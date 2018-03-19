@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.tebt.3.1.750" TM="5353" HGV="5353" lang="grc" textpart="r,msup">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3632733" id="1" texid="5353" row="22" wordNum="1" hand="m1" regularized="Πτολεμαῖος" original="[Πτ]ολεμαῖος" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="3632734" id="2" texid="5353" row="22" wordNum="2" hand="m1" regularized="Ἑρμοκράτους" original="Ἑρμοκράτου̣ς̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἑρμοκράτης" lemmaFlag="ok"/>
+			<word wordref_id="3632735" id="3" texid="5353" row="22" wordNum="3" hand="m1" regularized="ἐπιμένει" original="ἐπ̣ι̣μ̣έ̣ν̣ε̣ι̣" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="ἐπιμένω" lemmaFlag="ok"/>
+			<word wordref_id="3632736" id="4" texid="5353" row="22" wordNum="4" hand="m1" regularized="ἕως" original="ἕω̣ς̣" completeness="complete" tag="preposition" lemma="ἕως" lemmaFlag="ok"/>
+			<word wordref_id="3632737" id="5" texid="5353" row="23" wordNum="1" hand="m1" regularized="ἂν" original="[ἂν]" completeness="fully_reconstructed" tag="particle" lemma="ἄν" lemmaFlag="ok"/>
+			<word wordref_id="3632738" id="6" texid="5353" row="23" wordNum="2" hand="m1" regularized="ἀποδόμενος" original="ἀποδόμενος" completeness="complete" tag="participle.sg.aor.mid.masc.nom" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="3632739" id="7" texid="5353" row="23" wordNum="3" hand="m1" regularized="αὐτῶν" original="αὐτῶ̣ν̣" completeness="complete" tag="demonstrative.pl.masc.gen" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="3632740" id="8" texid="5353" row="23" wordNum="4" hand="m1" regularized="τιμὴν" original="τ[ι]μ̣ὴ̣ν̣" completeness="partly_reconstructed" tag="noun.sg.fem.acc" lemma="τιμή" lemmaFlag="ok"/>
+			<word wordref_id="3632741" id="9" texid="5353" row="23" wordNum="5" hand="m1" regularized="ἔχηι" original="ἔ̣χηι" completeness="complete" tag="verb.3.sg.pres.subj.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="3632742" id="10" texid="5353" row="24" wordNum="1" hand="m1" regularized="τὰ" original="[τὰ]" completeness="fully_reconstructed" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3632743" id="11" texid="5353" row="24" wordNum="2" hand="m1" regularized="πορεῖα" original="[π]ορεῖα" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="πορεῖον" lemmaFlag="ok"/>
+			<word wordref_id="3632744" id="12" texid="5353" row="24" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3632745" id="1" texid="5353" row="24" wordNum="4" hand="m1" regularized="ἔρρωσο" original="ἔρρωσ̣ο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="3632746" id="2" texid="5353" row="24" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="3632747" id="1" texid="5353" row="24" wordNum="6" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3632748" id="2" texid="5353" row="24" wordNum="7" hand="m1" regularized="ιη|digit=18|" original="ι̣η̣|digit=18|" completeness="complete" tag="numeral.none.none.none" lemma="ιη" lemmaFlag="ok"/>
+			<word wordref_id="3632749" id="3" texid="5353" row="24" wordNum="8" hand="m1" regularized="Ἐπεὶφ" original="Ἐπεὶφ" completeness="complete" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok"/>
+			<word wordref_id="3632750" id="4" texid="5353" row="24" wordNum="9" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

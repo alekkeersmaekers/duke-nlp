@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.1.995" TM="43706" HGV="43706" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4053308" id="1" texid="43706" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4053309" id="2" texid="43706" row="1" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="4053310" id="3" texid="43706" row="1" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4053311" id="4" texid="43706" row="1" wordNum="4" hand="m1" regularized="Θωύτ" original="Θωύτ" completeness="complete" tag="noun.sg.masc.nom" lemma="Θωύτ" lemmaFlag="ok"/>
+			<word wordref_id="4053312" id="5" texid="43706" row="1" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4053313" id="1" texid="43706" row="1" wordNum="6" hand="m1" regularized="συνγραφή" original="συνγραφή" completeness="complete" tag="noun.sg.fem.nom" lemma="συνγραφή" lemmaFlag="suspect"/>
+			<word wordref_id="4053314" id="2" texid="43706" row="1" wordNum="7" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4053315" id="3" texid="43706" row="2" wordNum="1" hand="m1" regularized="ἣν" original="ἣν" completeness="complete" tag="relative.sg.fem.acc" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="4053316" id="4" texid="43706" row="2" wordNum="2" hand="m1" regularized="ἐποιήσατο" original="ἐποιήσατο" completeness="complete" tag="verb.3.sg.aor.ind.mid" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="4053317" id="5" texid="43706" row="2" wordNum="3" hand="m1" regularized="Κᾶπις" original="Κᾶπις" completeness="complete" tag="noun.sg.masc.nom" lemma="Κᾶπις" lemmaFlag="ok"/>
+			<word wordref_id="4053318" id="6" texid="43706" row="3" wordNum="1" hand="m1" regularized="Ταστῖτι" original="Ταστῖτι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ταστῖτι" lemmaFlag="ok"/>
+			<word wordref_id="4053319" id="7" texid="43706" row="3" wordNum="2" hand="m1" regularized="ἀποστασίου" original="ἀποστασίου" completeness="complete" tag="noun.sg.neut.gen" lemma="ἀποστάσιον" lemmaFlag="suspect"/>
+			<word wordref_id="4053320" id="8" texid="43706" row="4" wordNum="1" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="4053321" id="9" texid="43706" row="4" wordNum="2" hand="m1" regularized="ὧν" original="ὧν" completeness="complete" tag="relative.pl.neut.gen" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="4053322" id="10" texid="43706" row="4" wordNum="3" hand="m1" regularized="ἐνεκάλει" original="ἐν[εκά]λει" completeness="partly_reconstructed" tag="verb.3.sg.impf.ind.act" lemma="ἐγκαλέω" lemmaFlag="ok"/>
+			<word wordref_id="4053323" id="11" texid="43706" row="4" wordNum="4" hand="m1" regularized="αὐτῆι" original="αὐτῆι" completeness="complete" tag="demonstrative.sg.fem.dat" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="4053324" id="12" texid="43706" row="4" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

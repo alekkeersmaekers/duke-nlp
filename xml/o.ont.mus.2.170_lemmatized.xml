@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.ont.mus.2.170" TM="75189" HGV="75189" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="751610" id="1" texid="75189" row="1" wordNum="1" hand="m1" regularized="Μαιεύριος" original="Μαιεύριος" completeness="complete" tag="noun.sg.masc.gen" lemma="Μαιεῦρις" lemmaFlag="ok"/>
+			<word wordref_id="751611" id="2" texid="75189" row="1" wordNum="2" hand="m1" regularized="Ἁρφμόιτος" original="Ἁρφμ̣ό̣ιτο(ς)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἁρφμόις" lemmaFlag="ok"/>
+			<word wordref_id="751612" id="3" texid="75189" row="2" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="751613" id="4" texid="75189" row="2" wordNum="2" hand="m1" regularized="ἀδελφὸς" original="ἀδελφὸ(ς)" completeness="complete" tag="noun.sg.masc.nom" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="751614" id="5" texid="75189" row="2" wordNum="3" hand="m1" regularized="σιτικῶν" original="σιτ(ικῶν)" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="σιτικός" lemmaFlag="ok"/>
+			<word wordref_id="751615" id="6" texid="75189" row="2" wordNum="4" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="751616" id="7" texid="75189" row="2" wordNum="5" hand="m1" regularized="Ἄνω" original="Ἄνω" completeness="complete" tag="noun.sg.fem.gen" lemma="Ἀνης" lemmaFlag="ok"/>
+			<word wordref_id="751617" id="8" texid="75189" row="2" wordNum="6" hand="m1" regularized="τοπαρχίας" original="(τοπαρχίας)" completeness="complete" tag="noun.pl.fem.acc" lemma="τοπαρχία" lemmaFlag="ok"/>
+			<word wordref_id="751618" id="9" texid="75189" row="3" wordNum="1" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="751619" id="10" texid="75189" row="3" wordNum="2" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="751620" id="11" texid="75189" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="751621" id="12" texid="75189" row="4" wordNum="1" hand="m1" regularized="Α|gap=1|…" original="Α|gap=1|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="751622" id="13" texid="75189" row="4" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σε(σημείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

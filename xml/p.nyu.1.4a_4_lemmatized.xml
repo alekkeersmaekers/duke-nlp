@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.nyu.1.4a" TM="12544 12544" HGV="12544a 12544b" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2629997" id="1" texid="12544" row="30" wordNum="1" hand="m1" regularized="ἀποχὴ" original="ἀποχὴ" completeness="complete" tag="noun.sg.fem.nom" lemma="ἀποχή" lemmaFlag="ok"/>
+			<word wordref_id="2629998" id="2" texid="12544" row="30" wordNum="2" hand="m1" regularized="σίτου" original="σίτου" completeness="complete" tag="noun.sg.masc.gen" lemma="σῖτος" lemmaFlag="ok"/>
+			<word wordref_id="2629999" id="3" texid="12544" row="30" wordNum="3" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2630000" id="4" texid="12544" row="30" wordNum="4" hand="m1" regularized="τῆς" original="τῆ[ς]" completeness="partly_reconstructed" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2630001" id="5" texid="12544" row="30" wordNum="5" hand="m1" regularized="κατασπορᾶς" original="κατορᾶς*" completeness="complete" tag="noun.sg.fem.gen" lemma="κατασπορά" lemmaFlag="ok"/>
+			<word wordref_id="2630002" id="6" texid="12544" row="30" wordNum="6" hand="m1" regularized="ταμιακῶν" original="ταμιακ[ῶν]" completeness="partly_reconstructed" tag="adjective.pl.masc.gen.pos" lemma="ταμιακός" lemmaFlag="ok"/>
+			<word wordref_id="2630003" id="7" texid="12544" row="30" wordNum="7" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2630004" id="1" texid="12544" row="30" wordNum="8" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

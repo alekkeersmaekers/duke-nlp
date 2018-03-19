@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.409" TM="75997" HGV="75997" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="784175" id="1" texid="75997" row="2" wordNum="1" hand="m1" regularized="|gap=2_lines|" original="|gap=2_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="784176" id="2" texid="75997" row="3" wordNum="1" hand="m1" regularized="Φ|gap=2|…" original="Φ̣|gap=2|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="784177" id="3" texid="75997" row="3" wordNum="2" hand="m1" regularized="|gap=2||gap=unknown|" original="|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="784178" id="4" texid="75997" row="3" wordNum="3" hand="m1" regularized="ιζ|digit=17|" original="ιζ|digit=17|" completeness="complete" tag="numeral.none.none.none" lemma="ιζ" lemmaFlag="ok"/>
+			<word wordref_id="784179" id="5" texid="75997" row="3" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="784180" id="6" texid="75997" row="3" wordNum="5" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="784181" id="7" texid="75997" row="4" wordNum="1" hand="m1" regularized="Ἀγορᾶς" original="Ἀγ(ορᾶς)" completeness="complete" tag="noun.sg.fem.gen" lemma="Ἀγορή" lemmaFlag="ok"/>
+			<word wordref_id="784182" id="8" texid="75997" row="4" wordNum="2" hand="m1" regularized="ὀνόματος" original="ὀνό(ματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="ὄνομα" lemmaFlag="ok"/>
+			<word wordref_id="784183" id="9" texid="75997" row="4" wordNum="3" hand="m1" regularized="Πεμψάιτος" original="Πεμ̣ψάι(τος)" completeness="complete" tag="noun.sg.masc.gen" lemma="Πεμψάις" lemmaFlag="ok"/>
+			<word wordref_id="784184" id="10" texid="75997" row="5" wordNum="1" hand="m1" regularized="Σε|gap=3|" original="Σε|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="784185" id="11" texid="75997" row="5" wordNum="2" hand="m1" regularized="πυροῦ" original="(πυροῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="πυρός" lemmaFlag="ok"/>
+			<word wordref_id="784186" id="12" texid="75997" row="5" wordNum="3" hand="m1" regularized="ἕκτον" original="ἕκτον" completeness="complete" tag="adjective.sg.neut.acc.pos" lemma="ἕκτος" lemmaFlag="ok"/>
+			<word wordref_id="784187" id="13" texid="75997" row="6" wordNum="1" hand="m1" regularized="γίνεται" original="(γίνεται)" completeness="complete" tag="verb.3.sg.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="784188" id="14" texid="75997" row="6" wordNum="2" hand="m1" regularized="πυροῦ" original="(πυροῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="πυρός" lemmaFlag="ok"/>
+			<word wordref_id="784189" id="15" texid="75997" row="6" wordNum="3" hand="m1" regularized="ϛ´|digit=1/6|" original="ϛ´|digit=1/6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ´" lemmaFlag="ok"/>
+			<word wordref_id="784190" id="16" texid="75997" row="6" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="784191" id="1" texid="75997" row="6" wordNum="5" hand="m1" regularized="σεσημείωμαι" original="σεσ(ημείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="784192" id="2" texid="75997" row="6" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

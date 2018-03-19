@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.mus.565" TM="75625" HGV="75625" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="768165" id="1" texid="75625" row="1" wordNum="1" hand="m1" regularized="Καλε" original="Καλε" completeness="complete" tag="noun.sg.masc.none" lemma="Καλέ" lemmaFlag="ok"/>
+			<word wordref_id="768166" id="2" texid="75625" row="2" wordNum="1" hand="m1" regularized="ὁμοῦ?" original="ὁ(μοῦ?)" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+			<word wordref_id="768167" id="3" texid="75625" row="2" wordNum="2" hand="m1" regularized="ὄνοι" original="ὄνω*" completeness="complete" tag="noun.pl.fem.nom" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="768168" id="4" texid="75625" row="2" wordNum="3" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="768169" id="5" texid="75625" row="3" wordNum="1" hand="m1" regularized="ιζ|digit=17|" original="ιζ|digit=17|" completeness="complete" tag="numeral.none.none.none" lemma="ιζ" lemmaFlag="ok"/>
+			<word wordref_id="768170" id="6" texid="75625" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

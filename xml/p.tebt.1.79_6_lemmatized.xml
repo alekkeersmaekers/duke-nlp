@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.tebt.1.79" TM="3715" HGV="3715" lang="grc" textpart="3,ctr">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3585522" id="1" texid="3715" row="39" wordNum="1" hand="m1" regularized="σπόρος" original="[σπό(ρος)]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="σπόρος" lemmaFlag="ok"/>
+			<word wordref_id="3585523" id="2" texid="3715" row="39" wordNum="2" hand="m1" regularized="|gap=2|…" original="|gap=2|[(…)]" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3585524" id="3" texid="3715" row="39" wordNum="3" hand="m1" regularized="κ|digit=20|" original="[κ|digit=20|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="κ" lemmaFlag="ok"/>
+			<word wordref_id="3585525" id="4" texid="3715" row="39" wordNum="4" hand="m1" regularized="|gap=2|…" original="|gap=2|[(…)]" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3585526" id="5" texid="3715" row="39" wordNum="5" hand="m1" regularized="κ|digit=20|" original="κ|digit=20|" completeness="complete" tag="numeral.none.none.none" lemma="κ" lemmaFlag="ok"/>
+			<word wordref_id="3585527" id="6" texid="3715" row="39" wordNum="6" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="3585528" id="7" texid="3715" row="39" wordNum="7" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="3585529" id="8" texid="3715" row="39" wordNum="8" hand="m1" regularized="μ|digit=40|" original="μ|digit=40|" completeness="complete" tag="numeral.none.none.none" lemma="μ" lemmaFlag="ok"/>
+			<word wordref_id="3585530" id="9" texid="3715" row="39" wordNum="9" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3585531" id="1" texid="3715" row="40" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="3585532" id="2" texid="3715" row="40" wordNum="2" hand="m1" regularized="τη" original="τ[η]" completeness="partly_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="τῆ" lemmaFlag="ok"/>
+			<word wordref_id="3585533" id="3" texid="3715" row="40" wordNum="3" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3585534" id="4" texid="3715" row="40" wordNum="4" hand="m1" regularized="μεμετρημενη|gap=3||gap=1|ια|gap=1|της" original="[με]μετρημενη|gap=3||gap=1|ια|gap=1|της" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3585535" id="5" texid="3715" row="40" wordNum="5" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3585536" id="6" texid="3715" row="40" wordNum="6" hand="m1" regularized="ἐκφόρια" original="ἐκφόρια" completeness="complete" tag="noun.pl.neut.acc" lemma="ἐκφόριον" lemmaFlag="ok"/>
+			<word wordref_id="3585537" id="7" texid="3715" row="40" wordNum="7" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

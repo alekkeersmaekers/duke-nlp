@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.2.59164" TM="811" HGV="811" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1224088" id="1" texid="811" row="4" wordNum="1" hand="m1" regularized="|gap=4||gap=4||gap=4||gap=3|" original="|gap=4||gap=4||gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1224089" id="2" texid="811" row="5" wordNum="1" hand="m1" regularized="|gap=4||gap=2|" original="|gap=4||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1224090" id="3" texid="811" row="5" wordNum="2" hand="m1" regularized="ὑποζυγίων" original="ὑ̣π̣ο̣ζ̣υ̣γ̣ί̣ω̣ν̣" completeness="complete" tag="noun.pl.neut.gen" lemma="ὑποζύγιον" lemmaFlag="ok"/>
+			<word wordref_id="1224091" id="4" texid="811" row="6" wordNum="1" hand="m1" regularized="σκαφείων" original="σ̣καφείων" completeness="complete" tag="noun.pl.neut.gen" lemma="σκαφεῖον" lemmaFlag="ok"/>
+			<word wordref_id="1224092" id="5" texid="811" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1224093" id="1" texid="811" row="4" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνων̣ι̣" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1224094" id="2" texid="811" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

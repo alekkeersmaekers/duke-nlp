@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.koeln.5.227" TM="11524 11525" HGV="11524 11525" lang="grc" textpart="r,B,ms">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1849572" id="1" texid="11524" row="28" wordNum="1" hand="m1" regularized="ἔστιν" original="ἔστιν" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="εἰμί" lemmaFlag="ok"/>
+			<word wordref_id="1849573" id="2" texid="11524" row="28" wordNum="2" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1849574" id="3" texid="11524" row="28" wordNum="3" hand="m1" regularized="γνωστὴρ" original="γνω(στὴρ)" completeness="complete" tag="noun.sg.masc.nom" lemma="γνωστήρ" lemmaFlag="ok"/>
+			<word wordref_id="1849575" id="4" texid="11524" row="29" wordNum="1" hand="m1" regularized="Καρανίτης" original="Καρανίτη(ς)" completeness="complete" tag="noun.sg.masc.nom" lemma="Καρανίτης" lemmaFlag="ok"/>
+			<word wordref_id="1849576" id="5" texid="11524" row="30" wordNum="1" hand="m1" regularized="ποτὲ" original="ποτὲ" completeness="complete" tag="adverb" lemma="ποτέ" lemmaFlag="wrong-accent:πότε"/>
+			<word wordref_id="1849577" id="6" texid="11524" row="30-31" wordNum="1" hand="m1" regularized="γεωργός" original="γεωρ-γός" completeness="complete" tag="noun.sg.masc.nom" lemma="γεωργός" lemmaFlag="ok"/>
+			<word wordref_id="1849578" id="7" texid="11524" row="31" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1849579" id="1" texid="11524" row="31" wordNum="2" hand="m1" regularized="Διονύσιος" original="Διον(ύσιος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Διονύσιος" lemmaFlag="ok"/>
+			<word wordref_id="1849580" id="2" texid="11524" row="31" wordNum="3" hand="m1" regularized="σεσημείωμαι" original="σεσ(ημείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="1849581" id="3" texid="11524" row="31" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

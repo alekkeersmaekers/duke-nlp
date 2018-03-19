@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="psi.8.988" TM="48897 48897" HGV="48897a 48897b" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3976817" id="1" texid="48897" row="10" wordNum="1" hand="m1" regularized="ἔτους" original="ἔτους" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3976818" id="2" texid="48897" row="10" wordNum="2" hand="m1" regularized="κβ|digit=22|" original="κβ|digit=22|" completeness="complete" tag="numeral.none.none.none" lemma="κβ" lemmaFlag="ok"/>
+			<word wordref_id="3976819" id="3" texid="48897" row="10" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3976820" id="4" texid="48897" row="11" wordNum="1" hand="m1" regularized="τέτακται" original="τέτακται" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τάσσω" lemmaFlag="ok"/>
+			<word wordref_id="3976821" id="5" texid="48897" row="11" wordNum="2" hand="m1" regularized="Πτ|gap=1||gap=unknown|" original="Πτ̣|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3976822" id="6" texid="48897" row="12" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="3976823" id="7" texid="48897" row="12" wordNum="2" hand="m1" regularized="οἱ" original="οἱ" completeness="complete" tag="article.pl.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3976824" id="8" texid="48897" row="12" wordNum="3" hand="m1" regularized="ἀδελφοὶ" original="ἀδελφοὶ" completeness="complete" tag="noun.pl.masc.nom" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="3976825" id="9" texid="48897" row="12" wordNum="4" hand="m1" regularized="τέλος" original="τέλος" completeness="complete" tag="noun.sg.neut.acc" lemma="τέλος" lemmaFlag="ok"/>
+			<word wordref_id="3976826" id="10" texid="48897" row="12" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3976827" id="11" texid="48897" row="13" wordNum="1" hand="m1" regularized="|gap=3|…" original="|gap=3|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3976828" id="12" texid="48897" row="13" wordNum="2" hand="m1" regularized="δώδεκα|num=12|" original="δώδεκα|num=12|" completeness="complete" tag="numeral.none.none.none" lemma="δώδεκα" lemmaFlag="ok"/>
+			<word wordref_id="3976829" id="13" texid="48897" row="13" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3976830" id="1" texid="48897" row="13" wordNum="4" hand="m1" regularized="Μην|gap=3|" original="Μην|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3976831" id="2" texid="48897" row="14" wordNum="1" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="3976832" id="3" texid="48897" row="14" wordNum="2" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok"/>
+			<word wordref_id="3976833" id="4" texid="48897" row="14" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.eleph.wagner.1.180" TM="29855" HGV="29855" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1435403" id="1" texid="29855" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1435404" id="2" texid="29855" row="3" wordNum="2" hand="m1" regularized="εἰς" original="[εἰ]ς" completeness="partly_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="1435405" id="3" texid="29855" row="3" wordNum="3" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1435406" id="4" texid="29855" row="3" wordNum="4" hand="m1" regularized="ἵερον" original="ἵερον" completeness="complete" tag="noun.sg.neut.acc" lemma="ἵερον" lemmaFlag="wrong-accent:ἱερόν"/>
+			<word wordref_id="1435407" id="5" texid="29855" row="3" wordNum="5" hand="m1" regularized="Ἄμμωνος" original="Ἄμ[μωνος]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἄμμων" lemmaFlag="ok"/>
+			<word wordref_id="1435408" id="6" texid="29855" row="3" wordNum="6" hand="m1" regularized="?|gap=unknown|" original="[?]|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

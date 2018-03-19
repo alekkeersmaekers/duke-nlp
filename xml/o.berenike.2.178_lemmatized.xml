@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.2.178" TM="89204" HGV="89204" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="531128" id="1" texid="89204" row="1" wordNum="1" hand="m1" regularized="Σαραπίων" original="Σαραπ(ίων)" completeness="complete" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="531129" id="2" texid="89204" row="1" wordNum="2" hand="m1" regularized="Κασίου" original="Κασίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Κάσιος" lemmaFlag="ok"/>
+			<word wordref_id="531130" id="3" texid="89204" row="1" wordNum="3" hand="m1" regularized="Πακοίβει" original="Πα[κοίβει]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Πακοῖβις" lemmaFlag="ok"/>
+			<word wordref_id="531131" id="4" texid="89204" row="1" wordNum="4" hand="m1" regularized="χαίρειν" original="[χ(αίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="531132" id="5" texid="89204" row="1" wordNum="5" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="531133" id="1" texid="89204" row="2" wordNum="1" hand="m1" regularized="διαπόστειλον" original="δι(απόστειλον)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="διαποστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="531134" id="2" texid="89204" row="2" wordNum="2" hand="m1" regularized="Ψενθφοῦς" original="Ψενθφοῦς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ψενθφοῦς" lemmaFlag="ok"/>
+			<word wordref_id="531135" id="3" texid="89204" row="2" wordNum="3" hand="m1" regularized="μαρσίππια" original="μ[αρσίπ(πια)]" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="μαρσίππιον" lemmaFlag="suspect"/>
+			<word wordref_id="531136" id="4" texid="89204" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531137" id="5" texid="89204" row="3" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531138" id="6" texid="89204" row="3" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σεση(μείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="531139" id="7" texid="89204" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="531140" id="1" texid="89204" row="4" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531141" id="2" texid="89204" row="4" wordNum="2" hand="m1" regularized="μηνὸς" original="μηνὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="μήν" lemmaFlag="ok"/>
+			<word wordref_id="531142" id="3" texid="89204" row="4" wordNum="3" hand="m1" regularized="Σεβαστοῦ" original="Σεβ[αστ(οῦ)]" completeness="partly_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="Σεβαστός" lemmaFlag="ok"/>
+			<word wordref_id="531143" id="4" texid="89204" row="4" wordNum="4" hand="m1" regularized="κδ|digit=24|?" original="[κδ|digit=24|?]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="κδ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.ifao.2.42" TM="26826" HGV="26826" lang="grc" textpart="FrB,r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1792024" id="1" texid="26826" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1792025" id="2" texid="26826" row="1" wordNum="2" hand="m1" regularized="τέκνον|gap=unknown|" original="[τέ]κνον|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1792026" id="3" texid="26826" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|ου" original="|gap=unknown|ου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1792027" id="4" texid="26826" row="2" wordNum="2" hand="m1" regularized="ἔξω" original="ἔξω" completeness="complete" tag="adverb" lemma="ἔξω" lemmaFlag="ok"/>
+			<word wordref_id="1792028" id="5" texid="26826" row="2" wordNum="3" hand="m1" regularized="παρὰ" original="παρ̣ὰ̣" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1792029" id="6" texid="26826" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1792030" id="7" texid="26826" row="3" wordNum="2" hand="m1" regularized="ἀσπάζει" original="[ἀσπ]άζει" completeness="partly_reconstructed" tag="verb.2.sg.pres.ind.mid" lemma="ἀσπάζομαι" lemmaFlag="ok"/>
+			<word wordref_id="1792031" id="8" texid="26826" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1792032" id="1" texid="26826" row="3" wordNum="4" hand="m1" regularized="τί" original="τί" completeness="complete" tag="interrogative.sg.neut.nom" lemma="τίς" lemmaFlag="wrong-accent:τις"/>
+			<word wordref_id="1792033" id="2" texid="26826" row="3" wordNum="5" hand="m1" regularized="οὖν" original="οὖν" completeness="complete" tag="conjunction" lemma="οὖν" lemmaFlag="ok"/>
+			<word wordref_id="1792034" id="3" texid="26826" row="3" wordNum="6" hand="m1" regularized="ἐστιν" original="ἐστιν" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="εἰμί" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

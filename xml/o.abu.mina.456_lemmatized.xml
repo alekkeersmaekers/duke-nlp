@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.abu.mina.456" TM="116648" HGV="116648" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="511248" id="1" texid="116648" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="511249" id="2" texid="116648" row="1" wordNum="2" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="511250" id="3" texid="116648" row="1" wordNum="3" hand="m1" regularized="Γεωργίου" original="Γιοργίου*" completeness="complete" tag="noun.sg.masc.gen" lemma="Γεώργιος" lemmaFlag="ok"/>
+			<word wordref_id="511251" id="4" texid="116648" row="1-2" wordNum="1" hand="m1" regularized="πριμικηρίου" original="πριμικι-*" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="πριμικήριος" lemmaFlag="suspect"/>
+			<word wordref_id="511252" id="5" texid="116648" row="2" wordNum="1" hand="m1" regularized="|extra|" original="ρίου*" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="511253" id="6" texid="116648" row="2" wordNum="2" hand="m1" regularized="ὀνικαὶ" original="ὀν(ικαὶ)" completeness="complete" tag="adjective.pl.fem.nom.pos" lemma="ὀνικός" lemmaFlag="ok"/>
+			<word wordref_id="511254" id="7" texid="116648" row="2" wordNum="3" hand="m1" regularized="φοραὶ" original="φ(οραὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="φορά" lemmaFlag="ok"/>
+			<word wordref_id="511255" id="8" texid="116648" row="2" wordNum="4" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

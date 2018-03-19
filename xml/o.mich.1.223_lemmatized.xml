@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.223" TM="41987" HGV="41987" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="726615" id="1" texid="41987" row="1" wordNum="1" hand="m1" regularized="παρήνεγκεν" original="παρήνεγκεν" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="παραφέρω" lemmaFlag="ok"/>
+			<word wordref_id="726616" id="2" texid="41987" row="2" wordNum="1" hand="m1" regularized="Παλήμων" original="Παλήμων" completeness="complete" tag="noun.sg.masc.nom" lemma="Παλήμων" lemmaFlag="ok"/>
+			<word wordref_id="726617" id="3" texid="41987" row="2" wordNum="2" hand="m1" regularized="Ἀειῶνος" original="Ἀειῶν(ος)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀειών" lemmaFlag="ok"/>
+			<word wordref_id="726618" id="4" texid="41987" row="3" wordNum="1" hand="m1" regularized="σαργάνας" original="σαργάνας" completeness="complete" tag="noun.pl.fem.acc" lemma="σαργάνη" lemmaFlag="ok"/>
+			<word wordref_id="726619" id="5" texid="41987" row="3" wordNum="2" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="726620" id="6" texid="41987" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="726621" id="1" texid="41987" row="4" wordNum="1" hand="m1" regularized="Παῦνει" original="Παῦνει" completeness="complete" tag="noun.sg.masc.dat" lemma="Παῦνης" lemmaFlag="ok"/>
+			<word wordref_id="726622" id="2" texid="41987" row="4" wordNum="2" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="726623" id="3" texid="41987" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="726624" id="1" texid="41987" row="5" wordNum="1" hand="m1" regularized="Πέτρος" original="Πέτρος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πέτρος" lemmaFlag="ok"/>
+			<word wordref_id="726625" id="2" texid="41987" row="5" wordNum="2" hand="m1" regularized="σεσημεί" original="σεσημί(ωμαι)*" completeness="complete" tag="adverb" lemma="σεσημεί" lemmaFlag="suspect"/>
+			<word wordref_id="726626" id="3" texid="41987" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

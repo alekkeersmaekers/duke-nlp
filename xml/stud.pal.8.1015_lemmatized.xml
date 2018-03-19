@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="stud.pal.8.1015" TM="35666" HGV="35666" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4639327" id="1" texid="35666" row="1" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4639328" id="2" texid="35666" row="1" wordNum="2" hand="m1" regularized="διοικητής" original="διοικ(ητής)" completeness="complete" tag="noun.sg.masc.nom" lemma="διοικητής" lemmaFlag="ok"/>
+			<word wordref_id="4639329" id="3" texid="35666" row="1" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4639330" id="1" texid="35666" row="1" wordNum="4" hand="m1" regularized="παράσχου" original="παράσχ[ου]" completeness="partly_reconstructed" tag="verb.2.sg.aor.ind.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="4639331" id="2" texid="35666" row="1" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4639332" id="3" texid="35666" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|εου" original="|gap=unknown|εο\υ/" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4639333" id="4" texid="35666" row="2" wordNum="2" hand="m1" regularized="κτισθέντος" original="κτισθέντος" completeness="complete" tag="participle.sg.aor.pass.masc.gen" lemma="κτίζω" lemmaFlag="ok"/>
+			<word wordref_id="4639334" id="5" texid="35666" row="3" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

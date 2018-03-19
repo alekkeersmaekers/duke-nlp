@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="cpr.7.58" TM="32544" HGV="32544" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="489080" id="1" texid="32544" row="1" wordNum="1" hand="m1" regularized="Κύριλλος" original="Κύριλλος" completeness="complete" tag="noun.sg.masc.nom" lemma="Κύριλλος" lemmaFlag="ok"/>
+			<word wordref_id="489081" id="2" texid="32544" row="2" wordNum="1" hand="m1" regularized="ἄπα" original="ἄ̣πα" completeness="complete" tag="noun.sg.none.none" lemma="ἄπα" lemmaFlag="suspect"/>
+			<word wordref_id="489082" id="3" texid="32544" row="2" wordNum="2" hand="m1" regularized="Θιοσεῖ" original="Θιοσ̣εῖ" completeness="complete" tag="noun.sg.masc.dat" lemma="Θιοσεῖς" lemmaFlag="ok"/>
+			<word wordref_id="489083" id="4" texid="32544" row="3" wordNum="1" hand="m1" regularized="Ἰωάννῃ" original="Ἰ̣ω̣άννῃ" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἰωάννης" lemmaFlag="ok"/>
+			<word wordref_id="489084" id="5" texid="32544" row="3" wordNum="2" hand="m1" regularized="ἀδελφῷ" original="ἀδελφῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="489085" id="6" texid="32544" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="489086" id="1" texid="32544" row="4" wordNum="1" hand="m1" regularized="οἴδατε" original="οἴδατε" completeness="complete" tag="verb.2.pl.pf.ind.act" lemma="οἶδα" lemmaFlag="ok"/>
+			<word wordref_id="489087" id="2" texid="32544" row="4" wordNum="2" hand="m1" regularized="τὰς" original="τὰς" completeness="complete" tag="article.pl.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="489088" id="3" texid="32544" row="4-5" wordNum="1" hand="m1" regularized="ἐντολὰς" original="ἐντο-λὰς" completeness="complete" tag="noun.pl.fem.acc" lemma="ἐντολή" lemmaFlag="ok"/>
+			<word wordref_id="489089" id="4" texid="32544" row="5" wordNum="1" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="489090" id="5" texid="32544" row="5" wordNum="2" hand="m1" regularized="ἅσπερ" original="ἅσπερ" completeness="complete" tag="relative.pl.fem.acc" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="489091" id="6" texid="32544" row="5-6" wordNum="1" hand="m1" regularized="ἐδεξάμην" original="ἐδεξά-μ̣η̣ν̣" completeness="complete" tag="verb.1.sg.aor.ind.mid" lemma="δέχομαι" lemmaFlag="ok"/>
+			<word wordref_id="489092" id="7" texid="32544" row="6" wordNum="1" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="489093" id="8" texid="32544" row="6-7" wordNum="1" hand="m1" regularized="ἐμβολῆς" original="ἐμβο-λῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="ἐμβολή" lemmaFlag="ok"/>
+			<word wordref_id="489094" id="9" texid="32544" row="7" wordNum="1" hand="m1" regularized="χάριν" original="χάριν" completeness="complete" tag="noun.sg.fem.acc" lemma="χάρις" lemmaFlag="ok"/>
+			<word wordref_id="489095" id="10" texid="32544" row="7" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="489096" id="1" texid="32544" row="7" wordNum="3" hand="m1" regularized="ὅθεν" original="ὅθεν" completeness="complete" tag="adverb" lemma="ὅθεν" lemmaFlag="ok"/>
+			<word wordref_id="489097" id="2" texid="32544" row="8" wordNum="1" hand="m1" regularized="σπουδάσατε" original="σπουδάσατε" completeness="complete" tag="verb.2.pl.aor.imp.act" lemma="σπουδάζω" lemmaFlag="ok"/>
+			<word wordref_id="489098" id="3" texid="32544" row="9" wordNum="1" hand="m1" regularized="κατὰ" original="κατὰ" completeness="complete" tag="preposition" lemma="κατά" lemmaFlag="ok"/>
+			<word wordref_id="489099" id="4" texid="32544" row="9" wordNum="2" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="489100" id="5" texid="32544" row="9-10" wordNum="1" hand="m1" regularized="προ|gap=unknown_lines|" original="προ-|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

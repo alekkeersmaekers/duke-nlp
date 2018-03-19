@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.mus.450" TM="169784" HGV="169784" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="767647" id="1" texid="169784" row="1" wordNum="1" hand="m1" regularized="Ταία" original="Ταία" completeness="complete" tag="noun.sg.fem.voc" lemma="Ταιης" lemmaFlag="ok"/>
+			<word wordref_id="767648" id="2" texid="169784" row="1" wordNum="2" hand="m1" regularized="σμτα" original="σμτα̣" completeness="complete" tag="noun.sg.masc.voc" lemma="σμτα" lemmaFlag="suspect"/>
+			<word wordref_id="767649" id="3" texid="169784" row="2" wordNum="1" hand="m1" regularized="πονχεοσσμα|gap=1|" original="πον̣χε̣οσσμα|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="767650" id="4" texid="169784" row="3" wordNum="1" hand="m1" regularized="ιατης" original="ι̣ατης" completeness="complete" tag="noun.sg.masc.nom" lemma="ιατης" lemmaFlag="wrong-accent:ἰατής"/>
+			<word wordref_id="767651" id="5" texid="169784" row="3" wordNum="2" hand="m1" regularized="λίτρας" original="λί(τρας)" completeness="complete" tag="noun.pl.fem.acc" lemma="λίτρα" lemmaFlag="ok"/>
+			<word wordref_id="767652" id="6" texid="169784" row="3" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="767653" id="7" texid="169784" row="3" wordNum="4" hand="m1" regularized="κύκλια" original="κύ̣(κλια)" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="κύκλιος" lemmaFlag="ok"/>
+			<word wordref_id="767654" id="8" texid="169784" row="4" wordNum="1" hand="m1" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+			<word wordref_id="767655" id="9" texid="169784" row="4" wordNum="2" hand="m1" regularized="διπλᾶ" original="διπλᾶ" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="διπλοῦς" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

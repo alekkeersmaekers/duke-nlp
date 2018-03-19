@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.18.772" TM="8766" HGV="8766" lang="grc" textpart="1">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2271239" id="1" texid="8766" row="1" wordNum="1" hand="m1" regularized="Πτολεμαῖος" original="Πτολεμαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="2271240" id="2" texid="8766" row="2" wordNum="1" hand="m1" regularized="Μένχητι" original="[Μέ]νχητι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Μενχης" lemmaFlag="ok"/>
+			<word wordref_id="2271241" id="3" texid="8766" row="2" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2271242" id="4" texid="8766" row="3" wordNum="1" hand="m1" regularized="Ἁρεντώτηι" original="[Ἁρε]ντώτηι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἁρεντωτης" lemmaFlag="ok"/>
+			<word wordref_id="2271243" id="5" texid="8766" row="4" wordNum="1" hand="m1" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2271244" id="6" texid="8766" row="4" wordNum="2" hand="m1" regularized="Μένχητι" original="Μένχητι" completeness="complete" tag="noun.sg.masc.dat" lemma="Μενχης" lemmaFlag="ok"/>
+			<word wordref_id="2271245" id="7" texid="8766" row="5" wordNum="1" hand="m1" regularized="νεωτέρωι" original="[νεω]τέρωι" completeness="partly_reconstructed" tag="adjective.sg.masc.dat.pos" lemma="νέος" lemmaFlag="ok"/>
+			<word wordref_id="2271246" id="8" texid="8766" row="5-6" wordNum="1" hand="m1" regularized="χαίρειν" original="χ-[αίρειν]" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="2271247" id="9" texid="8766" row="6" wordNum="1" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2271248" id="1" texid="8766" row="6-7" wordNum="1" hand="m1" regularized="ἀπέχω" original="[ἀ]πέχ-[ω]" completeness="fully_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+			<word wordref_id="2271249" id="2" texid="8766" row="7" wordNum="1" hand="m1" regularized="παρὰ" original="[παρὰ]" completeness="fully_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="2271250" id="3" texid="8766" row="7" wordNum="2" hand="m1" regularized="ὑμῶν" original="[ὑμ]ῶ̣ν" completeness="partly_reconstructed" tag="personal.pl.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="2271251" id="4" texid="8766" row="7" wordNum="3" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

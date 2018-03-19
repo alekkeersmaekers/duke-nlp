@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="chr.wilck.50" TM="554" HGV="554" lang="grc" textpart="r,Fr1">
+	<text>
+		<sentence id="1">
+			<word wordref_id="395533" id="1" texid="554" row="1" wordNum="1" hand="m1" regularized="μετὰ" original="μετὰ" completeness="complete" tag="preposition" lemma="μετά" lemmaFlag="ok"/>
+			<word wordref_id="395534" id="2" texid="554" row="1" wordNum="2" hand="m1" regularized="δὸ" original="δὸ" completeness="complete" tag="demonstrative.sg.neut.acc" lemma="δός" lemmaFlag="ok"/>
+			<word wordref_id="395535" id="3" texid="554" row="1" wordNum="3" hand="m1" regularized="δέξαι" original="δ̣έ̣ξ̣α̣ι̣" completeness="complete" tag="verb.2.sg.aor.imp.mid" lemma="δέχομαι" lemmaFlag="ok"/>
+			<word wordref_id="395536" id="4" texid="554" row="2" wordNum="1" hand="m1" regularized="Πτολεμαῖος" original="Πτολεμαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="395537" id="5" texid="554" row="2" wordNum="2" hand="m1" regularized="Ἀχιλλεῖ" original="Ἀχιλλεῖ" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἀχιλλεύς" lemmaFlag="ok"/>
+			<word wordref_id="395538" id="6" texid="554" row="2" wordNum="3" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="395539" id="7" texid="554" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="395540" id="1" texid="554" row="3" wordNum="1" hand="m1" regularized="μετὰ" original="μετὰ" completeness="complete" tag="preposition" lemma="μετά" lemmaFlag="ok"/>
+			<word wordref_id="395541" id="2" texid="554" row="3" wordNum="2" hand="m1" regularized="τό" original="τό" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="395542" id="3" texid="554" row="3" wordNum="3" hand="m1" regularized="γράψαι" original="γράψαι" completeness="complete" tag="infinitive.aor.act" lemma="γράφω" lemmaFlag="ok"/>
+			<word wordref_id="395543" id="4" texid="554" row="3" wordNum="4" hand="m1" regularized="σοι" original="σ̣ο̣ι̣" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

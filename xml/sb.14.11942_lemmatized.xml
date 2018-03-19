@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.14.11942" TM="4274" HGV="4274" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4133986" id="1" texid="4274" row="1" wordNum="1" hand="m1" regularized="|extra|" original="⟦μ⟧" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4133987" id="2" texid="4274" row="1" wordNum="2" hand="m1" regularized="Πευκέστου" original="Πευκέστου" completeness="complete" tag="noun.sg.masc.gen" lemma="Πευκέστης" lemmaFlag="ok"/>
+			<word wordref_id="4133988" id="3" texid="4274" row="1" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4133989" id="1" texid="4274" row="2" wordNum="1" hand="m1" regularized="μὴ" original="μὴ" completeness="complete" tag="adverb" lemma="μή" lemmaFlag="ok"/>
+			<word wordref_id="4133990" id="2" texid="4274" row="2" wordNum="2" hand="m1" regularized="παραπορεύεσθαι" original="παραπορεύεσθαι" completeness="complete" tag="infinitive.pres.mid" lemma="παραπορεύομαι" lemmaFlag="ok"/>
+			<word wordref_id="4133991" id="3" texid="4274" row="2-3" wordNum="1" hand="m1" regularized="μηδένα" original="μη-δένα" completeness="complete" tag="indefinite.sg.masc.acc" lemma="μηδείς" lemmaFlag="ok"/>
+			<word wordref_id="4133992" id="4" texid="4274" row="3" wordNum="1" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4133993" id="1" texid="4274" row="3" wordNum="2" hand="m1" regularized="ἱερέως" original="ἱερείως*" completeness="complete" tag="noun.sg.masc.gen" lemma="ἱερεύς" lemmaFlag="ok"/>
+			<word wordref_id="4133994" id="2" texid="4274" row="3" wordNum="3" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4133995" id="3" texid="4274" row="3" wordNum="4" hand="m1" regularized="οἴκημα" original="οἴκημα" completeness="complete" tag="noun.sg.neut.acc" lemma="οἴκημα" lemmaFlag="ok"/>
+			<word wordref_id="4133996" id="4" texid="4274" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

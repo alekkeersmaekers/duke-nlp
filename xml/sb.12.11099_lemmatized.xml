@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.12.11099" TM="99256" HGV="99256" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4095624" id="1" texid="99256" row="1" wordNum="1" hand="m1" regularized="στήλη" original="στήλη" completeness="complete" tag="noun.sg.fem.nom" lemma="στήλη" lemmaFlag="ok"/>
+			<word wordref_id="4095625" id="2" texid="99256" row="2" wordNum="1" hand="m1" regularized="Ἰσιδώρας" original="Ἰσιδώρας" completeness="complete" tag="noun.sg.fem.gen" lemma="Ἰσιδώρα" lemmaFlag="ok"/>
+			<word wordref_id="4095626" id="3" texid="99256" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4095627" id="1" texid="99256" row="3" wordNum="1" hand="m1" regularized="μὴ" original="μὴ" completeness="complete" tag="adverb" lemma="μή" lemmaFlag="ok"/>
+			<word wordref_id="4095628" id="2" texid="99256" row="3" wordNum="2" hand="m1" regularized="λυποῦ" original="λυποῦ" completeness="complete" tag="verb.2.sg.pres.imp.mid" lemma="λυπέω" lemmaFlag="ok"/>
+			<word wordref_id="4095629" id="3" texid="99256" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4095630" id="1" texid="99256" row="4" wordNum="1" hand="m1" regularized="οὐδεὶς" original="οὐδεὶς" completeness="complete" tag="indefinite.sg.masc.nom" lemma="οὐδείς" lemmaFlag="ok"/>
+			<word wordref_id="4095631" id="2" texid="99256" row="4-5" wordNum="1" hand="m1" regularized="ἀθάνατος" original="ἀθά-νατος" completeness="complete" tag="adjective.sg.masc.nom.pos" lemma="ἀθάνατος" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

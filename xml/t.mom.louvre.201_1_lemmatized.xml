@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="t.mom.louvre.201" TM="41823" HGV="41823" lang="grc" textpart="A">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4656488" id="1" texid="41823" row="1" wordNum="1" hand="m1" regularized="Ψενοσίριος" original="Ψενοσίριος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ψενοσίριος" lemmaFlag="ok"/>
+			<word wordref_id="4656489" id="2" texid="41823" row="1-2" wordNum="1" hand="m1" regularized="ἀπὸ" original="[ἀ]-πὸ" completeness="partly_reconstructed" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="4656490" id="3" texid="41823" row="2" wordNum="1" hand="m1" regularized="Τάνεως" original="Τάνε[ως]" completeness="partly_reconstructed" tag="noun.sg.none.gen" lemma="Τάνις" lemmaFlag="ok"/>
+			<word wordref_id="4656491" id="4" texid="41823" row="3" wordNum="1" hand="m1" regularized="ἐβίωσεν" original="ἐβίωσεν" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="βιόω" lemmaFlag="ok"/>
+			<word wordref_id="4656492" id="5" texid="41823" row="4" wordNum="1" hand="m1" regularized="ἐτῶν" original="ἐτῶν" completeness="complete" tag="noun.pl.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4656493" id="6" texid="41823" row="4" wordNum="2" hand="m1" regularized="λβ|digit=32|" original="λβ|digit=32|" completeness="complete" tag="numeral.none.none.none" lemma="λβ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.bodl.1.225" TM="50371" HGV="50371" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="538256" id="1" texid="50371" row="3" wordNum="1" hand="m1" regularized="|gap=3_lines|" original="|gap=3_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="538257" id="2" texid="50371" row="4" wordNum="1" hand="m1" regularized="Ἑρμοκλῆς" original="Ἑρμοκλῆς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἑρμοκλῆς" lemmaFlag="ok"/>
+			<word wordref_id="538258" id="3" texid="50371" row="4" wordNum="2" hand="m1" regularized="εἰσμεμέτρημαι" original="εἰσμε(μέτρημαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="εἰσμετρέω" lemmaFlag="ok"/>
+			<word wordref_id="538259" id="4" texid="50371" row="4" wordNum="3" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="538260" id="5" texid="50371" row="4" wordNum="4" hand="m1" regularized="καθότι" original="κ̣α̣θ̣ό̣τ̣ι̣" completeness="complete" tag="adverb" lemma="καθότι" lemmaFlag="ok"/>
+			<word wordref_id="538261" id="6" texid="50371" row="5" wordNum="1" hand="m1" regularized="προγέγραπται" original="π̣ρ̣ο̣γ̣έγρ(απται)" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="προγράφω" lemmaFlag="ok"/>
+			<word wordref_id="538262" id="7" texid="50371" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="538263" id="1" texid="50371" row="5" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="538264" id="2" texid="50371" row="5" wordNum="4" hand="m1" regularized="κγ|digit=23|" original="κγ|digit=23|" completeness="complete" tag="numeral.none.none.none" lemma="κγ" lemmaFlag="ok"/>
+			<word wordref_id="538265" id="3" texid="50371" row="5" wordNum="5" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="538266" id="4" texid="50371" row="5" wordNum="6" hand="m1" regularized="κα|digit=21|" original="κα̣|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="538267" id="5" texid="50371" row="6" wordNum="1" hand="m1" regularized="|gap=2_lines|" original="|gap=2_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

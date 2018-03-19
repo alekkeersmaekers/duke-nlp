@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.tebt.2.437" TM="28430" HGV="28430" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3619324" id="1" texid="28430" row="1" wordNum="1" hand="m1" regularized="|gap=19_lines|" original="|gap=19_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3619325" id="2" texid="28430" row="00" wordNum="1" hand="m1" regularized="γινώσκειν" original="γεινώσκ[ειν]*" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="γιγνώσκω" lemmaFlag="ok"/>
+			<word wordref_id="3619326" id="3" texid="28430" row="00" wordNum="2" hand="m1" regularized="σε" original="[σε]" completeness="fully_reconstructed" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="3619327" id="4" texid="28430" row="00" wordNum="3" hand="m1" regularized="θέλω" original="[θέλ]ω" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="θέλω" lemmaFlag="ok"/>
+			<word wordref_id="3619328" id="5" texid="28430" row="00" wordNum="4" hand="m1" regularized="ὅτι" original="ὅτι" completeness="complete" tag="conjunction" lemma="ὅτι" lemmaFlag="ok"/>
+			<word wordref_id="3619329" id="6" texid="28430" row="00" wordNum="5" hand="m1" regularized="κατὰ" original="κατὰ" completeness="complete" tag="preposition" lemma="κατά" lemmaFlag="ok"/>
+			<word wordref_id="3619330" id="7" texid="28430" row="00" wordNum="6" hand="m1" regularized="πλοῦν" original="πλοῦν" completeness="complete" tag="noun.sg.masc.acc" lemma="πλόος" lemmaFlag="ok"/>
+			<word wordref_id="3619331" id="8" texid="28430" row="00" wordNum="7" hand="m1" regularized="ἐκινδύνευσα" original="ἐκινδύνευσα" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="κινδυνεύω" lemmaFlag="ok"/>
+			<word wordref_id="3619332" id="9" texid="28430" row="00" wordNum="8" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3619333" id="1" texid="28430" row="00" wordNum="9" hand="m1" regularized="Κουπᾳ" original="Κουπᾳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Κούπας" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.86" TM="29615" HGV="29615" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="745940" id="1" texid="29615" row="1" wordNum="1" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="745941" id="2" texid="29615" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="745942" id="1" texid="29615" row="2-3" wordNum="1" hand="m1" regularized="ἱερογλυφικαῖς" original="ἱερωγ-λυφικαῖς*" completeness="complete" tag="adjective.pl.fem.dat.pos" lemma="ἱερογλυφικός" lemmaFlag="ok"/>
+			<word wordref_id="745943" id="2" texid="29615" row="4" wordNum="1" hand="m1" regularized="μβ|digit=42|" original="μβ|digit=42|" completeness="complete" tag="numeral.none.none.none" lemma="μβ" lemmaFlag="ok"/>
+			<word wordref_id="745944" id="3" texid="29615" row="4" wordNum="2" hand="m1" regularized="|gap=1|ελ|gap=1|υ|gap=1|" original="|gap=1|ε̣λ̣|gap=1|υ̣|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="745945" id="4" texid="29615" row="4-5" wordNum="1" hand="m1" regularized="τικὰ" original="τ-ικὰ" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="τικός" lemmaFlag="suspect"/>
+			<word wordref_id="745946" id="5" texid="29615" row="5" wordNum="1" hand="m1" regularized="γράμματα" original="γράμματα" completeness="complete" tag="noun.pl.neut.acc" lemma="γράμμα" lemmaFlag="ok"/>
+			<word wordref_id="745947" id="6" texid="29615" row="6" wordNum="1" hand="m1" regularized="νδ|digit=54|" original="νδ|digit=54|" completeness="complete" tag="numeral.none.none.none" lemma="νδ" lemmaFlag="ok"/>
+			<word wordref_id="745948" id="7" texid="29615" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="745949" id="1" texid="29615" row="6" wordNum="3" hand="m1" regularized="πυροῦ" original="ποιροῦ*" completeness="complete" tag="noun.sg.masc.gen" lemma="πυρός" lemmaFlag="ok"/>
+			<word wordref_id="745950" id="2" texid="29615" row="6-7" wordNum="1" hand="m1" regularized="ἀρτάβας" original="ἀρτ-άβας" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="745951" id="3" texid="29615" row="7" wordNum="1" hand="m1" regularized="μβ|digit=42|" original="μβ|digit=42|" completeness="complete" tag="numeral.none.none.none" lemma="μβ" lemmaFlag="ok"/>
+			<word wordref_id="745952" id="4" texid="29615" row="7" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

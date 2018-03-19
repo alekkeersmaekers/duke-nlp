@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.3.249" TM="34605" HGV="34605" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="658706" id="1" texid="34605" row="1" wordNum="1" hand="m1" regularized="ἔσχον" original="ἔσχον" completeness="complete" tag="verb.3.pl.aor.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="658707" id="2" texid="34605" row="1" wordNum="2" hand="m1" regularized="διὰ" original="δ(ιὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="658708" id="3" texid="34605" row="1-2" wordNum="1" hand="m1" regularized="Λικιννίου" original="Λικίνι-ος*" completeness="complete" tag="noun.sg.masc.gen" lemma="Λικίννιος" lemmaFlag="ok"/>
+			<word wordref_id="658709" id="4" texid="34605" row="2" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑ(πὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="658710" id="5" texid="34605" row="2" wordNum="2" hand="m1" regularized="Ἡρακλάμμωνος" original="Ἡρακλαμμων*" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἡρακλάμμων" lemmaFlag="ok"/>
+			<word wordref_id="658711" id="6" texid="34605" row="3" wordNum="1" hand="m1" regularized="Σωτηρίχου" original="Σωτηρίχ(ου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Σωτήριχος" lemmaFlag="ok"/>
+			<word wordref_id="658712" id="7" texid="34605" row="3" wordNum="2" hand="m1" regularized="ἀχύρου" original="ἀχύρ(ου)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἄχυρον" lemmaFlag="ok"/>
+			<word wordref_id="658713" id="8" texid="34605" row="3-4" wordNum="1" hand="m1" regularized="κάπιτα" original="κά-πιτα" completeness="complete" tag="noun.pl.neut.acc" lemma="κάπιτον" lemmaFlag="suspect"/>
+			<word wordref_id="658714" id="9" texid="34605" row="4" wordNum="1" hand="m1" regularized="πέντε|num=5|" original="πέντε|num=5|" completeness="complete" tag="numeral.none.none.none" lemma="πέντε" lemmaFlag="ok"/>
+			<word wordref_id="658715" id="10" texid="34605" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="658716" id="1" texid="34605" row="4" wordNum="3" hand="m1" regularized="σεσημείωμαι" original="σεσημ(είωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="658717" id="2" texid="34605" row="5" wordNum="1" hand="m1" regularized="ἐγὼ" original="ἐγὼ" completeness="complete" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="658718" id="3" texid="34605" row="5" wordNum="2" hand="m1" regularized="Ἀπόλλων" original="Ἀπόλλων̣" completeness="complete" tag="noun.sg.masc.voc" lemma="Ἀπόλλων" lemmaFlag="ok"/>
+			<word wordref_id="658719" id="4" texid="34605" row="5" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="658720" id="5" texid="34605" row="6" wordNum="1" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok"/>
+			<word wordref_id="658721" id="6" texid="34605" row="6" wordNum="2" hand="m1" regularized="ἰνδικτίωνος" original="ἰνδικ(τίωνος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.oasis.Sarm16" TM="23825" HGV="23825" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="747474" id="1" texid="23825" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|ν|gap=1||gap=unknown|" original="|gap=unknown|ν|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="747475" id="2" texid="23825" row="2" wordNum="1" hand="m1" regularized="δέκα" original="δέκα" completeness="complete" tag="numeral.none.none.none" lemma="δέκα" lemmaFlag="ok"/>
+			<word wordref_id="747476" id="3" texid="23825" row="2" wordNum="2" hand="m1" regularized="πέντε|num=15|" original="πέν[τε|num=15|]" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="πέντε" lemmaFlag="ok"/>
+			<word wordref_id="747477" id="4" texid="23825" row="2" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="747478" id="5" texid="23825" row="3" wordNum="1" hand="m1" regularized="διὰ" original="δι(ὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="747479" id="6" texid="23825" row="3" wordNum="2" hand="m1" regularized="Φηλήας" original="Φηλήα[ς]" completeness="partly_reconstructed" tag="noun.pl.masc.acc" lemma="Φηλήας" lemmaFlag="ok"/>
+			<word wordref_id="747480" id="7" texid="23825" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="747481" id="8" texid="23825" row="4" wordNum="1" hand="m1" regularized="γεωργός" original="γεωρ(γός)" completeness="complete" tag="noun.sg.masc.nom" lemma="γεωργός" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.3.242" TM="34598" HGV="34598" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="658573" id="1" texid="34598" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="658574" id="2" texid="34598" row="1" wordNum="2" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="658575" id="3" texid="34598" row="2" wordNum="1" hand="m1" regularized="ἑξήκοντα|num=60|" original="ἑξήκοντα|num=60|" completeness="complete" tag="numeral.none.none.none" lemma="ἑξήκοντα" lemmaFlag="ok"/>
+			<word wordref_id="658576" id="4" texid="34598" row="2" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="658577" id="5" texid="34598" row="3" wordNum="1" hand="m1" regularized="μόνους" original="μόνους" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="658578" id="6" texid="34598" row="4" wordNum="1" hand="m1" regularized="Φλαούιος" original="Φλ(αούιος)" completeness="complete" tag="noun.sg.masc.nom" lemma="φλαϝιυς" lemmaFlag="suspect"/>
+			<word wordref_id="658579" id="7" texid="34598" row="4" wordNum="2" hand="m1" regularized="Βίκτωρ" original="Βίκτω[ρ]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Βίκτωρ" lemmaFlag="ok"/>
+			<word wordref_id="658580" id="8" texid="34598" row="4" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="658581" id="9" texid="34598" row="6" wordNum="1" hand="m1" regularized="σεσημείωμαι" original="σεσημ&lt;ε&gt;ίω[μαι]" completeness="partly_reconstructed" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

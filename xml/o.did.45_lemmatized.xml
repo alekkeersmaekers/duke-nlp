@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.did.45" TM="144611" HGV="144611" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="652884" id="1" texid="144611" row="1" wordNum="1" hand="m1" regularized="Εὐκύλισθρος" original="[Εὐ]κύλισθρος" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Εὐκύλισθρος" lemmaFlag="ok"/>
+			<word wordref_id="652885" id="2" texid="144611" row="2" wordNum="1" hand="m1" regularized="μονομάχος" original="[μον]ο̣μάχος" completeness="partly_reconstructed" tag="adjective.sg.masc.nom.pos" lemma="μονομάχος" lemmaFlag="wrong-accent:μονόμαχος"/>
+			<word wordref_id="652886" id="3" texid="144611" row="2-3" wordNum="1" hand="m1" regularized="Σαραπίωνι" original="Σα-[ραπί]ωνι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="652887" id="4" texid="144611" row="3" wordNum="1" hand="m1" regularized="τεσσεραρίῳ" original="θεσσε[ραρίῳ]*" completeness="partly_reconstructed" tag="adjective.sg.masc.dat.pos" lemma="τεσσεράριος" lemmaFlag="suspect"/>
+			<word wordref_id="652888" id="5" texid="144611" row="4" wordNum="1" hand="m1" regularized="πλεῖστα" original="[πλ]εῖστα" completeness="partly_reconstructed" tag="adjective.pl.neut.acc.pos" lemma="πλεῖστος" lemmaFlag="ok"/>
+			<word wordref_id="652889" id="6" texid="144611" row="4" wordNum="2" hand="m1" regularized="χαίρειν" original="χα[ίρειν]" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="652890" id="7" texid="144611" row="4" wordNum="3" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="652891" id="1" texid="144611" row="5" wordNum="1" hand="m1" regularized="γινώσκειν" original="[γινώσ]κειν" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="γιγνώσκω" lemmaFlag="ok"/>
+			<word wordref_id="652892" id="2" texid="144611" row="5" wordNum="2" hand="m1" regularized="σε" original="σε" completeness="complete" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="652893" id="3" texid="144611" row="5" wordNum="3" hand="m1" regularized="θέλω" original="θ[έλω]" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="θέλω" lemmaFlag="ok"/>
+			<word wordref_id="652894" id="4" texid="144611" row="5" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652895" id="5" texid="144611" row="6" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652896" id="6" texid="144611" row="6" wordNum="2" hand="m1" regularized="κομψῶς" original="κ̣ονψῶς̣*" completeness="complete" tag="adverb" lemma="κομψός" lemmaFlag="ok"/>
+			<word wordref_id="652897" id="7" texid="144611" row="6" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652898" id="8" texid="144611" row="7" wordNum="1" hand="m1" regularized="|gap=unknown|οκαιτ|gap=1||gap=unknown|" original="|gap=unknown|οκαιτ|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652899" id="9" texid="144611" row="8" wordNum="1" hand="m1" regularized="|gap=unknown|ενομ|gap=unknown|" original="|gap=unknown|ενομ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652900" id="10" texid="144611" row="9" wordNum="1" hand="m1" regularized="|gap=unknown|υκ|gap=unknown|" original="|gap=unknown|υκ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="652901" id="11" texid="144611" row="9" wordNum="2" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

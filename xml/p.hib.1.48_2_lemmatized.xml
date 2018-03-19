@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hib.1.48" TM="8199" HGV="8199" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1753717" id="1" texid="8199" row="17" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1753718" id="2" texid="8199" row="17" wordNum="2" hand="m1" regularized="ὡσαύτως" original="ὡσα̣ύ̣τ̣ω̣ς" completeness="complete" tag="adverb" lemma="ὡσαύτως" lemmaFlag="ok"/>
+			<word wordref_id="1753719" id="3" texid="8199" row="17-18" wordNum="1" hand="m1" regularized="μετρη|gap=4_lines|" original="μετρη-|gap=4_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1753720" id="4" texid="8199" row="22" wordNum="1" hand="m1" regularized="ἔρρωσο?" original="ἔ̣ρ̣ρ̣ω̣σ[ο̣?]" completeness="partly_reconstructed" tag="verb.2.sg.plupf.ind.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="1753721" id="5" texid="8199" row="22" wordNum="2" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1753722" id="1" texid="8199" row="22" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1753723" id="2" texid="8199" row="22" wordNum="4" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="1753724" id="3" texid="8199" row="22" wordNum="5" hand="m1" regularized="Μεσορὴ" original="Μεσορ(ὴ)" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="1753725" id="4" texid="8199" row="22" wordNum="6" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="1753726" id="5" texid="8199" row="22" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.theb.taxes.2.28" TM="50799" HGV="50799" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="810234" id="1" texid="50799" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="810235" id="2" texid="50799" row="1" wordNum="2" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="810236" id="3" texid="50799" row="1" wordNum="3" hand="m1" regularized="Μεσορεὶ" original="Μεσορεὶ" completeness="complete" tag="noun.none.none.none" lemma="Μεσορεί" lemmaFlag="ok"/>
+			<word wordref_id="810237" id="4" texid="50799" row="1" wordNum="4" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="810238" id="5" texid="50799" row="2" wordNum="1" hand="m1" regularized="πέπτωκεν" original="πέπτωκεν" completeness="complete" tag="verb.3.sg.pf.ind.act" lemma="πίπτω" lemmaFlag="ok"/>
+			<word wordref_id="810239" id="6" texid="50799" row="2-3" wordNum="1" hand="m1" regularized="ἁλικῆς" original="ἁ-λικῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="ἁλική" lemmaFlag="suspect"/>
+			<word wordref_id="810240" id="7" texid="50799" row="3" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="810241" id="8" texid="50799" row="3-4" wordNum="1" hand="m1" regularized="Κλειτάνδρου" original="Κλει-τάνδρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Κλειτάνδρος" lemmaFlag="ok"/>
+			<word wordref_id="810242" id="9" texid="50799" row="4" wordNum="1" hand="m1" regularized="Παα" original="Παα" completeness="complete" tag="noun.sg.masc.voc" lemma="Παης" lemmaFlag="ok"/>
+			<word wordref_id="810243" id="10" texid="50799" row="4" wordNum="2" hand="m1" regularized="πα" original="πα" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+			<word wordref_id="810244" id="11" texid="50799" row="5" wordNum="1" hand="m1" regularized="Τοτοη" original="Τοτοη" completeness="complete" tag="noun.sg.masc.voc" lemma="Τοτοης" lemmaFlag="ok"/>
+			<word wordref_id="810245" id="12" texid="50799" row="5" wordNum="2" hand="m1" regularized="δραχμὴν" original="(δραχμὴν)" completeness="complete" tag="noun.sg.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="810246" id="13" texid="50799" row="5" wordNum="3" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="810247" id="14" texid="50799" row="5" wordNum="4" hand="m1" regularized="τριώβολον|digit=3|" original="(τριώβολον)|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="τριώβολον" lemmaFlag="ok"/>
+			<word wordref_id="810248" id="15" texid="50799" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="810249" id="1" texid="50799" row="6" wordNum="1" hand="m1" regularized="|gap=3_lines|" original="|gap=3_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+		</sentence>
+	</text>
+</file>

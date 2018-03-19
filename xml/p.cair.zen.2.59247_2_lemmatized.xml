@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.2.59247" TM="892" HGV="892" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1231674" id="1" texid="892" row="9" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1231675" id="2" texid="892" row="9" wordNum="2" hand="m1" regularized="λγ|digit=33|" original="[λγ|digit=33|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="λγ" lemmaFlag="ok"/>
+			<word wordref_id="1231676" id="3" texid="892" row="9" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="1231677" id="4" texid="892" row="9" wordNum="4" hand="m1" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok"/>
+			<word wordref_id="1231678" id="5" texid="892" row="9" wordNum="5" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="1231679" id="6" texid="892" row="9" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1231680" id="1" texid="892" row="9" wordNum="7" hand="m1" regularized="Φιλίσκος" original="Φιλίσκος" completeness="complete" tag="noun.sg.masc.nom" lemma="Φιλίσκος" lemmaFlag="ok"/>
+			<word wordref_id="1231681" id="2" texid="892" row="10" wordNum="1" hand="m1" regularized="ἀποστεῖλαι" original="[ἀποσ]τεῖλαι" completeness="partly_reconstructed" tag="infinitive.aor.act" lemma="ἀποστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="1231682" id="3" texid="892" row="10" wordNum="2" hand="m1" regularized="Ἡδύλον" original="Ἡδύλον" completeness="complete" tag="noun.sg.masc.acc" lemma="Ἡδύλος" lemmaFlag="ok"/>
+			<word wordref_id="1231683" id="4" texid="892" row="11" wordNum="1" hand="m1" regularized="εἰς" original="[εἰς]" completeness="fully_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="1231684" id="5" texid="892" row="11" wordNum="2" hand="m1" regularized="Κροκοδίλων" original="[Κρο]κοδίλων" completeness="partly_reconstructed" tag="noun.sg.none.acc" lemma="Κροκοδίλων" lemmaFlag="ok"/>
+			<word wordref_id="1231685" id="6" texid="892" row="11" wordNum="3" hand="m1" regularized="πόλιν" original="πόλιν" completeness="complete" tag="noun.sg.fem.acc" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="1231686" id="7" texid="892" row="11" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1231687" id="1" texid="892" row="9" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1231688" id="2" texid="892" row="9" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="1231689" id="1" texid="892" row="9" wordNum="3" hand="m1" regularized="|gap=3|ιουργίου" original="|gap=3|ι̣ουργίου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.muench.3.1.130" TM="37361" HGV="37361" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2589023" id="1" texid="37361" row="30" wordNum="1" hand="m1" regularized="|gap=1||gap=1|δ|gap=1||gap=4|" original="|gap=1||gap=1|δ|gap=1||gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589024" id="2" texid="37361" row="30" wordNum="2" hand="m1" regularized="|gap=7|ς|gap=unknown|" original="|gap=7|ς̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589025" id="3" texid="37361" row="31" wordNum="1" hand="m1" regularized="ἀλλα|gap=2|λαλλ|gap=4||gap=1|ους|gap=unknown|" original="ἀλλα|gap=2|λα̣λλ|gap=4||gap=1|ο̣υ̣ς̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589026" id="4" texid="37361" row="32" wordNum="1" hand="m1" regularized="φοβούμενοι" original="φοβούμενοι" completeness="complete" tag="participle.pl.pres.mid.masc.nom" lemma="φοβέω" lemmaFlag="ok"/>
+			<word wordref_id="2589027" id="5" texid="37361" row="32" wordNum="2" hand="m1" regularized="μὴ" original="μὴ" completeness="complete" tag="adverb" lemma="μή" lemmaFlag="ok"/>
+			<word wordref_id="2589028" id="6" texid="37361" row="32" wordNum="3" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589029" id="7" texid="37361" row="32" wordNum="4" hand="m1" regularized="ἀπαιτήσω" original="[ἀ]παιτή[σω]" completeness="fully_reconstructed" tag="verb.1.sg.aor.subj.act" lemma="ἀπαιτέω" lemmaFlag="ok"/>
+			<word wordref_id="2589030" id="8" texid="37361" row="33" wordNum="1" hand="m1" regularized="αὐτοὺς" original="αὐτοὺς" completeness="complete" tag="demonstrative.pl.masc.acc" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="2589031" id="9" texid="37361" row="33" wordNum="2" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2589032" id="10" texid="37361" row="33" wordNum="3" hand="m1" regularized="δημόσια" original="δημόσια" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="δημόσιος" lemmaFlag="ok"/>
+			<word wordref_id="2589033" id="11" texid="37361" row="33" wordNum="4" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589034" id="12" texid="37361" row="33" wordNum="5" hand="m1" regularized="μόνα" original="μ̣όνα" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="2589035" id="13" texid="37361" row="33" wordNum="6" hand="m1" regularized="ς|gap=unknown|" original="ς̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2589036" id="14" texid="37361" row="34" wordNum="1" hand="m2" regularized="Μηνᾷ" original="Μη̣ν̣ᾷ̣" completeness="complete" tag="noun.sg.masc.dat" lemma="Μηνᾶς" lemmaFlag="ok"/>
+			<word wordref_id="2589037" id="15" texid="37361" row="34" wordNum="2" hand="m2" regularized="τῷ" original="τ̣ῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2589038" id="16" texid="37361" row="34" wordNum="3" hand="m2" regularized="ἐνδοξοτάτῳ" original="ἐ̣ν̣δ̣[οξοτ]ά̣τ̣ῳ̣" completeness="partly_reconstructed" tag="adjective.sg.masc.dat.sup" lemma="ἔνδοξος" lemmaFlag="ok"/>
+			<word wordref_id="2589039" id="17" texid="37361" row="34" wordNum="4" hand="m2" regularized="στρατηλάτῃ" original="στρατ̣η̣λ̣ά̣τ̣ῃ̣" completeness="complete" tag="noun.sg.masc.dat" lemma="στρατηλάτης" lemmaFlag="ok"/>
+			<word wordref_id="2589040" id="18" texid="37361" row="35" wordNum="1" hand="m2" regularized="παρὰ" original="[παρὰ]" completeness="fully_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="2589041" id="19" texid="37361" row="35" wordNum="2" hand="m2" regularized="Παπνουθίου" original="[Π]α̣π̣ν̣ο̣υθίου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Παπνούθιος" lemmaFlag="ok"/>
+			<word wordref_id="2589042" id="20" texid="37361" row="35" wordNum="3" hand="m2" regularized="χειριστοῦ" original="χ(ειριστοῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="χειριστής" lemmaFlag="ok"/>
+			<word wordref_id="2589043" id="21" texid="37361" row="35" wordNum="4" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

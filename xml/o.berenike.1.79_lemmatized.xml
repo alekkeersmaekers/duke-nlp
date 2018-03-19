@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.1.79" TM="70856" HGV="70856" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="529028" id="1" texid="70856" row="1" wordNum="1" hand="m1" regularized="Ἡρακ…" original="Ἡρακ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529029" id="2" texid="70856" row="1" wordNum="2" hand="m1" regularized="Δράκοντι" original="Δράκ(οντι)" completeness="complete" tag="noun.sg.masc.dat" lemma="Δράκων" lemmaFlag="ok"/>
+			<word wordref_id="529030" id="3" texid="70856" row="1" wordNum="3" hand="m1" regularized="Πεισιπμοῦ" original="Πεισιπμ(οῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="Πεισιπμοῦς" lemmaFlag="ok"/>
+			<word wordref_id="529031" id="4" texid="70856" row="1" wordNum="4" hand="m1" regularized="κουδ…" original="[κουδ](…)" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529032" id="5" texid="70856" row="1" wordNum="5" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="529033" id="1" texid="70856" row="2" wordNum="1" hand="m1" regularized="ἀπόλυσον" original="ἀπόλ(υσον)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀπολύω" lemmaFlag="ok"/>
+			<word wordref_id="529034" id="2" texid="70856" row="2" wordNum="2" hand="m1" regularized="Νικ|gap=1||gap=2|ωι" original="Νεικ|gap=1||gap=2|ῶ*" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529035" id="3" texid="70856" row="2" wordNum="3" hand="m1" regularized="τῶν" original="τῶ(ν)" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="529036" id="4" texid="70856" row="2" wordNum="4" hand="m1" regularized="Οὐάρου" original="[Οὐάρου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Οὐᾶρος" lemmaFlag="ok"/>
+			<word wordref_id="529037" id="5" texid="70856" row="3" wordNum="1" hand="m1" regularized="εἰς" original="[εἰς]" completeness="fully_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="529038" id="6" texid="70856" row="3" wordNum="2" hand="m1" regularized="ἐξαρτισμὸν" original="[ἐξ]αρτισ̣μ(ὸν)" completeness="partly_reconstructed" tag="noun.sg.masc.acc" lemma="ἐξαρτισμός" lemmaFlag="ok"/>
+			<word wordref_id="529039" id="7" texid="70856" row="3" wordNum="3" hand="m1" regularized="λαδικηνὰ" original="λατικ(ηνὰ)*" completeness="complete" tag="preposition" lemma="λαδικηνά" lemmaFlag="suspect"/>
+			<word wordref_id="529040" id="8" texid="70856" row="4" wordNum="1" hand="m1" regularized="τριάκοντα" original="τ̣[ρι]ά̣κοντα" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="τριάκοντα" lemmaFlag="ok"/>
+			<word wordref_id="529041" id="9" texid="70856" row="4" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="529042" id="10" texid="70856" row="4" wordNum="3" hand="m1" regularized="γίνεται" original="(γίνεται)" completeness="complete" tag="verb.3.sg.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="529043" id="11" texid="70856" row="4" wordNum="4" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="529044" id="12" texid="70856" row="4" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

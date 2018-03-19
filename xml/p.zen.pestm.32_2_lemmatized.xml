@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.zen.pestm.32" TM="1863" HGV="1863" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3842129" id="1" texid="1863" row="9" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="3842130" id="2" texid="1863" row="9" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3842131" id="1" texid="1863" row="10" wordNum="1" hand="m1" regularized="|gap=9||gap=4||gap=3|" original="|gap=9||gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3842132" id="2" texid="1863" row="10" wordNum="2" hand="m1" regularized="ου" original="ου" completeness="complete" tag="adverb" lemma="οὐ" lemmaFlag="ok"/>
+			<word wordref_id="3842133" id="3" texid="1863" row="11" wordNum="1" hand="m1" regularized="Ἀπολλωνίου" original="[Ἀπολ]λ̣ω̣ν̣ίου" completeness="partly_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+			<word wordref_id="3842134" id="4" texid="1863" row="11" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="3842135" id="1" texid="1863" row="11" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3842136" id="2" texid="1863" row="11" wordNum="4" hand="m1" regularized="κζ|digit=27|" original="κζ|digit=27|" completeness="complete" tag="numeral.none.none.none" lemma="κζ" lemmaFlag="ok"/>
+			<word wordref_id="3842137" id="3" texid="1863" row="12" wordNum="1" hand="m1" regularized="Περιτίου" original="[Περιτ]ί̣ο̣υ̣" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Περίτιος" lemmaFlag="ok"/>
+			<word wordref_id="3842138" id="4" texid="1863" row="12" wordNum="2" hand="m1" regularized="ιθ|digit=19|" original="ιθ|digit=19|" completeness="complete" tag="numeral.none.none.none" lemma="ιθ" lemmaFlag="ok"/>
+			<word wordref_id="3842139" id="5" texid="1863" row="12" wordNum="3" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="3842140" id="6" texid="1863" row="12" wordNum="4" hand="m1" regularized="Κυδίσωι" original="Κυδί̣σωι" completeness="complete" tag="noun.sg.fem.dat" lemma="Κύδισος" lemmaFlag="ok"/>
+			<word wordref_id="3842141" id="7" texid="1863" row="12" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

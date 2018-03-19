@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.bingen.95" TM="78063" HGV="78063" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1041924" id="1" texid="78063" row="1" wordNum="1" hand="m1" regularized="Ἑρμογένης" original="Ἑρμογένης" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἑρμογένης" lemmaFlag="ok"/>
+			<word wordref_id="1041925" id="2" texid="78063" row="1" wordNum="2" hand="m1" regularized="πράκτωρ" original="πράκ(τωρ)" completeness="complete" tag="noun.sg.masc.nom" lemma="πράκτωρ" lemmaFlag="ok"/>
+			<word wordref_id="1041926" id="3" texid="78063" row="1" wordNum="3" hand="m1" regularized="Παχνοῦβι" original="Παχνοῦβι" completeness="complete" tag="noun.sg.masc.voc" lemma="Παχνοῦβις" lemmaFlag="ok"/>
+			<word wordref_id="1041927" id="4" texid="78063" row="1" wordNum="4" hand="m1" regularized="Πελαίου" original="Πελαίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Πελαιας" lemmaFlag="ok"/>
+			<word wordref_id="1041928" id="5" texid="78063" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίριν*" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1041929" id="6" texid="78063" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1041930" id="1" texid="78063" row="2" wordNum="3" hand="m1" regularized="ἐξεκουφίσθης" original="ἐξεκουφίσθης" completeness="complete" tag="verb.2.sg.aor.ind.pass" lemma="ἐκκουφίζω" lemmaFlag="ok"/>
+			<word wordref_id="1041931" id="2" texid="78063" row="2" wordNum="4" hand="m1" regularized="ἐκ" original="ἐκ" completeness="complete" tag="preposition" lemma="ἐκ" lemmaFlag="ok"/>
+			<word wordref_id="1041932" id="3" texid="78063" row="2" wordNum="5" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1041933" id="4" texid="78063" row="3" wordNum="1" hand="m1" regularized="διαγραφῆς" original="[δ]ι̣α̣γραφ(ῆς)" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="διαγραφή" lemmaFlag="ok"/>
+			<word wordref_id="1041934" id="5" texid="78063" row="3" wordNum="2" hand="m1" regularized="μου" original="μου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1041935" id="6" texid="78063" row="3" wordNum="3" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1041936" id="7" texid="78063" row="3" wordNum="4" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1041937" id="8" texid="78063" row="3" wordNum="5" hand="m1" regularized="καινῆς" original="καιν̣ῆ̣ς" completeness="complete" tag="adjective.sg.fem.gen.pos" lemma="καινός" lemmaFlag="ok"/>
+			<word wordref_id="1041938" id="9" texid="78063" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|ης" original="|gap=unknown|η̣ς̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1041939" id="10" texid="78063" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1041940" id="1" texid="78063" row="4" wordNum="3" hand="m1" regularized="εἰσπέμψεις" original="ἰσπέμψις*" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="εἰσπέμπω" lemmaFlag="ok"/>
+			<word wordref_id="1041941" id="2" texid="78063" row="4" wordNum="4" hand="m1" regularized="μοι" original="μυ*" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1041942" id="3" texid="78063" row="4" wordNum="5" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1041943" id="4" texid="78063" row="4" wordNum="6" hand="m1" regularized="σπονδήν" original="σποδήν*" completeness="complete" tag="noun.sg.fem.acc" lemma="σπονδή" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

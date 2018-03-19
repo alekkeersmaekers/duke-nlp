@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="cpr.28.2" TM="117582" HGV="117582" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="463380" id="1" texid="117582" row="11" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="463381" id="2" texid="117582" row="11" wordNum="2" hand="m1" regularized="ιηιδ|gap=3|αστρ|gap=7-8|" original="ι̣η̣ι̣δ|gap=3|α̣σ̣τρ̣|gap=7-8|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="463382" id="3" texid="117582" row="12" wordNum="1" hand="m1" regularized="ἢ" original="ἢ̣" completeness="complete" tag="conjunction" lemma="ἤ" lemmaFlag="ok"/>
+			<word wordref_id="463383" id="4" texid="117582" row="12" wordNum="2" hand="m1" regularized="χιτῶνα" original="κιθῶν̣α*" completeness="complete" tag="noun.sg.masc.acc" lemma="χιτών" lemmaFlag="ok"/>
+			<word wordref_id="463384" id="5" texid="117582" row="12" wordNum="3" hand="m1" regularized="ἡμῖν" original="ἡ̣μ̣[ῖν]" completeness="partly_reconstructed" tag="personal.pl.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="463385" id="6" texid="117582" row="12-13" wordNum="1" hand="m1" regularized="ἀπόστειλον" original="[ἀ]π̣ό̣σ̣τ̣ι̣-λον*" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="ἀποστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="463386" id="7" texid="117582" row="13" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.col.4.105" TM="1818" HGV="1818" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1316789" id="1" texid="1818" row="1" wordNum="1" hand="m1" regularized="ὑπόμνημα" original="ὑπόμνημα" completeness="complete" tag="noun.sg.neut.nom" lemma="ὑπόμνημα" lemmaFlag="ok"/>
+			<word wordref_id="1316790" id="2" texid="1818" row="2" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1316791" id="3" texid="1818" row="2" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1316792" id="4" texid="1818" row="3" wordNum="1" hand="m1" regularized="Μάρωνος" original="Μάρωνος" completeness="complete" tag="noun.sg.masc.gen" lemma="Μάρων" lemmaFlag="ok"/>
+			<word wordref_id="1316793" id="5" texid="1818" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1316794" id="1" texid="1818" row="3" wordNum="3" hand="m1" regularized="καλῶς" original="καλῶς" completeness="complete" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="1316795" id="2" texid="1818" row="4" wordNum="1" hand="m1" regularized="ποιήσεις" original="ποιήσεις" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="1316796" id="3" texid="1818" row="4-5" wordNum="1" hand="m1" regularized="συντάξας" original="συντά-ξας" completeness="complete" tag="participle.sg.aor.act.masc.nom" lemma="συντάσσω" lemmaFlag="ok"/>
+			<word wordref_id="1316797" id="4" texid="1818" row="5" wordNum="1" hand="m1" regularized="διμήνου" original="διμήνου" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="δίμηνος" lemmaFlag="ok"/>
+			<word wordref_id="1316798" id="5" texid="1818" row="5" wordNum="2" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1316799" id="6" texid="1818" row="6" wordNum="1" hand="m1" regularized="ὀψώνιον" original="ὀψώνιον" completeness="complete" tag="noun.sg.neut.acc" lemma="ὀψώνιον" lemmaFlag="ok"/>
+			<word wordref_id="1316800" id="7" texid="1818" row="6" wordNum="2" hand="m1" regularized="δοῦναι" original="δοῦναι" completeness="complete" tag="infinitive.aor.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="1316801" id="8" texid="1818" row="7" wordNum="1" hand="m1" regularized="|gap=4||gap=3||gap=2||gap=4||gap=1|" original="|gap=4||gap=3||gap=2||gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1316802" id="9" texid="1818" row="8" wordNum="1" hand="m1" regularized="μα|gap=4||gap=4||gap=2||gap=1|" original="μα|gap=4||gap=4||gap=2||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1316803" id="10" texid="1818" row="9" wordNum="1" hand="m1" regularized="ἀποδοῦναι" original="ἀποδοῦνα̣ι̣" completeness="complete" tag="infinitive.aor.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="1316804" id="11" texid="1818" row="9" wordNum="2" hand="m1" regularized="τὸ" original="τ̣[ὸ]" completeness="partly_reconstructed" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1316805" id="12" texid="1818" row="10" wordNum="1" hand="m1" regularized="προσοφειλόμενον" original="προσοφειλό̣μ̣ενον" completeness="complete" tag="participle.sg.pres.mid.neut.acc" lemma="προσοφείλω" lemmaFlag="ok"/>
+			<word wordref_id="1316806" id="13" texid="1818" row="11" wordNum="1" hand="m1" regularized="ὀψώνιον" original="ὀψώνιον" completeness="complete" tag="noun.sg.neut.acc" lemma="ὀψώνιον" lemmaFlag="ok"/>
+			<word wordref_id="1316807" id="14" texid="1818" row="11" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1316808" id="1" texid="1818" row="12" wordNum="1" hand="m1" regularized="εὐτύχει" original="εὐτύχει" completeness="complete" tag="verb.2.sg.pres.imp.act" lemma="εὐτυχέω" lemmaFlag="ok"/>
+			<word wordref_id="1316809" id="2" texid="1818" row="12" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

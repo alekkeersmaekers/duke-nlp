@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.koeln.13.536" TM="219350" HGV="219350" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1833606" id="1" texid="219350" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1833607" id="2" texid="219350" row="1" wordNum="2" hand="m1" regularized="|gap=unknown||gap=1||gap=2||gap=2|ου" original="|gap=unknown||gap=1||gap=2||gap=2|ο̣υ̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1833608" id="3" texid="219350" row="2" wordNum="1" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="1833609" id="4" texid="219350" row="2" wordNum="2" hand="m1" regularized="|gap=1||gap=3||gap=1|ίωνα" original="|gap=1||gap=3||gap=1|ίω̣ν̣α" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1833610" id="5" texid="219350" row="2" wordNum="3" hand="m1" regularized="ἀρχέμπορον" original="ἀρχέμπορον" completeness="complete" tag="noun.sg.masc.acc" lemma="ἀρχέμπορος" lemmaFlag="ok"/>
+			<word wordref_id="1833611" id="6" texid="219350" row="3" wordNum="1" hand="m1" regularized="|extra|" original="⟦|gap=3|⟧" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1833612" id="7" texid="219350" row="3" wordNum="2" hand="m1" regularized="συνθεσι" original="συνθεσι" completeness="complete" tag="noun.pl.neut.dat" lemma="συνθος" lemmaFlag="suspect"/>
+			<word wordref_id="1833613" id="8" texid="219350" row="3" wordNum="3" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1833614" id="9" texid="219350" row="3" wordNum="4" hand="m1" regularized="συκίων" original="συκύων*" completeness="complete" tag="noun.pl.neut.gen" lemma="συκίον" lemmaFlag="ok"/>
+			<word wordref_id="1833615" id="10" texid="219350" row="4" wordNum="1" hand="m1" regularized="ἀγoράσαι" original="ἀγoράσαι" completeness="complete" tag="infinitive.aor.act" lemma="ἀγοράζω" lemmaFlag="ok"/>
+			<word wordref_id="1833616" id="11" texid="219350" row="4" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1833617" id="12" texid="219350" row="4" wordNum="3" hand="m1" regularized="σφόγγους" original="σφόγους*" completeness="complete" tag="noun.pl.masc.acc" lemma="σπόγγος" lemmaFlag="ok"/>
+			<word wordref_id="1833618" id="13" texid="219350" row="4" wordNum="4" hand="m1" regularized="δύο|digit=2|" original="δύο|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="δύο" lemmaFlag="ok"/>
+			<word wordref_id="1833619" id="14" texid="219350" row="5" wordNum="1" hand="m1" regularized="τραυματικοὺς" original="δραυματικοὺς*" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="τραυματικός" lemmaFlag="ok"/>
+			<word wordref_id="1833620" id="15" texid="219350" row="5" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1833621" id="16" texid="219350" row="5-6" wordNum="1" hand="m1" regularized="σφόγγους" original="σφόγ-γους" completeness="complete" tag="noun.pl.masc.acc" lemma="σπόγγος" lemmaFlag="ok"/>
+			<word wordref_id="1833622" id="17" texid="219350" row="6" wordNum="1" hand="m1" regularized="νεωτέρους" original="νεοτέρους*" completeness="complete" tag="adjective.pl.masc.acc.comp" lemma="νέος" lemmaFlag="ok"/>
+			<word wordref_id="1833623" id="18" texid="219350" row="6" wordNum="2" hand="m1" regularized="λευκοὺς" original="λευκοὺς" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="λευκός" lemmaFlag="ok"/>
+			<word wordref_id="1833624" id="19" texid="219350" row="7" wordNum="1" hand="m1" regularized="ὀφθαλμικοὺς" original="@^inline^ὀφ&lt;θ&gt;αλμικοὺς@⟦οθαλμικους⟧" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="ὀφθαλμικός" lemmaFlag="ok"/>
+			<word wordref_id="1833625" id="20" texid="219350" row="7" wordNum="2" hand="m1" regularized="δέκα|digit=10|" original="δέκα|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="δέκα" lemmaFlag="ok"/>
+			<word wordref_id="1833626" id="21" texid="219350" row="7" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

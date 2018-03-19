@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.2.149" TM="34484" HGV="34484" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="656493" id="1" texid="34484" row="1" wordNum="1" hand="m1" regularized="Μακαρία" original="[Μακαρία]" completeness="fully_reconstructed" tag="noun.sg.fem.nom" lemma="Μακαρία" lemmaFlag="ok"/>
+			<word wordref_id="656494" id="2" texid="34484" row="1" wordNum="2" hand="m1" regularized="Βίκτωρι" original="[Βί]κτωρι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Βίκτωρ" lemmaFlag="ok"/>
+			<word wordref_id="656495" id="3" texid="34484" row="2" wordNum="1" hand="m1" regularized="ἐπιμελητῇ" original="[ἐπιμελ(ητῇ)]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="ἐπιμελητής" lemmaFlag="ok"/>
+			<word wordref_id="656496" id="4" texid="34484" row="2" wordNum="2" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="656497" id="1" texid="34484" row="2" wordNum="3" hand="m1" regularized="δὸς" original="[δὸς]" completeness="fully_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="656498" id="2" texid="34484" row="2" wordNum="4" hand="m1" regularized="|gap=3|ίτῳ" original="|gap=3|ίτῳ" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="656499" id="3" texid="34484" row="3" wordNum="1" hand="m1" regularized="ἄρτου" original="[ἄρτου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="ἄρτος" lemmaFlag="ok"/>
+			<word wordref_id="656500" id="4" texid="34484" row="3" wordNum="2" hand="m1" regularized="ἀννώνας" original="[ἀννώνας]" completeness="fully_reconstructed" tag="noun.pl.fem.acc" lemma="ἀννώνη" lemmaFlag="ok"/>
+			<word wordref_id="656501" id="5" texid="34484" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|ν" original="|gap=unknown|ν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="656502" id="6" texid="34484" row="4" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

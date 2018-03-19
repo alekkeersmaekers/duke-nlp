@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.fam.tebt.30" TM="20960" HGV="20960" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1480593" id="1" texid="20960" row="18" wordNum="1" hand="m3" regularized="ἀπαρχὴ" original="ἀπαρχὴ" completeness="complete" tag="noun.sg.fem.nom" lemma="ἀπαρχή" lemmaFlag="ok"/>
+			<word wordref_id="1480594" id="2" texid="20960" row="18" wordNum="2" hand="m3" regularized="Διδύμου" original="Διδύμου" completeness="complete" tag="noun.sg.masc.gen" lemma="Δίδυμος" lemmaFlag="ok"/>
+			<word wordref_id="1480595" id="3" texid="20960" row="18" wordNum="3" hand="m3" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1480596" id="4" texid="20960" row="18" wordNum="4" hand="m3" regularized="Φιλοσεράπιδος" original="Φιλοσεράπιδος" completeness="complete" tag="noun.sg.masc.gen" lemma="Φιλοσεράπις" lemmaFlag="ok"/>
+			<word wordref_id="1480597" id="5" texid="20960" row="18" wordNum="5" hand="m3" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1480598" id="1" texid="20960" row="19" wordNum="1" hand="m4?" regularized="παρὰ" original="παρ̣[ὰ]" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1480599" id="2" texid="20960" row="19" wordNum="2" hand="m4?" regularized="Ἡρακλείδου" original="[Ἡρακλείδου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="1480600" id="3" texid="20960" row="19" wordNum="3" hand="m4?" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1480601" id="4" texid="20960" row="19" wordNum="4" hand="m4?" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1480602" id="5" texid="20960" row="19" wordNum="5" hand="m4?" regularized="Οὐαλερίου" original="[Οὐαλερίου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Οὐαλέριος" lemmaFlag="ok"/>
+			<word wordref_id="1480603" id="6" texid="20960" row="20" wordNum="1" hand="m4?" regularized="Ἡρακλείδου" original="Ἡρακ[λείδου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="1480604" id="7" texid="20960" row="20" wordNum="2" hand="m4?" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1480605" id="8" texid="20960" row="20" wordNum="3" hand="m4?" regularized="Μάρωνος" original="[Μάρωνος]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Μάρων" lemmaFlag="ok"/>
+			<word wordref_id="1480606" id="9" texid="20960" row="20" wordNum="4" hand="m4?" regularized="|gap=9|" original="|gap=9|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1480607" id="10" texid="20960" row="21" wordNum="1" hand="m4?" regularized="ρι|gap=1||gap=25|" original="ρι|gap=1||gap=25|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1480608" id="11" texid="20960" row="22" wordNum="1" hand="m4?" regularized="υι|gap=unknown|" original="υι|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1480609" id="12" texid="20960" row="23" wordNum="1" hand="m4?" regularized="π|gap=1||gap=unknown|" original="π|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

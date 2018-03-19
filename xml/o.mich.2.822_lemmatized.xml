@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.2.822" TM="42700" HGV="42700" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="738071" id="1" texid="42700" row="1" wordNum="1" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="738072" id="2" texid="42700" row="1" wordNum="2" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="738073" id="3" texid="42700" row="1" wordNum="3" hand="m1" regularized="Ἐπεὶφ" original="Ἐπεὶφ" completeness="complete" tag="noun.sg.none.nom" lemma="Ἐπείφ" lemmaFlag="ok"/>
+			<word wordref_id="738074" id="4" texid="42700" row="1" wordNum="4" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="738075" id="5" texid="42700" row="2" wordNum="1" hand="m1" regularized="Ἀνθέστις" original="Ἀνθέστις" completeness="complete" tag="noun.pl.masc.acc" lemma="Ἀνθέστις" lemmaFlag="ok"/>
+			<word wordref_id="738076" id="6" texid="42700" row="2" wordNum="2" hand="m1" regularized="Τουαμ…" original="Τουαμ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="738077" id="7" texid="42700" row="3" wordNum="1" hand="m1" regularized="παρέδωκεν" original="π(αρέδωκεν)" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="παραδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="738078" id="8" texid="42700" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.3.606" TM="73788" HGV="73788" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="633324" id="1" texid="73788" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633325" id="2" texid="73788" row="1" wordNum="2" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633326" id="3" texid="73788" row="2" wordNum="1" hand="m1" regularized="ην|gap=unknown|" original="ην|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633327" id="4" texid="73788" row="3" wordNum="1" hand="m1" regularized="Τίτου" original="Τίτου" completeness="complete" tag="noun.sg.masc.gen" lemma="Τίτος" lemmaFlag="ok"/>
+			<word wordref_id="633328" id="5" texid="73788" row="3" wordNum="2" hand="m1" regularized="Αἰλίου" original="[Αἰλίου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Αἴλιος" lemmaFlag="ok"/>
+			<word wordref_id="633329" id="6" texid="73788" row="3" wordNum="3" hand="m1" regularized="Ἁδριανοῦ" original="[Ἁδριανοῦ]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Ἁδριανός" lemmaFlag="ok"/>
+			<word wordref_id="633330" id="7" texid="73788" row="4" wordNum="1" hand="m1" regularized="Ἀντωνείνου" original="Ἀντων[είνου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀντωνεῖνος" lemmaFlag="ok"/>
+			<word wordref_id="633331" id="8" texid="73788" row="4" wordNum="2" hand="m1" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="633332" id="9" texid="73788" row="4-5" wordNum="1" hand="m1" regularized="κυρίου" original="[κυρί]-ου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="633333" id="10" texid="73788" row="5" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="633334" id="11" texid="73788" row="5" wordNum="2" hand="m1" regularized="Εὐσεβοῦς" original="Εὐσα̣[ιβοῦς]*" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Εὐσεβής" lemmaFlag="ok"/>
+			<word wordref_id="633335" id="12" texid="73788" row="5" wordNum="3" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="633336" id="1" texid="73788" row="6-7" wordNum="1" hand="m1" regularized="Ἡρακλῆς" original="Ἡρακλ[ῆ]-ς" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἡρακλῆς" lemmaFlag="ok"/>
+			<word wordref_id="633337" id="2" texid="73788" row="7" wordNum="1" hand="m1" regularized="ἀπέχω" original="ἀπαί[χω]*" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

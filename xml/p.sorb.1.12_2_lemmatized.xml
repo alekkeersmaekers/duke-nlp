@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.sorb.1.12" TM="3127" HGV="3127" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3424082" id="1" texid="3127" row="5" wordNum="1" hand="m2" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3424083" id="2" texid="3127" row="5" wordNum="2" hand="m2" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="3424084" id="3" texid="3127" row="5" wordNum="3" hand="m2" regularized="Δαισίου" original="Δαισίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Δαίσιος" lemmaFlag="ok"/>
+			<word wordref_id="3424085" id="4" texid="3127" row="5" wordNum="4" hand="m2" regularized="κζ|digit=27|" original="κζ|digit=27|" completeness="complete" tag="numeral.none.none.none" lemma="κζ" lemmaFlag="ok"/>
+			<word wordref_id="3424086" id="5" texid="3127" row="5" wordNum="5" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3424087" id="1" texid="3127" row="5" wordNum="6" hand="m2" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="3424088" id="2" texid="3127" row="5" wordNum="7" hand="m2" regularized="Λυκομήδους" original="Λυκομήδους" completeness="complete" tag="noun.sg.masc.gen" lemma="Λυκομήδης" lemmaFlag="ok"/>
+			<word wordref_id="3424089" id="3" texid="3127" row="5" wordNum="8" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="3424090" id="1" texid="3127" row="6" wordNum="1" hand="m2" regularized="κατοχίμων" original="κατοχίμων" completeness="complete" tag="adjective.pl.neut.gen.pos" lemma="κατόχιμος" lemmaFlag="ok"/>
+			<word wordref_id="3424091" id="2" texid="3127" row="6" wordNum="2" hand="m2" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="3424092" id="3" texid="3127" row="6" wordNum="3" hand="m2" regularized="ἀνίππων" original="ἀνίππων" completeness="complete" tag="adjective.pl.neut.gen.pos" lemma="ἄνιππος" lemmaFlag="ok"/>
+			<word wordref_id="3424093" id="4" texid="3127" row="6" wordNum="4" hand="m2" regularized="γραφῆς" original="γραφῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="γραφή" lemmaFlag="ok"/>
+			<word wordref_id="3424094" id="5" texid="3127" row="6" wordNum="5" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="3424095" id="1" texid="3127" row="7" wordNum="1" hand="m1" regularized="Ἱπποδάμωι" original="Ἱπποδάμωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἱππόδαμος" lemmaFlag="ok"/>
+			<word wordref_id="3424096" id="2" texid="3127" row="7" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="5">
+			<word wordref_id="3424097" id="1" texid="3127" row="8" wordNum="1" hand="m3" regularized="|gap=unknown||gap=1||gap=2||gap=3|ιτου" original="|gap=unknown||gap=1||gap=2||gap=3|ι̣του" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3424098" id="2" texid="3127" row="8" wordNum="2" hand="m3" regularized="αι" original="α̣ι̣" completeness="complete" tag="noun.none.none.none" lemma="αι" lemmaFlag="wrong-accent:αἴ"/>
+			<word wordref_id="3424099" id="3" texid="3127" row="9" wordNum="1" hand="m3" regularized="|gap=unknown||gap=1|εν" original="|gap=unknown||gap=1|ε̣ν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

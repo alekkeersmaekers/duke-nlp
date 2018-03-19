@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="t.mom.louvre.948" TM="79884" HGV="79884" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4660926" id="1" texid="79884" row="1" wordNum="1" hand="m1" regularized="|gap=3|τετειπης" original="|gap=3|τ̣ετειπης" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4660927" id="2" texid="79884" row="1" wordNum="2" hand="m1" regularized="Θαήσιος" original="Θαήσι(ος)" completeness="complete" tag="noun.sg.fem.gen" lemma="Θαησις" lemmaFlag="ok"/>
+			<word wordref_id="4660928" id="3" texid="79884" row="2" wordNum="1" hand="m1" regularized="ἐβίωσεν" original="[ἐβ]ίωσεν" completeness="partly_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="βιόω" lemmaFlag="ok"/>
+			<word wordref_id="4660929" id="4" texid="79884" row="2" wordNum="2" hand="m1" regularized="ἐτῶν" original="ἐτῶν" completeness="complete" tag="noun.pl.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4660930" id="5" texid="79884" row="2" wordNum="3" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

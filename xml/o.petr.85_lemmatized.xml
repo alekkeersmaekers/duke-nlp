@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.85" TM="75347" HGV="75347" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="762705" id="1" texid="75347" row="1" wordNum="1" hand="m1" regularized="διέγραψε" original="δ̣ι̣έ̣γ̣ρ̣(αψε)" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="διαγράφω" lemmaFlag="ok"/>
+			<word wordref_id="762706" id="2" texid="75347" row="1" wordNum="2" hand="m1" regularized="Καλι|gap=2|" original="Καλι|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762707" id="3" texid="75347" row="1" wordNum="3" hand="m1" regularized="Ἐπωνύχου" original="Ἐπων̣ύ̣χ(ου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἐπώνυχος" lemmaFlag="ok"/>
+			<word wordref_id="762708" id="4" texid="75347" row="1" wordNum="4" hand="m1" regularized="ὑπὲρ" original="ὑ̣π̣(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="762709" id="5" texid="75347" row="1" wordNum="5" hand="m1" regularized="|gap=4|…" original="|gap=4|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762710" id="6" texid="75347" row="1" wordNum="6" hand="m1" regularized="Νότου" original="Ν[ό(του)]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Νότος" lemmaFlag="ok"/>
+			<word wordref_id="762711" id="7" texid="75347" row="1" wordNum="7" hand="m1" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762712" id="8" texid="75347" row="1" wordNum="8" hand="m1" regularized="Λιβὸς" original="[Λ(ιβὸς)]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Λίψ" lemmaFlag="ok"/>
+			<word wordref_id="762713" id="9" texid="75347" row="2" wordNum="1" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762714" id="10" texid="75347" row="2" wordNum="2" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762715" id="11" texid="75347" row="2" wordNum="3" hand="m1" regularized="ὀβολὸν|digit=1|" original="(ὀβολὸν)|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="ὀβολόν" lemmaFlag="ok"/>
+			<word wordref_id="762716" id="12" texid="75347" row="2" wordNum="4" hand="m1" regularized="ἡμιωβέλιον|digit=1/2|" original="(ἡμιωβέλιον)|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἡμιωβέλιον" lemmaFlag="ok"/>
+			<word wordref_id="762717" id="13" texid="75347" row="2" wordNum="5" hand="m1" regularized="αἳ" original="αἳ" completeness="complete" tag="article.pl.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762718" id="14" texid="75347" row="2" wordNum="6" hand="m1" regularized="καὶ" original="κ(αὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762719" id="15" texid="75347" row="2" wordNum="7" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762720" id="16" texid="75347" row="2" wordNum="8" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762721" id="17" texid="75347" row="2" wordNum="9" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="762722" id="1" texid="75347" row="2" wordNum="10" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="762723" id="2" texid="75347" row="2" wordNum="11" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok"/>
+			<word wordref_id="762724" id="3" texid="75347" row="2" wordNum="12" hand="m1" regularized="Νέρωνος" original="Νέρωνος" completeness="complete" tag="noun.sg.masc.gen" lemma="Νέρων" lemmaFlag="ok"/>
+			<word wordref_id="762725" id="4" texid="75347" row="2" wordNum="13" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762726" id="5" texid="75347" row="2" wordNum="14" hand="m1" regularized="κυρίου" original="κυρί̣[ου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="762727" id="6" texid="75347" row="3" wordNum="1" hand="m1" regularized="|gap=4||gap=2|ε|gap=3|" original="|gap=4||gap=2|ε|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762728" id="7" texid="75347" row="3" wordNum="2" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="762729" id="8" texid="75347" row="3" wordNum="3" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762730" id="9" texid="75347" row="3" wordNum="4" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762731" id="10" texid="75347" row="3" wordNum="5" hand="m1" regularized="ὀβολὸν|digit=1|" original="(ὀβολὸν)|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="ὀβολόν" lemmaFlag="ok"/>
+			<word wordref_id="762732" id="11" texid="75347" row="3" wordNum="6" hand="m1" regularized="ἡμιωβέλιον|digit=1/2|" original="(ἡμιωβέλιον)|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἡμιωβέλιον" lemmaFlag="ok"/>
+			<word wordref_id="762733" id="12" texid="75347" row="3" wordNum="7" hand="m1" regularized="αἳ" original="αἳ" completeness="complete" tag="article.pl.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762734" id="13" texid="75347" row="3" wordNum="8" hand="m1" regularized="καὶ" original="κ̣(αὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762735" id="14" texid="75347" row="3" wordNum="9" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762736" id="15" texid="75347" row="3" wordNum="10" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762737" id="16" texid="75347" row="3" wordNum="11" hand="m1" regularized="|gap=4||gap=2||gap=unknown|" original="|gap=4||gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762738" id="17" texid="75347" row="4" wordNum="1" hand="m1" regularized="|gap=4||gap=3|" original="|gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762739" id="18" texid="75347" row="4" wordNum="2" hand="m1" regularized="Φαμενὼθ" original="Φα̣μ̣(ενὼθ)" completeness="complete" tag="noun.sg.none.none" lemma="Φαμενώθ" lemmaFlag="ok"/>
+			<word wordref_id="762740" id="19" texid="75347" row="4" wordNum="3" hand="m1" regularized="κθ|digit=29|" original="κθ̣|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="762741" id="20" texid="75347" row="4" wordNum="4" hand="m1" regularized="|gap=4||gap=4||gap=2|" original="|gap=4||gap=4||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762742" id="21" texid="75347" row="5" wordNum="1" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762743" id="22" texid="75347" row="5" wordNum="2" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.nom" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="762744" id="23" texid="75347" row="5" wordNum="3" hand="m1" regularized="ι|digit=10|" original="ι̣|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="762745" id="24" texid="75347" row="5" wordNum="4" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762746" id="25" texid="75347" row="5" wordNum="5" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762747" id="26" texid="75347" row="5" wordNum="6" hand="m1" regularized="ὀβολὸν|digit=1|" original="(ὀβολὸν)|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="ὀβολόν" lemmaFlag="ok"/>
+			<word wordref_id="762748" id="27" texid="75347" row="5" wordNum="7" hand="m1" regularized="ἡμιωβέλιον|digit=1/2|" original="(ἡμιωβέλιον)|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἡμιωβέλιον" lemmaFlag="ok"/>
+			<word wordref_id="762749" id="28" texid="75347" row="5" wordNum="8" hand="m1" regularized="αἳ" original="αἳ" completeness="complete" tag="article.pl.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762750" id="29" texid="75347" row="5" wordNum="9" hand="m1" regularized="καὶ" original="κ(αὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762751" id="30" texid="75347" row="5" wordNum="10" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762752" id="31" texid="75347" row="5" wordNum="11" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762753" id="32" texid="75347" row="5" wordNum="12" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762754" id="33" texid="75347" row="6" wordNum="1" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762755" id="34" texid="75347" row="6" wordNum="2" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762756" id="35" texid="75347" row="6" wordNum="3" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762757" id="36" texid="75347" row="6" wordNum="4" hand="m1" regularized="ὀβολὸν|digit=1|" original="(ὀβολὸν)|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="ὀβολόν" lemmaFlag="ok"/>
+			<word wordref_id="762758" id="37" texid="75347" row="6" wordNum="5" hand="m1" regularized="ἡμιωβέλιον|digit=1/2|" original="(ἡμιωβέλιον)|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἡμιωβέλιον" lemmaFlag="ok"/>
+			<word wordref_id="762759" id="38" texid="75347" row="6" wordNum="6" hand="m1" regularized="αἳ" original="α̣ἳ̣" completeness="complete" tag="article.pl.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762760" id="39" texid="75347" row="6" wordNum="7" hand="m1" regularized="καὶ" original="κ̣(αὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762761" id="40" texid="75347" row="6" wordNum="8" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762762" id="41" texid="75347" row="6" wordNum="9" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762763" id="42" texid="75347" row="6" wordNum="10" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

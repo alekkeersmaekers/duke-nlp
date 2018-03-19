@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.did.340" TM="144903" HGV="144903" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="647184" id="1" texid="144903" row="1" wordNum="1" hand="m1" regularized="Γαῖος" original="Γαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Γαῖος" lemmaFlag="ok"/>
+			<word wordref_id="647185" id="2" texid="144903" row="1" wordNum="2" hand="m1" regularized="Ἀντώνιος" original="Ἀντ[ώνιος]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἀντώνιος" lemmaFlag="ok"/>
+			<word wordref_id="647186" id="3" texid="144903" row="1" wordNum="3" hand="m1" regularized="Λονγίνῳ" original="[Λονγίνῳ]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="Λονγῖνος" lemmaFlag="ok"/>
+			<word wordref_id="647187" id="4" texid="144903" row="2" wordNum="1" hand="m1" regularized="Κρίσπῳ" original="Κρίσπῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Κρίσπος" lemmaFlag="ok"/>
+			<word wordref_id="647188" id="5" texid="144903" row="2" wordNum="2" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="647189" id="6" texid="144903" row="2" wordNum="3" hand="m1" regularized="ἀδελφῷ" original="[ἀδελφῷ]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="647190" id="7" texid="144903" row="2" wordNum="4" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="647191" id="8" texid="144903" row="2" wordNum="5" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="647192" id="1" texid="144903" row="3" wordNum="1" hand="m1" regularized="καλῶς" original="καλῶς" completeness="complete" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="647193" id="2" texid="144903" row="3" wordNum="2" hand="m1" regularized="ποιήσεις" original="π[οιήσεις]" completeness="partly_reconstructed" tag="verb.2.sg.fut.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="647194" id="3" texid="144903" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="647195" id="4" texid="144903" row="4" wordNum="1" hand="m1" regularized="|gap=2||gap=1|" original="|gap=2||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="647196" id="5" texid="144903" row="4" wordNum="2" hand="m1" regularized="τον" original="τον" completeness="complete" tag="adjective.sg.masc.acc.pos" lemma="τος" lemmaFlag="suspect"/>
+			<word wordref_id="647197" id="6" texid="144903" row="4" wordNum="3" hand="m1" regularized="χ|gap=unknown|" original="χ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="647198" id="7" texid="144903" row="4" wordNum="4" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

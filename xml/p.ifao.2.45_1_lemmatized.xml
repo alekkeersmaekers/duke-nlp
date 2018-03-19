@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.ifao.2.45" TM="25092" HGV="25092" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1792064" id="1" texid="25092" row="1" wordNum="1" hand="m1" regularized="Ἁρᾶσις" original="Ἁρᾶσις" completeness="complete" tag="noun.sg.none.nom" lemma="Ἁρᾶσις" lemmaFlag="ok"/>
+			<word wordref_id="1792065" id="2" texid="25092" row="1" wordNum="2" hand="m1" regularized="καὶ" original="κα̣[ὶ]" completeness="partly_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1792066" id="3" texid="25092" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792067" id="4" texid="25092" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρεν*" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1792068" id="5" texid="25092" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1792069" id="1" texid="25092" row="2" wordNum="3" hand="m1" regularized="ἐγὼ" original="ἐγ̣[ὼ]" completeness="partly_reconstructed" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1792070" id="2" texid="25092" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792071" id="3" texid="25092" row="3" wordNum="1" hand="m1" regularized="η" original="η" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+			<word wordref_id="1792072" id="4" texid="25092" row="3" wordNum="2" hand="m1" regularized="Αρασις" original="Αρασ\ις/" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἄρασις" lemmaFlag="ok"/>
+			<word wordref_id="1792073" id="5" texid="25092" row="3" wordNum="3" hand="m1" regularized="τ|gap=1||gap=unknown|" original="τ|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792074" id="6" texid="25092" row="4" wordNum="1" hand="m1" regularized="κον" original="κον" completeness="complete" tag="verb.1.sg.impf.ind.act" lemma="κω" lemmaFlag="ok"/>
+			<word wordref_id="1792075" id="7" texid="25092" row="4" wordNum="2" hand="m1" regularized="παιδία|gap=unknown|" original="παιδία̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792076" id="8" texid="25092" row="5" wordNum="1" hand="m1" regularized="θηλάσαι|gap=unknown|" original="θηλάσαι|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792077" id="9" texid="25092" row="6" wordNum="1" hand="m1" regularized="τοι" original="τοι" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="1792078" id="10" texid="25092" row="6" wordNum="2" hand="m1" regularized="θέλεις" original="θέλεις" completeness="complete" tag="verb.2.sg.pres.ind.act" lemma="θέλω" lemmaFlag="ok"/>
+			<word wordref_id="1792079" id="11" texid="25092" row="6" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="1792080" id="12" texid="25092" row="7" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1792081" id="13" texid="25092" row="7" wordNum="2" hand="m1" regularized="μο|gap=unknown|" original="μο̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+		</sentence>
+	</text>
+</file>

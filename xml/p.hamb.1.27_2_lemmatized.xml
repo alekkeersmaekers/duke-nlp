@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hamb.1.27" TM="2306" HGV="2306" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1661456" id="1" texid="2306" row="20" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1661457" id="2" texid="2306" row="20" wordNum="2" hand="m1" regularized="λϛ|digit=36|" original="[λϛ|digit=36|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="λϛ" lemmaFlag="ok"/>
+			<word wordref_id="1661458" id="3" texid="2306" row="20" wordNum="3" hand="m1" regularized="Φαῶφι" original="Φαῶ̣φι" completeness="complete" tag="noun.sg.none.none" lemma="Φαῶφι" lemmaFlag="ok"/>
+			<word wordref_id="1661459" id="4" texid="2306" row="20" wordNum="4" hand="m1" regularized="κϛ|digit=26|" original="κϛ|digit=26|" completeness="complete" tag="numeral.none.none.none" lemma="κϛ" lemmaFlag="ok"/>
+			<word wordref_id="1661460" id="5" texid="2306" row="20" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1661461" id="1" texid="2306" row="21" wordNum="1" hand="m1" regularized="|gap=3|ος" original="|gap=3|ο̣ς" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1661462" id="2" texid="2306" row="21" wordNum="2" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1661463" id="3" texid="2306" row="21" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

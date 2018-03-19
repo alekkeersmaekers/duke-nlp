@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="stud.pal.8.1000" TM="35655" HGV="35655" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4639030" id="1" texid="35655" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="[|stauros|]" completeness="fully_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4639031" id="2" texid="35655" row="1" wordNum="2" hand="m1" regularized="Ἰακυβίῳ" original="[Ἰα]κυβίῳ" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἰακύβιος" lemmaFlag="ok"/>
+			<word wordref_id="4639032" id="3" texid="35655" row="1" wordNum="3" hand="m1" regularized="κελλαρικαρίῳ" original="κελλαρικαρ(ίῳ)" completeness="complete" tag="adjective.sg.masc.dat.pos" lemma="κελλαρικάριος" lemmaFlag="suspect"/>
+			<word wordref_id="4639033" id="4" texid="35655" row="2" wordNum="1" hand="m1" regularized="Ἀπίων" original="Ἀπίων" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀπίων" lemmaFlag="ok"/>
+			<word wordref_id="4639034" id="5" texid="35655" row="2" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4639035" id="1" texid="35655" row="2" wordNum="3" hand="m1" regularized="παράσχου" original="παράσχου" completeness="complete" tag="verb.2.sg.aor.ind.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="4639036" id="2" texid="35655" row="2" wordNum="4" hand="m1" regularized="σὺν" original="σὺν" completeness="complete" tag="preposition" lemma="σύν" lemmaFlag="ok"/>
+			<word wordref_id="4639037" id="3" texid="35655" row="2-3" wordNum="1" hand="m1" regularized="ἀδελφῷ" original="ἀδελ-φῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="4639038" id="4" texid="35655" row="3" wordNum="1" hand="m1" regularized="μυριάδας" original="μυριάδας" completeness="complete" tag="noun.pl.fem.acc" lemma="μυριάς" lemmaFlag="ok"/>
+			<word wordref_id="4639039" id="5" texid="35655" row="3" wordNum="2" hand="m1" regularized="ἑκατὸν" original="ἑκατὸν" completeness="complete" tag="numeral.none.none.none" lemma="ἑκατόν" lemmaFlag="ok"/>
+			<word wordref_id="4639040" id="6" texid="35655" row="4" wordNum="1" hand="m1" regularized="ὀγδοήκοντα" original="ὀγδοήκοντα" completeness="complete" tag="numeral.none.none.none" lemma="ὀγδοήκοντα" lemmaFlag="ok"/>
+			<word wordref_id="4639041" id="7" texid="35655" row="4" wordNum="2" hand="m1" regularized="γίνονται" original="γ(ίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="4639042" id="8" texid="35655" row="4" wordNum="3" hand="m1" regularized="μυριάδες" original="μ(υριάδες)" completeness="complete" tag="noun.pl.fem.nom" lemma="μυριάς" lemmaFlag="ok"/>
+			<word wordref_id="4639043" id="9" texid="35655" row="4" wordNum="4" hand="m1" regularized="ρπ|digit=180||num=1800000|" original="[ρπ|digit=180|]|num=1800000|" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="ρπ" lemmaFlag="ok"/>
+			<word wordref_id="4639044" id="10" texid="35655" row="5" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4639045" id="11" texid="35655" row="5" wordNum="2" hand="m1" regularized="ἰνδικτίονος" original="ἰνδ(ικτίονος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="4639046" id="12" texid="35655" row="5" wordNum="3" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="4639047" id="13" texid="35655" row="5" wordNum="4" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="4639048" id="14" texid="35655" row="5" wordNum="5" hand="m1" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

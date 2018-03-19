@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.218" TM="41981" HGV="41981" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="726493" id="1" texid="41981" row="1" wordNum="1" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.nom" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="726494" id="2" texid="41981" row="1" wordNum="2" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="726495" id="3" texid="41981" row="2" wordNum="1" hand="m1" regularized="παρήνεγκεν" original="παρήνεγκον*" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="παραφέρω" lemmaFlag="ok"/>
+			<word wordref_id="726496" id="4" texid="41981" row="2-3" wordNum="1" hand="m1" regularized="Ἀτῖσις" original="Ἀτῖ-σις" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀτῖσις" lemmaFlag="ok"/>
+			<word wordref_id="726497" id="5" texid="41981" row="3" wordNum="1" hand="m1" regularized="|gap=4||gap=3|" original="|gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="726498" id="6" texid="41981" row="3-4" wordNum="1" hand="m1" regularized="Καρανίδος" original="Καρα-νίδος" completeness="complete" tag="noun.sg.fem.gen" lemma="Καρανίδος" lemmaFlag="ok"/>
+			<word wordref_id="726499" id="7" texid="41981" row="4" wordNum="1" hand="m1" regularized="ιϛ|digit=16|" original="ι̣ϛ̣|digit=16|" completeness="complete" tag="numeral.none.none.none" lemma="ιϛ" lemmaFlag="ok"/>
+			<word wordref_id="726500" id="8" texid="41981" row="4" wordNum="2" hand="m1" regularized="|gap=4||gap=2|" original="|gap=4||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="726501" id="9" texid="41981" row="5-6" wordNum="1" hand="m1" regularized="|gap=4||gap=4||gap=1|ήκοντα" original="|gap=4||gap=4||gap=1|ή-κοντα" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="726502" id="10" texid="41981" row="6" wordNum="1" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="726503" id="11" texid="41981" row="6" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="726504" id="12" texid="41981" row="6" wordNum="3" hand="m1" regularized="γίνονται" original="γ̣(ίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="726505" id="13" texid="41981" row="6" wordNum="4" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.koeln.6.269" TM="3199" HGV="3199" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1852190" id="1" texid="3199" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852191" id="2" texid="3199" row="1" wordNum="2" hand="m1" regularized="|gap=unknown||gap=1||gap=unknown|" original="|gap=unknown||gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852192" id="3" texid="3199" row="2" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852193" id="4" texid="3199" row="2" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1852194" id="5" texid="3199" row="3" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1||gap=1||gap=1||gap=3|" original="|gap=unknown||gap=1||gap=1||gap=1||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852195" id="6" texid="3199" row="3" wordNum="2" hand="m1" regularized="πεπραγμένων" original="[πε]π̣ραγμένων" completeness="partly_reconstructed" tag="participle.pl.pf.mid.neut.gen" lemma="πράσσω" lemmaFlag="ok"/>
+			<word wordref_id="1852196" id="7" texid="3199" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|κλε|gap=4||gap=1|κ|gap=3|ς" original="|gap=unknown|κ̣λ̣ε|gap=4||gap=1|κ̣|gap=3|ς̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852197" id="8" texid="3199" row="4" wordNum="2" hand="m1" regularized="ὠνήν" original="ὠνήν" completeness="complete" tag="noun.sg.fem.acc" lemma="ὠνή" lemmaFlag="ok"/>
+			<word wordref_id="1852198" id="9" texid="3199" row="5" wordNum="1" hand="m1" regularized="ἔρρωσο" original="ἔ̣ρ̣ρ̣(ωσο)" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="1852199" id="10" texid="3199" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1852200" id="1" texid="3199" row="5" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1852201" id="2" texid="3199" row="5" wordNum="4" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="1852202" id="3" texid="3199" row="5" wordNum="5" hand="m1" regularized="Παχὼν" original="Παχὼν" completeness="complete" tag="noun.sg.none.none" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="1852203" id="4" texid="3199" row="5" wordNum="6" hand="m1" regularized="ιδ|digit=14|" original="ιδ|digit=14|" completeness="complete" tag="numeral.none.none.none" lemma="ιδ" lemmaFlag="ok"/>
+			<word wordref_id="1852204" id="5" texid="3199" row="5" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1852205" id="1" texid="3199" row="6" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852206" id="2" texid="3199" row="6" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852207" id="3" texid="3199" row="6" wordNum="3" hand="m1" regularized="νιτρικῆς" original="[νι]τ̣ρικῆς" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="νιτρική" lemmaFlag="ok"/>
+			<word wordref_id="1852208" id="4" texid="3199" row="6" wordNum="4" hand="m1" regularized="τάλαντα" original="(τάλαντα)" completeness="complete" tag="noun.pl.neut.nom" lemma="τάλαντον" lemmaFlag="ok"/>
+			<word wordref_id="1852209" id="5" texid="3199" row="6" wordNum="5" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="1852210" id="6" texid="3199" row="6" wordNum="6" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="1852211" id="7" texid="3199" row="6" wordNum="7" hand="m1" regularized="Αυνη|digit=1458|" original="Αυ̣νη|digit=1458|" completeness="complete" tag="numeral.none.none.none" lemma="Αὔνη" lemmaFlag="ok"/>
+			<word wordref_id="1852212" id="8" texid="3199" row="6" wordNum="8" hand="m1" regularized="κβ|digit=22|" original="κβ|digit=22|" completeness="complete" tag="numeral.none.none.none" lemma="κβ" lemmaFlag="ok"/>
+			<word wordref_id="1852213" id="9" texid="3199" row="6" wordNum="9" hand="m1" regularized="διώβολον|digit=2|" original="(διώβολον)|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="διώβολον" lemmaFlag="ok"/>
+			<word wordref_id="1852214" id="10" texid="3199" row="7" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852215" id="11" texid="3199" row="7" wordNum="2" hand="m1" regularized="τετάρτης" original="[τ]ε̣τάρτης" completeness="partly_reconstructed" tag="adjective.sg.fem.gen.pos" lemma="τέταρτος" lemmaFlag="ok"/>
+			<word wordref_id="1852216" id="12" texid="3199" row="7" wordNum="3" hand="m1" regularized="Αρϙδ|digit=1194|" original="Αρϙδ|digit=1194|" completeness="complete" tag="numeral.none.none.none" lemma="Ἄρ?δ" lemmaFlag="ok"/>
+			<word wordref_id="1852217" id="13" texid="3199" row="7" wordNum="4" hand="m1" regularized="δ´|digit=1/4|" original="δ´|digit=1/4|" completeness="complete" tag="numeral.none.none.none" lemma="δ´" lemmaFlag="ok"/>
+			<word wordref_id="1852218" id="14" texid="3199" row="8" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|λβ|digit=32|" original="|gap=unknown||gap=1|λ̣β|digit=32|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1852219" id="15" texid="3199" row="8" wordNum="2" hand="m1" regularized="πεντώβολον|digit=5|" original="(πεντώβολον)|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="πεντώβολον" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

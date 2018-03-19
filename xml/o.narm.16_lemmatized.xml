@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.16" TM="40899" HGV="40899" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="745040" id="1" texid="40899" row="1" wordNum="1" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="745041" id="2" texid="40899" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="745042" id="1" texid="40899" row="1" wordNum="3" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="745043" id="2" texid="40899" row="1" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="745044" id="3" texid="40899" row="1" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="745045" id="1" texid="40899" row="2" wordNum="1" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="745046" id="2" texid="40899" row="2-3" wordNum="1" hand="m1" regularized="Ἁρποχρατίωνα" original="Ἁρποχρα-τίωνβιβλιοφ-ύλακα*" completeness="complete" tag="noun.sg.masc.acc" lemma="Ἁρποχρατίων" lemmaFlag="ok"/>
+			<word wordref_id="745047" id="3" texid="40899" row="3" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

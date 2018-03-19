@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.bingen.94" TM="78062" HGV="78062" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1041909" id="1" texid="78062" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|ατερζ…" original="|gap=unknown|ατ̣ερζ(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1041910" id="2" texid="78062" row="1" wordNum="2" hand="m1" regularized="Σαν|gap=unknown|" original="Σαν|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1041911" id="3" texid="78062" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|ου" original="|gap=unknown|[ο]υ" regularized_old="|gap=unknown|" original_old="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1041912" id="4" texid="78062" row="2" wordNum="2" hand="m1" regularized="|extra|" original="|extra|" regularized_old="-ου" original_old="[-ο]υ" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1041913" id="5" texid="78062" row="2" wordNum="3" hand="m1" regularized="ἔτους" original="ἔτους" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1041914" id="6" texid="78062" row="2" wordNum="4" hand="m1" regularized="Ἀντωνίνου" original="Ἀντ[ωνίνου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀντωνῖνος" lemmaFlag="ok"/>
+			<word wordref_id="1041915" id="7" texid="78062" row="3" wordNum="1" hand="m1" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1041916" id="8" texid="78062" row="3" wordNum="2" hand="m1" regularized="κυρίου" original="[κυρίο]υ" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="1041917" id="9" texid="78062" row="3" wordNum="3" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.nom" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="1041918" id="10" texid="78062" row="3" wordNum="4" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="1041919" id="11" texid="78062" row="3" wordNum="5" hand="m1" regularized="δραχμὰς" original="δρ[αχμὰς]" completeness="partly_reconstructed" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="1041920" id="12" texid="78062" row="4" wordNum="1" hand="m1" regularized="δεκάπεντε|num=15|" original="[δεκάπε]ντε|num=15|" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="δεκάπεντε" lemmaFlag="ok"/>
+			<word wordref_id="1041921" id="13" texid="78062" row="4" wordNum="2" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="1041922" id="14" texid="78062" row="4" wordNum="3" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="1041923" id="15" texid="78062" row="4" wordNum="4" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

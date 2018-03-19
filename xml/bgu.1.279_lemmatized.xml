@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.1.279" TM="9024" HGV="9024" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="17675" id="1" texid="9024" row="1" wordNum="1" hand="m1" regularized="σιτολόγοις" original="σι[τολ(όγοις)]" completeness="partly_reconstructed" tag="noun.pl.masc.dat" lemma="σιτόλογος" lemmaFlag="ok"/>
+			<word wordref_id="17676" id="2" texid="9024" row="1" wordNum="2" hand="m1" regularized="Καρανίδος" original="[Καρ]ανίδ(ος)" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="Καρανίδος" lemmaFlag="ok"/>
+			<word wordref_id="17677" id="3" texid="9024" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="17678" id="1" texid="9024" row="1" wordNum="4" hand="m1" regularized="ἔσχον" original="[ἔ]σ[χ]ον" completeness="partly_reconstructed" tag="verb.3.pl.aor.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="17679" id="2" texid="9024" row="1-2" wordNum="1" hand="m1" regularized="προσφωνήσας?" original="προσ̣-φω(νήσας?)" completeness="complete" tag="participle.sg.aor.act.masc.nom" lemma="προσφωνέω" lemmaFlag="ok"/>
+			<word wordref_id="17680" id="3" texid="9024" row="2" wordNum="1" hand="m1" regularized="σπερμάτων" original="σπερ(μάτων)" completeness="complete" tag="noun.pl.neut.gen" lemma="σπέρμα" lemmaFlag="ok"/>
+			<word wordref_id="17681" id="4" texid="9024" row="2" wordNum="2" hand="m1" regularized="κβ|digit=22|" original="κβ|digit=22|" completeness="complete" tag="numeral.none.none.none" lemma="κβ" lemmaFlag="ok"/>
+			<word wordref_id="17682" id="5" texid="9024" row="2" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="17683" id="6" texid="9024" row="2" wordNum="4" hand="m1" regularized="Ἀντωνείνου" original="Ἀντωνείνου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀντωνεῖνος" lemmaFlag="ok"/>
+			<word wordref_id="17684" id="7" texid="9024" row="3" wordNum="1" hand="m1" regularized="Καίσαρος" original="Καίσαρος" completeness="complete" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="17685" id="8" texid="9024" row="3" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="17686" id="9" texid="9024" row="3" wordNum="3" hand="m1" regularized="κυρίου" original="κυρίου" completeness="complete" tag="noun.sg.masc.gen" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="17687" id="10" texid="9024" row="3" wordNum="4" hand="m2" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="17688" id="11" texid="9024" row="4" wordNum="1" hand="m2" regularized="κληρουχίας" original="κληρουχ(ίας)" completeness="complete" tag="noun.pl.fem.acc" lemma="κληρουχία" lemmaFlag="ok"/>
+			<word wordref_id="17689" id="12" texid="9024" row="4" wordNum="2" hand="m2" regularized="Πτολεμαῖος" original="Πτολεμαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="17690" id="13" texid="9024" row="5" wordNum="1" hand="m2" regularized="Πεθέως" original="Πεθέως" completeness="complete" tag="noun.sg.masc.nom" lemma="Πεθευς" lemmaFlag="ok"/>
+			<word wordref_id="17691" id="14" texid="9024" row="5" wordNum="2" hand="m2" regularized="Καρανίδος" original="Καρανίδ(ος)" completeness="complete" tag="noun.sg.fem.gen" lemma="Καρανίδος" lemmaFlag="ok"/>
+			<word wordref_id="17692" id="15" texid="9024" row="5" wordNum="3" hand="m2" regularized="βασιλικῆς" original="βασιλ(ικῆς)" completeness="complete" tag="adjective.sg.fem.gen.pos" lemma="βασιλικός" lemmaFlag="ok"/>
+			<word wordref_id="17693" id="16" texid="9024" row="6" wordNum="1" hand="m2" regularized="ἀρουρ…" original="(ἀρουρ…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="17694" id="17" texid="9024" row="6" wordNum="2" hand="m2" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

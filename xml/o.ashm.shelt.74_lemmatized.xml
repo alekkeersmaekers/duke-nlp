@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.ashm.shelt.74" TM="70624" HGV="70624" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="526910" id="1" texid="70624" row="1" wordNum="1" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="526911" id="2" texid="70624" row="2" wordNum="1" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="526912" id="3" texid="70624" row="2" wordNum="2" hand="m1" regularized="ἀννουμέρῳ" original="ἀννουμέρῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀννούμερος" lemmaFlag="suspect"/>
+			<word wordref_id="526913" id="4" texid="70624" row="3" wordNum="1" hand="m1" regularized="κρέως" original="κρέως" completeness="complete" tag="noun.sg.neut.gen" lemma="κρέας" lemmaFlag="ok"/>
+			<word wordref_id="526914" id="5" texid="70624" row="3" wordNum="2" hand="m1" regularized="λίτρας" original="λίτρας" completeness="complete" tag="noun.pl.fem.acc" lemma="λίτρα" lemmaFlag="ok"/>
+			<word wordref_id="526915" id="6" texid="70624" row="4" wordNum="1" hand="m1" regularized="τέσσαρας" original="τέσσαραις|num=4|*" completeness="complete" tag="numeral.pl.fem.acc" lemma="τέσσαρες" lemmaFlag="ok"/>
+			<word wordref_id="526916" id="7" texid="70624" row="4" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="526917" id="8" texid="70624" row="4ms" wordNum="1" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="526918" id="9" texid="70624" row="5" wordNum="1" hand="m1" regularized="επτιν" original="επτιν" completeness="complete" tag="noun.sg.fem.acc" lemma="επτις" lemmaFlag="suspect"/>
+			<word wordref_id="526919" id="10" texid="70624" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="526920" id="1" texid="70624" row="5" wordNum="3" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="526921" id="2" texid="70624" row="5" wordNum="4" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="526922" id="3" texid="70624" row="5" wordNum="5" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="526923" id="4" texid="70624" row="5" wordNum="6" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

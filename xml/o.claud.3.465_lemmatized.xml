@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.3.465" TM="73648" HGV="73648" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="629277" id="1" texid="73648" row="1" wordNum="1" hand="m1" regularized="|gap=9|λερίου" original="|gap=9|λερίου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629278" id="2" texid="73648" row="1-2" wordNum="1" hand="m1" regularized="Σεραπίωνι" original="Σε-[ραπίωνι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Σεραπίων" lemmaFlag="ok"/>
+			<word wordref_id="629279" id="3" texid="73648" row="2" wordNum="1" hand="m1" regularized="λακκαρίῳ" original="[λα]κκαρίῳ" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="λακκάριος" lemmaFlag="ok"/>
+			<word wordref_id="629280" id="4" texid="73648" row="3" wordNum="1" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="629281" id="5" texid="73648" row="3" wordNum="2" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="629282" id="1" texid="73648" row="3" wordNum="3" hand="m1" regularized="ὁμολογῶ" original="[ὁμολο]γῶ" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="ὁμολογέω" lemmaFlag="ok"/>
+			<word wordref_id="629283" id="2" texid="73648" row="3-4" wordNum="1" hand="m1" regularized="προκεχρῆσθαι" original="προκε-[χρῆσθαι]" completeness="partly_reconstructed" tag="infinitive.pf.mid" lemma="προχράω" lemmaFlag="ok"/>
+			<word wordref_id="629284" id="3" texid="73648" row="4" wordNum="1" hand="m1" regularized="παρὰ" original="[παρὰ]" completeness="fully_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="629285" id="4" texid="73648" row="4" wordNum="2" hand="m1" regularized="σοῦ" original="[σ]οῦ" completeness="partly_reconstructed" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="629286" id="5" texid="73648" row="4" wordNum="3" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="629287" id="6" texid="73648" row="4-5" wordNum="1" hand="m1" regularized="ὀψώνιον" original="ὀψώ-[νιον]" completeness="partly_reconstructed" tag="noun.sg.neut.acc" lemma="ὀψώνιον" lemmaFlag="ok"/>
+			<word wordref_id="629288" id="7" texid="73648" row="5" wordNum="1" hand="m1" regularized="|gap=8|" original="|gap=8|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629289" id="8" texid="73648" row="5" wordNum="2" hand="m1" regularized="μηνὸς" original="μηνὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="μήν" lemmaFlag="ok"/>
+			<word wordref_id="629290" id="9" texid="73648" row="5" wordNum="3" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629291" id="10" texid="73648" row="6" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629292" id="11" texid="73648" row="7" wordNum="1" hand="m1" regularized="|gap=unknown||gap=2|" original="|gap=unknown||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629293" id="12" texid="73648" row="7" wordNum="2" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

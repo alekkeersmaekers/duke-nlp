@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.16.12617" TM="32817" HGV="32817" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4184546" id="1" texid="32817" row="1" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1||gap=1||gap=1||gap=1|ωκ|gap=2|" original="|gap=unknown||gap=1||gap=1||gap=1||gap=1|ω̣κ̣|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4184547" id="2" texid="32817" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4184548" id="3" texid="32817" row="2" wordNum="2" hand="m1" regularized="ὡς" original="ὡ̣ς̣" completeness="complete" tag="conjunction" lemma="ὡς" lemmaFlag="ok"/>
+			<word wordref_id="4184549" id="4" texid="32817" row="2" wordNum="3" hand="m1" regularized="ἂν" original="ἂν" completeness="complete" tag="particle" lemma="ἄν" lemmaFlag="ok"/>
+			<word wordref_id="4184550" id="5" texid="32817" row="2-3" wordNum="1" hand="m1" regularized="εὔχωμαι" original="εὔχω-[μαι]" completeness="partly_reconstructed" tag="verb.1.sg.pres.subj.mid" lemma="εὔχομαι" lemmaFlag="ok"/>
+			<word wordref_id="4184551" id="6" texid="32817" row="3" wordNum="1" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4184552" id="1" texid="32817" row="3" wordNum="2" hand="m1" regularized="ἐρρώμενόν" original="[ἐρρώμεν]ό̣ν" completeness="partly_reconstructed" tag="participle.sg.fut.mid.neut.acc" lemma="ἐνράζω" lemmaFlag="suspect"/>
+			<word wordref_id="4184553" id="2" texid="32817" row="3" wordNum="3" hand="m1" regularized="σε" original="σαι*" completeness="complete" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="4184554" id="3" texid="32817" row="3" wordNum="4" hand="m1" regularized="ἡ" original="ἡ" completeness="complete" tag="article.sg.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4184555" id="4" texid="32817" row="3" wordNum="5" hand="m1" regularized="θεία" original="θία*" completeness="complete" tag="adjective.sg.fem.nom.pos" lemma="θεῖος" lemmaFlag="ok"/>
+			<word wordref_id="4184556" id="5" texid="32817" row="4" wordNum="1" hand="m1" regularized="πρόνοια" original="[πρόνοι]α" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="πρόνοια" lemmaFlag="ok"/>
+			<word wordref_id="4184557" id="6" texid="32817" row="4" wordNum="2" hand="m1" regularized="διαφυλάξειεν" original="διαφυλάξιεν*" completeness="complete" tag="verb.3.sg.aor.opt.act" lemma="διαφυλάσσω" lemmaFlag="ok"/>
+			<word wordref_id="4184558" id="7" texid="32817" row="5" wordNum="1" hand="m1" regularized="ἐπὶ" original="[ἐπὶ]" completeness="fully_reconstructed" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="4184559" id="8" texid="32817" row="5" wordNum="2" hand="m1" regularized="μέγιστον" original="[μέγισ]τον" completeness="partly_reconstructed" tag="adjective.sg.masc.acc.pos" lemma="μέγας" lemmaFlag="ok"/>
+			<word wordref_id="4184560" id="9" texid="32817" row="5" wordNum="3" hand="m1" regularized="χρόνον" original="χρόνον" completeness="complete" tag="noun.sg.masc.acc" lemma="χρόνος" lemmaFlag="ok"/>
+			<word wordref_id="4184561" id="10" texid="32817" row="5" wordNum="4" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4184562" id="11" texid="32817" row="6" wordNum="1" hand="m1" regularized="δέσποτά" original="[δέσποτ]ά̣" completeness="partly_reconstructed" tag="noun.sg.masc.voc" lemma="δεσπότης" lemmaFlag="ok"/>
+			<word wordref_id="4184563" id="12" texid="32817" row="6" wordNum="2" hand="m1" regularized="μου" original="μου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="4184564" id="13" texid="32817" row="6" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

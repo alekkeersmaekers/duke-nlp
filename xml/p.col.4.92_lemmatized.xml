@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.col.4.92" TM="1805" HGV="1805" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1322733" id="1" texid="1805" row="1" wordNum="1" hand="m1" regularized="προσάγγελμα" original="προσάγγελμα" completeness="complete" tag="noun.sg.neut.acc" lemma="προσάγγελμα" lemmaFlag="ok"/>
+			<word wordref_id="1322734" id="2" texid="1805" row="1" wordNum="2" hand="m1" regularized="Ὥρωι" original="Ὥρωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ὧρος" lemmaFlag="ok"/>
+			<word wordref_id="1322735" id="3" texid="1805" row="1" wordNum="3" hand="m1" regularized="φυλακίτηι" original="φυλακίτηι̣" completeness="complete" tag="noun.sg.masc.dat" lemma="φυλακίτης" lemmaFlag="ok"/>
+			<word wordref_id="1322736" id="4" texid="1805" row="2" wordNum="1" hand="m1" regularized="παρὰ" original="[πα]ρ̣ὰ̣" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1322737" id="5" texid="1805" row="2" wordNum="2" hand="m1" regularized="Διοσκουρίδου" original="Διοσκουρίδου" completeness="complete" tag="noun.sg.masc.gen" lemma="Διοσκουρίδης" lemmaFlag="ok"/>
+			<word wordref_id="1322738" id="6" texid="1805" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1322739" id="1" texid="1805" row="2" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1322740" id="2" texid="1805" row="2" wordNum="5" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="1322741" id="3" texid="1805" row="2" wordNum="6" hand="m1" regularized="μηνὸς" original="μηνὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="μήν" lemmaFlag="ok"/>
+			<word wordref_id="1322742" id="4" texid="1805" row="3" wordNum="1" hand="m1" regularized="Θῶυθ" original="Θ̣[ῶυ]θ̣" completeness="partly_reconstructed" tag="noun.sg.none.nom" lemma="Θῶυθ" lemmaFlag="ok"/>
+			<word wordref_id="1322743" id="5" texid="1805" row="3" wordNum="2" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="1322744" id="6" texid="1805" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1322745" id="1" texid="1805" row="3" wordNum="4" hand="m1" regularized="πορευομένου" original="πορευομένο̣υ̣" completeness="complete" tag="verb.2.sg.pres.imp.mid" lemma="πορεύομαι" lemmaFlag="suspect"/>
+			<word wordref_id="1322746" id="2" texid="1805" row="3" wordNum="5" hand="m1" regularized="μου" original="μ̣ου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1322747" id="3" texid="1805" row="4" wordNum="1" hand="m1" regularized="ἐκ" original="ἐ̣κ̣" completeness="complete" tag="preposition" lemma="ἐκ" lemmaFlag="ok"/>
+			<word wordref_id="1322748" id="4" texid="1805" row="4" wordNum="2" hand="m1" regularized="Κροκοδίλων" original="[Κ]ρ̣οκοδίλων" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Κροκοδίλων" lemmaFlag="ok"/>
+			<word wordref_id="1322749" id="5" texid="1805" row="4" wordNum="3" hand="m1" regularized="πόλεως" original="πόλεως" completeness="complete" tag="noun.sg.fem.gen" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="1322750" id="6" texid="1805" row="4" wordNum="4" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="1322751" id="7" texid="1805" row="4-5" wordNum="1" hand="m1" regularized="Φιλαδέλφειαν" original="Φιλα-[δέλφειαν]" completeness="partly_reconstructed" tag="noun.sg.fem.acc" lemma="Φιλαδέλφεια" lemmaFlag="ok"/>
+			<word wordref_id="1322752" id="8" texid="1805" row="5" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1322753" id="9" texid="1805" row="6" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

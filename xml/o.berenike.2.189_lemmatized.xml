@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.2.189" TM="89215" HGV="89215" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="531309" id="1" texid="89215" row="1" wordNum="1" hand="m1" regularized="Σαμανητος" original="Σαμανητος" completeness="complete" tag="noun.sg.none.nom" lemma="Σαμάνητος" lemmaFlag="ok"/>
+			<word wordref_id="531310" id="2" texid="89215" row="1" wordNum="2" hand="m1" regularized="Ἀμφιώμει" original="Ἀμφ[ιώμει]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀμφιωμις" lemmaFlag="ok"/>
+			<word wordref_id="531311" id="3" texid="89215" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531312" id="4" texid="89215" row="2" wordNum="1" hand="m1" regularized="κομίσατε" original="[κ]ομίσαται*" completeness="partly_reconstructed" tag="verb.2.pl.aor.imp.act" lemma="κομίζω" lemmaFlag="ok"/>
+			<word wordref_id="531313" id="5" texid="89215" row="2" wordNum="2" hand="m1" regularized="παρὰ" original="πα̣ρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="531314" id="6" texid="89215" row="2" wordNum="3" hand="m1" regularized="Π|gap=1||gap=unknown|" original="Π|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531315" id="7" texid="89215" row="3" wordNum="1" hand="m1" regularized="|gap=1|ων" original="|gap=1|ω̣ν" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531316" id="8" texid="89215" row="3" wordNum="2" hand="m1" regularized="δέσμην" original="δέσμην" completeness="complete" tag="noun.sg.fem.acc" lemma="δέσμη" lemmaFlag="ok"/>
+			<word wordref_id="531317" id="9" texid="89215" row="3" wordNum="3" hand="m1" regularized="σ|gap=unknown|" original="σ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531318" id="10" texid="89215" row="4" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|υσιν" original="|gap=unknown||gap=1|υσιν" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531319" id="11" texid="89215" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="531320" id="1" texid="89215" row="4" wordNum="3" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="531321" id="2" texid="89215" row="4" wordNum="4" hand="m1" regularized="δὲ" original="δὲ" completeness="complete" tag="particle" lemma="δέ" lemmaFlag="ok"/>
+			<word wordref_id="531322" id="3" texid="89215" row="4" wordNum="5" hand="m1" regularized="ἐπε|gap=1||gap=unknown|" original="ἐπε|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531323" id="4" texid="89215" row="5" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531324" id="5" texid="89215" row="5" wordNum="2" hand="m1" regularized="τῷ" original="τ̣ῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="531325" id="6" texid="89215" row="5" wordNum="3" hand="m1" regularized="καμηλ|gap=unknown|" original="καμηλ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531326" id="7" texid="89215" row="6" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|ρωτουτ|gap=unknown|" original="|gap=unknown||gap=1|ρωτουτ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531327" id="8" texid="89215" row="7" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|ρ|gap=2||gap=unknown|" original="|gap=unknown||gap=1|ρ|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="531328" id="9" texid="89215" row="7" wordNum="2" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

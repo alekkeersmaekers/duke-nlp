@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.petr.3.29" TM="7416 7417 7418 7419" HGV="7416 7417 7418 7419" lang="grc" textpart="H">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3169766" id="1" texid="7418" row="1" wordNum="1" hand="m1" regularized="Ἀφθονήτωι" original="Ἀφθονήτωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἀφθόνητος" lemmaFlag="ok"/>
+			<word wordref_id="3169767" id="2" texid="7418" row="2" wordNum="1" hand="m1" regularized="στρατηγῶι" original="στρατηγῶι" completeness="complete" tag="noun.sg.masc.dat" lemma="στρατηγός" lemmaFlag="ok"/>
+			<word wordref_id="3169768" id="3" texid="7418" row="3" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="3169769" id="4" texid="7418" row="3-4" wordNum="1" hand="m1" regularized="Βερενίκης" original="Βερε-νίκης" completeness="complete" tag="noun.sg.fem.gen" lemma="Βερενίκη" lemmaFlag="ok"/>
+			<word wordref_id="3169770" id="5" texid="7418" row="4" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3169771" id="1" texid="7418" row="4-5" wordNum="1" hand="m1" regularized="ἀξιῶ" original="ἀξι-[ῶ]" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.act" lemma="ἀξιόω" lemmaFlag="ok"/>
+			<word wordref_id="3169772" id="2" texid="7418" row="5" wordNum="1" hand="m1" regularized="σε" original="[σ]ε" completeness="partly_reconstructed" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="3169773" id="3" texid="7418" row="5-6" wordNum="1" hand="m1" regularized="εἰσκαλεσάμενός" original="ε̣ἰ̣σκα-[λε]σ̣άμενός" completeness="partly_reconstructed" tag="participle.sg.aor.mid.masc.nom" lemma="εἰσκαλέομαι" lemmaFlag="suspect"/>
+			<word wordref_id="3169774" id="4" texid="7418" row="7" wordNum="1" hand="m1" regularized="με" original="[με]" completeness="fully_reconstructed" tag="personal.sg.comm.acc" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="3169775" id="5" texid="7418" row="7-8" wordNum="1" hand="m1" regularized="ἐπισκέψασθαι" original="ἐπισκέψασ-θαι" completeness="complete" tag="infinitive.aor.mid" lemma="ἐπισκέπτομαι" lemmaFlag="ok"/>
+			<word wordref_id="3169776" id="6" texid="7418" row="8" wordNum="1" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="3169777" id="7" texid="7418" row="8" wordNum="2" hand="m1" regularized="ὧν" original="ὧν" completeness="complete" tag="relative.pl.masc.gen" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="3169778" id="8" texid="7418" row="9" wordNum="1" hand="m1" regularized="ἀξιῶ" original="ἀξιῶ" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἀξιόω" lemmaFlag="ok"/>
+			<word wordref_id="3169779" id="9" texid="7418" row="9" wordNum="2" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="3169780" id="10" texid="7418" row="10" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

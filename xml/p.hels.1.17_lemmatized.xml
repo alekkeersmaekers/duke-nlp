@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hels.1.17" TM="5152" HGV="5152" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1719158" id="1" texid="5152" row="00" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1719159" id="2" texid="5152" row="00" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1719160" id="3" texid="5152" row="00" wordNum="3" hand="m1" regularized="ἐν" original="[ἐν]" completeness="fully_reconstructed" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="1719161" id="4" texid="5152" row="00-1" wordNum="1" hand="m1" regularized="χρηματισμῶι" original="[χρη]-ματισμ[ῶι]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="χρηματισμός" lemmaFlag="ok"/>
+			<word wordref_id="1719162" id="5" texid="5152" row="1" wordNum="1" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1719163" id="1" texid="5152" row="2" wordNum="1" hand="m1" regularized="εὐτύχει" original="εὐτύχει" completeness="complete" tag="verb.2.sg.pres.imp.act" lemma="εὐτυχέω" lemmaFlag="ok"/>
+			<word wordref_id="1719164" id="2" texid="5152" row="3" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1719165" id="3" texid="5152" row="3" wordNum="2" hand="m1" regularized="ιθ|digit=19|" original="ιθ|digit=19|" completeness="complete" tag="numeral.none.none.none" lemma="ιθ" lemmaFlag="ok"/>
+			<word wordref_id="1719166" id="4" texid="5152" row="3" wordNum="3" hand="m1" regularized="Θῶυθ" original="Θῶυθ" completeness="complete" tag="noun.sg.none.none" lemma="Θῶυθ" lemmaFlag="ok"/>
+			<word wordref_id="1719167" id="5" texid="5152" row="3" wordNum="4" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

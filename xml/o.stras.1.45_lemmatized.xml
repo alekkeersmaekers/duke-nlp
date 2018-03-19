@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.45" TM="75645" HGV="75645" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="785645" id="1" texid="75645" row="1" wordNum="1" hand="m1" regularized="τέτακται" original="τέτακ(ται)" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τάσσω" lemmaFlag="ok"/>
+			<word wordref_id="785646" id="2" texid="75645" row="1" wordNum="2" hand="m1" regularized="ἐπὶ" original="ἐπὶ" completeness="complete" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="785647" id="3" texid="75645" row="1" wordNum="3" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="785648" id="4" texid="75645" row="1" wordNum="4" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="785649" id="5" texid="75645" row="1" wordNum="5" hand="m1" regularized="Διὸς" original="Διὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="Ζεύς" lemmaFlag="ok"/>
+			<word wordref_id="785650" id="6" texid="75645" row="1" wordNum="6" hand="m1" regularized="πόλει" original="πόλ(ει)" completeness="complete" tag="noun.sg.fem.dat" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="785651" id="7" texid="75645" row="2" wordNum="1" hand="m1" regularized="τῇ" original="τῇ" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="785652" id="8" texid="75645" row="2" wordNum="2" hand="m1" regularized="μεγάλῃ" original="μεγ(άλῃ)" completeness="complete" tag="adjective.sg.fem.dat.pos" lemma="μέγας" lemmaFlag="ok"/>
+			<word wordref_id="785653" id="9" texid="75645" row="2" wordNum="3" hand="m1" regularized="βασιλικὴν" original="βα(σιλικὴν)" completeness="complete" tag="adjective.sg.fem.acc.pos" lemma="βασιλικός" lemmaFlag="ok"/>
+			<word wordref_id="785654" id="10" texid="75645" row="2" wordNum="4" hand="m1" regularized="τράπεζαν" original="τράπ(εζαν)" completeness="complete" tag="noun.sg.fem.acc" lemma="τράπεζα" lemmaFlag="ok"/>
+			<word wordref_id="785655" id="11" texid="75645" row="2" wordNum="5" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="785656" id="12" texid="75645" row="2" wordNum="6" hand="m1" regularized="ἐφʼ" original="ἐφʼ" completeness="complete" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="785657" id="13" texid="75645" row="2" wordNum="7" hand="m1" regularized="ἧς" original="ἧς" completeness="complete" tag="relative.sg.fem.gen" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="785658" id="14" texid="75645" row="2" wordNum="8" hand="m1" regularized="Κέφαλος" original="Κέφα(λος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Κέφαλος" lemmaFlag="ok"/>
+			<word wordref_id="785659" id="15" texid="75645" row="2" wordNum="9" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="785660" id="16" texid="75645" row="3" wordNum="1" hand="m1" regularized="Σειάθης" original="[Σ]ειαθου*" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="Σειάθης" lemmaFlag="ok"/>
+			<word wordref_id="785661" id="17" texid="75645" row="3" wordNum="2" hand="m1" regularized="Μαιεύριος" original="Μαιευρις*" completeness="complete" tag="noun.sg.masc.gen" lemma="Μαιεῦρις" lemmaFlag="ok"/>
+			<word wordref_id="785662" id="18" texid="75645" row="3" wordNum="3" hand="m1" regularized="ε|gap=4|…" original="ε|gap=4|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="785663" id="19" texid="75645" row="4" wordNum="1" hand="m1" regularized="|gap=7|κ|gap=1|αι|gap=4||gap=2|" original="|gap=7|κ|gap=1|α̣ι̣|gap=4||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="785664" id="20" texid="75645" row="5" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

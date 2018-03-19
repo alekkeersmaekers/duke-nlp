@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.4.818" TM="118470" HGV="118470" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="637516" id="1" texid="118470" row="1" wordNum="1" hand="m1" regularized="Φθαῦς" original="Φθαῦς" completeness="complete" tag="noun.sg.masc.nom" lemma="Φθαῦς" lemmaFlag="ok"/>
+			<word wordref_id="637517" id="2" texid="118470" row="1" wordNum="2" hand="m1" regularized="ἐργοδότης" original="ἐργοδ(ότης)" completeness="complete" tag="noun.sg.masc.nom" lemma="ἐργοδότης" lemmaFlag="ok"/>
+			<word wordref_id="637518" id="3" texid="118470" row="1" wordNum="3" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="637519" id="4" texid="118470" row="1" wordNum="4" hand="m1" regularized="χαίρειν" original="[χ(αίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="637520" id="5" texid="118470" row="1" wordNum="5" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="637521" id="1" texid="118470" row="2" wordNum="1" hand="m1" regularized="δώσις" original="δώσις" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="δώς" lemmaFlag="ok"/>
+			<word wordref_id="637522" id="2" texid="118470" row="2" wordNum="2" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="637523" id="3" texid="118470" row="2" wordNum="3" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="637524" id="4" texid="118470" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="637525" id="5" texid="118470" row="2-3" wordNum="1" hand="m1" regularized="σιδήρια" original="[σιδή]-ρια" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="σιδήριον" lemmaFlag="ok"/>
+			<word wordref_id="637526" id="6" texid="118470" row="3" wordNum="1" hand="m1" regularized="κϛ|digit=26|" original="κϛ|digit=26|" completeness="complete" tag="numeral.none.none.none" lemma="κϛ" lemmaFlag="ok"/>
+			<word wordref_id="637527" id="7" texid="118470" row="3" wordNum="2" hand="m1" regularized="τῶι" original="τῶι" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="637528" id="8" texid="118470" row="3" wordNum="3" hand="m1" regularized="φέροντί" original="φέ̣[ροντί]" completeness="partly_reconstructed" tag="participle.sg.pres.act.masc.dat" lemma="φέρω" lemmaFlag="ok"/>
+			<word wordref_id="637529" id="9" texid="118470" row="3" wordNum="4" hand="m1" regularized="σοι" original="[σοι]" completeness="fully_reconstructed" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="637530" id="10" texid="118470" row="4" wordNum="1" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="637531" id="11" texid="118470" row="4" wordNum="2" hand="m1" regularized="ὄστρακον" original="ὤστρακον*" completeness="complete" tag="noun.sg.neut.acc" lemma="ὄστρακον" lemmaFlag="ok"/>
+			<word wordref_id="637532" id="12" texid="118470" row="4" wordNum="3" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="637533" id="13" texid="118470" row="5" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="637534" id="14" texid="118470" row="5" wordNum="2" hand="m1" regularized="ἐρρωσ|gap=unknown|" original="ἐρρ[ωσ]|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

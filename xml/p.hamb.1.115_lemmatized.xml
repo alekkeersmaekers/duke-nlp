@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hamb.1.115" TM="2367" HGV="2367" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1657828" id="1" texid="2367" row="1" wordNum="1" hand="m1" regularized="Δαμάσται" original="Δαμάσται" completeness="complete" tag="noun.pl.masc.nom" lemma="Δαμάστας" lemmaFlag="ok"/>
+			<word wordref_id="1657829" id="2" texid="2367" row="2" wordNum="1" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1657830" id="3" texid="2367" row="2" wordNum="2" hand="m1" regularized="Ἀντιόχου" original="Ἀντιό̣χου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀντίοχος" lemmaFlag="ok"/>
+			<word wordref_id="1657831" id="4" texid="2367" row="3" wordNum="1" hand="m1" regularized="ἑκατονταρούρωι" original="(ἑκατοντ)αρ(ο)ύ(ρωι)" completeness="complete" tag="adjective.sg.masc.dat.pos" lemma="ἑκατοντάρουρος" lemmaFlag="ok"/>
+			<word wordref_id="1657832" id="5" texid="2367" row="3" wordNum="2" hand="m1" regularized="|gap=3||gap=1|μι|gap=2|" original="|gap=3||gap=1|μ̣ι̣|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1657833" id="6" texid="2367" row="4" wordNum="1" hand="m1" regularized="κριθῆς" original="κρ(ιθῆς)" completeness="complete" tag="noun.sg.fem.gen" lemma="κριθή" lemmaFlag="ok"/>
+			<word wordref_id="1657834" id="7" texid="2367" row="4" wordNum="2" hand="m1" regularized="ἀρτάβας" original="ἀρ(τάβας)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="1657835" id="8" texid="2367" row="4" wordNum="3" hand="m1" regularized="ε|digit=5||gap=1|" original="ε|digit=5||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1657836" id="9" texid="2367" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1657837" id="1" texid="2367" row="5" wordNum="1" hand="m2" regularized="κγ|digit=23|" original="κγ|digit=23|" completeness="complete" tag="numeral.none.none.none" lemma="κγ" lemmaFlag="ok"/>
+			<word wordref_id="1657838" id="2" texid="2367" row="6" wordNum="1" hand="m2" regularized="Δαμίσκωι" original="Δαμ̣ίσκω[ι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Δαμίσκος" lemmaFlag="ok"/>
+			<word wordref_id="1657839" id="3" texid="2367" row="6" wordNum="2" hand="m2" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1657840" id="4" texid="2367" row="7" wordNum="1" hand="m2" regularized="Ἀντιόχου" original="Ἀντιόχου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀντίοχος" lemmaFlag="ok"/>
+			<word wordref_id="1657841" id="5" texid="2367" row="7" wordNum="2" hand="m2" regularized="ἑκατονταρούρωι?" original="(ἑκατοντ)αρ(ο)ύ(ρωι?)" completeness="complete" tag="adjective.sg.masc.dat.pos" lemma="ἑκατοντάρουρος" lemmaFlag="ok"/>
+			<word wordref_id="1657842" id="6" texid="2367" row="7" wordNum="3" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1657843" id="7" texid="2367" row="8" wordNum="1" hand="m2" regularized="ε|gap=1||gap=5|δ|gap=1|" original="ε̣|gap=1||gap=5|δ̣|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

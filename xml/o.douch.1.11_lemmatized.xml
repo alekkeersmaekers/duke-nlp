@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.1.11" TM="34347" HGV="34347" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="654466" id="1" texid="34347" row="1" wordNum="1" hand="m1" regularized="Φιαβραὰμ" original="Φιαβραὰμ" completeness="complete" tag="noun.sg.masc.none" lemma="Φιαβραάμ" lemmaFlag="ok"/>
+			<word wordref_id="654467" id="2" texid="34347" row="1" wordNum="2" hand="m1" regularized="ὀπτίων" original="ὀπτίον*" completeness="complete" tag="noun.sg.masc.nom" lemma="ὀπτίων" lemmaFlag="ok"/>
+			<word wordref_id="654468" id="3" texid="34347" row="2" wordNum="1" hand="m1" regularized="|gap=4||gap=4||gap=4||gap=3|" original="|gap=4||gap=4||gap=4||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="654469" id="4" texid="34347" row="3" wordNum="1" hand="m1" regularized="|gap=4||gap=1|κα" original="|gap=4||gap=1|κα" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="654470" id="5" texid="34347" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="654471" id="1" texid="34347" row="3" wordNum="3" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="654472" id="2" texid="34347" row="3" wordNum="4" hand="m1" regularized="Ἀβραὰμ" original="Ἀβραὰμ" completeness="complete" tag="noun.sg.masc.voc" lemma="Ἀβραάμ" lemmaFlag="ok"/>
+			<word wordref_id="654473" id="3" texid="34347" row="4" wordNum="1" hand="m1" regularized="ἄρτου" original="ἄρτου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄρτος" lemmaFlag="ok"/>
+			<word wordref_id="654474" id="4" texid="34347" row="4" wordNum="2" hand="m1" regularized="ἀννώνας" original="ἀν(νώνας)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀννώνη" lemmaFlag="ok"/>
+			<word wordref_id="654475" id="5" texid="34347" row="4" wordNum="3" hand="m1" regularized="δέκα|num=10|" original="δ̣έκα|num=10|" completeness="complete" tag="numeral.none.none.none" lemma="δέκα" lemmaFlag="ok"/>
+			<word wordref_id="654476" id="6" texid="34347" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

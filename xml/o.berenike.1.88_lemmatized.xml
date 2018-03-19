@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.1.88" TM="70865" HGV="70865" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="529199" id="1" texid="70865" row="1" wordNum="1" hand="m1" regularized="Σαραπίων" original="[Σ]αραπίων" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="529200" id="2" texid="70865" row="1" wordNum="2" hand="m1" regularized="Πισιπμοῦτι" original="[Πισιπμοῦτι]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="Πισιπμοῦς" lemmaFlag="ok"/>
+			<word wordref_id="529201" id="3" texid="70865" row="1" wordNum="3" hand="m1" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="529202" id="4" texid="70865" row="1" wordNum="4" hand="m1" regularized="Ἀνδουρωι" original="[Ἀνδουρω(ι)]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀνδουρος" lemmaFlag="ok"/>
+			<word wordref_id="529203" id="5" texid="70865" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="[χ]α̣(ίρειν)" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="529204" id="6" texid="70865" row="2" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="529205" id="1" texid="70865" row="2" wordNum="3" hand="m1" regularized="πάρες" original="πάρες" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="παρίημι" lemmaFlag="ok"/>
+			<word wordref_id="529206" id="2" texid="70865" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529207" id="3" texid="70865" row="3" wordNum="1" hand="m1" regularized="τῶν" original="τ̣[ῶ(ν)]" completeness="partly_reconstructed" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="529208" id="4" texid="70865" row="3" wordNum="2" hand="m1" regularized="Ἀνταίου" original="Ἀ[ν]τ̣αίου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀνταῖος" lemmaFlag="ok"/>
+			<word wordref_id="529209" id="5" texid="70865" row="3" wordNum="3" hand="m1" regularized="του" original="τ̣ο(υ)" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="529210" id="6" texid="70865" row="3" wordNum="4" hand="m1" regularized="Ἀπίωνος" original="Ἀ̣[πίωνος]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀπίων" lemmaFlag="ok"/>
+			<word wordref_id="529211" id="7" texid="70865" row="3" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529212" id="8" texid="70865" row="4" wordNum="1" hand="m1" regularized="ἑπτὰ|num=7|" original="ἑ̣π̣τὰ|num=7|" completeness="complete" tag="numeral.none.none.none" lemma="ἑπτά" lemmaFlag="ok"/>
+			<word wordref_id="529213" id="9" texid="70865" row="4" wordNum="2" hand="m1" regularized="ἐμβαίνοντα" original="ἐνβαίνον[τα]|gap=unknown|*" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529214" id="10" texid="70865" row="5" wordNum="1" hand="m1" regularized="|gap=5||gap=1|" original="|gap=5||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529215" id="11" texid="70865" row="5" wordNum="2" hand="m1" regularized="ἐπιχωρι…" original="ἐπιχ(ωρι…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529216" id="12" texid="70865" row="5" wordNum="3" hand="m1" regularized="λαδικηνὰ" original="λαδ(ικηνὰ)" completeness="complete" tag="preposition" lemma="λαδικηνά" lemmaFlag="suspect"/>
+			<word wordref_id="529217" id="13" texid="70865" row="5" wordNum="4" hand="m1" regularized="|gap=2||gap=unknown|" original="|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="529218" id="14" texid="70865" row="5" wordNum="5" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

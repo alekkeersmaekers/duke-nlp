@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="t.mom.louvre.300" TM="54741" HGV="54741" lang="grc" textpart="A">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4657215" id="1" texid="54741" row="1" wordNum="1" hand="m1" regularized="Τατεανοῦπις" original="Τ̣α̣τ̣εα[νοῦ]πις" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="Τατεανοῦπις" lemmaFlag="ok"/>
+			<word wordref_id="4657216" id="2" texid="54741" row="1" wordNum="2" hand="m1" regularized="ἡ" original="ἡ" completeness="complete" tag="article.sg.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4657217" id="3" texid="54741" row="1" wordNum="3" hand="m1" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4657218" id="4" texid="54741" row="1-2" wordNum="1" hand="m1" regularized="Σενθρα|gap=1|κίδας" original="Σενθρα|gap=1|-κ̣ίδας" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4657219" id="5" texid="54741" row="2-3" wordNum="1" hand="m1" regularized="νεωτέρα" original="νε-ωτέρα" completeness="complete" tag="adjective.sg.fem.nom.comp" lemma="νέος" lemmaFlag="ok"/>
+			<word wordref_id="4657220" id="6" texid="54741" row="3-4" wordNum="1" hand="m1" regularized="Πετεανούπιος" original="Πε-τεανούπι-ος" completeness="complete" tag="noun.sg.masc.gen" lemma="Πετεάνουπις" lemmaFlag="ok"/>
+			<word wordref_id="4657221" id="7" texid="54741" row="4-6" wordNum="1" hand="m1" regularized="ἐβίωσεν" original="ἐβίω-σεν" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="βιόω" lemmaFlag="ok"/>
+			<word wordref_id="4657222" id="8" texid="54741" row="6" wordNum="1" hand="m1" regularized="ἔτη" original="ἔτη" completeness="complete" tag="noun.pl.neut.acc" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4657223" id="9" texid="54741" row="6" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

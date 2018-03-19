@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.waqfa.38" TM="34243" HGV="34243" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="816367" id="1" texid="34243" row="1" wordNum="1" hand="m1" regularized="ἐσχον" original="ἐσχον" completeness="complete" tag="participle.sg.pres.act.neut.nom" lemma="ἐχω" lemmaFlag="wrong-accent:ἔχω"/>
+			<word wordref_id="816368" id="2" texid="34243" row="1" wordNum="2" hand="m1" regularized="διὰΨαις" original="δ(ιὰ)Ψαις" completeness="complete" tag="verb.2.sg.aor.opt.act" lemma="διάπτω" lemmaFlag="suspect"/>
+			<word wordref_id="816369" id="3" texid="34243" row="1-2" wordNum="1" hand="m1" regularized="κουράτορος" original="κου-ρατωρ*" completeness="complete" tag="noun.sg.masc.gen" lemma="κουράτωρ" lemmaFlag="ok"/>
+			<word wordref_id="816370" id="4" texid="34243" row="2" wordNum="1" hand="m1" regularized="ἀχύρου" original="ἀχύρου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄχυρον" lemmaFlag="ok"/>
+			<word wordref_id="816371" id="5" texid="34243" row="3" wordNum="1" hand="m1" regularized="κάπιτα" original="κάπιδα*" completeness="complete" tag="noun.pl.neut.acc" lemma="κάπιτον" lemmaFlag="suspect"/>
+			<word wordref_id="816372" id="6" texid="34243" row="3" wordNum="2" hand="m1" regularized="πέντε|num=5|" original="πέντε|num=5|" completeness="complete" tag="numeral.none.none.none" lemma="πέντε" lemmaFlag="ok"/>
+			<word wordref_id="816373" id="7" texid="34243" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="816374" id="1" texid="34243" row="4" wordNum="1" hand="m1" regularized="σεσημείωμαι" original="σεσημίωμαι*" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="816375" id="2" texid="34243" row="4" wordNum="2" hand="m1" regularized="ἐγὼ" original="ἐγὼ" completeness="complete" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="816376" id="3" texid="34243" row="5" wordNum="1" hand="m1" regularized="Ἀπίων" original="Ἀπίων" completeness="complete" tag="noun.sg.masc.voc" lemma="Ἀπίων" lemmaFlag="ok"/>
+			<word wordref_id="816377" id="4" texid="34243" row="5" wordNum="2" hand="m1" regularized="χαρτουλάριος?" original="χ̣α̣(ρτουλάριος?)" completeness="complete" tag="noun.sg.masc.nom" lemma="χαρτουλάριος" lemmaFlag="ok"/>
+			<word wordref_id="816378" id="5" texid="34243" row="6" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="816379" id="6" texid="34243" row="6" wordNum="2" hand="m1" regularized="γεούχου" original="γεού(χου)" completeness="complete" tag="noun.sg.masc.gen" lemma="γεοῦχος" lemmaFlag="ok"/>
+			<word wordref_id="816380" id="7" texid="34243" row="6" wordNum="3" hand="m1" regularized="Κλεοβούλου" original="Κλεοβο(ύλου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Κλεόβουλος" lemmaFlag="ok"/>
+			<word wordref_id="816381" id="8" texid="34243" row="7" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

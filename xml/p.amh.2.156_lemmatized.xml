@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.amh.2.156" TM="39336" HGV="39336" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="909916" id="1" texid="39336" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="909917" id="2" texid="39336" row="1" wordNum="2" hand="m1" regularized="θελήσῃ" original="θελήσῃ" completeness="complete" tag="verb.3.sg.aor.subj.act" lemma="θέλω" lemmaFlag="ok"/>
+			<word wordref_id="909918" id="3" texid="39336" row="1" wordNum="3" hand="m1" regularized="ἡ" original="ἡ" completeness="complete" tag="article.sg.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="909919" id="4" texid="39336" row="1" wordNum="4" hand="m1" regularized="σὴ" original="σὴ" completeness="complete" tag="adjective.sg.fem.nom.pos" lemma="σός" lemmaFlag="ok"/>
+			<word wordref_id="909920" id="5" texid="39336" row="1" wordNum="5" hand="m1" regularized="ἀδελφότης" original="ἀδελφ(ότης)" completeness="complete" tag="noun.sg.fem.nom" lemma="ἀδελφότης" lemmaFlag="ok"/>
+			<word wordref_id="909921" id="6" texid="39336" row="2" wordNum="1" hand="m1" regularized="δοῦναι" original="δοῦναι" completeness="complete" tag="infinitive.aor.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="909922" id="7" texid="39336" row="2" wordNum="2" hand="m1" regularized="τῷ" original="των*" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="909923" id="8" texid="39336" row="2-3" wordNum="1" hand="m1" regularized="γραμματιφόρῳ" original="γραμματι-φορων*" completeness="complete" tag="adjective.sg.masc.dat.pos" lemma="γραμματιφόρος" lemmaFlag="suspect"/>
+			<word wordref_id="909924" id="9" texid="39336" row="3" wordNum="1" hand="m1" regularized="ταριχίου" original="ταριχίου" completeness="complete" tag="noun.sg.neut.gen" lemma="ταρίχιον" lemmaFlag="ok"/>
+			<word wordref_id="909925" id="10" texid="39336" row="4" wordNum="1" hand="m1" regularized="βυτίνια" original="βυτίνια" completeness="complete" tag="noun.pl.neut.acc" lemma="βυτίνιον" lemmaFlag="suspect"/>
+			<word wordref_id="909926" id="11" texid="39336" row="4" wordNum="2" hand="m1" regularized="ἑπτὰ" original="ἑπτὰ" completeness="complete" tag="numeral.none.none.none" lemma="ἑπτά" lemmaFlag="ok"/>
+			<word wordref_id="909927" id="12" texid="39336" row="4" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="909928" id="13" texid="39336" row="4" wordNum="4" hand="m1" regularized="γίνονται" original="γί(νονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="909929" id="14" texid="39336" row="5" wordNum="1" hand="m1" regularized="βυτίνια" original="[β]υτ(ίνια)" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="βυτίνιον" lemmaFlag="suspect"/>
+			<word wordref_id="909930" id="15" texid="39336" row="5" wordNum="2" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="909931" id="16" texid="39336" row="5" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="909932" id="17" texid="39336" row="5" wordNum="4" hand="m1" regularized="μόνα" original="μ(όνα)" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="909933" id="18" texid="39336" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="909934" id="1" texid="39336" row="6" wordNum="1" hand="m1" regularized="|gap=5||gap=4||gap=2||gap=unknown|" original="|gap=5||gap=4||gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="909935" id="2" texid="39336" row="7" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

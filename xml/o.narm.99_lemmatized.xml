@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.99" TM="29626" HGV="29626" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="746192" id="1" texid="29626" row="1-" wordNum="1" hand="m1" regularized="εὐσχημόνων" original="εὐσ̣χ̣ημωναν*" completeness="complete" tag="adjective.pl.fem.gen.pos" lemma="εὐσχήμων" lemmaFlag="ok"/>
+			<word wordref_id="746193" id="2" texid="29626" row="" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="746194" id="3" texid="29626" row="-3" wordNum="1" hand="m1" regularized="μετρίων" original="με-τρίων̣" completeness="complete" tag="adjective.pl.fem.gen.pos" lemma="μέτριος" lemmaFlag="ok"/>
+			<word wordref_id="746195" id="4" texid="29626" row="3" wordNum="1" hand="m1" regularized="|extra|" original="{ων}" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="746196" id="5" texid="29626" row="4" wordNum="1" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="746197" id="6" texid="29626" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

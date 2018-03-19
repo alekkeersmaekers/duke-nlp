@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.26.16546" TM="97125" HGV="97125" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4408844" id="1" texid="97125" row="1" wordNum="1" hand="m1" regularized="Σαραπίων" original="Σαραπίων" completeness="complete" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="4408845" id="2" texid="97125" row="1" wordNum="2" hand="m1" regularized="γραμματεὺς?" original="γρ(αμματεὺς?)" completeness="complete" tag="noun.sg.masc.nom" lemma="γραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="4408846" id="3" texid="97125" row="2" wordNum="1" hand="m1" regularized="κο|gap=4|της" original="κο̣|gap=4|τ̣ης" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4408847" id="4" texid="97125" row="3" wordNum="1" hand="m1" regularized="δ|gap=6|κοννω" original="δ̣|gap=6|κονν̣ω̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4408848" id="5" texid="97125" row="4" wordNum="1" hand="m1" regularized="χαίρειν?" original="χ(αίρειν?)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="4408849" id="6" texid="97125" row="4" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4408850" id="1" texid="97125" row="4" wordNum="3" hand="m1" regularized="Φ|gap=4|αυτουτο" original="Φ|gap=4|α̣υτου̣τ̣ο" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4408851" id="2" texid="97125" row="5" wordNum="1" hand="m1" regularized="χιτῶνα" original="χιδῶνα̣*" completeness="complete" tag="noun.sg.masc.acc" lemma="χιτών" lemmaFlag="ok"/>
+			<word wordref_id="4408852" id="3" texid="97125" row="5" wordNum="2" hand="m1" regularized="κορασίου" original="κο̣ρ̣ασίου" completeness="complete" tag="noun.sg.neut.gen" lemma="κοράσιον" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

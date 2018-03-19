@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.10.1919" TM="4978" HGV="4978" lang="grc" textpart="r,FrC">
+	<text>
+		<sentence id="1">
+			<word wordref_id="36088" id="1" texid="4978" row="5" wordNum="1" hand="m1" regularized="|gap=unknown||gap=4|" original="|gap=unknown||gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="36089" id="2" texid="4978" row="5" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="36090" id="3" texid="4978" row="5" wordNum="3" hand="m1" regularized="σύμβολον" original="σύμβ̣ολον" completeness="complete" tag="noun.sg.neut.nom" lemma="σύμβολον" lemmaFlag="ok"/>
+			<word wordref_id="36091" id="4" texid="4978" row="5" wordNum="4" hand="m1" regularized="ποίησαι" original="π̣[οίησαι]" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.mid" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="36092" id="5" texid="4978" row="6" wordNum="1" hand="m1" regularized="πρὸς" original="[πρὸς]" completeness="fully_reconstructed" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="36093" id="6" texid="4978" row="6" wordNum="2" hand="m1" regularized="αὐτόν" original="[αὐ]τόν" completeness="partly_reconstructed" tag="demonstrative.sg.masc.acc" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="36094" id="7" texid="4978" row="6" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="36095" id="1" texid="4978" row="7" wordNum="1" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="36096" id="2" texid="4978" row="7" wordNum="2" hand="m1" regularized="ἔτος" original="(ἔτος)" completeness="complete" tag="noun.sg.neut.acc" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="36097" id="3" texid="4978" row="7" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="36098" id="4" texid="4978" row="7" wordNum="4" hand="m1" regularized="Φα|gap=unknown|" original="Φα|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

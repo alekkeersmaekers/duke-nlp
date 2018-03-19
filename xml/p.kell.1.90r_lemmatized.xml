@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.kell.1.90r" TM="33336" HGV="33336" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1811886" id="1" texid="33336" row="1" wordNum="1" hand="m1" regularized="ἀργυρίου" original="ἀργυρ(ίου)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἀργύριον" lemmaFlag="ok"/>
+			<word wordref_id="1811887" id="2" texid="33336" row="1" wordNum="2" hand="m1" regularized="ταλάντων" original="ταλ(άντων)" completeness="complete" tag="noun.pl.neut.gen" lemma="τάλαντον" lemmaFlag="ok"/>
+			<word wordref_id="1811888" id="3" texid="33336" row="1" wordNum="3" hand="m1" regularized="μυριὰς" original="(μυριὰς)" completeness="complete" tag="noun.sg.fem.nom" lemma="μυριάς" lemmaFlag="ok"/>
+			<word wordref_id="1811889" id="4" texid="33336" row="1" wordNum="4" hand="m1" regularized="α|digit=1||num=10000|" original="α|digit=1||num=10000|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="1811890" id="5" texid="33336" row="2" wordNum="1" hand="m1" regularized="ὧν" original="(ὧν)" completeness="complete" tag="relative.pl.neut.gen" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="1811891" id="6" texid="33336" row="2" wordNum="2" hand="m1" regularized="ἐπικερδίας" original="ἐπικερ(δίας)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἐπικερδία" lemmaFlag="wrong-accent:ἐπικέρδια"/>
+			<word wordref_id="1811892" id="7" texid="33336" row="3" wordNum="1" hand="m1" regularized="τάλαντα" original="τάλ(αντα)" completeness="complete" tag="noun.pl.neut.nom" lemma="τάλαντον" lemmaFlag="ok"/>
+			<word wordref_id="1811893" id="8" texid="33336" row="3" wordNum="2" hand="m1" regularized="Ασ|digit=1200|" original="Ασ|digit=1200|" completeness="complete" tag="numeral.none.none.none" lemma="Ἄσ" lemmaFlag="ok"/>
+			<word wordref_id="1811894" id="9" texid="33336" row="4" wordNum="1" hand="m2" regularized="μῆνας" original="μῆνας" completeness="complete" tag="noun.pl.masc.acc" lemma="μήν" lemmaFlag="ok"/>
+			<word wordref_id="1811895" id="10" texid="33336" row="4" wordNum="2" hand="m2" regularized="δύο|num=2|" original="δύο|num=2|" completeness="complete" tag="numeral.none.none.none" lemma="δύο" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

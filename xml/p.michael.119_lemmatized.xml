@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.michael.119" TM="31616" HGV="31616" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2508915" id="1" texid="31616" row="1" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="2508916" id="2" texid="31616" row="2" wordNum="1" hand="m1" regularized="προβατίοις" original="προβατίοις" completeness="complete" tag="noun.pl.neut.dat" lemma="προβάτιον" lemmaFlag="ok"/>
+			<word wordref_id="2508917" id="3" texid="31616" row="2" wordNum="2" hand="m1" regularized="ἄρακος" original="ἄρακος" completeness="complete" tag="noun.sg.masc.nom" lemma="ἄρακος" lemmaFlag="ok"/>
+			<word wordref_id="2508918" id="4" texid="31616" row="2" wordNum="3" hand="m1" regularized="ἀρτά" original="ἀρτά" completeness="complete" tag="noun.pl.neut.acc" lemma="ἀρτός" lemmaFlag="wrong-accent:ἄρτος"/>
+			<word wordref_id="2508919" id="5" texid="31616" row="3" wordNum="1" hand="m1" regularized="βας" original="βας" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+			<word wordref_id="2508920" id="6" texid="31616" row="4" wordNum="1" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="2508921" id="7" texid="31616" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

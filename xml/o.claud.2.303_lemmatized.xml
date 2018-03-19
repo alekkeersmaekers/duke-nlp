@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.2.303" TM="29716" HGV="29716" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="625232" id="1" texid="29716" row="1" wordNum="1" hand="m1" regularized="Ὄλυμπος" original="Ὄλυμπος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ὄλυμπος" lemmaFlag="ok"/>
+			<word wordref_id="625233" id="2" texid="29716" row="1" wordNum="2" hand="m1" regularized="Π|gap=unknown|" original="Π|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="625234" id="3" texid="29716" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρει&lt;ν&gt;" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="625235" id="4" texid="29716" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="625236" id="1" texid="29716" row="2" wordNum="3" hand="m1" regularized="εὔχομαι" original="εὔκ[ομαι]*" completeness="partly_reconstructed" tag="verb.1.sg.pres.ind.mid" lemma="εὔχομαι" lemmaFlag="ok"/>
+			<word wordref_id="625237" id="2" texid="29716" row="2" wordNum="4" hand="m1" regularized="?" original="[?]" completeness="fully_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="625238" id="3" texid="29716" row="3" wordNum="1" hand="m1" regularized="ἵνα" original="ἵνα" completeness="complete" tag="conjunction" lemma="ἵνα" lemmaFlag="ok"/>
+			<word wordref_id="625239" id="4" texid="29716" row="3" wordNum="2" hand="m1" regularized="σε" original="σε" completeness="complete" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="625240" id="5" texid="29716" row="3" wordNum="3" hand="m1" regularized="ὑγιαίνῃς" original="ὑγια[ίνῃς]" completeness="partly_reconstructed" tag="verb.2.sg.pres.subj.act" lemma="ὑγιαίνω" lemmaFlag="ok"/>
+			<word wordref_id="625241" id="6" texid="29716" row="3" wordNum="4" hand="m1" regularized="," original="[,]" completeness="fully_reconstructed" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="625242" id="7" texid="29716" row="3" wordNum="5" hand="m1" regularized="ἐγὼ" original="[ἐγὼ]" completeness="fully_reconstructed" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="625243" id="8" texid="29716" row="4" wordNum="1" hand="m1" regularized="δὲ" original="δὲ" completeness="complete" tag="particle" lemma="δέ" lemmaFlag="ok"/>
+			<word wordref_id="625244" id="9" texid="29716" row="4" wordNum="2" hand="m1" regularized="ὑγιαίνω" original="ὑγιαίνω" completeness="complete" tag="verb.1.sg.pres.subj.act" lemma="ὑγιαίνω" lemmaFlag="ok"/>
+			<word wordref_id="625245" id="10" texid="29716" row="4" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="625246" id="11" texid="29716" row="4" wordNum="4" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

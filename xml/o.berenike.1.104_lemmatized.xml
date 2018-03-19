@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.1.104" TM="70881" HGV="70881" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="527859" id="1" texid="70881" row="1" wordNum="1" hand="m1" regularized="|gap=10||gap=1|ι" original="|gap=10||gap=1|ι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="527860" id="2" texid="70881" row="1" wordNum="2" hand="m1" regularized="χαίρειν" original="χα(ίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="527861" id="3" texid="70881" row="1" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="527862" id="1" texid="70881" row="2" wordNum="1" hand="m1" regularized="πάρες" original="[πάρες]" completeness="fully_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="παρίημι" lemmaFlag="ok"/>
+			<word wordref_id="527863" id="2" texid="70881" row="2" wordNum="2" hand="m1" regularized="Ἐπονύχῳ" original="Ἐπονύχ(ῳ)" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἐπονύχος" lemmaFlag="ok"/>
+			<word wordref_id="527864" id="3" texid="70881" row="2" wordNum="3" hand="m1" regularized="Παήρεως" original="Παήρε(ως)" completeness="complete" tag="noun.sg.masc.gen" lemma="Παῆρις" lemmaFlag="ok"/>
+			<word wordref_id="527865" id="4" texid="70881" row="3" wordNum="1" hand="m1" regularized="οἴνου" original="[οἴνο]υ̣" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="527866" id="5" texid="70881" row="3" wordNum="2" hand="m1" regularized="ἰταλικὰ" original="ἰτα(λικὰ)" completeness="complete" tag="adjective.pl.neut.nom.pos" lemma="ἰταλικός" lemmaFlag="suspect"/>
+			<word wordref_id="527867" id="6" texid="70881" row="3" wordNum="3" hand="m1" regularized="πέντε" original="πέντε" completeness="complete" tag="numeral.none.none.none" lemma="πέντε" lemmaFlag="ok"/>
+			<word wordref_id="527868" id="7" texid="70881" row="3" wordNum="4" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="527869" id="8" texid="70881" row="4" wordNum="1" hand="m1" regularized="γίνεται" original="[(γίνεται)]" completeness="fully_reconstructed" tag="verb.3.sg.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="527870" id="9" texid="70881" row="4" wordNum="2" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="527871" id="10" texid="70881" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

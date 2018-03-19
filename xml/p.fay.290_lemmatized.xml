@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.fay.290" TM="10852" HGV="10852" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1492850" id="1" texid="10852" row="1" wordNum="1" hand="m1" regularized="|gap=6_lines|" original="|gap=6_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1492851" id="2" texid="10852" row="00" wordNum="1" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="1492852" id="3" texid="10852" row="00" wordNum="2" hand="m1" regularized="τῇ" original="τ(ῇ)" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1492853" id="4" texid="10852" row="00" wordNum="3" hand="m1" regularized="πλωτῇ" original="πρωτ(ῇ)*" completeness="complete" tag="adjective.sg.fem.dat.pos" lemma="πλωτός" lemmaFlag="suspect"/>
+			<word wordref_id="1492854" id="5" texid="10852" row="00" wordNum="4" hand="m1" regularized="Χάλικος" original="Χάλικος" completeness="complete" tag="noun.sg.masc.nom" lemma="Χάλικος" lemmaFlag="ok"/>
+			<word wordref_id="1492855" id="6" texid="10852" row="00" wordNum="5" hand="m1" regularized="Εὐημερείας" original="Εὐη(μερείας)" completeness="complete" tag="noun.sg.fem.gen" lemma="Εὐημέρεια" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

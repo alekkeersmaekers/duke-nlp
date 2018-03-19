@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.92" TM="75352" HGV="75352" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="762951" id="1" texid="75352" row="1" wordNum="1" hand="m1" regularized="διαγέγραφεν" original="δια(γέγραφεν)" completeness="complete" tag="verb.3.sg.pf.ind.act" lemma="διαγράφω" lemmaFlag="ok"/>
+			<word wordref_id="762952" id="2" texid="75352" row="1" wordNum="2" hand="m1" regularized="Ἑριεῦς" original="Ἑριεῦς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἑριεῦς" lemmaFlag="ok"/>
+			<word wordref_id="762953" id="3" texid="75352" row="1" wordNum="3" hand="m1" regularized="Ψανσνῶτος" original="Ψανσνῶ(τος)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ψανσνῶτος" lemmaFlag="ok"/>
+			<word wordref_id="762954" id="4" texid="75352" row="1" wordNum="4" hand="m1" regularized="Πασήμιος" original="Πασήμιο̣ς̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Πασημις" lemmaFlag="ok"/>
+			<word wordref_id="762955" id="5" texid="75352" row="2" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="762956" id="6" texid="75352" row="2" wordNum="2" hand="m1" regularized="λαογραφίας" original="λαο(γραφίας)" completeness="complete" tag="noun.sg.fem.gen" lemma="λαογραφία" lemmaFlag="ok"/>
+			<word wordref_id="762957" id="7" texid="75352" row="2" wordNum="3" hand="m1" regularized="|gap=4|…" original="|gap=4|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762958" id="8" texid="75352" row="2" wordNum="4" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762959" id="9" texid="75352" row="2" wordNum="5" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="762960" id="10" texid="75352" row="2" wordNum="6" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762961" id="11" texid="75352" row="2" wordNum="7" hand="m1" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+			<word wordref_id="762962" id="12" texid="75352" row="2" wordNum="8" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="762963" id="1" texid="75352" row="2" wordNum="9" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="762964" id="2" texid="75352" row="2" wordNum="10" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762965" id="3" texid="75352" row="2" wordNum="11" hand="m1" regularized="Τραιανοῦ" original="Τραιαν̣ο̣ῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Τραιανός" lemmaFlag="ok"/>
+			<word wordref_id="762966" id="4" texid="75352" row="2" wordNum="12" hand="m1" regularized="Καίσαρος" original="Καίσα̣ρος" completeness="complete" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="762967" id="5" texid="75352" row="3" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="762968" id="6" texid="75352" row="3" wordNum="2" hand="m1" regularized="κυρίου" original="κυρίο̣υ̣" completeness="complete" tag="noun.sg.masc.gen" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="762969" id="7" texid="75352" row="3" wordNum="3" hand="m1" regularized="Μεχεὶρ" original="[Με]χ̣(εὶρ)" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Μεχείρ" lemmaFlag="ok"/>
+			<word wordref_id="762970" id="8" texid="75352" row="3" wordNum="4" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="762971" id="9" texid="75352" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="762972" id="1" texid="75352" row="3" wordNum="6" hand="m1" regularized="ὁμοίως" original="ὁ̣μ̣ο̣ί̣ω̣(ς)" completeness="complete" tag="adverb" lemma="ὁμοίως" lemmaFlag="suspect"/>
+			<word wordref_id="762973" id="2" texid="75352" row="3" wordNum="7" hand="m1" regularized="Φαρμοῦθι" original="Φα̣ρ̣(μοῦθι)" completeness="complete" tag="noun.sg.none.none" lemma="Φαρμοῦθι" lemmaFlag="ok"/>
+			<word wordref_id="762974" id="3" texid="75352" row="3" wordNum="8" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762975" id="4" texid="75352" row="3" wordNum="9" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762976" id="5" texid="75352" row="3" wordNum="10" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762977" id="6" texid="75352" row="3" wordNum="11" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="762978" id="1" texid="75352" row="4" wordNum="1" hand="m1" regularized="ὁμοίως" original="ὁμοίω(ς)" completeness="complete" tag="adverb" lemma="ὁμοίως" lemmaFlag="suspect"/>
+			<word wordref_id="762979" id="2" texid="75352" row="4" wordNum="2" hand="m1" regularized="Παχὼν" original="Παχὼ̣ν̣" completeness="complete" tag="noun.sg.none.nom" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="762980" id="3" texid="75352" row="4" wordNum="3" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="762981" id="4" texid="75352" row="4" wordNum="4" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762982" id="5" texid="75352" row="4" wordNum="5" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762983" id="6" texid="75352" row="4" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="5">
+			<word wordref_id="762984" id="1" texid="75352" row="4" wordNum="7" hand="m1" regularized="ὁμοίως" original="ὁ̣μ̣ο̣(ίως)" completeness="complete" tag="adverb" lemma="ὁμοίως" lemmaFlag="suspect"/>
+			<word wordref_id="762985" id="2" texid="75352" row="4" wordNum="8" hand="m1" regularized="Μεσορὴ" original="Μ̣εσ(ορὴ)" completeness="complete" tag="noun.sg.none.nom" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="762986" id="3" texid="75352" row="4" wordNum="9" hand="m1" regularized="δ|digit=4|" original="δ̣|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762987" id="4" texid="75352" row="4" wordNum="10" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="762988" id="5" texid="75352" row="4" wordNum="11" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="762989" id="6" texid="75352" row="4" wordNum="12" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="6">
+			<word wordref_id="762990" id="1" texid="75352" row="5" wordNum="1" hand="m1" regularized="|gap=2_lines|" original="|gap=2_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

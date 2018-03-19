@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.heid.440" TM="80638" HGV="80638" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="694943" id="1" texid="80638" row="1" wordNum="1" hand="m1" regularized="τεσα|gap=1|υρελολουπας" original="τ̣ε̣σ̣α̣|gap=1|υ̣ρ̣ελ̣ο̣λου̣π̣ας" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="694944" id="2" texid="80638" row="2" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπὲρ̣" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="694945" id="3" texid="80638" row="2" wordNum="2" hand="m1" regularized="ἐλαίου" original="ἐ̣λαίο̣υ" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔλαιον" lemmaFlag="ok"/>
+			<word wordref_id="694946" id="4" texid="80638" row="2" wordNum="3" hand="m1" regularized="ξεστῶν" original="ξ(εστῶν)" completeness="complete" tag="noun.pl.masc.gen" lemma="ξέστης" lemmaFlag="ok"/>
+			<word wordref_id="694947" id="5" texid="80638" row="2" wordNum="4" hand="m1" regularized="λϛ|digit=36|" original="λϛ|digit=36|" completeness="complete" tag="numeral.none.none.none" lemma="λϛ" lemmaFlag="ok"/>
+			<word wordref_id="694948" id="6" texid="80638" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="694949" id="7" texid="80638" row="3" wordNum="2" hand="m1" regularized="ι|digit=10|" original="ι̣|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="694950" id="8" texid="80638" row="3" wordNum="3" hand="m1" regularized="ἰνδικτίωνος" original="ἰνδικ(τίωνος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="694951" id="9" texid="80638" row="4" wordNum="1" hand="m1" regularized="Συρ|gap=1|?…" original="Σ̣υ̣ρ̣|gap=1|?(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="694952" id="10" texid="80638" row="4" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σ̣ε̣σ̣η̣(μείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

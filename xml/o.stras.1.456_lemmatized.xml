@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.456" TM="76044" HGV="76044" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="785516" id="1" texid="76044" row="1" wordNum="1" hand="m1" regularized="Θεόφιλος" original="Θεόφιλος" completeness="complete" tag="noun.sg.masc.nom" lemma="Θεόφιλος" lemmaFlag="ok"/>
+			<word wordref_id="785517" id="2" texid="76044" row="1" wordNum="2" hand="m1" regularized="ἀπαιτητὴς" original="ἀπαιτητὴς" completeness="complete" tag="noun.sg.masc.nom" lemma="ἀπαιτητής" lemmaFlag="ok"/>
+			<word wordref_id="785518" id="3" texid="76044" row="2" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="785519" id="4" texid="76044" row="2" wordNum="2" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="785520" id="5" texid="76044" row="2" wordNum="3" hand="m1" regularized="ἰνδικτίωνος" original="ἰνδικτίωνος" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="785521" id="6" texid="76044" row="3" wordNum="1" hand="m1" regularized="|gap=4||gap=4||gap=4|" original="|gap=4||gap=4||gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="785522" id="7" texid="76044" row="3-4" wordNum="1" hand="m1" regularized="δέδωκας" original="δέδ[ω]-κας" completeness="partly_reconstructed" tag="verb.2.sg.pf.ind.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="785523" id="8" texid="76044" row="4" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="785524" id="9" texid="76044" row="4" wordNum="2" hand="m1" regularized="ξέστας" original="ξ(έστας)" completeness="complete" tag="noun.pl.masc.acc" lemma="ξέστης" lemmaFlag="ok"/>
+			<word wordref_id="785525" id="10" texid="76044" row="4-5" wordNum="1" hand="m1" regularized="|extra|" original="|extra|" regularized_old="δεκατέσσαρας|num=14|μόνους" original_old="δεκατέσ[σα]-ρας|num=14|μόνους" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="785526" id="11" texid="76044" row="4-5" wordNum="1@1" hand="m1" regularized="δεκατέσσαρας|num=14|" original="δεκατέσ[σα]-ρας|num=14|" completeness="partly_reconstructed" tag="numeral.pl.masc.acc" lemma="δεκατέσσαρες" lemmaFlag="ok"/>
+			<word wordref_id="785527" id="12" texid="76044" row="4-5" wordNum="1@2" hand="m1" regularized="μόνους" original="μόνους" completeness="complete" tag="adjective.pl.masc.acc.pos" lemma="μόνος" lemmaFlag="ok"/>
+			<word wordref_id="785528" id="13" texid="76044" row="5" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="785529" id="1" texid="76044" row="5-6" wordNum="1" hand="m1" regularized="σεσημείωμαι" original="σεσημί-ωμαι*" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

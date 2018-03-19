@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.16.12355" TM="4096" HGV="4096" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4163680" id="1" texid="4096" row="1" wordNum="1" hand="m1" regularized="|gap=5_lines|" original="|gap=5_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4163681" id="2" texid="4096" row="1" wordNum="2" hand="m1" regularized="Πτολεμαῖος" original="Πτολεμαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="4163682" id="3" texid="4096" row="1" wordNum="3" hand="m1" regularized="κρότωνος" original="κρότω̣ν̣(ος)" completeness="complete" tag="noun.sg.masc.gen" lemma="κρότων" lemmaFlag="wrong-accent:κροτών"/>
+			<word wordref_id="4163683" id="4" texid="4096" row="1" wordNum="4" hand="m1" regularized="τέταρτον" original="τέταρτον" completeness="complete" tag="adjective.sg.masc.acc.pos" lemma="τέταρτος" lemmaFlag="ok"/>
+			<word wordref_id="4163684" id="5" texid="4096" row="2" wordNum="1" hand="m1" regularized="ἀρτάβης" original="(ἀρτάβης)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="4163685" id="6" texid="4096" row="2" wordNum="2" hand="m1" regularized="κρότωνος" original="κρότ(ωνος)" completeness="complete" tag="noun.sg.masc.gen" lemma="κρότων" lemmaFlag="wrong-accent:κροτών"/>
+			<word wordref_id="4163686" id="7" texid="4096" row="2" wordNum="3" hand="m1" regularized="δ´|digit=1/4|" original="δ´|digit=1/4|" completeness="complete" tag="numeral.none.none.none" lemma="δ´" lemmaFlag="ok"/>
+			<word wordref_id="4163687" id="8" texid="4096" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4163688" id="1" texid="4096" row="2" wordNum="5" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4163689" id="2" texid="4096" row="2" wordNum="6" hand="m1" regularized="νδ|digit=54|" original="νδ̣|digit=54|" completeness="complete" tag="numeral.none.none.none" lemma="νδ" lemmaFlag="ok"/>
+			<word wordref_id="4163690" id="3" texid="4096" row="2" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.5" TM="29541" HGV="29541" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="745430" id="1" texid="29541" row="1" wordNum="1" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="745431" id="2" texid="29541" row="1" wordNum="2" hand="m1" regularized="τοὺς" original="τοὺς" completeness="complete" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="745432" id="3" texid="29541" row="2-3" wordNum="1" hand="m1" regularized="γραμματεῖς" original="γραμματεῖ-ς̣" completeness="complete" tag="noun.pl.masc.acc" lemma="γραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="745433" id="4" texid="29541" row="3" wordNum="1" hand="m1" regularized="γεωργῶν" original="κεωρκῶν*" completeness="complete" tag="noun.pl.masc.gen" lemma="γεωργός" lemmaFlag="ok"/>
+			<word wordref_id="745434" id="5" texid="29541" row="4" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="745435" id="6" texid="29541" row="4" wordNum="2" hand="m1" regularized="γραμματεῖς" original="γραμματιτέα*" completeness="complete" tag="noun.pl.masc.acc" lemma="γραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="745436" id="7" texid="29541" row="5" wordNum="1" hand="m1" regularized="σκαυρέων?" original="σκαυρέων?" completeness="complete" tag="noun.pl.none.gen" lemma="σκαῦρος" lemmaFlag="ok"/>
+			<word wordref_id="745437" id="8" texid="29541" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="745438" id="1" texid="29541" row="5" wordNum="3" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="745439" id="2" texid="29541" row="6" wordNum="1" hand="m1" regularized="κζ|digit=27|" original="κζ|digit=27|" completeness="complete" tag="numeral.none.none.none" lemma="κζ" lemmaFlag="ok"/>
+			<word wordref_id="745440" id="3" texid="29541" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="745441" id="1" texid="29541" row="6" wordNum="3" hand="m1" regularized="μετὰ" original="μετὰ" completeness="complete" tag="preposition" lemma="μετά" lemmaFlag="ok"/>
+			<word wordref_id="745442" id="2" texid="29541" row="6-7" wordNum="1" hand="m1" regularized="κολακείας" original="κολα-κίας*" completeness="complete" tag="noun.sg.fem.gen" lemma="κολακεία" lemmaFlag="ok"/>
+			<word wordref_id="745443" id="3" texid="29541" row="7" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="745444" id="4" texid="29541" row="7" wordNum="2" hand="m1" regularized="δώρων" original="δώρων" completeness="complete" tag="noun.pl.neut.gen" lemma="δῶρον" lemmaFlag="ok"/>
+			<word wordref_id="745445" id="5" texid="29541" row="8" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="745446" id="6" texid="29541" row="8" wordNum="2" hand="m1" regularized="ἀστρονομίας" original="ἀστρονομίας" completeness="complete" tag="noun.sg.fem.gen" lemma="ἀστρονομία" lemmaFlag="ok"/>
+			<word wordref_id="745447" id="7" texid="29541" row="8" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

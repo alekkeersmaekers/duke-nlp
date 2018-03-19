@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.oxy.42.3065" TM="30332" HGV="30332" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2892692" id="1" texid="30332" row="24" wordNum="1" hand="m1" regularized="ἀπόδος" original="ἀπόδ̣ο̣ς̣" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2892693" id="2" texid="30332" row="24" wordNum="2" hand="m1" regularized="|gap=4||gap=4||gap=1|ρσα" original="|gap=4||gap=4||gap=1|ρσα" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2892694" id="3" texid="30332" row="24" wordNum="3" hand="m1" regularized="μυροπώλῃ" original="μ̣υ̣ροπώλῃ" completeness="complete" tag="noun.sg.masc.dat" lemma="μυροπώλης" lemmaFlag="ok"/>
+			<word wordref_id="2892695" id="4" texid="30332" row="24" wordNum="4" hand="m1" regularized="ἵνα" original="ἵνα" completeness="complete" tag="conjunction" lemma="ἵνα" lemmaFlag="ok"/>
+			<word wordref_id="2892696" id="5" texid="30332" row="24" wordNum="5" hand="m1" regularized="ἀποδῷ" original="ἀπ[οδῷ]" completeness="partly_reconstructed" tag="verb.3.sg.aor.subj.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2892697" id="6" texid="30332" row="24" wordNum="6" hand="m1" regularized="Ἀγριπ|apostrophe|πίνῃ" original="[Ἀ]γριπ|apostrophe|πίνῃ" completeness="partly_reconstructed" tag="noun.sg.fem.dat" lemma="Ἀγριππῖνα" lemmaFlag="ok"/>
+			<word wordref_id="2892698" id="7" texid="30332" row="25" wordNum="1" hand="m1" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="2892699" id="8" texid="30332" row="25" wordNum="2" hand="m1" regularized="Ἀρείου" original="Ἀρείου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἄρειας" lemmaFlag="ok"/>
+			<word wordref_id="2892700" id="9" texid="30332" row="25" wordNum="3" hand="m1" regularized="υἱοῦ" original="υἱοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="υἱός" lemmaFlag="ok"/>
+			<word wordref_id="2892701" id="10" texid="30332" row="25" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2892702" id="1" texid="30332" row="26" wordNum="1" hand="m1" regularized="ἀπόδος" original="ἀπ̣[ό]δ(ος)" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2892703" id="2" texid="30332" row="26" wordNum="2" hand="m1" regularized="εν|gap=2||gap=2||gap=2|χει|gap=4||gap=1|" original="εν|gap=2||gap=2||gap=2|χει|gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2892704" id="3" texid="30332" row="26" wordNum="3" hand="m1" regularized="μυροπώλῃ" original="μυροπώλῃ" completeness="complete" tag="noun.sg.masc.dat" lemma="μυροπώλης" lemmaFlag="ok"/>
+			<word wordref_id="2892705" id="4" texid="30332" row="26" wordNum="4" hand="m1" regularized="ἵνʼ" original="εἵν̣ʼ*" completeness="complete" tag="conjunction" lemma="ἵνα" lemmaFlag="ok"/>
+			<word wordref_id="2892706" id="5" texid="30332" row="26" wordNum="5" hand="m1" regularized="ἀποδῷ" original="ἀπ̣ο̣δ̣(ῷ)" completeness="complete" tag="verb.3.sg.aor.subj.act" lemma="ἀποδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2892707" id="6" texid="30332" row="27" wordNum="1" hand="m1" regularized="Ἀγριπ|apostrophe|πίνῃ" original="Ἀγ̣ριπ|apostrophe|πί̣ν̣ῃ" completeness="complete" tag="noun.sg.fem.dat" lemma="Ἀγριππῖνα" lemmaFlag="ok"/>
+			<word wordref_id="2892708" id="7" texid="30332" row="27" wordNum="2" hand="m1" regularized="μητρὶ" original="μ̣η̣τ̣ρ̣ὶ" completeness="complete" tag="noun.sg.fem.dat" lemma="μήτηρ" lemmaFlag="ok"/>
+			<word wordref_id="2892709" id="8" texid="30332" row="27" wordNum="3" hand="m1" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="2892710" id="9" texid="30332" row="27" wordNum="4" hand="m1" regularized="Ἀρείου" original="Ἀρείου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἄρειας" lemmaFlag="ok"/>
+			<word wordref_id="2892711" id="10" texid="30332" row="27" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

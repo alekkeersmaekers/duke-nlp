@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lond.7.2155" TM="1715" HGV="1715" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2177871" id="1" texid="1715" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2177872" id="2" texid="1715" row="1" wordNum="2" hand="m1" regularized="|gap=unknown||gap=unknown|ἔτους?" original="|gap=unknown||gap=unknown|(ἔτους?)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2177873" id="3" texid="1715" row="1" wordNum="3" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="2177874" id="4" texid="1715" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2177875" id="1" texid="1715" row="1" wordNum="5" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="2177876" id="2" texid="1715" row="1" wordNum="6" hand="m1" regularized="Χαιῶπιν|gap=unknown|" original="Χαιῶπιν|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

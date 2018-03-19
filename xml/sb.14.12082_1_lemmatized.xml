@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.14.12082" TM="30112" HGV="30112" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4144561" id="1" texid="30112" row="1" wordNum="1" hand="m1" regularized="χαίροις" original="χαίροις" completeness="complete" tag="verb.2.sg.pres.opt.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="4144562" id="2" texid="30112" row="1" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4144563" id="3" texid="30112" row="1" wordNum="3" hand="m1" regularized="πάτερ" original="πάτερ" completeness="complete" tag="noun.sg.masc.voc" lemma="πατήρ" lemmaFlag="ok"/>
+			<word wordref_id="4144564" id="4" texid="30112" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4144565" id="1" texid="30112" row="2" wordNum="1" hand="m1" regularized="ἀσπουδάστως" original="ἀσπ[ο]υδάστως" completeness="partly_reconstructed" tag="adverb" lemma="ἀσπούδαστος" lemmaFlag="ok"/>
+			<word wordref_id="4144566" id="2" texid="30112" row="2-3" wordNum="1" hand="m1" regularized="ἐποίησας" original="ἐποίη-σας" completeness="complete" tag="verb.2.sg.aor.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="4144567" id="3" texid="30112" row="3" wordNum="1" hand="m1" regularized="μὴ" original="[μ]ὴ" completeness="partly_reconstructed" tag="adverb" lemma="μή" lemmaFlag="ok"/>
+			<word wordref_id="4144568" id="4" texid="30112" row="3" wordNum="2" hand="m1" regularized="ποιήσας" original="πο[ιήσ]ας" completeness="partly_reconstructed" tag="participle.sg.aor.act.masc.nom" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="4144569" id="5" texid="30112" row="3" wordNum="3" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4144570" id="6" texid="30112" row="4" wordNum="1" hand="m1" regularized="γυναῖκα" original="γυναῖκα" completeness="complete" tag="noun.sg.fem.acc" lemma="γυνή" lemmaFlag="ok"/>
+			<word wordref_id="4144571" id="7" texid="30112" row="4" wordNum="2" hand="m1" regularized="ἀναβῆναι" original="ἀναβῆναι" completeness="complete" tag="infinitive.aor.act" lemma="ἀναβαίνω" lemmaFlag="ok"/>
+			<word wordref_id="4144572" id="8" texid="30112" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4144573" id="1" texid="30112" row="4-5" wordNum="1" hand="m1" regularized="εὕρημαι" original="εὕ-ρημαι" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="εὑρίσκω" lemmaFlag="ok"/>
+			<word wordref_id="4144574" id="2" texid="30112" row="5" wordNum="1" hand="m1" regularized="γὰρ" original="γὰρ" completeness="complete" tag="conjunction" lemma="γάρ" lemmaFlag="ok"/>
+			<word wordref_id="4144575" id="3" texid="30112" row="5" wordNum="2" hand="m1" regularized="ἐνκλειόμενος" original="ἐν[κ]λειόμενο̣ς̣" completeness="partly_reconstructed" tag="participle.sg.pres.mid.masc.nom" lemma="ἐγκλείω" lemmaFlag="ok"/>
+			<word wordref_id="4144576" id="4" texid="30112" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="4144577" id="1" texid="30112" row="6" wordNum="1" hand="m1" regularized="ἐξαυτῆς" original="ἐξαυτῆς" completeness="complete" tag="adverb" lemma="ἐξαυτῆς" lemmaFlag="ok"/>
+			<word wordref_id="4144578" id="2" texid="30112" row="6" wordNum="2" hand="m1" regularized="ἀναβάτω" original="ἀναβάτω" completeness="complete" tag="noun.sg.masc.gen" lemma="ἀναβάτης" lemmaFlag="ok"/>
+			<word wordref_id="4144579" id="3" texid="30112" row="6" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

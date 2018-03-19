@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.6.8966" TM="5715" HGV="5715" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4461354" id="1" texid="5715" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4461355" id="2" texid="5715" row="1" wordNum="2" hand="m1" regularized="λδ|digit=34|" original="λδ|digit=34|" completeness="complete" tag="numeral.none.none.none" lemma="λδ" lemmaFlag="ok"/>
+			<word wordref_id="4461356" id="3" texid="5715" row="1" wordNum="3" hand="m1" regularized="Παχὼνς" original="Παχὼνς" completeness="complete" tag="noun.sg.none.gen" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="4461357" id="4" texid="5715" row="1" wordNum="4" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="4461358" id="5" texid="5715" row="1" wordNum="5" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="4461359" id="6" texid="5715" row="1" wordNum="6" hand="m1" regularized="Διὸς" original="Διὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="Ζεύς" lemmaFlag="ok"/>
+			<word wordref_id="4461360" id="7" texid="5715" row="2" wordNum="1" hand="m1" regularized="πόλει" original="πόλει" completeness="complete" tag="noun.sg.fem.dat" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="4461361" id="8" texid="5715" row="2" wordNum="2" hand="m1" regularized="τῆι" original="τῆι" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4461362" id="9" texid="5715" row="2" wordNum="3" hand="m1" regularized="Μεγάληι" original="Μεγάληι" completeness="complete" tag="noun.sg.fem.dat" lemma="Μεγάλη" lemmaFlag="ok"/>
+			<word wordref_id="4461363" id="10" texid="5715" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4461364" id="1" texid="5715" row="3" wordNum="1" hand="m1" regularized="πέπτωκεν" original="πέπτωκεν" completeness="complete" tag="verb.3.sg.pf.ind.act" lemma="πίπτω" lemmaFlag="ok"/>
+			<word wordref_id="4461365" id="2" texid="5715" row="3" wordNum="2" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="4461366" id="3" texid="5715" row="3" wordNum="3" hand="m1" regularized="κιβωτὸν" original="κιβωτὸν" completeness="complete" tag="noun.sg.fem.acc" lemma="κιβωτός" lemmaFlag="ok"/>
+			<word wordref_id="4461367" id="4" texid="5715" row="4" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4461368" id="5" texid="5715" row="4" wordNum="2" hand="m1" regularized="Πολυαράτου" original="Πολυαράτου" completeness="complete" tag="noun.sg.masc.gen" lemma="Πολυάρατος" lemmaFlag="ok"/>
+			<word wordref_id="4461369" id="6" texid="5715" row="4" wordNum="3" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4461370" id="7" texid="5715" row="5" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="4461371" id="8" texid="5715" row="5" wordNum="2" hand="m1" regularized="Λέοντος" original="Λέοντος" completeness="complete" tag="noun.sg.masc.gen" lemma="Λέων" lemmaFlag="ok"/>
+			<word wordref_id="4461372" id="9" texid="5715" row="5" wordNum="3" hand="m1" regularized="οἰκονόμου" original="οἰκονόμου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἰκονόμος" lemmaFlag="wrong-accent:οἰκόνομος"/>
+			<word wordref_id="4461373" id="10" texid="5715" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

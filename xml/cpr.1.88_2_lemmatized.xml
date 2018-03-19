@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="cpr.1.88" TM="31849" HGV="31849" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="414554" id="1" texid="31849" row="1" wordNum="1" hand="m2" regularized="ὀρθῶς" original="[ὀρθῶς]" completeness="fully_reconstructed" tag="adverb" lemma="ὀρθός" lemmaFlag="ok"/>
+			<word wordref_id="414555" id="2" texid="31849" row="1" wordNum="2" hand="m2" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="414556" id="3" texid="31849" row="1-2" wordNum="1" hand="m2" regularized="καλῶς" original="κα-[λῶς]" completeness="partly_reconstructed" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="414557" id="4" texid="31849" row="2" wordNum="1" hand="m2" regularized="γεγενῆσθαι" original="[γεγεν]ῆσθαι" completeness="partly_reconstructed" tag="infinitive.pf.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="414558" id="5" texid="31849" row="3" wordNum="1" hand="m2" regularized="ἐπερωτηθέντες" original="[ἐπ]ερωτηθέντες" completeness="partly_reconstructed" tag="participle.pl.aor.pass.masc.nom" lemma="ἐπερωτάω" lemmaFlag="ok"/>
+			<word wordref_id="414559" id="6" texid="31849" row="4" wordNum="1" hand="m2" regularized="ὡμολόγησαν" original="[ὡ]μολόγησαν" completeness="partly_reconstructed" tag="verb.3.pl.aor.ind.act" lemma="ὁμολογέω" lemmaFlag="ok"/>
+			<word wordref_id="414560" id="7" texid="31849" row="4" wordNum="2" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="414561" id="1" texid="31849" row="5" wordNum="1" hand="m2" regularized="ἡ" original="[ἡ]" completeness="fully_reconstructed" tag="article.sg.fem.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="414562" id="2" texid="31849" row="5" wordNum="2" hand="m2" regularized="ἀποχὴ" original="ἀποχὴ" completeness="complete" tag="noun.sg.fem.nom" lemma="ἀποχή" lemmaFlag="ok"/>
+			<word wordref_id="414563" id="3" texid="31849" row="5" wordNum="3" hand="m2" regularized="κυρία" original="κυρία" completeness="complete" tag="adjective.sg.fem.nom.pos" lemma="κύριος" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

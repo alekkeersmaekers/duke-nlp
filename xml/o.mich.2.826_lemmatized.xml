@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.2.826" TM="42704" HGV="42704" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="738103" id="1" texid="42704" row="1" wordNum="1" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.masc.voc" lemma="Παυνις" lemmaFlag="ok"/>
+			<word wordref_id="738104" id="2" texid="42704" row="1" wordNum="2" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="738105" id="3" texid="42704" row="1-2" wordNum="1" hand="m1" regularized="Πτολεμαῖος" original="Πτο-λεμαῖος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="738106" id="4" texid="42704" row="2-3" wordNum="1" hand="m1" regularized="Πτολεμαίου" original="Πτολε-μαίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="738107" id="5" texid="42704" row="3" wordNum="1" hand="m1" regularized="ἀπὸ" original="ἀπὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="738108" id="6" texid="42704" row="3" wordNum="2" hand="m1" regularized="κδ|digit=24|" original="κδ|digit=24|" completeness="complete" tag="numeral.none.none.none" lemma="κδ" lemmaFlag="ok"/>
+			<word wordref_id="738109" id="7" texid="42704" row="4" wordNum="1" hand="m1" regularized="συνλιθηγίαν" original="συνλιθ(ηγίαν)" completeness="complete" tag="numeral.sg.fem.acc" lemma="σύνλιθηγιοι" lemmaFlag="suspect"/>
+			<word wordref_id="738110" id="8" texid="42704" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="738111" id="1" texid="42704" row="5" wordNum="1" hand="m2" regularized="σεσημείωμ" original="σεσημίωμ(αι)*" completeness="complete" tag="noun.pl.masc.nom" lemma="σεσημείωμ" lemmaFlag="suspect"/>
+			<word wordref_id="738112" id="2" texid="42704" row="5" wordNum="2" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

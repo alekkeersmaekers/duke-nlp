@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.wilck.1117" TM="41790" HGV="41790" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="823523" id="1" texid="41790" row="1" wordNum="1" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="823524" id="2" texid="41790" row="1" wordNum="2" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="823525" id="3" texid="41790" row="1" wordNum="3" hand="m1" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.nom" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="823526" id="4" texid="41790" row="1" wordNum="4" hand="m1" regularized="|gap=1|ε|digit=5|" original="|gap=1|ε|digit=5|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="823527" id="5" texid="41790" row="2" wordNum="1" hand="m1" regularized="σιτολόγοι" original="σιτολ(όγοι)" completeness="complete" tag="noun.pl.masc.nom" lemma="σιτολόγος" lemmaFlag="wrong-accent:σιτόλογος"/>
+			<word wordref_id="823528" id="6" texid="41790" row="2" wordNum="2" hand="m1" regularized="Καμείνων" original="Καμεί(νων)" completeness="complete" tag="noun.pl.masc.gen" lemma="Καμεῖνος" lemmaFlag="ok"/>
+			<word wordref_id="823529" id="7" texid="41790" row="2" wordNum="3" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="823530" id="8" texid="41790" row="3" wordNum="1" hand="m1" regularized="ὄνων" original="ὄνων" completeness="complete" tag="noun.pl.fem.gen" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="823531" id="9" texid="41790" row="3" wordNum="2" hand="m1" regularized="Ἡρακλεοπολίτου" original="Ἡρακλεοπ(ολίτου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἡρακλεοπολίτης" lemmaFlag="ok"/>
+			<word wordref_id="823532" id="10" texid="41790" row="4" wordNum="1" hand="m1" regularized="νομοῦ" original="νομ(οῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="νομός" lemmaFlag="ok"/>
+			<word wordref_id="823533" id="11" texid="41790" row="4" wordNum="2" hand="m1" regularized="Ὀννὴ" original="Ὀννὴ" completeness="complete" tag="noun.sg.fem.nom" lemma="Ὀννή" lemmaFlag="ok"/>
+			<word wordref_id="823534" id="12" texid="41790" row="4" wordNum="3" hand="m1" regularized="ὄνοι" original="ὄνοι" completeness="complete" tag="noun.pl.fem.nom" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="823535" id="13" texid="41790" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="823536" id="1" texid="41790" row="5" wordNum="1" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok"/>
+			<word wordref_id="823537" id="2" texid="41790" row="5" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="823538" id="3" texid="41790" row="5" wordNum="3" hand="m1" regularized="πυροῦ" original="(πυροῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="πυρός" lemmaFlag="ok"/>
+			<word wordref_id="823539" id="4" texid="41790" row="5" wordNum="4" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="823540" id="5" texid="41790" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.792" TM="76369" HGV="76369" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="798811" id="1" texid="76369" row="1" wordNum="1" hand="m1" regularized="Ἐπώνυχος" original="Ἐπώνυχος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἐπώνυχος" lemmaFlag="ok"/>
+			<word wordref_id="798812" id="2" texid="76369" row="1" wordNum="2" hand="m1" regularized="Ὥρωι" original="Ὥρωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ὧρος" lemmaFlag="ok"/>
+			<word wordref_id="798813" id="3" texid="76369" row="1" wordNum="3" hand="m1" regularized="τῶι" original="[τῶι]" completeness="fully_reconstructed" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="798814" id="4" texid="76369" row="1-2" wordNum="1" hand="m1" regularized="φιλτα?τῶι" original="[φιλτα?]-τῶι" completeness="partly_reconstructed" tag="adjective.sg.masc.dat.pos" lemma="φιλτατός" lemmaFlag="wrong-accent:φίλτατος"/>
+			<word wordref_id="798815" id="5" texid="76369" row="2" wordNum="1" hand="m1" regularized="ἀδελφῶι" original="ἀδελφῶι" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="798816" id="6" texid="76369" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="798817" id="7" texid="76369" row="2" wordNum="3" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="798818" id="1" texid="76369" row="3" wordNum="1" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="798819" id="2" texid="76369" row="3" wordNum="2" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="798820" id="3" texid="76369" row="3" wordNum="3" hand="m1" regularized="ἀναδιδόντι" original="ἀναδιδ[όντι]" completeness="partly_reconstructed" tag="participle.sg.pres.act.masc.dat" lemma="ἀναδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="798821" id="4" texid="76369" row="3" wordNum="4" hand="m1" regularized="σοι" original="[σοι]" completeness="fully_reconstructed" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="798822" id="5" texid="76369" row="3" wordNum="5" hand="m1" regularized="τὸ" original="[τὸ]" completeness="fully_reconstructed" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="798823" id="6" texid="76369" row="4" wordNum="1" hand="m1" regularized="ὄστρακον" original="ὄστρακον" completeness="complete" tag="noun.sg.neut.acc" lemma="ὄστρακον" lemmaFlag="ok"/>
+			<word wordref_id="798824" id="7" texid="76369" row="4" wordNum="2" hand="m1" regularized="Κολοφώνια" original="Κο̣λο̣(φώνια)" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="Κολοφώνιος" lemmaFlag="ok"/>
+			<word wordref_id="798825" id="8" texid="76369" row="4" wordNum="3" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798826" id="9" texid="76369" row="5" wordNum="1" hand="m1" regularized="χρηστά" original="χρηστά" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="χρηστός" lemmaFlag="ok"/>
+			<word wordref_id="798827" id="10" texid="76369" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="798828" id="1" texid="76369" row="5" wordNum="3" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="798829" id="2" texid="76369" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="798830" id="1" texid="76369" row="5" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

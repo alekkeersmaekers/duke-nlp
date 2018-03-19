@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.262" TM="75858" HGV="75858" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="778929" id="1" texid="75858" row="1" wordNum="1" hand="m1" regularized="Ω|gap=4||gap=4||gap=4||gap=4||gap=4||gap=1|" original="Ω|gap=4||gap=4||gap=4||gap=4||gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="778930" id="2" texid="75858" row="2" wordNum="1" hand="m1" regularized="γων|gap=4||gap=4||gap=2|ου" original="γων|gap=4||gap=4||gap=2|ου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="778931" id="3" texid="75858" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="778932" id="1" texid="75858" row="2" wordNum="3" hand="m1" regularized="ἔχω" original="ἔχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="778933" id="2" texid="75858" row="2" wordNum="4" hand="m1" regularized="παρὰ" original="πα[ρὰ]" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="778934" id="3" texid="75858" row="3" wordNum="1" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="778935" id="4" texid="75858" row="3" wordNum="2" hand="m1" regularized="ὑπὲρ" original="ὑπὲ[ρ]" completeness="partly_reconstructed" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="778936" id="5" texid="75858" row="3" wordNum="3" hand="m1" regularized="βαλανείου?" original="βαλανεί(ου?)" completeness="complete" tag="noun.sg.neut.gen" lemma="βαλανεῖον" lemmaFlag="ok"/>
+			<word wordref_id="778937" id="6" texid="75858" row="3" wordNum="4" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="778938" id="7" texid="75858" row="3" wordNum="5" hand="m1" regularized="Μακεδόνων" original="Μακ(εδόνων)" completeness="complete" tag="noun.pl.masc.gen" lemma="Μακεδών" lemmaFlag="ok"/>
+			<word wordref_id="778939" id="8" texid="75858" row="4" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="778940" id="9" texid="75858" row="4" wordNum="2" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok"/>
+			<word wordref_id="778941" id="10" texid="75858" row="4" wordNum="3" hand="m1" regularized="Τιβερίου" original="Τιβερίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Τιβέριος" lemmaFlag="ok"/>
+			<word wordref_id="778942" id="11" texid="75858" row="4" wordNum="4" hand="m1" regularized="Καίσαρος" original="Καίσαρος" completeness="complete" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="778943" id="12" texid="75858" row="5" wordNum="1" hand="m1" regularized="Σεβαστοῦ" original="Σεβαστοῦ" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="Σεβαστός" lemmaFlag="ok"/>
+			<word wordref_id="778944" id="13" texid="75858" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="778945" id="1" texid="75858" row="5" wordNum="3" hand="m1" regularized="Ἐπὶφ" original="Ἐπὶφ" completeness="complete" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok"/>
+			<word wordref_id="778946" id="2" texid="75858" row="5" wordNum="4" hand="m1" regularized="κε|digit=25|" original="κε|digit=25|" completeness="complete" tag="numeral.none.none.none" lemma="κε" lemmaFlag="ok"/>
+			<word wordref_id="778947" id="3" texid="75858" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.elkab.3" TM="4577" HGV="4577" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="677148" id="1" texid="4577" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="677149" id="2" texid="4577" row="1" wordNum="2" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="677150" id="3" texid="4577" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="677151" id="1" texid="4577" row="1" wordNum="4" hand="m1" regularized="τέτακται" original="τέτακται" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τάσσω" lemmaFlag="ok"/>
+			<word wordref_id="677152" id="2" texid="4577" row="1-2" wordNum="1" hand="m1" regularized="ζυτηρᾶς" original="ζυ-τηρᾶς" completeness="complete" tag="noun.sg.fem.gen" lemma="ζυτηρά" lemmaFlag="ok"/>
+			<word wordref_id="677153" id="3" texid="4577" row="2" wordNum="1" hand="m1" regularized="Ὀνοῦτις" original="Ὀνοῦτις" completeness="complete" tag="noun.sg.fem.nom" lemma="Ὀνοῦτις" lemmaFlag="ok"/>
+			<word wordref_id="677154" id="4" texid="4577" row="3" wordNum="1" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="677155" id="5" texid="4577" row="3" wordNum="2" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="677156" id="6" texid="4577" row="3" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="677157" id="7" texid="4577" row="3" wordNum="4" hand="m1" regularized="δραχμαὶ" original="(δραχμαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="677158" id="8" texid="4577" row="3" wordNum="5" hand="m1" regularized="π|digit=80|" original="π̣|digit=80|" completeness="complete" tag="numeral.none.none.none" lemma="π" lemmaFlag="ok"/>
+			<word wordref_id="677159" id="9" texid="4577" row="3" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

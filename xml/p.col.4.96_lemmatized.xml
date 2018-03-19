@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.col.4.96" TM="1809" HGV="1809" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1323020" id="1" texid="1809" row="1" wordNum="1" hand="m1" regularized="ἀντίγραφον" original="ἀντίγραφον" completeness="complete" tag="noun.sg.neut.nom" lemma="ἀντίγραφον" lemmaFlag="suspect"/>
+			<word wordref_id="1323021" id="2" texid="1809" row="1" wordNum="2" hand="m1" regularized="ὑπομνήματος" original="ὑπομνήματος" completeness="complete" tag="noun.sg.neut.gen" lemma="ὑπόμνημα" lemmaFlag="ok"/>
+			<word wordref_id="1323022" id="3" texid="1809" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1323023" id="1" texid="1809" row="2" wordNum="1" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1323024" id="2" texid="1809" row="2" wordNum="2" hand="m1" regularized="ἐμπυρίσας" original="ἐμπυρίσας" completeness="complete" tag="participle.sg.aor.act.masc.nom" lemma="ἐμπυρίζω" lemmaFlag="ok"/>
+			<word wordref_id="1323025" id="3" texid="1809" row="2" wordNum="3" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1323026" id="4" texid="1809" row="2" wordNum="4" hand="m1" regularized="χέρσον" original="χέρσον" completeness="complete" tag="noun.sg.fem.acc" lemma="χέρσος" lemmaFlag="ok"/>
+			<word wordref_id="1323027" id="5" texid="1809" row="3" wordNum="1" hand="m1" regularized="ἐνπύρισεν" original="ἐνπύρισεν" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="νπυρίζω" lemmaFlag="suspect"/>
+			<word wordref_id="1323028" id="6" texid="1809" row="3" wordNum="2" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1323029" id="7" texid="1809" row="3" wordNum="3" hand="m1" regularized="παρʼ" original="παρʼ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1323030" id="8" texid="1809" row="3" wordNum="4" hand="m1" regularized="ἡμῶν" original="ἡμῶν" completeness="complete" tag="personal.pl.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="1323031" id="9" texid="1809" row="4" wordNum="1" hand="m1" regularized="σῦκας" original="σῦκας" completeness="complete" tag="noun.pl.masc.acc" lemma="σῦξ" lemmaFlag="suspect"/>
+			<word wordref_id="1323032" id="10" texid="1809" row="4" wordNum="2" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="1323033" id="11" texid="1809" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1323034" id="1" texid="1809" row="4" wordNum="4" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1323035" id="2" texid="1809" row="4" wordNum="5" hand="m1" regularized="καλάμινα" original="καλάμι̣να" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="καλάμινος" lemmaFlag="ok"/>
+			<word wordref_id="1323036" id="3" texid="1809" row="4-5" wordNum="1" hand="m1" regularized="εἰκάζομεν" original="οἰκά-ζομεν*" completeness="complete" tag="verb.1.pl.pres.ind.act" lemma="εἰκάζω" lemmaFlag="ok"/>
+			<word wordref_id="1323037" id="4" texid="1809" row="5" wordNum="1" hand="m1" regularized="ὁλοκαλάμους" original="ὁλοκαλάμους" completeness="complete" tag="noun.pl.masc.acc" lemma="ὁλοκάλαμος" lemmaFlag="ok"/>
+			<word wordref_id="1323038" id="5" texid="1809" row="5" wordNum="2" hand="m1" regularized="Α|digit=1000|" original="Α|digit=1000|" completeness="complete" tag="numeral.none.none.none" lemma="Ά" lemmaFlag="ok"/>
+			<word wordref_id="1323039" id="6" texid="1809" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

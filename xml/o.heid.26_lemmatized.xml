@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.heid.26" TM="80282" HGV="80282" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="688016" id="1" texid="80282" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="688017" id="2" texid="80282" row="1" wordNum="2" hand="m1" regularized="|gap=unknown||gap=1||gap=unknown|" original="|gap=unknown||gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="688018" id="3" texid="80282" row="2" wordNum="1" hand="m1" regularized="πος" original="πος" completeness="complete" tag="noun.sg.masc.nom" lemma="πος" lemmaFlag="wrong-accent:πός"/>
+			<word wordref_id="688019" id="4" texid="80282" row="2" wordNum="2" hand="m1" regularized="υἱὸς" original="υ̣ἱὸς" completeness="complete" tag="noun.sg.masc.nom" lemma="υἱός" lemmaFlag="ok"/>
+			<word wordref_id="688020" id="5" texid="80282" row="2" wordNum="3" hand="m1" regularized="|gap=2||gap=unknown|" original="|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="688021" id="6" texid="80282" row="2-3" wordNum="1" hand="m1" regularized="ἑκατόν" original="[ἑκα]-τόν" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="ἑκατόν" lemmaFlag="ok"/>
+			<word wordref_id="688022" id="7" texid="80282" row="3" wordNum="1" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="688023" id="8" texid="80282" row="3" wordNum="2" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="688024" id="9" texid="80282" row="3" wordNum="3" hand="m1" regularized="ρ|digit=100|" original="ρ|digit=100|" completeness="complete" tag="numeral.none.none.none" lemma="ρ" lemmaFlag="ok"/>
+			<word wordref_id="688025" id="10" texid="80282" row="3" wordNum="4" hand="m1" regularized="δι|gap=2||gap=unknown|" original="δι|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="688026" id="11" texid="80282" row="4" wordNum="1" hand="m1" regularized="Ψ|gap=7||gap=unknown|" original="Ψ̣|gap=7||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

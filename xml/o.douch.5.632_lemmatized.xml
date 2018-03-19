@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.5.632" TM="74188" HGV="74188" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="666427" id="1" texid="74188" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|ς" original="|gap=unknown|ς" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="666428" id="2" texid="74188" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="666429" id="3" texid="74188" row="1" wordNum="3" hand="m1" regularized="Παλ…" original="Παλ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="666430" id="4" texid="74188" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="666431" id="1" texid="74188" row="2" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="666432" id="2" texid="74188" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="666433" id="3" texid="74188" row="3" wordNum="2" hand="m1" regularized="ἄρτου" original="ἄρτου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄρτος" lemmaFlag="ok"/>
+			<word wordref_id="666434" id="4" texid="74188" row="3" wordNum="3" hand="m1" regularized="ἀννώνας" original="ἀν(νώνας)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀννώνη" lemmaFlag="ok"/>
+			<word wordref_id="666435" id="5" texid="74188" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="666436" id="1" texid="74188" row="4" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

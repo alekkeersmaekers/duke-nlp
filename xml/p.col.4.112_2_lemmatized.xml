@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.col.4.112" TM="1825" HGV="1825" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1317128" id="1" texid="1825" row="8" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1317129" id="2" texid="1825" row="8" wordNum="2" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1317130" id="3" texid="1825" row="8" wordNum="3" hand="m1" regularized="Μεχεὶρ" original="Μ̣εχεὶρ" completeness="complete" tag="noun.sg.none.none" lemma="Μεχείρ" lemmaFlag="ok"/>
+			<word wordref_id="1317131" id="4" texid="1825" row="8" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1317132" id="1" texid="1825" row="8-9" wordNum="1" hand="m1" regularized="Πεισίστρατος" original="Πεισί-[στρα]τος" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Πεισίστρατος" lemmaFlag="ok"/>
+			<word wordref_id="1317133" id="2" texid="1825" row="8" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1317134" id="3" texid="1825" row="8" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.340" TM="42099" HGV="42099" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="728273" id="1" texid="42099" row="1" wordNum="1" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="728274" id="2" texid="42099" row="2" wordNum="1" hand="m1" regularized="Πατερμούθιος" original="Πατ̣ε̣ρ̣μ̣[ούθιος]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Πατερμούθιος" lemmaFlag="ok"/>
+			<word wordref_id="728275" id="3" texid="42099" row="2" wordNum="2" hand="m1" regularized="|gap=1|" original="|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="728276" id="4" texid="42099" row="3" wordNum="1" hand="m1" regularized="Γερμανὸς" original="Γερμανὸς" completeness="complete" tag="noun.sg.masc.nom" lemma="Γερμανός" lemmaFlag="ok"/>
+			<word wordref_id="728277" id="5" texid="42099" row="3-4" wordNum="1" hand="m1" regularized="Γεμέλλου" original="Γεμέλ-λου" completeness="complete" tag="noun.sg.masc.gen" lemma="Γέμελλος" lemmaFlag="ok"/>
+			<word wordref_id="728278" id="6" texid="42099" row="4" wordNum="1" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="728279" id="7" texid="42099" row="5" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="728280" id="8" texid="42099" row="5" wordNum="2" hand="m1" regularized="διὰ" original="δι(ὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="728281" id="9" texid="42099" row="5" wordNum="3" hand="m1" regularized="κωμαρχῶν" original="κωμαρχῶ(ν)" completeness="complete" tag="noun.pl.masc.gen" lemma="κωμάρχης" lemmaFlag="ok"/>
+			<word wordref_id="728282" id="10" texid="42099" row="6" wordNum="1" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

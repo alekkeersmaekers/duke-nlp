@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.4.808" TM="118460" HGV="118460" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="637417" id="1" texid="118460" row="1" wordNum="1" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="637418" id="2" texid="118460" row="1" wordNum="2" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="637419" id="3" texid="118460" row="1" wordNum="3" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="637420" id="4" texid="118460" row="1" wordNum="4" hand="m1" regularized="Διόνυσον" original="Διόνυσο̣ν̣" completeness="complete" tag="noun.sg.masc.acc" lemma="Διόνυσος" lemmaFlag="ok"/>
+			<word wordref_id="637421" id="5" texid="118460" row="2" wordNum="1" hand="m1" regularized="σφυρίδας" original="σφυρίδα̣ς" completeness="complete" tag="noun.pl.fem.acc" lemma="σφυρίς" lemmaFlag="ok"/>
+			<word wordref_id="637422" id="6" texid="118460" row="2" wordNum="2" hand="m1" regularized="δεκαπέντε|digit=15|" original="δεκαπέντε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="δεκαπέντε" lemmaFlag="ok"/>
+			<word wordref_id="637423" id="7" texid="118460" row="3" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="637424" id="8" texid="118460" row="3" wordNum="2" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="637425" id="9" texid="118460" row="3" wordNum="3" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="637426" id="10" texid="118460" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="637427" id="1" texid="118460" row="4" wordNum="1" hand="m1" regularized="Ἁθὺρ" original="Ἁθὺρ" completeness="complete" tag="noun.sg.masc.none" lemma="Ἁθύρ" lemmaFlag="ok"/>
+			<word wordref_id="637428" id="2" texid="118460" row="4" wordNum="2" hand="m1" regularized="κδ|digit=24|" original="κδ|digit=24|" completeness="complete" tag="numeral.none.none.none" lemma="κδ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.1.56" TM="1956" HGV="1956" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2238710" id="1" texid="1956" row="31" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="2238711" id="2" texid="1956" row="31" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2238712" id="1" texid="1956" row="32" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="2238713" id="2" texid="1956" row="32" wordNum="2" hand="m1" regularized="Φίλωνος" original="Φίλωνος" completeness="complete" tag="noun.sg.masc.gen" lemma="Φίλων" lemmaFlag="ok"/>
+			<word wordref_id="2238714" id="3" texid="1956" row="32" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="2238715" id="1" texid="1956" row="33" wordNum="1" hand="m1" regularized="|extra|" original="⟦Ζήνωνι⟧" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

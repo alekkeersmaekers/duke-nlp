@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.1.90" TM="1989" HGV="1989" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2241658" id="1" texid="1989" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2241659" id="2" texid="1989" row="1" wordNum="2" hand="m1" regularized="|gap=3||gap=1||gap=1||gap=4||gap=3|λω" original="|gap=3||gap=1||gap=1||gap=4||gap=3|λ̣ω" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2241660" id="3" texid="1989" row="1" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="2241661" id="4" texid="1989" row="1-2" wordNum="1" hand="m1" regularized="ἀλλὰ" original="ἀλ-λὰ" completeness="complete" tag="conjunction" lemma="ἀλλά" lemmaFlag="ok"/>
+			<word wordref_id="2241662" id="5" texid="1989" row="2" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2241663" id="6" texid="1989" row="2" wordNum="2" hand="m1" regularized="γυμνός" original="γυμνός" completeness="complete" tag="adjective.sg.masc.nom.pos" lemma="γυμνός" lemmaFlag="ok"/>
+			<word wordref_id="2241664" id="7" texid="1989" row="2" wordNum="3" hand="m1" regularized="εἰμι" original="εἰμι" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="εἰμί" lemmaFlag="ok"/>
+			<word wordref_id="2241665" id="8" texid="1989" row="2" wordNum="4" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2241666" id="9" texid="1989" row="3" wordNum="1" hand="m1" regularized="ὕπαιθροι" original="ὕπαιθροι" completeness="complete" tag="adjective.pl.masc.nom.pos" lemma="ὑπαίθριος" lemmaFlag="ok"/>
+			<word wordref_id="2241667" id="10" texid="1989" row="3" wordNum="2" hand="m1" regularized="γεινόμεθα" original="γεινόμεθα" completeness="complete" tag="verb.1.pl.aor.subj.mid" lemma="γείνομαι" lemmaFlag="ok"/>
+			<word wordref_id="2241668" id="11" texid="1989" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2241669" id="1" texid="1989" row="4" wordNum="1" hand="m1" regularized="καλῶς" original="καλῶς" completeness="complete" tag="adverb" lemma="καλῶς" lemmaFlag="ok"/>
+			<word wordref_id="2241670" id="2" texid="1989" row="4" wordNum="2" hand="m1" regularized="οὖν" original="οὖν" completeness="complete" tag="conjunction" lemma="οὖν" lemmaFlag="ok"/>
+			<word wordref_id="2241671" id="3" texid="1989" row="4" wordNum="3" hand="m1" regularized="ποιήσεις" original="ποιήσεις" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="2241672" id="4" texid="1989" row="5" wordNum="1" hand="m1" regularized="συντάξας" original="συντάξας" completeness="complete" tag="participle.sg.aor.act.masc.nom" lemma="συντάσσω" lemmaFlag="ok"/>
+			<word wordref_id="2241673" id="5" texid="1989" row="5" wordNum="2" hand="m1" regularized="δοῦναί" original="δοῦναί" completeness="complete" tag="infinitive.aor.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2241674" id="6" texid="1989" row="5" wordNum="3" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="2241675" id="7" texid="1989" row="6" wordNum="1" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="2241676" id="8" texid="1989" row="6" wordNum="2" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="2241677" id="9" texid="1989" row="6" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="2241678" id="10" texid="1989" row="6" wordNum="4" hand="m1" regularized="ἵνα" original="ἵ̣να̣" completeness="complete" tag="conjunction" lemma="ἵνα" lemmaFlag="ok"/>
+			<word wordref_id="2241679" id="11" texid="1989" row="6" wordNum="5" hand="m1" regularized="πρίωμαι" original="π̣ρίωμαι" completeness="complete" tag="verb.1.sg.pres.subj.mid" lemma="πρίαμαι" lemmaFlag="ok"/>
+			<word wordref_id="2241680" id="12" texid="1989" row="6" wordNum="6" hand="m1" regularized="καὶ" original="κ[α]ὶ" completeness="partly_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2241681" id="13" texid="1989" row="6-7" wordNum="1" hand="m1" regularized="ῥάκος" original="ῥά-κο[ς]" completeness="partly_reconstructed" tag="noun.sg.neut.nom" lemma="ῥάκος" lemmaFlag="ok"/>
+			<word wordref_id="2241682" id="14" texid="1989" row="7" wordNum="1" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2241683" id="15" texid="1989" row="7" wordNum="2" hand="m1" regularized="κομισον|gap=unknown|" original="[κ]ομισον̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2241684" id="16" texid="1989" row="8" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

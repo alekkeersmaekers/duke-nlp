@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.3.454" TM="73637" HGV="73637" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="629044" id="1" texid="73637" row="1" wordNum="1" hand="m1" regularized="Σαβεῖνος" original="Σαβεινω*" completeness="complete" tag="noun.sg.masc.nom" lemma="Σαβεῖνος" lemmaFlag="ok"/>
+			<word wordref_id="629045" id="2" texid="73637" row="1-2" wordNum="1" hand="m1" regularized="Μενελάῳ" original="Μελε-λάου*" completeness="complete" tag="noun.sg.masc.dat" lemma="Μενέλαος" lemmaFlag="ok"/>
+			<word wordref_id="629046" id="3" texid="73637" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χέριν*" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="629047" id="4" texid="73637" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="629048" id="1" texid="73637" row="3" wordNum="1" hand="m1" regularized="ἔχω" original="ἔχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="629049" id="2" texid="73637" row="3" wordNum="2" hand="m1" regularized="ἀπὸ" original="σε*" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="629050" id="3" texid="73637" row="3" wordNum="3" hand="m1" regularized="σοῦ" original="|extra|*" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="629051" id="4" texid="73637" row="3" wordNum="4" hand="m1" regularized="μάτια" original="μάτια" completeness="complete" tag="noun.pl.neut.acc" lemma="μάτιον" lemmaFlag="ok"/>
+			<word wordref_id="629052" id="5" texid="73637" row="4" wordNum="1" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="629053" id="6" texid="73637" row="4" wordNum="2" hand="m1" regularized="ἀπὸ" original="ἀ̣πὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="629054" id="7" texid="73637" row="4" wordNum="3" hand="m1" regularized="Χυαχ" original="Χυαχ" completeness="complete" tag="noun.sg.none.dat" lemma="Χύαχ" lemmaFlag="ok"/>
+			<word wordref_id="629055" id="8" texid="73637" row="4" wordNum="4" hand="m1" regularized="ου" original="ου" completeness="complete" tag="adverb" lemma="οὐ" lemmaFlag="ok"/>
+			<word wordref_id="629056" id="9" texid="73637" row="4" wordNum="5" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

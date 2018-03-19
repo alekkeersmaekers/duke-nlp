@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.12.11034" TM="26772" HGV="26772" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4093063" id="1" texid="26772" row="1" wordNum="1" hand="m1" regularized="ἀρχεφόδῳ" original="ἀρχεφόδῳ" regularized_old="Ἀρχεφόδῳ" original_old="Ἀρχεφόδῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀρχέφοδος" lemmaFlag="ok"/>
+			<word wordref_id="4093064" id="2" texid="26772" row="1" wordNum="2" hand="m1" regularized="Νέσλα" original="Νέσλα" completeness="complete" tag="noun.sg.masc.dat" lemma="Νέσλα" lemmaFlag="ok"/>
+			<word wordref_id="4093065" id="3" texid="26772" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4093066" id="1" texid="26772" row="1-2" wordNum="1" hand="m1" regularized="ἀνάπεμψον" original="[ἀν]ά̣[πεμ]-ψον" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="ἀναπέμπω" lemmaFlag="ok"/>
+			<word wordref_id="4093067" id="2" texid="26772" row="2" wordNum="1" hand="m1" regularized="Πεκύσιον" original="Πεκύσιον" completeness="complete" tag="noun.sg.masc.acc" lemma="Πεκυσιος" lemmaFlag="ok"/>
+			<word wordref_id="4093068" id="3" texid="26772" row="2-3" wordNum="1" hand="m1" regularized="|gap=5|μουτος" original="|gap=5|μου-τος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4093069" id="4" texid="26772" row="3" wordNum="1" hand="m1" regularized="ἐξαυτῆς" original="ἐξαυτῆς" completeness="complete" tag="adverb" lemma="ἐξαυτῆς" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

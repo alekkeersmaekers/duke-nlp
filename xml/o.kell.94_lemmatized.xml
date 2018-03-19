@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.kell.94" TM="74618" HGV="74618" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="702923" id="1" texid="74618" row="1" wordNum="1" hand="m1" regularized="Μοῦρ" original="Μοῦ̣ρ" completeness="complete" tag="noun.sg.masc.none" lemma="Μοῦρ" lemmaFlag="ok"/>
+			<word wordref_id="702924" id="2" texid="74618" row="1" wordNum="2" hand="m1" regularized="Ψάιτ…" original="Ψάιτ(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="702925" id="3" texid="74618" row="1" wordNum="3" hand="m1" regularized="|gap=3||gap=unknown|" original="|gap=3||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="702926" id="4" texid="74618" row="1" wordNum="4" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="702927" id="1" texid="74618" row="2" wordNum="1" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="702928" id="2" texid="74618" row="2" wordNum="2" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="702929" id="3" texid="74618" row="2" wordNum="3" hand="m1" regularized="ἀδελφῷ" original="ἀδελφῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="702930" id="4" texid="74618" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="702931" id="5" texid="74618" row="3" wordNum="1" hand="m1" regularized="Αἰνείᾳ" original="Αἰνε̣ί̣ᾳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Αἰνείας" lemmaFlag="ok"/>
+			<word wordref_id="702932" id="6" texid="74618" row="3" wordNum="2" hand="m1" regularized="μάρια" original="μ̣ά̣ρι̣α̣" completeness="complete" tag="noun.pl.neut.nom" lemma="μάριον" lemmaFlag="suspect"/>
+			<word wordref_id="702933" id="7" texid="74618" row="3" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="702934" id="8" texid="74618" row="3-4" wordNum="1" hand="m1" regularized="Μεσοβή" original="[Με]-σοβή" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Μεσοβή" lemmaFlag="ok"/>
+			<word wordref_id="702935" id="9" texid="74618" row="4" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="702936" id="1" texid="74618" row="4" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σεσημε̣ί̣ω̣μ̣α̣ι̣" regularized_old="Σεσημείωμαι" original_old="Σεσημε̣ί̣ω̣μ̣α̣ι̣" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="702937" id="2" texid="74618" row="4" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

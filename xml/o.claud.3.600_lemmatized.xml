@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.3.600" TM="73782" HGV="73782" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="633192" id="1" texid="73782" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633193" id="2" texid="73782" row="1" wordNum="2" hand="m1" regularized="|gap=unknown|ρος" original="|gap=unknown|ρ̣ο̣ς̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633194" id="3" texid="73782" row="2" wordNum="1" hand="m1" regularized="Καίσαρος" original="[Καίσ]αρος" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="633195" id="4" texid="73782" row="2" wordNum="2" hand="m1" regularized="|filled-circle|" original="|filled-circle|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633196" id="5" texid="73782" row="2" wordNum="3" hand="m1" regularized="Τίτου" original="Τίτου" completeness="complete" tag="noun.sg.masc.gen" lemma="Τίτος" lemmaFlag="ok"/>
+			<word wordref_id="633197" id="6" texid="73782" row="3" wordNum="1" hand="m1" regularized="Αἰλίου" original="Αἰλίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Αἴλιος" lemmaFlag="ok"/>
+			<word wordref_id="633198" id="7" texid="73782" row="3" wordNum="2" hand="m1" regularized="|filled-circle|" original="|filled-circle|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="633199" id="8" texid="73782" row="3" wordNum="3" hand="m1" regularized="Ἁδριανοῦ" original="Ἁδριανοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἁδριανός" lemmaFlag="ok"/>
+			<word wordref_id="633200" id="9" texid="73782" row="4" wordNum="1" hand="m1" regularized="Ἀντωνίνου" original="Ἀντωνίνου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀντωνῖνος" lemmaFlag="ok"/>
+			<word wordref_id="633201" id="10" texid="73782" row="4-5" wordNum="1" hand="m1" regularized="Σεβαστοῦ" original="Σε-βαστοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Σεβαστός" lemmaFlag="ok"/>
+			<word wordref_id="633202" id="11" texid="73782" row="5" wordNum="1" hand="m1" regularized="Εὐσεβοῦς" original="Εὐσεβοῦς" completeness="complete" tag="noun.sg.masc.gen" lemma="Εὐσεβής" lemmaFlag="ok"/>
+			<word wordref_id="633203" id="12" texid="73782" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="633204" id="1" texid="73782" row="6" wordNum="1" hand="m2" regularized="Διονύσις" original="Διονύσις" completeness="complete" tag="noun.sg.masc.nom" lemma="Διονύσις" lemmaFlag="ok"/>
+			<word wordref_id="633205" id="2" texid="73782" row="6-7" wordNum="1" hand="m2" regularized="ἀπέχω" original="ἀ-πέχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+			<word wordref_id="633206" id="3" texid="73782" row="7" wordNum="1" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

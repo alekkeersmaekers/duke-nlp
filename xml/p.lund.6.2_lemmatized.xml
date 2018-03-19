@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lund.6.2" TM="28121" HGV="28121" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2206305" id="1" texid="28121" row="1" wordNum="1" hand="m1" regularized="ἀρχεφόδῳ" original="ἀρχεφόδῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀρχέφοδος" lemmaFlag="ok"/>
+			<word wordref_id="2206306" id="2" texid="28121" row="1" wordNum="2" hand="m1" regularized="κώμης" original="κώμης" completeness="complete" tag="noun.sg.fem.gen" lemma="κώμη" lemmaFlag="ok"/>
+			<word wordref_id="2206307" id="3" texid="28121" row="1" wordNum="3" hand="m1" regularized="Τεβτύνεως" original="Τεβτύ[νεως]" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="Τέβτυνις" lemmaFlag="ok"/>
+			<word wordref_id="2206308" id="4" texid="28121" row="1" wordNum="4" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2206309" id="1" texid="28121" row="1" wordNum="5" hand="m1" regularized="ἀνάπεμψον" original="[ἀνάπεμψον]" completeness="fully_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="ἀναπέμπω" lemmaFlag="ok"/>
+			<word wordref_id="2206310" id="2" texid="28121" row="2" wordNum="1" hand="m1" regularized="Κρονίωνα" original="Κρονίωνα" completeness="complete" tag="noun.sg.masc.acc" lemma="Κρονίων" lemmaFlag="ok"/>
+			<word wordref_id="2206311" id="3" texid="28121" row="2" wordNum="2" hand="m1" regularized="Κρονίωνος" original="Κρονίωνος" completeness="complete" tag="noun.sg.masc.gen" lemma="Κρονίων" lemmaFlag="ok"/>
+			<word wordref_id="2206312" id="4" texid="28121" row="2" wordNum="3" hand="m1" regularized="ἐγκαλούμενον" original="[ἐγκαλούμενον]" completeness="fully_reconstructed" tag="participle.sg.pres.mid.masc.acc" lemma="ἐγκαλέω" lemmaFlag="ok"/>
+			<word wordref_id="2206313" id="5" texid="28121" row="3" wordNum="1" hand="m1" regularized="ὑπὸ" original="ὑπὸ" completeness="complete" tag="preposition" lemma="ὑπό" lemmaFlag="ok"/>
+			<word wordref_id="2206314" id="6" texid="28121" row="3" wordNum="2" hand="m1" regularized="Κρονίωνος" original="Κρονίωνος" completeness="complete" tag="noun.sg.masc.gen" lemma="Κρονίων" lemmaFlag="ok"/>
+			<word wordref_id="2206315" id="7" texid="28121" row="3" wordNum="3" hand="m1" regularized="Διοσκόρου" original="Διοσκόρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Διόσκορος" lemmaFlag="ok"/>
+			<word wordref_id="2206316" id="8" texid="28121" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="2206317" id="1" texid="28121" row="4" wordNum="1" hand="m1" regularized="|xs|" original="|xs|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

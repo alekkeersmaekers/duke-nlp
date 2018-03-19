@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.hamb.1.106" TM="2313" HGV="2313" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1657074" id="1" texid="2313" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1657075" id="2" texid="2313" row="1" wordNum="2" hand="m1" regularized="λβ|digit=32|" original="λβ|digit=32|" completeness="complete" tag="numeral.none.none.none" lemma="λβ" lemmaFlag="ok"/>
+			<word wordref_id="1657076" id="3" texid="2313" row="1" wordNum="3" hand="m1" regularized="Παχώνς" original="Παχ[ώνς]" completeness="partly_reconstructed" tag="noun.sg.none.gen" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="1657077" id="4" texid="2313" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1657078" id="1" texid="2313" row="2" wordNum="1" hand="m1" regularized="Τεῶς" original="Τ̣εῶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Τεεύς" lemmaFlag="ok"/>
+			<word wordref_id="1657079" id="2" texid="2313" row="2" wordNum="2" hand="m1" regularized="περὶ" original="περ̣ὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="1657080" id="3" texid="2313" row="2" wordNum="3" hand="m1" regularized="τῆς" original="τῆ[ς]" completeness="partly_reconstructed" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1657081" id="4" texid="2313" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

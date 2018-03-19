@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.2.890" TM="42770" HGV="42770" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="738889" id="1" texid="42770" row="1" wordNum="1" hand="m1" regularized="Δίννεως" original="Δίννεως" completeness="complete" tag="noun.sg.masc.nom" lemma="Δίννεως" lemmaFlag="ok"/>
+			<word wordref_id="738890" id="2" texid="42770" row="1" wordNum="2" hand="m1" regularized="διὰ" original="δι(ὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="738891" id="3" texid="42770" row="1" wordNum="3" hand="m1" regularized="Κασιανοῦ" original="Κασιανοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Κασιανός" lemmaFlag="ok"/>
+			<word wordref_id="738892" id="4" texid="42770" row="2" wordNum="1" hand="m1" regularized="κώμης" original="κώ(μης)" completeness="complete" tag="noun.sg.fem.gen" lemma="κώμη" lemmaFlag="ok"/>
+			<word wordref_id="738893" id="5" texid="42770" row="2" wordNum="2" hand="m1" regularized="ὁριοδεικτίας" original="ὁριοδι(κτίας)*" completeness="complete" tag="noun.sg.fem.gen" lemma="ὁριοδεικτία" lemmaFlag="suspect"/>
+			<word wordref_id="738894" id="6" texid="42770" row="2" wordNum="3" hand="m1" regularized="Κερκεσούχων" original="Κερκε̣σ(ούχων)" completeness="complete" tag="noun.sg.masc.gen" lemma="Κερκεσούχων" lemmaFlag="ok"/>
+			<word wordref_id="738895" id="7" texid="42770" row="3" wordNum="1" hand="m1" regularized="ὀνόματος" original="ὀνό(ματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="ὄνομα" lemmaFlag="ok"/>
+			<word wordref_id="738896" id="8" texid="42770" row="3" wordNum="2" hand="m1" regularized="Οὐενάφρει" original="Οὐε̣ν̣άφρει" completeness="complete" tag="noun.sg.masc.dat" lemma="Οὐενάφρεις" lemmaFlag="ok"/>
+			<word wordref_id="738897" id="9" texid="42770" row="4" wordNum="1" hand="m1" regularized="Ἀτισίου" original="Ἀτισίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀτίσιος" lemmaFlag="ok"/>
+			<word wordref_id="738898" id="10" texid="42770" row="4" wordNum="2" hand="m1" regularized="ὄνοι" original="ὄν(οι)" completeness="complete" tag="noun.pl.fem.nom" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="738899" id="11" texid="42770" row="4" wordNum="3" hand="m1" regularized="δύο|num=2|" original="δύο|num=2|" completeness="complete" tag="numeral.none.none.none" lemma="δύο" lemmaFlag="ok"/>
+			<word wordref_id="738900" id="12" texid="42770" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="738901" id="1" texid="42770" row="5" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="738902" id="2" texid="42770" row="5" wordNum="2" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="738903" id="3" texid="42770" row="5" wordNum="3" hand="m1" regularized="καὶ" original="(καὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="738904" id="4" texid="42770" row="5" wordNum="4" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="738905" id="5" texid="42770" row="5" wordNum="5" hand="m1" regularized="|s-etous|" original="|s-etous|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="738906" id="6" texid="42770" row="5" wordNum="6" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="738907" id="7" texid="42770" row="6" wordNum="1" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="738908" id="8" texid="42770" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

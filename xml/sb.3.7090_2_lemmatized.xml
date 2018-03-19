@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.3.7090" TM="40672" HGV="40672" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4430324" id="1" texid="40672" row="5" wordNum="1" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="4430325" id="2" texid="40672" row="5" wordNum="2" hand="m1" regularized="Πανῶν" original="Πανῶν" completeness="complete" tag="noun.pl.masc.gen" lemma="Πάν" lemmaFlag="ok"/>
+			<word wordref_id="4430326" id="3" texid="40672" row="5-6" wordNum="1" hand="m1" regularized="Σαραπίωνι" original="Σαραπίω-νι" completeness="complete" tag="noun.sg.masc.dat" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="4430327" id="4" texid="40672" row="6-" wordNum="1" hand="m1" regularized="παιανιστῇ" original="πεανστῇ*" completeness="complete" tag="noun.sg.masc.dat" lemma="παιανιστής" lemmaFlag="suspect"/>
+			<word wordref_id="4430328" id="5" texid="40672" row="" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4430329" id="1" texid="40672" row="8" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

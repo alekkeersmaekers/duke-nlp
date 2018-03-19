@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="cpr.10.49" TM="70175" HGV="70175" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="419426" id="1" texid="70175" row="1" wordNum="1" hand="m1" regularized="Ἁρβῆσις" original="Ἁρβῆσις" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἁρβῆσις" lemmaFlag="ok"/>
+			<word wordref_id="419427" id="2" texid="70175" row="1" wordNum="2" hand="m1" regularized="Ἀπολλωνίῳ" original="Ἀπο[λλωνίῳ]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+			<word wordref_id="419428" id="3" texid="70175" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="419429" id="4" texid="70175" row="1" wordNum="4" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="419430" id="1" texid="70175" row="2" wordNum="1" hand="m1" regularized="πεμψάμενος" original="πεμψάμεν[ος]" completeness="partly_reconstructed" tag="participle.sg.aor.mid.masc.nom" lemma="πέμπω" lemmaFlag="ok"/>
+			<word wordref_id="419431" id="2" texid="70175" row="2" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="419432" id="3" texid="70175" row="3" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="419433" id="4" texid="70175" row="4" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

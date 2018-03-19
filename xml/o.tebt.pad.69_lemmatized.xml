@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.tebt.pad.69" TM="76392" HGV="76392" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="804546" id="1" texid="76392" row="1" wordNum="1" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="804547" id="2" texid="76392" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="804548" id="1" texid="76392" row="1" wordNum="3" hand="m1" regularized="κλισιάρχης" original="κλεισιάρχ(ης)*" completeness="complete" tag="noun.sg.masc.nom" lemma="κλισιάρχης" lemmaFlag="suspect"/>
+			<word wordref_id="804549" id="2" texid="76392" row="1" wordNum="4" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

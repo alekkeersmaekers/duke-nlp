@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.sorb.3.119" TM="121866" HGV="121866" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3451376" id="1" texid="121866" row="1" wordNum="1" hand="m1" regularized="|gap=unknown||gap=2|ο|gap=1||gap=3||gap=2|ωνκ|gap=1|ψ|gap=1|" original="|gap=unknown||gap=2|ο|gap=1||gap=3||gap=2|ωνκ̣|gap=1|ψ|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="3451377" id="2" texid="121866" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="3451378" id="3" texid="121866" row="2" wordNum="2" hand="m1" regularized="Πολέμωνος" original="[Πολέμων]ος" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Πολέμων" lemmaFlag="ok"/>
+			<word wordref_id="3451379" id="4" texid="121866" row="2" wordNum="3" hand="m1" regularized="μερίδος" original="μερίδος" completeness="complete" tag="noun.sg.fem.gen" lemma="μερίς" lemmaFlag="ok"/>
+			<word wordref_id="3451380" id="5" texid="121866" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3451381" id="1" texid="121866" row="2-3" wordNum="1" hand="m1" regularized="ἀδικου" original="ἀδικου-" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+		</sentence>
+	</text>
+</file>

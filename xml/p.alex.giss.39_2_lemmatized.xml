@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.alex.giss.39" TM="27561" HGV="27561" lang="grc" textpart="r,2">
+	<text>
+		<sentence id="1">
+			<word wordref_id="900010" id="1" texid="27561" row="10" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900011" id="2" texid="27561" row="11" wordNum="1" hand="m1" regularized="|gap=1|π|gap=4||gap=1||gap=unknown|" original="|gap=1|π|gap=4||gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900012" id="3" texid="27561" row="12" wordNum="1" hand="m1" regularized="λε|gap=1||gap=1|αν" original="λε|gap=1||gap=1|αν" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900013" id="4" texid="27561" row="12" wordNum="2" hand="m1" regularized="κα|gap=unknown|" original="κα|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900014" id="5" texid="27561" row="13" wordNum="1" hand="m1" regularized="|gap=1||gap=1|σεν" original="|gap=1||gap=1|σεν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900015" id="6" texid="27561" row="13" wordNum="2" hand="m1" regularized="τω" original="τω" completeness="complete" tag="verb.1.sg.aor.subj.act" lemma="τώς" lemmaFlag="ok"/>
+			<word wordref_id="900016" id="7" texid="27561" row="13" wordNum="3" hand="m1" regularized="|gap=1|ρ|gap=unknown|" original="|gap=1|ρ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900017" id="8" texid="27561" row="14" wordNum="1" hand="m1" regularized="νουσανευ|gap=1||gap=unknown|" original="ν̣ουσαν̣ευ|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="900018" id="9" texid="27561" row="15" wordNum="1" hand="m1" regularized="ἐμέ" original="ἐμέ" completeness="complete" tag="personal.sg.comm.acc" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="900019" id="10" texid="27561" row="15" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="900020" id="1" texid="27561" row="15" wordNum="3" hand="m2" regularized="ἐρρῶσθαί" original="ἐρρῶ[σθαί]" completeness="partly_reconstructed" tag="infinitive.pf.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="900021" id="2" texid="27561" row="15" wordNum="4" hand="m2" regularized="σε" original="[σε]" completeness="fully_reconstructed" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="900022" id="3" texid="27561" row="15" wordNum="5" hand="m2" regularized="εὔχομαι" original="[εὔχομαι]" completeness="fully_reconstructed" tag="verb.1.sg.pres.ind.mid" lemma="εὔχομαι" lemmaFlag="ok"/>
+			<word wordref_id="900023" id="4" texid="27561" row="15-16" wordNum="1" hand="m2" regularized="φίλτατε" original="[φίλ]-τ̣ατ̣[ε]" completeness="fully_reconstructed" tag="adjective.sg.masc.voc.pos" lemma="φίλτατος" lemmaFlag="ok"/>
+			<word wordref_id="900024" id="5" texid="27561" row="16" wordNum="1" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

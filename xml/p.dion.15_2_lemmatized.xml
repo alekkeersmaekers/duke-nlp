@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.dion.15" TM="3098" HGV="3098" lang="grc" textpart="r,int">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1398239" id="1" texid="3098" row="37" wordNum="1" hand="m4" regularized="ἔτους" original="ἔτους" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1398240" id="2" texid="3098" row="37" wordNum="2" hand="m4" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+			<word wordref_id="1398241" id="3" texid="3098" row="37" wordNum="3" hand="m4" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok"/>
+			<word wordref_id="1398242" id="4" texid="3098" row="37" wordNum="4" hand="m4" regularized="ιϛ|digit=16|" original="ιϛ|digit=16|" completeness="complete" tag="numeral.none.none.none" lemma="ιϛ" lemmaFlag="ok"/>
+			<word wordref_id="1398243" id="5" texid="3098" row="37" wordNum="5" hand="m4" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1398244" id="6" texid="3098" row="38" wordNum="1" hand="m4" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1398245" id="7" texid="3098" row="39" wordNum="1" hand="m4" regularized="ἐπίτιμον" original="ἐ̣π̣ί̣τ̣(ιμον)" completeness="complete" tag="adjective.sg.neut.nom.pos" lemma="ἐπίτιμος" lemmaFlag="ok"/>
+			<word wordref_id="1398246" id="8" texid="3098" row="39" wordNum="2" hand="m4" regularized="Γ|digit=3000|" original="Γ|digit=3000|" completeness="complete" tag="numeral.none.none.none" lemma="́Γ" lemmaFlag="ok"/>
+			<word wordref_id="1398247" id="9" texid="3098" row="39" wordNum="3" hand="m4" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1398248" id="1" texid="3098" row="39" wordNum="4" hand="m4" regularized="συγγραφοφύλαξ" original="συ(γγραφοφύλαξ)" completeness="complete" tag="noun.sg.masc.nom" lemma="συγγραφοφύλαξ" lemmaFlag="ok"/>
+			<word wordref_id="1398249" id="2" texid="3098" row="39" wordNum="5" hand="m4" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1398250" id="1" texid="3098" row="39" wordNum="6" hand="m4" regularized="Πτολεμαῖος" original="Π̣τ̣ο̣λ̣ε̣μ̣(αῖος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="1398251" id="2" texid="3098" row="39" wordNum="7" hand="m4" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

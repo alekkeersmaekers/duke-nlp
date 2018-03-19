@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.440" TM="75597" HGV="75597" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="762162" id="1" texid="75597" row="1" wordNum="1" hand="m1" regularized="Θεοπέμπτῳ" original="[Θεοπ]έμπτῳ" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Θεόπεμπτος" lemmaFlag="ok"/>
+			<word wordref_id="762163" id="2" texid="75597" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="762164" id="3" texid="75597" row="1" wordNum="3" hand="m1" regularized="Ζαχαρίᾳ" original="Ζ̣α̣χαρίᾳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζαχαρίας" lemmaFlag="ok"/>
+			<word wordref_id="762165" id="4" texid="75597" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="762166" id="1" texid="75597" row="1" wordNum="5" hand="m1" regularized="παράσχεσθε" original="παρ(άσ)χ(εσθε)" completeness="complete" tag="verb.2.pl.aor.imp.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="762167" id="2" texid="75597" row="2" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

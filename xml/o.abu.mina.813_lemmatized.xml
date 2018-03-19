@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.abu.mina.813" TM="116999" HGV="116999" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="515262" id="1" texid="116999" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="515263" id="2" texid="116999" row="1" wordNum="2" hand="m1" regularized="ἀπό" original="ἀπό" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="515264" id="3" texid="116999" row="1" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="515265" id="4" texid="116999" row="2" wordNum="1" hand="m1" regularized="ὀνικαὶ" original="ὀν(ικαὶ)" completeness="complete" tag="adjective.pl.fem.nom.pos" lemma="ὀνικός" lemmaFlag="ok"/>
+			<word wordref_id="515266" id="5" texid="116999" row="2" wordNum="2" hand="m1" regularized="φοραὶ" original="φ(ο)ρ(αὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="φορά" lemmaFlag="ok"/>
+			<word wordref_id="515267" id="6" texid="116999" row="2" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="515268" id="7" texid="116999" row="3" wordNum="1" hand="m1" regularized="μόνον" original="μό(νον)" completeness="complete" tag="adverb" lemma="μόνον" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

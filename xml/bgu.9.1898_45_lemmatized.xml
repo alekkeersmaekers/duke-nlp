@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.9.1898" TM="9469" HGV="9469" lang="grc" textpart="16,ms">
+	<text>
+		<sentence id="1">
+			<word wordref_id="325019" id="1" texid="9469" row="319" wordNum="1" hand="m2" regularized="κολλήματος" original="κολ(λήματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="κόλλημα" lemmaFlag="ok"/>
+			<word wordref_id="325020" id="2" texid="9469" row="319" wordNum="2" hand="m2" regularized="ϛ|digit=6|" original="ϛ|digit=6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ" lemmaFlag="ok"/>
+			<word wordref_id="325021" id="3" texid="9469" row="319" wordNum="3" hand="m2" regularized="κατοίκων" original="κ(ατ)οί(κων)" completeness="complete" tag="noun.pl.masc.gen" lemma="κατοίκος" lemmaFlag="wrong-accent:κάτοικος"/>
+			<word wordref_id="325022" id="4" texid="9469" row="320" wordNum="1" hand="m1" regularized="ἄρουραι" original="(ἄρουραι)" completeness="complete" tag="noun.pl.fem.nom" lemma="ἄρουρα" lemmaFlag="ok"/>
+			<word wordref_id="325023" id="5" texid="9469" row="320" wordNum="2" hand="m1" regularized="ϛ|digit=6|" original="ϛ|digit=6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ" lemmaFlag="ok"/>
+			<word wordref_id="325024" id="6" texid="9469" row="321" wordNum="1" hand="m2" regularized="ἐπὶ" original="ἐπὶ" completeness="complete" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="325025" id="7" texid="9469" row="321" wordNum="2" hand="m2" regularized="Ταμαρεῖτος" original="Ταμαρεῖτος" completeness="complete" tag="noun.sg.masc.gen" lemma="Ταμαρεῖτος" lemmaFlag="ok"/>
+			<word wordref_id="325026" id="8" texid="9469" row="321" wordNum="3" hand="m2" regularized="|gap=3|μου" original="|gap=3|μ̣ου̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="325027" id="9" texid="9469" row="322" wordNum="1" hand="m1" regularized="ετο…" original="ετο(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="325028" id="10" texid="9469" row="322" wordNum="2" hand="m1" regularized="ϙ|digit=90|" original="ϙ|digit=90|" completeness="complete" tag="numeral.none.none.none" lemma="?" lemmaFlag="ok"/>
+			<word wordref_id="325029" id="11" texid="9469" row="322" wordNum="3" hand="m1" regularized="επι…" original="επι(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="325030" id="12" texid="9469" row="322" wordNum="4" hand="m1" regularized="ε|gap=4||gap=1|" original="ε|gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="325031" id="13" texid="9469" row="323" wordNum="1" hand="m1" regularized="σιτομετρ…" original="σιτομ̣ε̣τ̣(ρ…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

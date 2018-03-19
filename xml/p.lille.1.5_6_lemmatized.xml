@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lille.1.5" TM="3212" HGV="3212" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1899564" id="1" texid="3212" row="1" wordNum="1" hand="m1" regularized="Παι|gap=1|" original="Παι|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1899565" id="2" texid="3212" row="1" wordNum="2" hand="m1" regularized="Χοίαχ" original="Χ̣ο̣ί̣α̣χ̣" completeness="complete" tag="noun.sg.masc.nom" lemma="Χοίαχ" lemmaFlag="ok"/>
+			<word wordref_id="1899566" id="3" texid="3212" row="1" wordNum="3" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="1899567" id="4" texid="3212" row="1" wordNum="4" hand="m1" regularized="ἔχουσι" original="ἔχουσι" completeness="complete" tag="participle.pl.pres.act.masc.dat" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="1899568" id="5" texid="3212" row="1" wordNum="5" hand="m1" regularized="Χοίαχ" original="Χοίαχ" completeness="complete" tag="noun.sg.masc.acc" lemma="Χοίαχ" lemmaFlag="ok"/>
+			<word wordref_id="1899569" id="6" texid="3212" row="1" wordNum="6" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="1899570" id="7" texid="3212" row="1" wordNum="7" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1899571" id="8" texid="3212" row="1" wordNum="8" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="1899572" id="9" texid="3212" row="1" wordNum="9" hand="m1" regularized="ἔργα" original="ἔργα" completeness="complete" tag="noun.pl.neut.acc" lemma="ἔργον" lemmaFlag="ok"/>
+			<word wordref_id="1899573" id="10" texid="3212" row="2" wordNum="1" hand="m1" regularized="οὐ" original="οὐ" completeness="complete" tag="adverb" lemma="οὐ" lemmaFlag="ok"/>
+			<word wordref_id="1899574" id="11" texid="3212" row="2" wordNum="2" hand="m1" regularized="δεδώκαμεν" original="δεδώκαμεν" completeness="complete" tag="verb.1.pl.pf.ind.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="1899575" id="12" texid="3212" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1899576" id="1" texid="3212" row="1" wordNum="1" hand="m1" regularized="Νικοστράτωι" original="Νικοστράτωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Νικόστρατος" lemmaFlag="ok"/>
+			<word wordref_id="1899577" id="2" texid="3212" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

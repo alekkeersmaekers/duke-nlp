@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.elkab.10" TM="4580" HGV="4580" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="675417" id="1" texid="4580" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="675418" id="2" texid="4580" row="1" wordNum="2" hand="m1" regularized="|gap=1||gap=1|" original="|gap=1||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="675419" id="3" texid="4580" row="1" wordNum="3" hand="m1" regularized="Θωὺθ" original="Θωὺθ" completeness="complete" tag="noun.sg.none.none" lemma="Θωύθ" lemmaFlag="ok"/>
+			<word wordref_id="675420" id="4" texid="4580" row="1" wordNum="4" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="675421" id="5" texid="4580" row="1" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="675422" id="1" texid="4580" row="2" wordNum="1" hand="m1" regularized="τέτακται" original="[τέ(τακται)]" completeness="fully_reconstructed" tag="verb.3.sg.pf.ind.mid" lemma="τάσσω" lemmaFlag="ok"/>
+			<word wordref_id="675423" id="2" texid="4580" row="2" wordNum="2" hand="m1" regularized="ζυτηρᾶς" original="[ζ]υ̣τηρᾶ̣ς" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="ζυτηρά" lemmaFlag="ok"/>
+			<word wordref_id="675424" id="3" texid="4580" row="3" wordNum="1" hand="m1" regularized="Πελαίας" original="[Πε]λαίας" completeness="partly_reconstructed" tag="noun.pl.masc.acc" lemma="Πελαιας" lemmaFlag="ok"/>
+			<word wordref_id="675425" id="4" texid="4580" row="4" wordNum="1" hand="m1" regularized="Οσέους" original="Οσέους" completeness="complete" tag="noun.sg.masc.gen" lemma="Οσέους" lemmaFlag="ok"/>
+			<word wordref_id="675426" id="5" texid="4580" row="4" wordNum="2" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok"/>
+			<word wordref_id="675427" id="6" texid="4580" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="675428" id="1" texid="4580" row="5" wordNum="1" hand="m1" regularized="Ἀπολλώνιος" original="Ἀπολλώ(νιος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+			<word wordref_id="675429" id="2" texid="4580" row="5" wordNum="2" hand="m1" regularized="τραπεζίτης" original="τρα(πεζίτης)" completeness="complete" tag="noun.sg.masc.nom" lemma="τραπεζίτης" lemmaFlag="ok"/>
+			<word wordref_id="675430" id="3" texid="4580" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.791" TM="76368" HGV="76368" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="798792" id="1" texid="76368" row="1" wordNum="1" hand="m1" regularized="κλινάρχῃ" original="[κλι]ν̣άρχῃ" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="κλινάρχης" lemmaFlag="ok"/>
+			<word wordref_id="798793" id="2" texid="76368" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="798794" id="3" texid="76368" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798795" id="4" texid="76368" row="2" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|κονιων|gap=1||gap=unknown|" original="|gap=unknown||gap=1|κονιων|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798796" id="5" texid="76368" row="3" wordNum="1" hand="m1" regularized="κλινάρχῃ" original="[κλιν]άρχῃ" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="κλινάρχης" lemmaFlag="ok"/>
+			<word wordref_id="798797" id="6" texid="76368" row="3" wordNum="2" hand="m1" regularized="Ἑρμωνθιτῶν" original="Ἑρμω̣[νθιτῶν]" completeness="partly_reconstructed" tag="noun.pl.masc.gen" lemma="Ἑρμωνθίτης" lemmaFlag="ok"/>
+			<word wordref_id="798798" id="7" texid="76368" row="3" wordNum="3" hand="m1" regularized="τῆς" original="[τῆς]" completeness="fully_reconstructed" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="798799" id="8" texid="76368" row="3-4" wordNum="1" hand="m1" regularized="συνόδου" original="[συν]-ό̣δου" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="σύνοδος" lemmaFlag="ok"/>
+			<word wordref_id="798800" id="9" texid="76368" row="4" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="798801" id="10" texid="76368" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="798802" id="1" texid="76368" row="4" wordNum="3" hand="m1" regularized="π|gap=unknown|" original="π|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798803" id="2" texid="76368" row="5" wordNum="1" hand="m1" regularized="|gap=3|χα|gap=1|ατ|gap=1|α|gap=unknown|" original="|gap=3|χα|gap=1|ατ|gap=1|α|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798804" id="3" texid="76368" row="6" wordNum="1" hand="m1" regularized="σα|gap=4||gap=2||gap=unknown|" original="σα|gap=4||gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798805" id="4" texid="76368" row="7" wordNum="1" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="798806" id="5" texid="76368" row="7" wordNum="2" hand="m1" regularized="κλινάρχης" original="κλινάρχης" completeness="complete" tag="noun.sg.masc.nom" lemma="κλινάρχης" lemmaFlag="ok"/>
+			<word wordref_id="798807" id="6" texid="76368" row="7" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798808" id="7" texid="76368" row="8" wordNum="1" hand="m1" regularized="|gap=unknown|ηρκαγιν|gap=1||gap=unknown|" original="|gap=unknown|ηρκαγιν|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798809" id="8" texid="76368" row="9" wordNum="1" hand="m1" regularized="διο|gap=1||gap=unknown|" original="διο|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="798810" id="9" texid="76368" row="10" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

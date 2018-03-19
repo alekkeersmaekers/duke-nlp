@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mich.4.2.359F" TM="10432" HGV="10432b" lang="grc" textpart="ctr">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2449745" id="1" texid="10432" row="00" wordNum="1" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2449746" id="2" texid="10432" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|α|digit=1|" original="|gap=unknown|α|digit=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2449747" id="3" texid="10432" row="1" wordNum="2" hand="m1" regularized="τετρώβολον|digit=4|" original="(τετρώβολον)|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="τετρώβολον" lemmaFlag="ok"/>
+			<word wordref_id="2449748" id="4" texid="10432" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2449749" id="5" texid="10432" row="1" wordNum="4" hand="m1" regularized="γίνονται" original="[(γίνονται)]" completeness="fully_reconstructed" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="2449750" id="6" texid="10432" row="1" wordNum="5" hand="m1" regularized="δραχμαὶ" original="[(δραχμαὶ)]" completeness="fully_reconstructed" tag="noun.pl.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="2449751" id="7" texid="10432" row="1" wordNum="6" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2449752" id="8" texid="10432" row="2" wordNum="1" hand="m1" regularized="Λεωνίδης" original="[Λεωνίδ]ης" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Λεωνίδας" lemmaFlag="ok"/>
+			<word wordref_id="2449753" id="9" texid="10432" row="2" wordNum="2" hand="m1" regularized="Φανομγέως" original="Φαν[ομγέως]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Φανομγεύς" lemmaFlag="ok"/>
+			<word wordref_id="2449754" id="10" texid="10432" row="2" wordNum="3" hand="m1" regularized="|parens-punctuation-opening|Πετάλου" original="[|parens-punctuation-opening|Πετάλου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Πέταλος" lemmaFlag="ok"/>
+			<word wordref_id="2449755" id="11" texid="10432" row="2" wordNum="4" hand="m1" regularized="Καππαρῖς|parens-punctuation-closing|" original="[Καππαρῖς|parens-punctuation-closing|]" completeness="fully_reconstructed" tag="noun.pl.masc.nom" lemma="Καππαρῖς" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

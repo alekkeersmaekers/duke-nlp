@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.aberd.42h" TM="10002" HGV="10002" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="874129" id="1" texid="10002" row="1" wordNum="1" hand="m1" regularized="τετελώνηται" original="τ̣ε̣τ̣ε̣λ(ώνηται)" completeness="complete" tag="verb.3.sg.pf.ind.mid" lemma="τελωνέω" lemmaFlag="ok"/>
+			<word wordref_id="874130" id="2" texid="10002" row="1" wordNum="2" hand="m1" regularized="διὰ" original="δ̣ιὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="874131" id="3" texid="10002" row="1" wordNum="3" hand="m1" regularized="πύλης" original="π̣ύλ̣(ης)" completeness="complete" tag="noun.sg.fem.gen" lemma="πύλη" lemmaFlag="ok"/>
+			<word wordref_id="874132" id="4" texid="10002" row="2" wordNum="1" hand="m1" regularized="Και?νῆς?" original="[Και?]ν(ῆς?)" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="Καινή" lemmaFlag="ok"/>
+			<word wordref_id="874133" id="5" texid="10002" row="2" wordNum="2" hand="m1" regularized="ἐρημοφυλακίας" original="ἐρημο̣(φυλακίας)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἐρημοφυλακία" lemmaFlag="suspect"/>
+			<word wordref_id="874134" id="6" texid="10002" row="3" wordNum="1" hand="m1" regularized="Χήρης" original="Χ̣ή̣ρης" completeness="complete" tag="noun.sg.masc.nom" lemma="Χήρης" lemmaFlag="ok"/>
+			<word wordref_id="874135" id="7" texid="10002" row="3" wordNum="2" hand="m1" regularized="ἐξάγων" original="ἐξ(άγων)" completeness="complete" tag="participle.sg.pres.act.masc.nom" lemma="ἐξάγω" lemmaFlag="ok"/>
+			<word wordref_id="874136" id="8" texid="10002" row="3" wordNum="3" hand="m1" regularized="ὄνον" original="ὄν(ον)" completeness="complete" tag="noun.sg.masc.acc" lemma="ὄνος" lemmaFlag="ok"/>
+			<word wordref_id="874137" id="9" texid="10002" row="4" wordNum="1" hand="m1" regularized="ἕνα|num=1|" original="ἕ̣ν̣α|num=1|" completeness="complete" tag="numeral.sg.masc.acc" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="874138" id="10" texid="10002" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="874139" id="1" texid="10002" row="4" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="874140" id="2" texid="10002" row="4" wordNum="4" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="874141" id="3" texid="10002" row="5" wordNum="1" hand="m1" regularized="Ἐπεὶφ" original="Ἐ̣π̣[ε]ὶφ" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok"/>
+			<word wordref_id="874142" id="4" texid="10002" row="5" wordNum="2" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="874143" id="5" texid="10002" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.1.835" TM="32076" HGV="32076" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4053144" id="1" texid="32076" row="1" wordNum="1" hand="m1" regularized="Αὐρήλιος" original="Αὐρήλ(ιος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Αὐρήλιος" lemmaFlag="ok"/>
+			<word wordref_id="4053145" id="2" texid="32076" row="1" wordNum="2" hand="m1" regularized="Τριπτόλεμος" original="Τριπτόλεμος" completeness="complete" tag="noun.sg.masc.nom" lemma="Τριπτόλεμος" lemmaFlag="ok"/>
+			<word wordref_id="4053146" id="3" texid="32076" row="2" wordNum="1" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4053147" id="4" texid="32076" row="2" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4053148" id="5" texid="32076" row="2" wordNum="3" hand="m1" regularized="Ἐπίμαχος" original="Ἐπίμαχος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἐπίμαχος" lemmaFlag="ok"/>
+			<word wordref_id="4053149" id="6" texid="32076" row="2" wordNum="4" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4053150" id="7" texid="32076" row="2" wordNum="5" hand="m1" regularized="ἐτῶν" original="ἐτῶν" completeness="complete" tag="noun.pl.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4053151" id="8" texid="32076" row="3" wordNum="1" hand="m1" regularized="κα|digit=21|" original="κα|digit=21|" completeness="complete" tag="numeral.none.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="4053152" id="9" texid="32076" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4053153" id="1" texid="32076" row="3" wordNum="3" hand="m1" regularized="εὐψύχει" original="εὐψύχι*" completeness="complete" tag="verb.2.sg.pres.imp.act" lemma="εὐψυχέω" lemmaFlag="ok"/>
+			<word wordref_id="4053154" id="2" texid="32076" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

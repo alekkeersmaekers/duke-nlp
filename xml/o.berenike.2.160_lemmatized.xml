@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.2.160" TM="89186" HGV="89186" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="530892" id="1" texid="89186" row="1" wordNum="1" hand="m1" regularized="Σαραπίων" original="Σαραπίων" completeness="complete" tag="noun.sg.masc.nom" lemma="Σαραπίων" lemmaFlag="ok"/>
+			<word wordref_id="530893" id="2" texid="89186" row="1" wordNum="2" hand="m1" regularized="Κασίου" original="Κασίο̣υ̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Κάσιος" lemmaFlag="ok"/>
+			<word wordref_id="530894" id="3" texid="89186" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χ(αίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="530895" id="4" texid="89186" row="1" wordNum="4" hand="m1" regularized="·" original="[·]" completeness="fully_reconstructed" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="530896" id="1" texid="89186" row="2" wordNum="1" hand="m1" regularized="διαπόστειλον" original="δι(απόστειλον)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="διαποστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="530897" id="2" texid="89186" row="2" wordNum="2" hand="m1" regularized="Ψεναπάθῃ" original="Ψεναπάθ̣ου*" completeness="complete" tag="noun.sg.masc.dat" lemma="Ψεναπαθης" lemmaFlag="ok"/>
+			<word wordref_id="530898" id="3" texid="89186" row="2" wordNum="3" hand="m1" regularized="Πακοίβεως" original="Πακοί̣[βεως]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Πακοῖβις" lemmaFlag="ok"/>
+			<word wordref_id="530899" id="4" texid="89186" row="3" wordNum="1" hand="m1" regularized="μαρσίππια" original="μαρσίπ(πια)" completeness="complete" tag="noun.pl.neut.acc" lemma="μαρσίππιον" lemmaFlag="suspect"/>
+			<word wordref_id="530900" id="5" texid="89186" row="3" wordNum="2" hand="m1" regularized="ρξ|digit=160|" original="ρξ|digit=160|" completeness="complete" tag="numeral.none.none.none" lemma="ρξ" lemmaFlag="ok"/>
+			<word wordref_id="530901" id="6" texid="89186" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="530902" id="1" texid="89186" row="3" wordNum="4" hand="m1" regularized="σεσημείωμαι" original="σεση(μείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="530903" id="2" texid="89186" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

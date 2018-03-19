@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.255" TM="75852" HGV="75852" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="778733" id="1" texid="75852" row="1" wordNum="1" hand="m1" regularized="Ὀννῶφρις" original="Ὀννῶ(φρις)" completeness="complete" tag="noun.sg.masc.nom" lemma="Ὀννῶφρις" lemmaFlag="ok"/>
+			<word wordref_id="778734" id="2" texid="75852" row="1" wordNum="2" hand="m1" regularized="νεώτερος" original="ν(εώτερος)" completeness="complete" tag="adjective.sg.masc.nom.comp" lemma="νέος" lemmaFlag="ok"/>
+			<word wordref_id="778735" id="3" texid="75852" row="1" wordNum="3" hand="m1" regularized="Ψενα…" original="Ψενα(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="778736" id="4" texid="75852" row="1" wordNum="4" hand="m1" regularized="συνα|gap=3|…" original="συνα|gap=3|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="778737" id="5" texid="75852" row="1" wordNum="5" hand="m1" regularized="Τφοῦτι" original="Τφοῦτι" completeness="complete" tag="noun.sg.masc.nom" lemma="Τφοῦτι" lemmaFlag="ok"/>
+			<word wordref_id="778738" id="6" texid="75852" row="1" wordNum="6" hand="m1" regularized="Πετεχω…" original="Πετεχω(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="778739" id="7" texid="75852" row="2" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="778740" id="8" texid="75852" row="2" wordNum="2" hand="m1" regularized="μετόχοις" original="(μετόχοις)" completeness="complete" tag="adjective.pl.masc.dat.pos" lemma="μέτοχος" lemmaFlag="ok"/>
+			<word wordref_id="778741" id="9" texid="75852" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="778742" id="1" texid="75852" row="2" wordNum="4" hand="m1" regularized="ἔσχον" original="ἔσχον" completeness="complete" tag="verb.3.pl.aor.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="778743" id="2" texid="75852" row="2" wordNum="5" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="778744" id="3" texid="75852" row="2" wordNum="6" hand="m1" regularized="ἐλαικῶν" original="ἐλα(ικῶν)" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="ἐλαικός" lemmaFlag="suspect"/>
+			<word wordref_id="778745" id="4" texid="75852" row="2" wordNum="7" hand="m1" regularized="Νότου" original="Νό(του)" completeness="complete" tag="noun.sg.masc.gen" lemma="Νότος" lemmaFlag="ok"/>
+			<word wordref_id="778746" id="5" texid="75852" row="2" wordNum="8" hand="m1" regularized="καὶ" original="(καὶ)" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="778747" id="6" texid="75852" row="2" wordNum="9" hand="m1" regularized="Λιβὸς" original="Λ(ιβὸς)" completeness="complete" tag="noun.sg.masc.gen" lemma="Λίψ" lemmaFlag="ok"/>
+			<word wordref_id="778748" id="7" texid="75852" row="2" wordNum="10" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="778749" id="8" texid="75852" row="2" wordNum="11" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="778750" id="9" texid="75852" row="2" wordNum="12" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="778751" id="1" texid="75852" row="2" wordNum="13" hand="m2" regularized="Ὀννῶφρις" original="Ὀννῶφρι(ς)" completeness="complete" tag="noun.sg.masc.nom" lemma="Ὀννῶφρις" lemmaFlag="ok"/>
+			<word wordref_id="778752" id="2" texid="75852" row="2" wordNum="14" hand="m2" regularized="σεσημείωμαι" original="σεση(μείωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="778753" id="3" texid="75852" row="2" wordNum="15" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

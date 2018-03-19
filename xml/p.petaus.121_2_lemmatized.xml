@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.petaus.121" TM="12630" HGV="12630" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3125888" id="1" texid="12630" row="1" wordNum="1" hand="m1" regularized="πετακωμειδιδωκα" original="πετακωμειδ̣ιδωκα" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="πιτακωμειδιδωμι" lemmaFlag="suspect"/>
+			<word wordref_id="3125889" id="2" texid="12630" row="1" wordNum="2" hand="m1" regularized="|x|" original="|x|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3125890" id="3" texid="12630" row="1" wordNum="3" hand="m1" regularized="οκαωιτ|gap=1|δεδωει" original="οκαωι̣τ̣|gap=1|δεδ̣ωει" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3125891" id="4" texid="12630" row="2" wordNum="1" hand="m1" regularized="Πεταῦς" original="Πεταῦς" completeness="complete" tag="noun.sg.masc.nom" lemma="Πεταῦς" lemmaFlag="ok"/>
+			<word wordref_id="3125892" id="5" texid="12630" row="2" wordNum="2" hand="m1" regularized="επι" original="ε̣π̣ι̣" completeness="complete" tag="noun.sg.masc.dat" lemma="επι" lemmaFlag="wrong-accent:ἐπί"/>
+		</sentence>
+	</text>
+</file>

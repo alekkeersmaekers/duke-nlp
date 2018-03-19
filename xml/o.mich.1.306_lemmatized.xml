@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.306" TM="42070" HGV="42070" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="727806" id="1" texid="42070" row="1" wordNum="1" hand="m1" regularized="μ|digit=40|" original="μ|digit=40|" completeness="complete" tag="numeral.none.none.none" lemma="μ" lemmaFlag="ok"/>
+			<word wordref_id="727807" id="2" texid="42070" row="1" wordNum="2" hand="m1" regularized="Σωκράτης" original="Σωκράτ[ης]" completeness="partly_reconstructed" tag="noun.pl.masc.acc" lemma="Σωκράτης" lemmaFlag="ok"/>
+			<word wordref_id="727808" id="3" texid="42070" row="2" wordNum="1" hand="m1" regularized="Πετεσούχου" original="Πετεσ[ούχου]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Πετεσουχος" lemmaFlag="ok"/>
+			<word wordref_id="727809" id="4" texid="42070" row="3" wordNum="1" hand="m1" regularized="Θαρμοῦθι" original="Θαρμ(οῦθι)" completeness="complete" tag="noun.sg.fem.voc" lemma="Θαρμοῦθις" lemmaFlag="ok"/>
+			<word wordref_id="727810" id="5" texid="42070" row="3" wordNum="2" hand="m1" regularized="ἐνδεκάτῃ" original="ἐνδεκ̣[άτῃ]" completeness="partly_reconstructed" tag="adjective.sg.fem.dat.pos" lemma="ἐνδέκατος" lemmaFlag="wrong-accent:ἑνδέκατος"/>
+			<word wordref_id="727811" id="6" texid="42070" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

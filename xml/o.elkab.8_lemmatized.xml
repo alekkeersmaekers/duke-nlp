@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.elkab.8" TM="74489" HGV="74489" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="678207" id="1" texid="74489" row="1" wordNum="1" hand="m1" regularized="Πετεσοῦχος" original="Πετεσοῦχος" completeness="complete" tag="noun.sg.masc.nom" lemma="Πετεσοῦχος" lemmaFlag="ok"/>
+			<word wordref_id="678208" id="2" texid="74489" row="2" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="678209" id="3" texid="74489" row="2" wordNum="2" hand="m1" regularized="οἱ" original="οἱ" completeness="complete" tag="article.pl.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="678210" id="4" texid="74489" row="2" wordNum="3" hand="m1" regularized="μέτοχοι" original="μέτοχοι" completeness="complete" tag="adjective.pl.masc.nom.pos" lemma="μέτοχος" lemmaFlag="ok"/>
+			<word wordref_id="678211" id="5" texid="74489" row="3" wordNum="1" hand="m1" regularized="Πετενη|gap=3|" original="Πετενη̣|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="678212" id="6" texid="74489" row="3" wordNum="2" hand="m1" regularized="χαίρειν" original="χαί(ρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="678213" id="7" texid="74489" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="678214" id="1" texid="74489" row="4" wordNum="1" hand="m1" regularized="ἔχομεν" original="ἔχομεν" completeness="complete" tag="verb.1.pl.pres.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="678215" id="2" texid="74489" row="4" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="678216" id="3" texid="74489" row="5" wordNum="1" hand="m1" regularized="σοῦ" original="[σοῦ]" completeness="fully_reconstructed" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="678217" id="4" texid="74489" row="5" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="678218" id="5" texid="74489" row="6" wordNum="1" hand="m1" regularized="|gap=4_lines|" original="|gap=4_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

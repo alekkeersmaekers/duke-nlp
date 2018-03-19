@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.1.3883" TM="40395" HGV="40395" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4008044" id="1" texid="40395" row="1" wordNum="1" hand="m1" regularized="Αὐρήλιος" original="Αὐρήλιος" completeness="complete" tag="noun.sg.masc.nom" lemma="Αὐρήλιος" lemmaFlag="ok"/>
+			<word wordref_id="4008045" id="2" texid="40395" row="1-2" wordNum="1" hand="m1" regularized="Ψεντασαϊὲ" original="Ψεντα-σαϊὲ" completeness="complete" tag="noun.sg.masc.none" lemma="Ψεντασαϊέ" lemmaFlag="ok"/>
+			<word wordref_id="4008046" id="3" texid="40395" row="2" wordNum="1" hand="m1" regularized="μήτηρ" original="μήτηρ" completeness="complete" tag="noun.sg.fem.nom" lemma="μήτηρ" lemmaFlag="ok"/>
+			<word wordref_id="4008047" id="4" texid="40395" row="3" wordNum="1" hand="m1" regularized="Τανω…" original="Τανω(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4008048" id="5" texid="40395" row="3" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4008049" id="6" texid="40395" row="3" wordNum="3" hand="m1" regularized="ἐβίωσεν" original="ἐβιασεν*" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="βιόω" lemmaFlag="ok"/>
+			<word wordref_id="4008050" id="7" texid="40395" row="4" wordNum="1" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok"/>
+			<word wordref_id="4008051" id="8" texid="40395" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4008052" id="1" texid="40395" row="4" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4008053" id="2" texid="40395" row="4" wordNum="4" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="4008054" id="3" texid="40395" row="4" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

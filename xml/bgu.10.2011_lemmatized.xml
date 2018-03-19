@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.10.2011" TM="8333" HGV="8333" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="41786" id="1" texid="8333" row="1" wordNum="1" hand="m1" regularized="εἰς" original="[εἰς]" completeness="fully_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="41787" id="2" texid="8333" row="1" wordNum="2" hand="m1" regularized="τὸ" original="[τὸ]" completeness="fully_reconstructed" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="41788" id="3" texid="8333" row="1-2" wordNum="1" hand="m1" regularized="ἐργαστήριον" original="[ἐρ]-γαστήριον" completeness="partly_reconstructed" tag="noun.sg.neut.acc" lemma="ἐργαστήριον" lemmaFlag="ok"/>
+			<word wordref_id="41789" id="4" texid="8333" row="2" wordNum="1" hand="m1" regularized="πυροῦ" original="πυρ[ο]ῦ̣" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="πυρός" lemmaFlag="ok"/>
+			<word wordref_id="41790" id="5" texid="8333" row="2" wordNum="2" hand="m1" regularized="|gap=7|" original="|gap=7|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="41791" id="6" texid="8333" row="3" wordNum="1" hand="m1" regularized="ἀρτάβας" original="ἀρτάβας" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="41792" id="7" texid="8333" row="3" wordNum="2" hand="m1" regularized="δισχιλίας" original="δισχιλίας" completeness="complete" tag="numeral.pl.fem.acc" lemma="δισχίλιοι" lemmaFlag="ok"/>
+			<word wordref_id="41793" id="8" texid="8333" row="3-4" wordNum="1" hand="m1" regularized="πεντακοσίας|num=2500|" original="πεντα-κοσίας|num=2500|" completeness="complete" tag="numeral.pl.fem.acc" lemma="πεντακόσιοι" lemmaFlag="ok"/>
+			<word wordref_id="41794" id="9" texid="8333" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

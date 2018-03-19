@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.koeln.6.262" TM="2487" HGV="2487" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1851750" id="1" texid="2487" row="9" wordNum="1" hand="m2" regularized="|gap=unknown||gap=2||gap=1||gap=1|" original="|gap=unknown||gap=2||gap=1||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1851751" id="2" texid="2487" row="9" wordNum="2" hand="m2" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1851752" id="3" texid="2487" row="9" wordNum="3" hand="m2" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok"/>
+			<word wordref_id="1851753" id="4" texid="2487" row="9" wordNum="4" hand="m2" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok"/>
+			<word wordref_id="1851754" id="5" texid="2487" row="9" wordNum="5" hand="m2" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="1851755" id="6" texid="2487" row="9" wordNum="6" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1851756" id="1" texid="2487" row="9" wordNum="7" hand="m2" regularized="Μητρόδωρος" original="Μητρόδωρος" completeness="complete" tag="noun.sg.masc.nom" lemma="Μητρόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="1851757" id="2" texid="2487" row="10" wordNum="1" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1851758" id="3" texid="2487" row="10" wordNum="2" hand="m2" regularized="παραγενέσθαι" original="παραγενέσθαι" completeness="complete" tag="infinitive.aor.mid" lemma="παραγίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="1851759" id="4" texid="2487" row="11" wordNum="1" hand="m2" regularized="|gap=4||gap=2|με" original="|gap=4||gap=2|μ\ε/" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1851760" id="5" texid="2487" row="11" wordNum="2" hand="m1" regularized="Ἀπολλωνίωι" original="Ἀπολλωνίωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

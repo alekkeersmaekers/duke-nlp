@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.465" TM="76053" HGV="76053" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="785814" id="1" texid="76053" row="1" wordNum="1" hand="m1" regularized="Ταυρεῖνος" original="Ταυρεῖνος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ταυρεῖνος" lemmaFlag="ok"/>
+			<word wordref_id="785815" id="2" texid="76053" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="785816" id="3" texid="76053" row="2" wordNum="1" hand="m1" regularized="παχοῦμις" original="παχοῦμις" completeness="complete" tag="noun.sg.masc.nom" lemma="παχοῦμις" lemmaFlag="suspect"/>
+			<word wordref_id="785817" id="4" texid="76053" row="2" wordNum="2" hand="m1" regularized="ἀπαιτηταὶ" original="ἀπαιτητα[ὶ]" completeness="partly_reconstructed" tag="noun.pl.masc.nom" lemma="ἀπαιτητής" lemmaFlag="ok"/>
+			<word wordref_id="785818" id="5" texid="76053" row="3" wordNum="1" hand="m1" regularized="ἀχύρου" original="ἀχύρου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄχυρον" lemmaFlag="ok"/>
+			<word wordref_id="785819" id="6" texid="76053" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="785820" id="1" texid="76053" row="3" wordNum="3" hand="m1" regularized="ἐσχήκαμεν" original="ἐσχήκαμεν" completeness="complete" tag="verb.1.pl.pf.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="785821" id="2" texid="76053" row="4" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="785822" id="3" texid="76053" row="4" wordNum="2" hand="m1" regularized="Παχούμιος" original="Παχούμιος" completeness="complete" tag="noun.sg.masc.gen" lemma="Παχουμις" lemmaFlag="ok"/>
+			<word wordref_id="785823" id="4" texid="76053" row="5" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="785824" id="5" texid="76053" row="5" wordNum="2" hand="m1" regularized="ἀχύρου" original="ἀχύρου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄχυρον" lemmaFlag="ok"/>
+			<word wordref_id="785825" id="6" texid="76053" row="5" wordNum="3" hand="m1" regularized="κεφάλαια" original="κεφ(άλαια)" completeness="complete" tag="noun.pl.neut.acc" lemma="κεφάλαιον" lemmaFlag="suspect"/>
+			<word wordref_id="785826" id="7" texid="76053" row="5" wordNum="4" hand="m1" regularized="ἕξ|num=6|" original="ἕξ|num=6|" completeness="complete" tag="numeral.none.none.none" lemma="ἕξ" lemmaFlag="ok"/>
+			<word wordref_id="785827" id="8" texid="76053" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="785828" id="1" texid="76053" row="6" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

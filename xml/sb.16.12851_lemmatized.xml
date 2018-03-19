@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.16.12851" TM="34903" HGV="34903" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4199716" id="1" texid="34903" row="1" wordNum="1" hand="m1" regularized="ιδ|digit=14|" original="ιδ|digit=14|" completeness="complete" tag="numeral.none.none.none" lemma="ιδ" lemmaFlag="ok"/>
+			<word wordref_id="4199717" id="2" texid="34903" row="1" wordNum="2" hand="m1" regularized="ἰνδικτίονος" original="ἰνδικ(τίονος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="4199718" id="3" texid="34903" row="2" wordNum="1" hand="m1" regularized="Παῦλος" original="Παῦλος" completeness="complete" tag="noun.sg.masc.nom" lemma="Παῦλος" lemmaFlag="ok"/>
+			<word wordref_id="4199719" id="4" texid="34903" row="2" wordNum="2" hand="m1" regularized="Παχουμίῳ" original="Παχουμίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Παχούμιος" lemmaFlag="ok"/>
+			<word wordref_id="4199720" id="5" texid="34903" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4199721" id="1" texid="34903" row="3" wordNum="1" hand="m1" regularized="ταριχίων" original="ταριχίων" completeness="complete" tag="noun.pl.neut.gen" lemma="ταρίχιον" lemmaFlag="ok"/>
+			<word wordref_id="4199722" id="2" texid="34903" row="3" wordNum="2" hand="m1" regularized="ἐγκεφάλων" original="ἐγκεφάλων" completeness="complete" tag="noun.pl.masc.gen" lemma="ἐγκέφαλος" lemmaFlag="suspect"/>
+			<word wordref_id="4199723" id="3" texid="34903" row="4" wordNum="1" hand="m1" regularized="διπλᾶ" original="διπλ(ᾶ)" completeness="complete" tag="adjective.pl.neut.acc.pos" lemma="διπλοῦς" lemmaFlag="suspect"/>
+			<word wordref_id="4199724" id="4" texid="34903" row="4" wordNum="2" hand="m1" regularized="εἴκοσι|num=20|" original="εἴκοσι|num=20|" completeness="complete" tag="numeral.none.none.none" lemma="εἴκοσι" lemmaFlag="ok"/>
+			<word wordref_id="4199725" id="5" texid="34903" row="4-5" wordNum="1" hand="m1" regularized="παράσχου" original="παρέ-σχου*" completeness="complete" tag="verb.2.sg.aor.ind.mid" lemma="παρέχω" lemmaFlag="ok"/>
+			<word wordref_id="4199726" id="6" texid="34903" row="5" wordNum="1" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="4199727" id="7" texid="34903" row="5" wordNum="2" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4199728" id="8" texid="34903" row="5-6" wordNum="1" hand="m1" regularized="Ἀπολλωνίου" original="Ἀπολλω-νίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀπολλώνιος" lemmaFlag="ok"/>
+			<word wordref_id="4199729" id="9" texid="34903" row="6" wordNum="1" hand="m1" regularized="μεταβόλου" original="μεταβόλου" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="μετάβολος" lemmaFlag="ok"/>
+			<word wordref_id="4199730" id="10" texid="34903" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4199731" id="1" texid="34903" row="6" wordNum="3" hand="m2" regularized="σεσημείωμαι" original="σεσημεί(ωμαι)" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+			<word wordref_id="4199732" id="2" texid="34903" row="6" wordNum="4" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

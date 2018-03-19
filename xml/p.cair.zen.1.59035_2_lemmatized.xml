@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.1.59035" TM="695" HGV="695" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1214823" id="1" texid="695" row="6" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1214824" id="2" texid="695" row="7" wordNum="1" hand="m1" regularized="σατο" original="σ̣α̣τ̣ο̣" completeness="complete" tag="verb.3.sg.aor.ind.mid" lemma="σκομαι" lemmaFlag="suspect"/>
+			<word wordref_id="1214825" id="3" texid="695" row="7" wordNum="2" hand="m1" regularized="Ζ|gap=4||gap=3|ν" original="Ζ̣|gap=4||gap=3|ν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1214826" id="4" texid="695" row="7" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1214827" id="1" texid="695" row="8" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1214828" id="2" texid="695" row="8" wordNum="2" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="1214829" id="3" texid="695" row="8" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="1214830" id="4" texid="695" row="8" wordNum="4" hand="m1" regularized="Αὐδναίου" original="Αὐδναίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Αὐδναῖος" lemmaFlag="ok"/>
+			<word wordref_id="1214831" id="5" texid="695" row="8" wordNum="5" hand="m1" regularized="κε|digit=25|" original="κε|digit=25|" completeness="complete" tag="numeral.none.none.none" lemma="κε" lemmaFlag="ok"/>
+			<word wordref_id="1214832" id="6" texid="695" row="8" wordNum="6" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="1214833" id="7" texid="695" row="9" wordNum="1" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="1214834" id="8" texid="695" row="9" wordNum="2" hand="m1" regularized="τῶι" original="τῶι" completeness="complete" tag="relative.sg.neut.dat" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="1214835" id="9" texid="695" row="9" wordNum="3" hand="m1" regularized="Βερενίκης" original="Βερενίκης" completeness="complete" tag="noun.sg.fem.gen" lemma="Βερενίκη" lemmaFlag="ok"/>
+			<word wordref_id="1214836" id="10" texid="695" row="9" wordNum="4" hand="m1" regularized="ὅρμωι" original="ὅρμω[ι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="ὅρμος" lemmaFlag="ok"/>
+			<word wordref_id="1214837" id="11" texid="695" row="9" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="1214838" id="1" texid="695" row="6" wordNum="1" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+			<word wordref_id="1214839" id="2" texid="695" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

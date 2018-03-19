@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.medin.madi.27" TM="74960" HGV="74960" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="723323" id="1" texid="74960" row="1" wordNum="1" hand="m1" regularized="κώμης" original="κ(ώμης)" completeness="complete" tag="noun.sg.fem.gen" lemma="κώμη" lemmaFlag="ok"/>
+			<word wordref_id="723324" id="2" texid="74960" row="1" wordNum="2" hand="m1" regularized="Ναρμούθεως" original="Ναρμο[ύθεως]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ναρμουθις" lemmaFlag="ok"/>
+			<word wordref_id="723325" id="3" texid="74960" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="723326" id="4" texid="74960" row="2" wordNum="1" hand="m1" regularized="ἀποδέκτης" original="ἀποδέ(κτης)" completeness="complete" tag="noun.sg.masc.nom" lemma="ἀποδέκτης" lemmaFlag="ok"/>
+			<word wordref_id="723327" id="5" texid="74960" row="2" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="723328" id="6" texid="74960" row="2" wordNum="3" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="723329" id="7" texid="74960" row="2" wordNum="4" hand="m1" regularized="Αὐρηλίου" original="Αὐρηλίο(υ)" completeness="complete" tag="noun.sg.masc.gen" lemma="Αὐρήλιος" lemmaFlag="ok"/>
+			<word wordref_id="723330" id="8" texid="74960" row="2-3" wordNum="1" hand="m1" regularized="ἀχύρου" original="ἀχύ-ρου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄχυρον" lemmaFlag="ok"/>
+			<word wordref_id="723331" id="9" texid="74960" row="3" wordNum="1" hand="m1" regularized="σαργάνη" original="σαργαναι*" completeness="complete" tag="noun.sg.fem.nom" lemma="σαργάνη" lemmaFlag="ok"/>
+			<word wordref_id="723332" id="10" texid="74960" row="3" wordNum="2" hand="m1" regularized="μία|num=1|" original="μία|num=1|" completeness="complete" tag="numeral.sg.fem.nom" lemma="εἷς" lemmaFlag="ok"/>
+			<word wordref_id="723333" id="11" texid="74960" row="3" wordNum="3" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="723334" id="12" texid="74960" row="3" wordNum="4" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="723335" id="13" texid="74960" row="4" wordNum="1" hand="m1" regularized="ναῦλα" original="ναῦλα" completeness="complete" tag="noun.pl.neut.nom" lemma="ναῦλον" lemmaFlag="ok"/>
+			<word wordref_id="723336" id="14" texid="74960" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="723337" id="1" texid="74960" row="4" wordNum="3" hand="m1" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="723338" id="2" texid="74960" row="4" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

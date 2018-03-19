@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.douch.2.171_2" TM="34522" HGV="34522" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="657060" id="1" texid="34522" row="1" wordNum="1" hand="m1" regularized="Παχμοῦνις" original="Παχμ(οῦνις)" completeness="complete" tag="noun.sg.masc.nom" lemma="Παχμοῦνις" lemmaFlag="ok"/>
+			<word wordref_id="657061" id="2" texid="34522" row="1" wordNum="2" hand="m1" regularized="ὀπτίων" original="ὀπτί(ων)" completeness="complete" tag="noun.sg.masc.nom" lemma="ὀπτίων" lemmaFlag="ok"/>
+			<word wordref_id="657062" id="3" texid="34522" row="1" wordNum="3" hand="m1" regularized="Πετεύρει" original="[Πετεύρει]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="Πετεῦρις" lemmaFlag="ok"/>
+			<word wordref_id="657063" id="4" texid="34522" row="1-2" wordNum="1" hand="m1" regularized="ἐπιμελητῇ" original="[ἐπι]-μῇ*" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="ἐπιμελητής" lemmaFlag="ok"/>
+			<word wordref_id="657064" id="5" texid="34522" row="2" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="657065" id="1" texid="34522" row="2" wordNum="2" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="657066" id="2" texid="34522" row="2" wordNum="3" hand="m1" regularized="Ψεν|gap=unknown|" original="Ψεν|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="657067" id="3" texid="34522" row="3" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

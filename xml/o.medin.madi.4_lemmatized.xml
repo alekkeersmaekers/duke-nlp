@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.medin.madi.4" TM="74939" HGV="74939" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="723415" id="1" texid="74939" row="1" wordNum="1" hand="m1" regularized="Παῦνι" original="Παῦ(νι)" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="723416" id="2" texid="74939" row="1" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="723417" id="3" texid="74939" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="723418" id="1" texid="74939" row="2" wordNum="1" hand="m1" regularized="Κειᾶς" original="Κειᾶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Κειᾶς" lemmaFlag="ok"/>
+			<word wordref_id="723419" id="2" texid="74939" row="2" wordNum="2" hand="m1" regularized="Αρμο…" original="Αρμ[ο](…)" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="723420" id="3" texid="74939" row="2" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="723421" id="4" texid="74939" row="3" wordNum="1" hand="m1" regularized="πρόσγραφον" original="πρόσ[(γραφον)]" completeness="partly_reconstructed" tag="verb.3.pl.impf.ind.act" lemma="προσγράφω" lemmaFlag="ok"/>
+			<word wordref_id="723422" id="5" texid="74939" row="3" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

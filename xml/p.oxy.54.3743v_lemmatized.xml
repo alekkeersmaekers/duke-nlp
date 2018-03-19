@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.oxy.54.3743v" TM="32295" HGV="32295" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2954218" id="1" texid="32295" row="1" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2954219" id="2" texid="32295" row="2" wordNum="1" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2954220" id="3" texid="32295" row="2" wordNum="2" hand="m1" regularized="ὁ" original="ὁ" completeness="complete" tag="article.sg.masc.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2954221" id="4" texid="32295" row="2" wordNum="3" hand="m1" regularized="λογιστὴς" original="λογιστὴς" completeness="complete" tag="noun.sg.masc.nom" lemma="λογιστής" lemmaFlag="ok"/>
+			<word wordref_id="2954222" id="5" texid="32295" row="2" wordNum="4" hand="m1" regularized="εἶπεν" original="εἶ(πεν)" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="λέγω" lemmaFlag="ok"/>
+			<word wordref_id="2954223" id="6" texid="32295" row="2" wordNum="5" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="2954224" id="1" texid="32295" row="2" wordNum="6" hand="m1" regularized="ἀχθήσονται" original="ἀχ̣[θή]σ̣ονται" completeness="partly_reconstructed" tag="verb.3.pl.fut.ind.pass" lemma="ἄγω" lemmaFlag="ok"/>
+			<word wordref_id="2954225" id="2" texid="32295" row="2" wordNum="7" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2954226" id="3" texid="32295" row="3" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

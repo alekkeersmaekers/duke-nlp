@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.panop.19colviiia" TM="16164" HGV="16164r" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3099568" id="1" texid="16164" row="1" wordNum="1" hand="m1" regularized="ὀνόματος" original="ὀν(όματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="ὄνομα" lemmaFlag="ok"/>
+			<word wordref_id="3099569" id="2" texid="16164" row="1" wordNum="2" hand="m1" regularized="υἱῶν" original="υἱῶν" completeness="complete" tag="noun.pl.masc.gen" lemma="υἱός" lemmaFlag="ok"/>
+			<word wordref_id="3099570" id="3" texid="16164" row="1" wordNum="3" hand="m1" regularized="Ἀλώπηκος" original="Ἀλώπηκος" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀλώπηξ" lemmaFlag="ok"/>
+			<word wordref_id="3099571" id="4" texid="16164" row="1" wordNum="4" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="3099572" id="5" texid="16164" row="1" wordNum="5" hand="m1" regularized="στεγέστρου" original="στεγέστρου" completeness="complete" tag="noun.sg.masc.gen" lemma="στεγέστρος" lemmaFlag="suspect"/>
+			<word wordref_id="3099573" id="6" texid="16164" row="2" wordNum="1" hand="m1" regularized="τρεισκαι" original="τρεισκαιι(δεκάτης)*" completeness="complete" tag="noun.pl.fem.nom" lemma="τρεισκη" lemmaFlag="suspect"/>
+			<word wordref_id="3099574" id="7" texid="16164" row="2" wordNum="2" hand="m1" regularized="ἰνδικτίωνος" original="ἰνδικτίωνος" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="3099575" id="8" texid="16164" row="2" wordNum="3" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3099576" id="9" texid="16164" row="2" wordNum="4" hand="m1" regularized="αἱροῦντα" original="αἱροῦντα" completeness="complete" tag="participle.pl.pres.act.neut.nom" lemma="αἱρέω" lemmaFlag="ok"/>
+			<word wordref_id="3099577" id="10" texid="16164" row="2" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3099578" id="1" texid="16164" row="3" wordNum="1" hand="m1" regularized="ὑπατείας" original="ὑπατεί(ας)" completeness="complete" tag="noun.sg.fem.gen" lemma="ὑπατεία" lemmaFlag="ok"/>
+			<word wordref_id="3099579" id="2" texid="16164" row="3" wordNum="2" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3099580" id="3" texid="16164" row="3" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="3099581" id="4" texid="16164" row="3" wordNum="4" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="3099582" id="5" texid="16164" row="3" wordNum="5" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.nom" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3099583" id="6" texid="16164" row="3" wordNum="6" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="3099584" id="7" texid="16164" row="3" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="3099585" id="1" texid="16164" row="3" wordNum="8" hand="m1" regularized="Θεόδωρος" original="Θεόδωρος" completeness="complete" tag="noun.sg.masc.nom" lemma="Θεόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="3099586" id="2" texid="16164" row="3" wordNum="9" hand="m1" regularized="Περσέως" original="Περσέως" completeness="complete" tag="noun.sg.masc.gen" lemma="Περσεύς" lemmaFlag="ok"/>
+			<word wordref_id="3099587" id="3" texid="16164" row="4" wordNum="1" hand="m1" regularized="ἐξέδωκα" original="ἐξέδωκα" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="ἐκδίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="3099588" id="4" texid="16164" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

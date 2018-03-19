@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.alex.15" TM="25126 25126 25126 25126" HGV="25126a 25126b 25126c 25126d" lang="grc" textpart="2">
+	<text>
+		<sentence id="1">
+			<word wordref_id="895652" id="1" texid="25126" row="1" wordNum="1" hand="m2" regularized="Ἡρακλῆς" original="Ἡρακλῆς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἡρακλῆς" lemmaFlag="ok"/>
+			<word wordref_id="895653" id="2" texid="25126" row="1" wordNum="2" hand="m2" regularized="Ἡρακληοῦ" original="Ἡρακληοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἡρακληός" lemmaFlag="ok"/>
+			<word wordref_id="895654" id="3" texid="25126" row="1" wordNum="3" hand="m2" regularized="Πισάτιος" original="Πισάτι[ος]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Πισάτις" lemmaFlag="ok"/>
+			<word wordref_id="895655" id="4" texid="25126" row="1" wordNum="4" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="895656" id="5" texid="25126" row="2" wordNum="1" hand="m2" regularized="Ἀπίον" original="Ἀπίον" completeness="complete" tag="noun.sg.masc.voc" lemma="Ἀπίων" lemmaFlag="ok"/>
+			<word wordref_id="895657" id="6" texid="25126" row="2" wordNum="2" hand="m2" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="895658" id="7" texid="25126" row="2" wordNum="3" hand="m2" regularized="Ἡρακληοῦ" original="Ἡρακληοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἡρακληός" lemmaFlag="ok"/>
+			<word wordref_id="895659" id="8" texid="25126" row="2" wordNum="4" hand="m2" regularized="Ἡρακληοῦ" original="Ἡρακλη[οῦ]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἡρακληός" lemmaFlag="ok"/>
+			<word wordref_id="895660" id="9" texid="25126" row="2" wordNum="5" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="895661" id="10" texid="25126" row="3" wordNum="1" hand="m2" regularized="χαίρειν" original="χαίριν*" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="895662" id="11" texid="25126" row="3" wordNum="2" hand="m2" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="895663" id="1" texid="25126" row="3" wordNum="3" hand="m2" regularized="ἀπέχω" original="ἀπεχο*" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok"/>
+			<word wordref_id="895664" id="2" texid="25126" row="3" wordNum="4" hand="m2" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="895665" id="3" texid="25126" row="3" wordNum="5" hand="m2" regularized="συνκεχωρημένην" original="συνκεχ[ωρημένην]" completeness="partly_reconstructed" tag="participle.sg.pf.mid.fem.acc" lemma="συγχωρέω" lemmaFlag="ok"/>
+			<word wordref_id="895666" id="4" texid="25126" row="3" wordNum="6" hand="m2" regularized="τιμήν" original="[τιμήν]" completeness="fully_reconstructed" tag="noun.sg.fem.acc" lemma="τιμή" lemmaFlag="ok"/>
+			<word wordref_id="895667" id="5" texid="25126" row="3" wordNum="7" hand="m2" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

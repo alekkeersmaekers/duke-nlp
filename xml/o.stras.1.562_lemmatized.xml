@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.562" TM="76147" HGV="76147" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="788478" id="1" texid="76147" row="1" wordNum="1" hand="m1" regularized="πρακτορικοῦ" original="πρακτ̣ορικ(οῦ)" completeness="complete" tag="adjective.sg.neut.gen.pos" lemma="πρακτορικός" lemmaFlag="ok"/>
+			<word wordref_id="788479" id="2" texid="76147" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="788480" id="1" texid="76147" row="2" wordNum="1" hand="m1" regularized="|gap=2|ελακουστ" original="|gap=2|ελακουστ" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788481" id="2" texid="76147" row="3" wordNum="1" hand="m1" regularized="|gap=4|ιος" original="|gap=4|ιος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788482" id="3" texid="76147" row="3" wordNum="2" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788483" id="4" texid="76147" row="4" wordNum="1" hand="m1" regularized="Πλῆνις" original="Πλῆ(νις)" completeness="complete" tag="noun.sg.masc.nom" lemma="Πλῆνις" lemmaFlag="ok"/>
+			<word wordref_id="788484" id="5" texid="76147" row="4" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="788485" id="6" texid="76147" row="4" wordNum="3" hand="m1" regularized="Β|gap=4||gap=1|…" original="Β|gap=4||gap=1|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788486" id="7" texid="76147" row="4" wordNum="4" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788487" id="8" texid="76147" row="5" wordNum="1" hand="m1" regularized="Παουλλᾶς" original="Παουλλᾶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Παουλλᾶς" lemmaFlag="ok"/>
+			<word wordref_id="788488" id="9" texid="76147" row="5" wordNum="2" hand="m1" regularized="Παῶτος" original="Παῶτ(ος)" completeness="complete" tag="noun.sg.masc.nom" lemma="Παῶτος" lemmaFlag="ok"/>
+			<word wordref_id="788489" id="10" texid="76147" row="6" wordNum="1" hand="m1" regularized="Πλῆνις" original="Πλῆ(νις)" completeness="complete" tag="noun.sg.masc.nom" lemma="Πλῆνις" lemmaFlag="ok"/>
+			<word wordref_id="788490" id="11" texid="76147" row="6" wordNum="2" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="788491" id="12" texid="76147" row="6" wordNum="3" hand="m1" regularized="Παμᾶτος" original="Παμᾶτο(ς)" completeness="complete" tag="noun.sg.masc.nom" lemma="Παμᾶτος" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

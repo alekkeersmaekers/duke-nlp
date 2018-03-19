@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.vleem.15" TM="3011" HGV="3011" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="814905" id="1" texid="3011" row="1" wordNum="1" hand="m1" regularized="|gap=4_lines|" original="|gap=4_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="814906" id="2" texid="3011" row="5" wordNum="1" hand="m1" regularized="ἁλικῆς" original="ἁλικῆς" completeness="complete" tag="noun.sg.fem.gen" lemma="ἁλική" lemmaFlag="suspect"/>
+			<word wordref_id="814907" id="3" texid="3011" row="5" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.neut.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="814908" id="4" texid="3011" row="6" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="814909" id="5" texid="3011" row="6" wordNum="2" hand="m1" regularized="λδ|digit=34|" original="λδ|digit=34|" completeness="complete" tag="numeral.none.none.none" lemma="λδ" lemmaFlag="ok"/>
+			<word wordref_id="814910" id="6" texid="3011" row="6" wordNum="3" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="814911" id="7" texid="3011" row="6" wordNum="4" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="814912" id="8" texid="3011" row="6" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

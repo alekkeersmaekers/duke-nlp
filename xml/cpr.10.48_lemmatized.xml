@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="cpr.10.48" TM="70174" HGV="70174" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="419418" id="1" texid="70174" row="1" wordNum="1" hand="m1" regularized="Ἐπικράτης" original="Ἐπικράτης" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἐπικράτης" lemmaFlag="ok"/>
+			<word wordref_id="419419" id="2" texid="70174" row="2" wordNum="1" hand="m1" regularized="Φνεφορῶτι" original="Φνεφορῶτι" completeness="complete" tag="noun.sg.masc.dat" lemma="Φνεφορῶς" lemmaFlag="ok"/>
+			<word wordref_id="419420" id="3" texid="70174" row="2" wordNum="2" hand="m1" regularized="καὶ" original="[καὶ]" completeness="fully_reconstructed" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="419421" id="4" texid="70174" row="3" wordNum="1" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="419422" id="5" texid="70174" row="3-4" wordNum="1" hand="m1" regularized="δεκατάρχοις" original="δεκατ[άρ]-χ̣ο̣ι̣ς̣" completeness="partly_reconstructed" tag="noun.pl.masc.dat" lemma="δεκάταρχος" lemmaFlag="ok"/>
+			<word wordref_id="419423" id="6" texid="70174" row="4" wordNum="1" hand="m1" regularized="χαίρειν" original="χ̣[αί]ρ̣ε̣[ι]ν̣" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="419424" id="7" texid="70174" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="419425" id="1" texid="70174" row="5" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="upz.2.208" TM="3610" HGV="3610" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4700516" id="1" texid="3610" row="1" wordNum="1" hand="m1" regularized="Διονύσιος" original="[Διονύσιος]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Διονύσιος" lemmaFlag="ok"/>
+			<word wordref_id="4700517" id="2" texid="3610" row="1" wordNum="2" hand="m1" regularized="Ἡρακλείδει" original="[Ἡρακλ]είδει" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἡρακλείδης" lemmaFlag="ok"/>
+			<word wordref_id="4700518" id="3" texid="3610" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="4700519" id="4" texid="3610" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4700520" id="1" texid="3610" row="1" wordNum="5" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700521" id="2" texid="3610" row="1" wordNum="6" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="4700522" id="3" texid="3610" row="1" wordNum="7" hand="m1" regularized="Παῶι" original="Παῶι" completeness="complete" tag="adjective.sg.masc.dat.pos" lemma="παός" lemmaFlag="ok"/>
+			<word wordref_id="4700523" id="4" texid="3610" row="1" wordNum="8" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700524" id="5" texid="3610" row="1" wordNum="9" hand="m1" regularized="συγγενοῦς" original="συγγενοῦς" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="συγγενής" lemmaFlag="ok"/>
+			<word wordref_id="4700525" id="6" texid="3610" row="1" wordNum="10" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700526" id="7" texid="3610" row="1" wordNum="11" hand="m1" regularized="στρατηγοῦ" original="στρατηγοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="στρατηγός" lemmaFlag="ok"/>
+			<word wordref_id="4700527" id="8" texid="3610" row="1" wordNum="12" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700528" id="9" texid="3610" row="1" wordNum="13" hand="m1" regularized="Θηβαίδος" original="Θη(βαίδος)" completeness="complete" tag="noun.sg.fem.gen" lemma="Θηβαίς" lemmaFlag="ok"/>
+			<word wordref_id="4700529" id="10" texid="3610" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700530" id="11" texid="3610" row="2" wordNum="2" hand="m1" regularized="ἐπεσταλμένου" original="[ἐπεσταλ]μένου" completeness="partly_reconstructed" tag="participle.sg.pf.mid.masc.gen" lemma="ἐπιστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="4700531" id="12" texid="3610" row="2" wordNum="3" hand="m1" regularized="χρηματισμοῦ" original="χρηματισμοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="χρηματισμός" lemmaFlag="ok"/>
+			<word wordref_id="4700532" id="13" texid="3610" row="2" wordNum="4" hand="m1" regularized="Δημητρίωι" original="Δημ[η]τρίωι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Δημήτριος" lemmaFlag="ok"/>
+			<word wordref_id="4700533" id="14" texid="3610" row="2" wordNum="5" hand="m1" regularized="τῶι" original="τῶι" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700534" id="15" texid="3610" row="2" wordNum="6" hand="m1" regularized="θηβάρχηι" original="θη(βάρχηι)" completeness="complete" tag="noun.sg.masc.dat" lemma="θηβάρχης" lemmaFlag="suspect"/>
+			<word wordref_id="4700535" id="16" texid="3610" row="2" wordNum="7" hand="m1" regularized="περὶ" original="περ[ὶ]" completeness="partly_reconstructed" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="4700536" id="17" texid="3610" row="2" wordNum="8" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700537" id="18" texid="3610" row="2" wordNum="9" hand="m1" regularized="ἐκτεθησομένων" original="ἐκτ[εθ]ησομένων" completeness="partly_reconstructed" tag="participle.pl.fut.pass.masc.gen" lemma="ἐκτίθημι" lemmaFlag="ok"/>
+			<word wordref_id="4700538" id="19" texid="3610" row="3" wordNum="1" hand="m1" regularized="τοῖς" original="[τοῖς]" completeness="fully_reconstructed" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700539" id="20" texid="3610" row="3" wordNum="2" hand="m1" regularized="διὰ" original="[διὰ]" completeness="fully_reconstructed" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4700540" id="21" texid="3610" row="3" wordNum="3" hand="m1" regularized="Πτολεμαίου" original="[Πτολεμαίου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="4700541" id="22" texid="3610" row="3" wordNum="4" hand="m1" regularized="προσειλημμένοις" original="[προ]σειλημένοις*" completeness="partly_reconstructed" tag="participle.pl.pf.mid.masc.dat" lemma="προσλαμβάνω" lemmaFlag="ok"/>
+			<word wordref_id="4700542" id="23" texid="3610" row="3" wordNum="5" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="4700543" id="24" texid="3610" row="3" wordNum="6" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700544" id="25" texid="3610" row="3" wordNum="7" hand="m1" regularized="Μεμνόνεια" original="Μεμνόνεια" completeness="complete" tag="noun.pl.neut.acc" lemma="Μεμνόνειον" lemmaFlag="ok"/>
+			<word wordref_id="4700545" id="26" texid="3610" row="3" wordNum="8" hand="m1" regularized="ἀνδράσιν" original="ἀνδρά(σιν)" completeness="complete" tag="noun.pl.masc.dat" lemma="ἀνήρ" lemmaFlag="ok"/>
+			<word wordref_id="4700546" id="27" texid="3610" row="3" wordNum="9" hand="m1" regularized="ἀντίγραφον" original="ἀντίγραφον" completeness="complete" tag="noun.sg.neut.acc" lemma="ἀντίγραφον" lemmaFlag="suspect"/>
+			<word wordref_id="4700547" id="28" texid="3610" row="3" wordNum="10" hand="m1" regularized="ὑπόκειται" original="ὑπόκειται" completeness="complete" tag="verb.3.sg.pres.ind.mid" lemma="ὑπόκειμαι" lemmaFlag="ok"/>
+			<word wordref_id="4700548" id="29" texid="3610" row="3" wordNum="11" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="4700549" id="1" texid="3610" row="3-4" wordNum="1" hand="m1" regularized="κατακολουθήσας" original="κατ[α]-[κολουθήσας]" completeness="partly_reconstructed" tag="participle.sg.aor.act.masc.nom" lemma="κατακολουθέω" lemmaFlag="ok"/>
+			<word wordref_id="4700550" id="2" texid="3610" row="4" wordNum="1" hand="m1" regularized="οὖν" original="[οὖν]" completeness="fully_reconstructed" tag="conjunction" lemma="οὖν" lemmaFlag="ok"/>
+			<word wordref_id="4700551" id="3" texid="3610" row="4" wordNum="2" hand="m1" regularized="τούτωι" original="[τούτωι]" completeness="fully_reconstructed" tag="demonstrative.sg.masc.dat" lemma="οὗτος" lemmaFlag="ok"/>
+			<word wordref_id="4700552" id="4" texid="3610" row="4" wordNum="3" hand="m1" regularized="τε" original="τε" completeness="complete" tag="conjunction" lemma="τέ" lemmaFlag="ok"/>
+			<word wordref_id="4700553" id="5" texid="3610" row="4" wordNum="4" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700554" id="6" texid="3610" row="4" wordNum="5" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700555" id="7" texid="3610" row="4" wordNum="6" hand="m1" regularized="προεπεσταλμένοις" original="προεπεσταλμένοις" completeness="complete" tag="participle.pl.pf.mid.masc.dat" lemma="προεπιστέλλω" lemmaFlag="ok"/>
+			<word wordref_id="4700556" id="8" texid="3610" row="4" wordNum="7" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok"/>
+			<word wordref_id="4700557" id="9" texid="3610" row="4" wordNum="8" hand="m1" regularized="αὐτῶν" original="αὐτῶν" completeness="complete" tag="demonstrative.pl.masc.gen" lemma="αὐτός" lemmaFlag="ok"/>
+			<word wordref_id="4700558" id="10" texid="3610" row="4" wordNum="9" hand="m1" regularized="χρηματισμοῖς" original="χρηματισμοῖς" completeness="complete" tag="noun.pl.masc.dat" lemma="χρηματισμός" lemmaFlag="ok"/>
+			<word wordref_id="4700559" id="11" texid="3610" row="4" wordNum="10" hand="m1" regularized="χρημάτισον" original="χρ[η(μάτισον)]" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="χρηματίζω" lemmaFlag="ok"/>
+			<word wordref_id="4700560" id="12" texid="3610" row="5" wordNum="1" hand="m1" regularized="ἀπὸ" original="[ἀπὸ]" completeness="fully_reconstructed" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="4700561" id="13" texid="3610" row="5" wordNum="2" hand="m1" regularized="τῆς" original="[τῆς]" completeness="fully_reconstructed" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700562" id="14" texid="3610" row="5" wordNum="3" hand="m1" regularized="ἐν" original="[ἐν]" completeness="fully_reconstructed" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="4700563" id="15" texid="3610" row="5" wordNum="4" hand="m1" regularized="Διὸς" original="[Διὸς]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Ζεύς" lemmaFlag="ok"/>
+			<word wordref_id="4700564" id="16" texid="3610" row="5" wordNum="5" hand="m1" regularized="πόλει" original="[πόλει]" completeness="fully_reconstructed" tag="noun.sg.fem.dat" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="4700565" id="17" texid="3610" row="5" wordNum="6" hand="m1" regularized="τῆι" original="[τῆι]" completeness="fully_reconstructed" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700566" id="18" texid="3610" row="5" wordNum="7" hand="m1" regularized="Μεγάληι" original="Μεγάληι" completeness="complete" tag="noun.sg.fem.dat" lemma="Μεγάλη" lemmaFlag="ok"/>
+			<word wordref_id="4700567" id="19" texid="3610" row="5" wordNum="8" hand="m1" regularized="τραπέζης" original="τραπέζης" completeness="complete" tag="noun.sg.fem.gen" lemma="τράπεζα" lemmaFlag="ok"/>
+			<word wordref_id="4700568" id="20" texid="3610" row="5" wordNum="9" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4700569" id="21" texid="3610" row="5" wordNum="10" hand="m1" regularized="συνυπογράφοντος" original="συνυπογράφοντος" completeness="complete" tag="participle.sg.pres.act.masc.gen" lemma="συνυπογράφω" lemmaFlag="ok"/>
+			<word wordref_id="4700570" id="22" texid="3610" row="5" wordNum="11" hand="m1" regularized="Ἡλιοδώρου" original="Ἡλιοδώρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἡλιόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="4700571" id="23" texid="3610" row="5" wordNum="12" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700572" id="24" texid="3610" row="5" wordNum="13" hand="m1" regularized="βασιλικοῦ" original="βασιλικ[οῦ]" completeness="partly_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="βασιλικός" lemmaFlag="ok"/>
+			<word wordref_id="4700573" id="25" texid="3610" row="6" wordNum="1" hand="m1" regularized="γραμματέως" original="[γραμματέως]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="γραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="4700574" id="26" texid="3610" row="6" wordNum="2" hand="m1" regularized="," original="[,]" completeness="fully_reconstructed" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4700575" id="27" texid="3610" row="6" wordNum="3" hand="m1" regularized="διὰ" original="[διὰ]" completeness="fully_reconstructed" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4700576" id="28" texid="3610" row="6" wordNum="4" hand="m1" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700577" id="29" texid="3610" row="6" wordNum="5" hand="m1" regularized="σημαινομένου" original="[σ]ημαινομένου" completeness="partly_reconstructed" tag="participle.sg.pres.mid.masc.gen" lemma="σημαίνω" lemmaFlag="ok"/>
+			<word wordref_id="4700578" id="30" texid="3610" row="6" wordNum="6" hand="m1" regularized="Πτολεμαίου" original="Πτολεμαίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Πτολεμαῖος" lemmaFlag="ok"/>
+			<word wordref_id="4700579" id="31" texid="3610" row="6" wordNum="7" hand="m1" regularized="τὰ" original="τὰ" completeness="complete" tag="article.pl.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700580" id="32" texid="3610" row="6" wordNum="8" hand="m1" regularized="χρήματα" original="χρήματα" completeness="complete" tag="noun.pl.neut.acc" lemma="χρῆμα" lemmaFlag="ok"/>
+			<word wordref_id="4700581" id="33" texid="3610" row="6" wordNum="9" hand="m1" regularized="ἕως" original="ἕως" completeness="complete" tag="preposition" lemma="ἕως" lemmaFlag="ok"/>
+			<word wordref_id="4700582" id="34" texid="3610" row="6" wordNum="10" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.none" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="4700583" id="35" texid="3610" row="6" wordNum="11" hand="m1" regularized="κα" original="κα" completeness="complete" tag="numeral.pl.none.none" lemma="κα" lemmaFlag="ok"/>
+			<word wordref_id="4700584" id="36" texid="3610" row="6" wordNum="12" hand="m1" regularized="|gap=1||gap=4||gap=unknown|" original="|gap=1||gap=4||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700585" id="37" texid="3610" row="7" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700586" id="38" texid="3610" row="7" wordNum="2" hand="m1" regularized="κατὰ" original="\κατὰ/" completeness="complete" tag="preposition" lemma="κατά" lemmaFlag="ok"/>
+			<word wordref_id="4700587" id="39" texid="3610" row="7" wordNum="3" hand="m1" regularized="μῆνα" original="\μῆνα/" completeness="complete" tag="noun.sg.masc.acc" lemma="μήν" lemmaFlag="ok"/>
+			<word wordref_id="4700588" id="40" texid="3610" row="7" wordNum="4" hand="m1" regularized="ἵνα" original="ἵνα" completeness="complete" tag="conjunction" lemma="ἵνα" lemmaFlag="ok"/>
+			<word wordref_id="4700589" id="41" texid="3610" row="7" wordNum="5" hand="m1" regularized="δὲ" original="δὲ" completeness="complete" tag="particle" lemma="δέ" lemmaFlag="ok"/>
+			<word wordref_id="4700590" id="42" texid="3610" row="7" wordNum="6" hand="m1" regularized="μηθὲν" original="μηθὲν" completeness="complete" tag="indefinite.sg.neut.acc" lemma="μηδείς" lemmaFlag="ok"/>
+			<word wordref_id="4700591" id="43" texid="3610" row="7" wordNum="7" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="4700592" id="44" texid="3610" row="7" wordNum="8" hand="m1" regularized="τούτοις" original="τούτοις" completeness="complete" tag="demonstrative.pl.masc.dat" lemma="οὗτος" lemmaFlag="ok"/>
+			<word wordref_id="4700593" id="45" texid="3610" row="7" wordNum="9" hand="m1" regularized="ἀγνοηθῆι" original="[ἀγνοη]θῆι" completeness="partly_reconstructed" tag="verb.3.sg.aor.subj.pass" lemma="ἀγνοέω" lemmaFlag="ok"/>
+			<word wordref_id="4700594" id="46" texid="3610" row="7" wordNum="10" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok"/>
+			<word wordref_id="4700595" id="47" texid="3610" row="7" wordNum="11" hand="m1" regularized="προνοήθητι" original="προνοήθητι" completeness="complete" tag="verb.2.sg.aor.imp.pass" lemma="προνοέω" lemmaFlag="ok"/>
+			<word wordref_id="4700596" id="48" texid="3610" row="7" wordNum="12" hand="m1" regularized="ὡς" original="ὡς" completeness="complete" tag="conjunction" lemma="ὡς" lemmaFlag="ok"/>
+			<word wordref_id="4700597" id="49" texid="3610" row="7" wordNum="13" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="4700598" id="50" texid="3610" row="7" wordNum="14" hand="m1" regularized="σὲ" original="σὲ" completeness="complete" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="4700599" id="51" texid="3610" row="7" wordNum="15" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700600" id="52" texid="3610" row="8" wordNum="1" hand="m1" regularized="λόγου" original="[λόγου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="λόγος" lemmaFlag="ok"/>
+			<word wordref_id="4700601" id="53" texid="3610" row="8" wordNum="2" hand="m1" regularized="συσταθησομένου" original="[συσταθησομένου]" completeness="fully_reconstructed" tag="participle.sg.fut.pass.masc.gen" lemma="συνίστημι" lemmaFlag="ok"/>
+			<word wordref_id="4700602" id="54" texid="3610" row="8" wordNum="3" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700603" id="55" texid="3610" row="8" wordNum="4" hand="m1" regularized="σύμβολον" original="σύμβολο[ν]" completeness="partly_reconstructed" tag="noun.sg.neut.acc" lemma="σύμβολον" lemmaFlag="ok"/>
+			<word wordref_id="4700604" id="56" texid="3610" row="8" wordNum="5" hand="m1" regularized="ποίησαι" original="[ποί]ησαι" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.mid" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="4700605" id="57" texid="3610" row="8" wordNum="6" hand="m1" regularized="ὡς" original="ὡς" completeness="complete" tag="adverb" lemma="ὡς" lemmaFlag="ok"/>
+			<word wordref_id="4700606" id="58" texid="3610" row="8" wordNum="7" hand="m1" regularized="καθήκει" original="καθ[ήκει]" completeness="partly_reconstructed" tag="verb.3.sg.pres.ind.act" lemma="καθήκω" lemmaFlag="ok"/>
+			<word wordref_id="4700607" id="59" texid="3610" row="8" wordNum="8" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="4">
+			<word wordref_id="4700608" id="1" texid="3610" row="8" wordNum="9" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok"/>
+			<word wordref_id="4700609" id="2" texid="3610" row="8" wordNum="10" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="5">
+			<word wordref_id="4700610" id="1" texid="3610" row="8" wordNum="11" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="4700611" id="2" texid="3610" row="8" wordNum="12" hand="m1" regularized="μ|digit=40|" original="μ|digit=40|" completeness="complete" tag="numeral.none.none.none" lemma="μ" lemmaFlag="ok"/>
+			<word wordref_id="4700612" id="3" texid="3610" row="8" wordNum="13" hand="m1" regularized="Παχὼν" original="Παχὼν" completeness="complete" tag="noun.sg.none.none" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="4700613" id="4" texid="3610" row="8" wordNum="14" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="4700614" id="5" texid="3610" row="8" wordNum="15" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="6">
+			<word wordref_id="4700615" id="1" texid="3610" row="9" wordNum="1" hand="m1" regularized="Παῶις" original="[Παῶις]" completeness="fully_reconstructed" tag="verb.2.sg.pres.subj.act" lemma="Παίσκω" lemmaFlag="ok"/>
+			<word wordref_id="4700616" id="2" texid="3610" row="9" wordNum="2" hand="m1" regularized="Δημητρίωι" original="[Δημητρίωι]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="Δημήτριος" lemmaFlag="ok"/>
+			<word wordref_id="4700617" id="3" texid="3610" row="9" wordNum="3" hand="m1" regularized="χαίρειν" original="[χαί]ρειν" completeness="partly_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="4700618" id="4" texid="3610" row="9" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="7">
+			<word wordref_id="4700619" id="1" texid="3610" row="9" wordNum="5" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700620" id="2" texid="3610" row="9" wordNum="6" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="4700621" id="3" texid="3610" row="9" wordNum="7" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.neut.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700622" id="4" texid="3610" row="9" wordNum="8" hand="m1" regularized="Μεμνονείοις" original="Μεμνονείοις" completeness="complete" tag="noun.pl.neut.dat" lemma="Μεμνόνειον" lemmaFlag="ok"/>
+			<word wordref_id="4700623" id="5" texid="3610" row="9" wordNum="9" hand="m1" regularized="στρατιωτῶν" original="στρατιωτῶν" completeness="complete" tag="noun.pl.masc.gen" lemma="στρατιώτης" lemmaFlag="ok"/>
+			<word wordref_id="4700624" id="6" texid="3610" row="9" wordNum="10" hand="m1" regularized="πλείους" original="πλείους" completeness="complete" tag="adjective.pl.masc.acc.comp" lemma="πλείων" lemmaFlag="ok"/>
+			<word wordref_id="4700625" id="7" texid="3610" row="9" wordNum="11" hand="m1" regularized="ἐντυχίας" original="ἐντυχίας" completeness="complete" tag="noun.sg.fem.gen" lemma="ἐντυχία" lemmaFlag="ok"/>
+			<word wordref_id="4700626" id="8" texid="3610" row="10" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700627" id="9" texid="3610" row="10" wordNum="2" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok"/>
+			<word wordref_id="4700628" id="10" texid="3610" row="10" wordNum="3" hand="m1" regularized="Διὸς" original="Διὸς" completeness="complete" tag="noun.sg.masc.gen" lemma="Ζεύς" lemmaFlag="ok"/>
+			<word wordref_id="4700629" id="11" texid="3610" row="10" wordNum="4" hand="m1" regularized="πόλει" original="πόλει" completeness="complete" tag="noun.sg.fem.dat" lemma="πόλις" lemmaFlag="ok"/>
+			<word wordref_id="4700630" id="12" texid="3610" row="10" wordNum="5" hand="m1" regularized="τῆι" original="τῆι" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700631" id="13" texid="3610" row="10" wordNum="6" hand="m1" regularized="Μεγάληι" original="Μεγ(άληι)" completeness="complete" tag="noun.sg.fem.dat" lemma="Μεγάλη" lemmaFlag="ok"/>
+			<word wordref_id="4700632" id="14" texid="3610" row="10" wordNum="7" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700633" id="15" texid="3610" row="10" wordNum="8" hand="m1" regularized="ἡμῖν" original="ἡ[μῖν]" completeness="partly_reconstructed" tag="personal.pl.comm.dat" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="4700634" id="16" texid="3610" row="10" wordNum="9" hand="m1" regularized="πεποιημένων" original="[πεπ]οιημένων" completeness="partly_reconstructed" tag="participle.pl.pf.mid.masc.gen" lemma="ποιέω" lemmaFlag="ok"/>
+			<word wordref_id="4700635" id="17" texid="3610" row="10" wordNum="10" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700636" id="18" texid="3610" row="10" wordNum="11" hand="m1" regularized="ἐξαριθμουμένων" original="ἐξαριθμουμένων" completeness="complete" tag="participle.pl.pres.mid.masc.gen" lemma="ἐξαριθμέω" lemmaFlag="ok"/>
+			<word wordref_id="4700637" id="19" texid="3610" row="11" wordNum="1" hand="m1" regularized="τὴν" original="[τὴν]" completeness="fully_reconstructed" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700638" id="20" texid="3610" row="11" wordNum="2" hand="m1" regularized="γεγονυῖαν" original="[γεγονυῖαν]" completeness="fully_reconstructed" tag="participle.sg.pf.act.fem.acc" lemma="γίγνομαι" lemmaFlag="ok"/>
+			<word wordref_id="4700639" id="21" texid="3610" row="11" wordNum="3" hand="m1" regularized="διὰ" original="[διὰ]" completeness="fully_reconstructed" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4700640" id="22" texid="3610" row="11" wordNum="4" hand="m1" regularized="τοὺς" original="[τοὺς]" completeness="fully_reconstructed" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700641" id="23" texid="3610" row="11" wordNum="5" hand="m1" regularized="ἄλλους" original="[ἄ]λλους" completeness="partly_reconstructed" tag="indefinite.pl.masc.acc" lemma="ἄλλος" lemmaFlag="ok"/>
+			<word wordref_id="4700642" id="24" texid="3610" row="11" wordNum="6" hand="m1" regularized="τοὺς" original="τοὺς" completeness="complete" tag="article.pl.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700643" id="25" texid="3610" row="11" wordNum="7" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700644" id="26" texid="3610" row="11" wordNum="8" hand="m1" regularized="τόπον" original="τόπον" completeness="complete" tag="noun.sg.masc.acc" lemma="τόπος" lemmaFlag="ok"/>
+			<word wordref_id="4700645" id="27" texid="3610" row="11" wordNum="9" hand="m1" regularized="κατοικοῦντας" original="κατο[ικο]ῦντας" completeness="partly_reconstructed" tag="participle.pl.pres.act.masc.acc" lemma="κατοικέω" lemmaFlag="ok"/>
+			<word wordref_id="4700646" id="28" texid="3610" row="11" wordNum="10" hand="m1" regularized="στενοχωρίαν" original="στενοχωρίαν" completeness="complete" tag="noun.sg.fem.acc" lemma="στενοχωρία" lemmaFlag="ok"/>
+			<word wordref_id="4700647" id="29" texid="3610" row="11" wordNum="11" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4700648" id="30" texid="3610" row="11" wordNum="12" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700649" id="31" texid="3610" row="12" wordNum="1" hand="m1" regularized="|gap=unknown|κ|gap=4|αμένων" original="|gap=unknown|κ|gap=4|αμένω̣[ν]" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700650" id="32" texid="3610" row="12" wordNum="2" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700651" id="33" texid="3610" row="12" wordNum="3" hand="m1" regularized="εἰς?" original="[εἰς?]" completeness="fully_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="4700652" id="34" texid="3610" row="12" wordNum="4" hand="m1" regularized="τὴν" original="τ[ὴ]ν" completeness="partly_reconstructed" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4700653" id="35" texid="3610" row="12" wordNum="5" hand="m1" regularized="τροφὴν" original="τροφὴν" completeness="complete" tag="noun.sg.fem.acc" lemma="τροφή" lemmaFlag="ok"/>
+			<word wordref_id="4700654" id="36" texid="3610" row="13" wordNum="1" hand="m1" regularized="|gap=unknown|δήμου" original="|gap=unknown|δήμου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4700655" id="37" texid="3610" row="14" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

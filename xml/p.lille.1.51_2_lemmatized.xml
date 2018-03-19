@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lille.1.51" TM="3252" HGV="3252" lang="grc" textpart="r,ext">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1897682" id="1" texid="3252" row="5" wordNum="1" hand="m1" regularized="Θρασυμήδης" original="Θρασυμήδης" completeness="complete" tag="noun.sg.masc.nom" lemma="Θρασυμήδης" lemmaFlag="ok"/>
+			<word wordref_id="1897683" id="2" texid="3252" row="5" wordNum="2" hand="m1" regularized="Ἡρακλείτωι" original="Ἡρακλείτωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἡράκλειτος" lemmaFlag="ok"/>
+			<word wordref_id="1897684" id="3" texid="3252" row="5" wordNum="3" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1897685" id="4" texid="3252" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1897686" id="1" texid="3252" row="6" wordNum="1" hand="m1" regularized="μέτρησον" original="μέτρησον" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="μετρέω" lemmaFlag="ok"/>
+			<word wordref_id="1897687" id="2" texid="3252" row="6" wordNum="2" hand="m1" regularized="κατὰ" original="κατὰ" completeness="complete" tag="preposition" lemma="κατά" lemmaFlag="ok"/>
+			<word wordref_id="1897688" id="3" texid="3252" row="6" wordNum="3" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1897689" id="4" texid="3252" row="6" wordNum="4" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1897690" id="5" texid="3252" row="6" wordNum="5" hand="m1" regularized="Ἀριστάνδρου" original="Ἀριστάνδ̣ρου̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀρίστανδρος" lemmaFlag="ok"/>
+			<word wordref_id="1897691" id="6" texid="3252" row="7" wordNum="1" hand="m1" regularized="πρόσταγμα" original="[πρόσταγμα]" completeness="fully_reconstructed" tag="noun.sg.neut.acc" lemma="πρόσταγμα" lemmaFlag="ok"/>
+			<word wordref_id="1897692" id="7" texid="3252" row="7" wordNum="2" hand="m1" regularized="?|gap=unknown||gap=1|ει" original="[?]|gap=unknown||gap=1|ε̣ι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1897693" id="8" texid="3252" row="7" wordNum="3" hand="m1" regularized="και|gap=1|ογ|gap=unknown|" original="και|gap=1|ογ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

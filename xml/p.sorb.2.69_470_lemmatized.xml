@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.sorb.2.69" TM="20110" HGV="20110" lang="grc" textpart="89,B">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3440369" id="1" texid="20110" row="1" wordNum="1" hand="m1" regularized="|gap=7||gap=2|ου" original="|gap=7||gap=2|ου" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3440370" id="2" texid="20110" row="1" wordNum="2" hand="m1" regularized="ἀπὸ" original="ἀπὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok"/>
+			<word wordref_id="3440371" id="3" texid="20110" row="1" wordNum="3" hand="m1" regularized="ἐπαρχων" original="ἐπα[ρχων]" completeness="partly_reconstructed" tag="noun.pl.masc.gen" lemma="ἐπαρχος" lemmaFlag="wrong-accent:ἔπαρχος"/>
+			<word wordref_id="3440372" id="4" texid="20110" row="1" wordNum="4" hand="m1" regularized="|gap=unknown||gap=1|αμμ|gap=unknown|" original="|gap=unknown||gap=1|αμμ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3440373" id="5" texid="20110" row="2" wordNum="1" hand="m1" regularized="οὕτως" original="οὕ(τως)" completeness="complete" tag="adverb" lemma="οὕτως" lemmaFlag="ok"/>
+			<word wordref_id="3440374" id="6" texid="20110" row="3" wordNum="1" hand="m1" regularized="διὰ" original="[δ(ιὰ)]" completeness="fully_reconstructed" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="3440375" id="7" texid="20110" row="3" wordNum="2" hand="m1" regularized="τοῦ" original="[τοῦ]" completeness="fully_reconstructed" tag="article.sg.neut.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3440376" id="8" texid="20110" row="3" wordNum="3" hand="m1" regularized="θείου" original="θείου" completeness="complete" tag="adjective.sg.neut.gen.pos" lemma="θεῖος" lemmaFlag="ok"/>
+			<word wordref_id="3440377" id="9" texid="20110" row="3" wordNum="4" hand="m1" regularized="πατριμονίου" original="πατριμονίου" completeness="complete" tag="noun.sg.neut.gen" lemma="πατριμόνιον" lemmaFlag="suspect"/>
+			<word wordref_id="3440378" id="10" texid="20110" row="3" wordNum="5" hand="m1" regularized="ἀρτάβας?" original="(ἀρτάβας?)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="3440379" id="11" texid="20110" row="3" wordNum="6" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+			<word wordref_id="3440380" id="12" texid="20110" row="3" wordNum="7" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3440381" id="13" texid="20110" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3440382" id="14" texid="20110" row="4" wordNum="2" hand="m1" regularized="διὰ" original="δ(ιὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="3440383" id="15" texid="20110" row="4" wordNum="3" hand="m1" regularized="Χριστο…" original="Χ(ριστο…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3440384" id="16" texid="20110" row="4" wordNum="4" hand="m1" regularized="β|digit=2|" original="β̣|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="3440385" id="17" texid="20110" row="4" wordNum="5" hand="m1" regularized="χειρογραφίας" original="χ(ε)ι(ρογραφίας)" completeness="complete" tag="noun.pl.fem.acc" lemma="χειρογραφία" lemmaFlag="ok"/>
+			<word wordref_id="3440386" id="18" texid="20110" row="4" wordNum="6" hand="m1" regularized="ἀρτάβας" original="(ἀρτάβας)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok"/>
+			<word wordref_id="3440387" id="19" texid="20110" row="4" wordNum="7" hand="m1" regularized="θ|digit=9|" original="θ|digit=9|" completeness="complete" tag="numeral.none.none.none" lemma="θ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

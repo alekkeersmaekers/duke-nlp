@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mur.2.122" TM="27016" HGV="27016" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2596861" id="1" texid="65799" row="1" wordNum="1" hand="m1" regularized="ἠγόρακα" original="ἠ̣δ̣ό̣ρ̣α̣κ̣α*" completeness="complete" tag="verb.1.sg.pf.ind.act" lemma="ἀγοράζω" lemmaFlag="ok"/>
+			<word wordref_id="2596862" id="2" texid="65799" row="1" wordNum="2" hand="m1" regularized="τριχήν" original="τριχήν" completeness="complete" tag="noun.sg.fem.acc" lemma="τριχή" lemmaFlag="wrong-accent:τριχῆ"/>
+			<word wordref_id="2596863" id="3" texid="65799" row="2" wordNum="1" hand="m1" regularized="ἠγόρακα" original="ἠδόρακα*" completeness="complete" tag="verb.1.sg.pf.ind.act" lemma="ἀγοράζω" lemmaFlag="ok"/>
+			<word wordref_id="2596864" id="4" texid="65799" row="2" wordNum="2" hand="m1" regularized="τριχήν" original="τριχήν" completeness="complete" tag="noun.sg.fem.acc" lemma="τριχή" lemmaFlag="wrong-accent:τριχῆ"/>
+			<word wordref_id="2596865" id="5" texid="65799" row="3" wordNum="1" hand="m1" regularized="ἔδωκας" original="ἔδωκας" completeness="complete" tag="verb.2.sg.aor.ind.act" lemma="δίδωμι" lemmaFlag="ok"/>
+			<word wordref_id="2596866" id="6" texid="65799" row="3" wordNum="2" hand="m1" regularized="ἐκ" original="ἐκ" completeness="complete" tag="preposition" lemma="ἐκ" lemmaFlag="ok"/>
+			<word wordref_id="2596867" id="7" texid="65799" row="3" wordNum="3" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.neut.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2596868" id="8" texid="65799" row="3" wordNum="4" hand="m1" regularized="χειρός" original="χιρός*" completeness="complete" tag="noun.sg.fem.gen" lemma="χείρ" lemmaFlag="ok"/>
+			<word wordref_id="2596869" id="9" texid="65799" row="3" wordNum="5" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2596870" id="10" texid="65799" row="4" wordNum="1" hand="m1" regularized="πενχερ|gap=1|ν|gap=unknown|" original="π̣ενχε̣ρ|gap=1|ν̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

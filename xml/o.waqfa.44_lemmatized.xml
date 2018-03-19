@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.waqfa.44" TM="34249" HGV="34249" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="816505" id="1" texid="34249" row="1" wordNum="1" hand="m1" regularized="ιε|digit=15|" original="ιε|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok"/>
+			<word wordref_id="816506" id="2" texid="34249" row="1" wordNum="2" hand="m1" regularized="ἰνδικτίωνος" original="ἰνδ(ικτίωνος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect"/>
+			<word wordref_id="816507" id="3" texid="34249" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="816508" id="1" texid="34249" row="1" wordNum="4" hand="m1" regularized="ἐμέτρησεν" original="ἐμέτρ[ησεν]" completeness="partly_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="μετρέω" lemmaFlag="ok"/>
+			<word wordref_id="816509" id="2" texid="34249" row="1" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="816510" id="3" texid="34249" row="2" wordNum="1" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="816511" id="4" texid="34249" row="2" wordNum="2" hand="m1" regularized="ἡμέρ|gap=unknown|" original="ἡμέ̣ρ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="816512" id="5" texid="34249" row="3" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπὲρ" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="816513" id="6" texid="34249" row="3" wordNum="2" hand="m1" regularized="μ…" original="μ̣(…)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="816514" id="7" texid="34249" row="3" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="816515" id="8" texid="34249" row="4" wordNum="1" hand="m1" regularized="σίτου" original="σίτο̣[υ]" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="σῖτος" lemmaFlag="ok"/>
+			<word wordref_id="816516" id="9" texid="34249" row="4" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="816517" id="10" texid="34249" row="5" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

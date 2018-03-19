@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.zen.pestm.B" TM="2491" HGV="2491" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3846407" id="1" texid="2491" row="5" wordNum="1" hand="m1" regularized="Κλέωνι" original="Κλέωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Κλέων" lemmaFlag="ok"/>
+			<word wordref_id="3846408" id="2" texid="2491" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3846409" id="1" texid="2491" row="6" wordNum="1" hand="m1" regularized="ἔτους?" original="(ἔτους?)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3846410" id="2" texid="2491" row="6" wordNum="2" hand="m1" regularized="κη|digit=28|" original="κ̣η̣|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok"/>
+			<word wordref_id="3846411" id="3" texid="2491" row="6" wordNum="3" hand="m1" regularized="Μεσορὴ" original="Μ̣ε̣σ̣ο̣ρ̣ὴ̣" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok"/>
+			<word wordref_id="3846412" id="4" texid="2491" row="6" wordNum="4" hand="m1" regularized="κδ|digit=24|" original="κδ|digit=24|" completeness="complete" tag="numeral.none.none.none" lemma="κδ" lemmaFlag="ok"/>
+			<word wordref_id="3846413" id="5" texid="2491" row="7" wordNum="1" hand="m1" regularized="|gap=4||gap=3|ων|gap=4||gap=3|υδ|gap=3|" original="|gap=4||gap=3|ω̣ν̣|gap=4||gap=3|υ̣δ|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3846414" id="6" texid="2491" row="8" wordNum="1" hand="m1" regularized="|gap=3|" original="|gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3846415" id="7" texid="2491" row="8" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

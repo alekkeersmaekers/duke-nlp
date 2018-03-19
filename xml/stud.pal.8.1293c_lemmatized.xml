@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="stud.pal.8.1293c" TM="39554" HGV="39554" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4646056" id="1" texid="39554" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4646057" id="2" texid="39554" row="1" wordNum="2" hand="m1" regularized="χρυσοῦ" original="χρ(υσοῦ)" completeness="complete" tag="noun.sg.masc.gen" lemma="χρυσός" lemmaFlag="ok"/>
+			<word wordref_id="4646058" id="3" texid="39554" row="1" wordNum="3" hand="m1" regularized="κεράτια" original="(κεράτια)" completeness="complete" tag="noun.pl.neut.nom" lemma="κεράτιον" lemmaFlag="ok"/>
+			<word wordref_id="4646059" id="4" texid="39554" row="1" wordNum="4" hand="m1" regularized="ϛ|digit=6|" original="ϛ|digit=6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ" lemmaFlag="ok"/>
+			<word wordref_id="4646060" id="5" texid="39554" row="1" wordNum="5" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4646061" id="1" texid="39554" row="1" wordNum="6" hand="m1" regularized="ἐγράφη" original="ἐγράφ[(η)]" completeness="partly_reconstructed" tag="verb.3.sg.aor.ind.pass" lemma="γράφω" lemmaFlag="ok"/>
+			<word wordref_id="4646062" id="2" texid="39554" row="1" wordNum="7" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4646063" id="3" texid="39554" row="2" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4646064" id="4" texid="39554" row="2" wordNum="2" hand="m1" regularized="διʼ" original="διʼ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="4646065" id="5" texid="39554" row="2" wordNum="3" hand="m1" regularized="ἐμοῦ" original="ἐμο\ῦ/" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="4646066" id="6" texid="39554" row="2" wordNum="4" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.bodl.2.1029" TM="71716" HGV="71716" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="544708" id="1" texid="71716" row="1" wordNum="1" hand="m1" regularized="Ψανσνῶς" original="Ψα̣ν̣σ̣ν̣ῶ̣ς̣" completeness="complete" tag="adverb" lemma="Ψανσνός" lemmaFlag="ok"/>
+			<word wordref_id="544709" id="2" texid="71716" row="1" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="544710" id="3" texid="71716" row="1" wordNum="3" hand="m1" regularized="μέτοχοι" original="μέ(το)χ(οι)" completeness="complete" tag="adjective.pl.masc.nom.pos" lemma="μέτοχος" lemmaFlag="ok"/>
+			<word wordref_id="544711" id="4" texid="71716" row="1" wordNum="4" hand="m1" regularized="ἐπιτηρηταὶ" original="ἐπ̣ι̣τ̣(ηρηταὶ)" completeness="complete" tag="noun.pl.masc.nom" lemma="ἐπιτηρητής" lemmaFlag="ok"/>
+			<word wordref_id="544712" id="5" texid="71716" row="2" wordNum="1" hand="m1" regularized="τέλους" original="τέλ(ους)" completeness="complete" tag="noun.sg.neut.gen" lemma="τέλος" lemmaFlag="ok"/>
+			<word wordref_id="544713" id="6" texid="71716" row="2" wordNum="2" hand="m1" regularized="γερδίων" original="γερδ(ίων)" completeness="complete" tag="noun.pl.fem.gen" lemma="γέρδιος" lemmaFlag="wrong-accent:γερδιός"/>
+			<word wordref_id="544714" id="7" texid="71716" row="2-3" wordNum="1" hand="m1" regularized="Πετεμενώφει" original="Πετ̣ε̣με̣ν̣ώ̣-φε̣ι" completeness="complete" tag="noun.sg.masc.dat" lemma="Πετεμενωφις" lemmaFlag="ok"/>
+			<word wordref_id="544715" id="8" texid="71716" row="3" wordNum="1" hand="m1" regularized="Φθουμίνιος" original="Φθουμίνιο̣(ς)" completeness="complete" tag="noun.sg.masc.gen" lemma="Φθουμῖνις" lemmaFlag="ok"/>
+			<word wordref_id="544716" id="9" texid="71716" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="544717" id="1" texid="71716" row="3" wordNum="3" hand="m1" regularized="ἔσχομεν" original="ἔσχ(ομεν)" completeness="complete" tag="verb.1.pl.aor.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="544718" id="2" texid="71716" row="4" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπ(ὲρ)" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok"/>
+			<word wordref_id="544719" id="3" texid="71716" row="4" wordNum="2" hand="m1" regularized="τέλους" original="τ[έ]λ(ους)" completeness="partly_reconstructed" tag="noun.sg.neut.gen" lemma="τέλος" lemmaFlag="ok"/>
+			<word wordref_id="544720" id="4" texid="71716" row="4" wordNum="3" hand="m1" regularized="Ἁδριανοῦ" original="Ἁδριανοῦ" completeness="complete" tag="noun.sg.fem.gen" lemma="Ἁδριανός" lemmaFlag="ok"/>
+			<word wordref_id="544721" id="5" texid="71716" row="5" wordNum="1" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="544722" id="6" texid="71716" row="5" wordNum="2" hand="m1" regularized="η|digit=8|" original="η|digit=8|" completeness="complete" tag="numeral.none.none.none" lemma="η" lemmaFlag="ok"/>
+			<word wordref_id="544723" id="7" texid="71716" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="3">
+			<word wordref_id="544724" id="1" texid="71716" row="5" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="544725" id="2" texid="71716" row="5" wordNum="5" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok"/>
+			<word wordref_id="544726" id="3" texid="71716" row="6" wordNum="1" hand="m1" regularized="Ἁδριανοῦ" original="Ἁδριανοῦ" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἁδριανός" lemmaFlag="ok"/>
+			<word wordref_id="544727" id="4" texid="71716" row="7" wordNum="1" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

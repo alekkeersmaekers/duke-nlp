@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.4.7279" TM="6439" HGV="6439" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4436551" id="1" texid="6439" row="1" wordNum="1" hand="m1" regularized="τάφος" original="τάφος" completeness="complete" tag="noun.sg.masc.nom" lemma="τάφος" lemmaFlag="ok"/>
+			<word wordref_id="4436552" id="2" texid="6439" row="1" wordNum="2" hand="m1" regularized="Ὀννωφρίου" original="Ὀννωφρ&lt;ί&gt;ου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ὀννώφριος" lemmaFlag="ok"/>
+			<word wordref_id="4436553" id="3" texid="6439" row="1" wordNum="3" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4436554" id="4" texid="6439" row="1" wordNum="4" hand="m1" regularized="Ὥρου" original="Ὥρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ὧρος" lemmaFlag="ok"/>
+			<word wordref_id="4436555" id="5" texid="6439" row="1" wordNum="5" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="4436556" id="6" texid="6439" row="1" wordNum="6" hand="m1" regularized="Νεμ|gap=3|φιου|gap=12|" original="Νεμ|gap=3|φ̣ι̣ο̣υ|gap=12|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4436557" id="7" texid="6439" row="1" wordNum="7" hand="m1" regularized="ἄτεκνοι" original="ἄτεκνοι" completeness="complete" tag="adjective.pl.masc.nom.pos" lemma="ἄτεκνος" lemmaFlag="ok"/>
+			<word wordref_id="4436558" id="8" texid="6439" row="1" wordNum="8" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4436559" id="1" texid="6439" row="1" wordNum="9" hand="m1" regularized="εὐψυχεῖτε" original="εὐψυχῖτε*" completeness="complete" tag="verb.2.pl.pres.imp.act" lemma="εὐψυχέω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

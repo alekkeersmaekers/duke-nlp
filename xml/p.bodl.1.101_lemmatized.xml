@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.bodl.1.101" TM="22597" HGV="22597" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1042083" id="1" texid="22597" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042084" id="2" texid="22597" row="1" wordNum="2" hand="m1" regularized="|gap=unknown||gap=unknown|" original="|gap=unknown||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042085" id="3" texid="22597" row="2" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|νος" original="|gap=unknown||gap=1|νος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042086" id="4" texid="22597" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1042087" id="1" texid="22597" row="2" wordNum="3" hand="m1" regularized="ἔτους" original="ἔτους" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="1042088" id="2" texid="22597" row="2" wordNum="4" hand="m1" regularized="τετάρτου" original="τετάρτ̣[ου]" completeness="partly_reconstructed" tag="adjective.sg.neut.gen.pos" lemma="τέταρτος" lemmaFlag="ok"/>
+			<word wordref_id="1042089" id="3" texid="22597" row="2" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042090" id="4" texid="22597" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042091" id="5" texid="22597" row="3" wordNum="2" hand="m1" regularized="Ἀντωνίνου" original="[Ἀ]ντωνίνου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀντωνῖνος" lemmaFlag="ok"/>
+			<word wordref_id="1042092" id="6" texid="22597" row="3" wordNum="3" hand="m1" regularized="Καίσαρος" original="Καίσαρος" completeness="complete" tag="noun.sg.masc.gen" lemma="Καῖσαρ" lemmaFlag="ok"/>
+			<word wordref_id="1042093" id="7" texid="22597" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1042094" id="8" texid="22597" row="4" wordNum="2" hand="m1" regularized="γραφη" original="[γ]ραφη{η}" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="γραφη" lemmaFlag="ok"/>
+			<word wordref_id="1042095" id="9" texid="22597" row="4" wordNum="3" hand="m1" regularized="κληρονόμους" original="κληρονόμους" completeness="complete" tag="noun.pl.masc.acc" lemma="κληρονόμος" lemmaFlag="wrong-accent:κληρόνομος"/>
+			<word wordref_id="1042096" id="10" texid="22597" row="4" wordNum="4" hand="m1" regularized="μου" original="μου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

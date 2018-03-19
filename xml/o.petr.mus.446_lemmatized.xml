@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.mus.446" TM="169782" HGV="169782" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="767626" id="1" texid="169782" row="1" wordNum="1" hand="m1" regularized="Δῖος" original="Δῖο̣ς" completeness="complete" tag="noun.sg.masc.nom" lemma="Δῖος" lemmaFlag="ok"/>
+			<word wordref_id="767627" id="2" texid="169782" row="1-2" wordNum="1" hand="m1" regularized="λίνυφος" original="[λί]-νυφος" completeness="partly_reconstructed" tag="adjective.sg.masc.nom.pos" lemma="λίνυφος" lemmaFlag="ok"/>
+			<word wordref_id="767628" id="3" texid="169782" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="767629" id="4" texid="169782" row="3" wordNum="1" hand="m1" regularized="λίτρας" original="λί(τρας)" completeness="complete" tag="noun.pl.fem.acc" lemma="λίτρα" lemmaFlag="ok"/>
+			<word wordref_id="767630" id="5" texid="169782" row="3" wordNum="2" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="767631" id="6" texid="169782" row="3" wordNum="3" hand="m1" regularized="κύκλια|gap=1||gap=unknown|" original="κύ(κλια)|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="767632" id="7" texid="169782" row="4" wordNum="1" hand="m1" regularized="σὺν" original="σὺν" completeness="complete" tag="preposition" lemma="σύν" lemmaFlag="ok"/>
+			<word wordref_id="767633" id="8" texid="169782" row="4" wordNum="2" hand="m1" regularized="διπλῷ" original="διπλῷ" completeness="complete" tag="adjective.sg.neut.dat.pos" lemma="διπλοῦς" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

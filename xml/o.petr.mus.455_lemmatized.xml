@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.petr.mus.455" TM="169788" HGV="169788" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="767680" id="1" texid="169788" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="767681" id="2" texid="169788" row="1" wordNum="2" hand="m1" regularized="ταξιν|gap=unknown|" original="τ̣αξιν̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="767682" id="3" texid="169788" row="1" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag=""/>
+			<word wordref_id="767683" id="4" texid="169788" row="2" wordNum="1" hand="m1" regularized="Ἐλουρᾶς" original="Ἐλο̣υρᾶς" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἐλουρᾶς" lemmaFlag="ok"/>
+			<word wordref_id="767684" id="5" texid="169788" row="2" wordNum="2" hand="m1" regularized="λίτρας" original="λί(τρας)" completeness="complete" tag="noun.sg.fem.gen" lemma="λίτρα" lemmaFlag="ok"/>
+			<word wordref_id="767685" id="6" texid="169788" row="2" wordNum="3" hand="m1" regularized="ε̅|digit=5|" original="ε̅|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε̅" lemmaFlag="ok"/>
+			<word wordref_id="767686" id="7" texid="169788" row="2" wordNum="4" hand="m1" regularized="κύκλια" original="κ[ύ(κλια)]" completeness="partly_reconstructed" tag="adjective.pl.neut.acc.pos" lemma="κύκλιος" lemmaFlag="ok"/>
+			<word wordref_id="767687" id="8" texid="169788" row="3" wordNum="1" hand="m1" regularized="Παποντῶς" original="Παποντῶς" completeness="complete" tag="TO_ADD" lemma="TO_ADD" lemmaFlag=""/>
+			<word wordref_id="767688" id="9" texid="169788" row="3" wordNum="2" hand="m1" regularized="σεσημείωμαι" original="σε̣[ση(μείωμαι)]" completeness="partly_reconstructed" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

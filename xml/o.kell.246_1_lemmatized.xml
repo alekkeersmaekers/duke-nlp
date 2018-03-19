@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.kell.246" TM="74776" HGV="74776" lang="grc" textpart="r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="700637" id="1" texid="74776" row="1" wordNum="1" hand="m1" regularized="τῷ" original="[τῷ]" completeness="fully_reconstructed" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="700638" id="2" texid="74776" row="1" wordNum="2" hand="m1" regularized="κυρίῳ" original="[κυρίῳ]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="κύριος" lemmaFlag="ok"/>
+			<word wordref_id="700639" id="3" texid="74776" row="1" wordNum="3" hand="m1" regularized="μου" original="[μου]" completeness="fully_reconstructed" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="700640" id="4" texid="74776" row="1" wordNum="4" hand="m1" regularized="ἀδελφῷ" original="ἀδελφῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok"/>
+			<word wordref_id="700641" id="5" texid="74776" row="2" wordNum="1" hand="m1" regularized="Λέωνι" original="Λέωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Λέων" lemmaFlag="ok"/>
+			<word wordref_id="700642" id="6" texid="74776" row="3" wordNum="1" hand="m1" regularized="Ἡλιόδωρος" original="Ἡλιόδωρος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἡλιόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="700643" id="7" texid="74776" row="3" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="700644" id="8" texid="74776" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="700645" id="1" texid="74776" row="4" wordNum="1" hand="m1" regularized="|gap=3-4_lines|" original="|gap=3-4_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="700646" id="2" texid="74776" row="00" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="700647" id="3" texid="74776" row="00" wordNum="2" hand="m1" regularized="προσαγορεύω" original="προσαγορεύω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="προσαγορεύω" lemmaFlag="ok"/>
+			<word wordref_id="700648" id="4" texid="74776" row="00" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.dura.30" TM="17227" HGV="17227" lang="grc" textpart="ext,v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1422553" id="1" texid="17227" row="1" wordNum="1" hand="m6" regularized="|gap=unknown||gap=1||gap=unknown||gap=1|" original="|gap=unknown||gap=1||gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422554" id="2" texid="17227" row="2" wordNum="1" hand="m7" regularized="αυα|gap=2|ειν" original="α̣υ̣α|gap=2|ε̣ι̣ν̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422555" id="3" texid="17227" row="2" wordNum="2" hand="m7" regularized="ὀπτίων" original="ὀπ̣τ̣ί̣ων̣" completeness="complete" tag="noun.sg.masc.nom" lemma="ὀπτίων" lemmaFlag="ok"/>
+			<word wordref_id="1422556" id="4" texid="17227" row="2" wordNum="3" hand="m7" regularized="μαρτυρῶ" original="μ(α)ρ(τυρῶ)" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="μαρτυρέω" lemmaFlag="ok"/>
+			<word wordref_id="1422557" id="5" texid="17227" row="3" wordNum="1" hand="m8" regularized="|la|Antonius" original="|la|Ạnt(onius)" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422558" id="6" texid="17227" row="3" wordNum="2" hand="m8" regularized="|la|mezianus" original="|la|ṃezianus" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422559" id="7" texid="17227" row="3" wordNum="3" hand="m8" regularized="|la|optio?" original="|la|op[t(io?)]" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422560" id="8" texid="17227" row="4" wordNum="1" hand="m9" regularized="αλα|gap=2|κα|gap=2|" original="αλα|gap=2|κα|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422561" id="9" texid="17227" row="4" wordNum="2" hand="m9" regularized="μαρτυρῶ" original="μ(α)ρ(τυρῶ)" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="μαρτυρέω" lemmaFlag="ok"/>
+			<word wordref_id="1422562" id="10" texid="17227" row="5" wordNum="1" hand="m10" regularized="|gap=1||la|sse|gap=1||la|aippus" original="|gap=1||la|sse|gap=1||la|aippus" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1422563" id="11" texid="17227" row="5" wordNum="2" hand="m10" regularized="|la|signavi" original="|la|[si]g(navi)" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

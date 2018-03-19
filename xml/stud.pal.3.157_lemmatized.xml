@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="stud.pal.3.157" TM="37617" HGV="37617" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4611648" id="1" texid="37617" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="[|stauros|]" completeness="fully_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4611649" id="2" texid="37617" row="1" wordNum="2" hand="m1" regularized="ἔχω" original="ἔχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="4611650" id="3" texid="37617" row="1" wordNum="3" hand="m1" regularized="ἐγὼ" original="ἐκὼ*" completeness="complete" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok"/>
+			<word wordref_id="4611651" id="4" texid="37617" row="1" wordNum="4" hand="m1" regularized="Ἀν|gap=unknown|" original="Ἀν|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4611652" id="5" texid="37617" row="2" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4611653" id="6" texid="37617" row="2" wordNum="2" hand="m1" regularized="μακαρίου" original="μακαρί[ου]" completeness="partly_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="μακάριος" lemmaFlag="ok"/>
+			<word wordref_id="4611654" id="7" texid="37617" row="2" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4611655" id="8" texid="37617" row="3" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="4611656" id="9" texid="37617" row="3" wordNum="2" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="4611657" id="10" texid="37617" row="3" wordNum="3" hand="m1" regularized="κυρ|gap=unknown|" original="κυρ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4611658" id="11" texid="37617" row="4" wordNum="1" hand="m1" regularized="νομισματι" original="νομισμα[τι]" completeness="partly_reconstructed" tag="noun.sg.neut.dat" lemma="νομισμα" lemmaFlag="wrong-accent:νόμισμα"/>
+			<word wordref_id="4611659" id="12" texid="37617" row="4" wordNum="2" hand="m1" regularized="|gap=2|" original="νωμησμα[τι]*" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="4611660" id="13" texid="37617" row="4" wordNum="3" hand="m1" regularized="|extra|" original="|gap=2|*" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

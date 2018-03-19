@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lund.6.5_3" TM="20116" HGV="20116c" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2206525" id="1" texid="20116" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="[(ἔτους)]" completeness="fully_reconstructed" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="2206526" id="2" texid="20116" row="1" wordNum="2" hand="m1" regularized="|gap=1||gap=1|" original="|gap=1||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2206527" id="3" texid="20116" row="1" wordNum="3" hand="m1" regularized="Παχὼν" original="Παχὼν" completeness="complete" tag="noun.sg.none.none" lemma="Παχών" lemmaFlag="ok"/>
+			<word wordref_id="2206528" id="4" texid="20116" row="1" wordNum="4" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok"/>
+			<word wordref_id="2206529" id="5" texid="20116" row="2" wordNum="1" hand="m1" regularized="διέγραψεν" original="[διέγρ(αψεν)]" completeness="fully_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="διαγράφω" lemmaFlag="ok"/>
+			<word wordref_id="2206530" id="6" texid="20116" row="2" wordNum="2" hand="m1" regularized="Εὔτυχος" original="Εὔτυχος" completeness="complete" tag="noun.sg.masc.nom" lemma="Εὔτυχος" lemmaFlag="ok"/>
+			<word wordref_id="2206531" id="7" texid="20116" row="2" wordNum="3" hand="m1" regularized="Εὐτύχους" original="Εὐτύχ(ους)" completeness="complete" tag="noun.sg.masc.gen" lemma="Εὐτύχης" lemmaFlag="ok"/>
+			<word wordref_id="2206532" id="8" texid="20116" row="3" wordNum="1" hand="m1" regularized="μερισμοῦ" original="[μερισ(μοῦ)]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="μερισμός" lemmaFlag="ok"/>
+			<word wordref_id="2206533" id="9" texid="20116" row="3" wordNum="2" hand="m1" regularized="τοπαρχίας" original="[τ]οπαρχ(ίας)" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="τοπαρχία" lemmaFlag="ok"/>
+			<word wordref_id="2206534" id="10" texid="20116" row="3" wordNum="3" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="2206535" id="11" texid="20116" row="3" wordNum="4" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="2206536" id="12" texid="20116" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.amst.1.92" TM="26570" HGV="26570" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="934961" id="1" texid="26570" row="1" wordNum="1" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="934962" id="2" texid="26570" row="1" wordNum="2" hand="m1" regularized="Σερῆνος" original="Σερῆνος" completeness="complete" tag="noun.sg.masc.nom" lemma="Σερῆνος" lemmaFlag="ok"/>
+			<word wordref_id="934963" id="3" texid="26570" row="1" wordNum="3" hand="m1" regularized="ἔπεμψά" original="ἔπεμψά" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="πέμπω" lemmaFlag="ok"/>
+			<word wordref_id="934964" id="4" texid="26570" row="1" wordNum="4" hand="m1" regularized="σοι" original="σοι" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="934965" id="5" texid="26570" row="2" wordNum="1" hand="m1" regularized="σφύριον" original="σφύριον" completeness="complete" tag="noun.sg.neut.acc" lemma="σφύριον" lemmaFlag="wrong-accent:σφυρίον"/>
+			<word wordref_id="934966" id="6" texid="26570" row="2" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="934967" id="7" texid="26570" row="2" wordNum="3" hand="m1" regularized="ἔχον" original="ἔχων*" completeness="complete" tag="participle.sg.pres.act.neut.acc" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="934968" id="8" texid="26570" row="3" wordNum="1" hand="m1" regularized="φάγρους" original="φαγροι*" completeness="complete" tag="noun.pl.masc.acc" lemma="φάγρος" lemmaFlag="ok"/>
+			<word wordref_id="934969" id="9" texid="26570" row="3" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok"/>
+			<word wordref_id="934970" id="10" texid="26570" row="4" wordNum="1" hand="m1" regularized="κωρακίδια" original="κ̣ωρακείδια*" completeness="complete" tag="noun.pl.neut.acc" lemma="κωρακίδιον" lemmaFlag="suspect"/>
+			<word wordref_id="934971" id="11" texid="26570" row="4" wordNum="2" hand="m1" regularized="|extra|" original="⟦με|digit=45|⟧" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="934972" id="12" texid="26570" row="4" wordNum="3" hand="m1" regularized="ν|digit=50|" original="ν|digit=50|" completeness="complete" tag="numeral.none.none.none" lemma="ν" lemmaFlag="ok"/>
+			<word wordref_id="934973" id="13" texid="26570" row="5" wordNum="1" hand="m1" regularized="λατίδιον" original="λατίδιον" completeness="complete" tag="adjective.sg.neut.acc.pos" lemma="λατιδύς" lemmaFlag="suspect"/>
+			<word wordref_id="934974" id="14" texid="26570" row="5" wordNum="2" hand="m1" regularized="μέγα" original="μέγα" completeness="complete" tag="adjective.sg.neut.acc.pos" lemma="μέγας" lemmaFlag="ok"/>
+			<word wordref_id="934975" id="15" texid="26570" row="5" wordNum="3" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="934976" id="16" texid="26570" row="6" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="934977" id="17" texid="26570" row="6" wordNum="2" hand="m1" regularized="Κ|gap=2|κης" original="Κ|gap=2|κης" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

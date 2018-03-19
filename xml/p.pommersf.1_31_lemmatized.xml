@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.pommersf.1" TM="38553" HGV="38553" lang="grc" textpart="Fr10b,r">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3211515" id="1" texid="38553" row="496" wordNum="1" hand="m1" regularized="|gap=unknown|ου|gap=1|ω" original="|gap=unknown|ου|gap=1|ω" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211516" id="2" texid="38553" row="496-497" wordNum="1" hand="m1" regularized="γνω|gap=unknown||gap=3|" original="γνω-|gap=unknown||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211517" id="3" texid="38553" row="497" wordNum="1" hand="m1" regularized="παρα" original="παρα" completeness="complete" tag="noun.sg.none.acc" lemma="παρα" lemmaFlag="wrong-accent:παρά"/>
+			<word wordref_id="3211518" id="4" texid="38553" row="498-499" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|λετοσχα|gap=unknown||gap=2|καταδ|gap=1|" original="|gap=unknown||gap=1|λετοσχα-|gap=unknown||gap=2|καταδ|gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211519" id="5" texid="38553" row="500" wordNum="1" hand="m1" regularized="|gap=unknown|λιαν" original="|gap=unknown|λιαν" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211520" id="6" texid="38553" row="500" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3211521" id="1" texid="38553" row="500" wordNum="3" hand="m1" regularized="|dash|" original="|dash|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211522" id="2" texid="38553" row="501" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211523" id="3" texid="38553" row="502" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211524" id="4" texid="38553" row="503" wordNum="1" hand="m1" regularized="|gap=unknown|ος|gap=unknown|" original="|gap=unknown|ος|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3211525" id="5" texid="38553" row="503" wordNum="2" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

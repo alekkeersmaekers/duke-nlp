@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.petr.3.32" TM="7425 4440 7699 7700" HGV="7425 4440 7699 7700" lang="grc" textpart="D">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3169845" id="1" texid="7425" row="1" wordNum="1" hand="m1" regularized="Μητροδώρωι" original="Μητροδώρωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Μητρόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="3169846" id="2" texid="7425" row="1" wordNum="2" hand="m1" regularized="οἰκονόμωι" original="οἰκονόμωι" completeness="complete" tag="noun.sg.masc.dat" lemma="οἰκονόμος" lemmaFlag="wrong-accent:οἰκόνομος"/>
+			<word wordref_id="3169847" id="3" texid="7425" row="2" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="3169848" id="4" texid="7425" row="2" wordNum="2" hand="m1" regularized="Πρωτογένους" original="Πρωτογένους" completeness="complete" tag="noun.sg.masc.gen" lemma="Πρωτογένης" lemmaFlag="ok"/>
+			<word wordref_id="3169849" id="5" texid="7425" row="3" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3169850" id="6" texid="7425" row="3" wordNum="2" hand="m1" regularized="πρὸς" original="πρὸς" completeness="complete" tag="preposition" lemma="πρός" lemmaFlag="ok"/>
+			<word wordref_id="3169851" id="7" texid="7425" row="3" wordNum="3" hand="m1" regularized="τῆι" original="τῆι" completeness="complete" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3169852" id="8" texid="7425" row="3" wordNum="4" hand="m1" regularized="δερματηρᾶι" original="δερματηρᾶι" completeness="complete" tag="noun.sg.fem.dat" lemma="δερματηρά" lemmaFlag="ok"/>
+			<word wordref_id="3169853" id="9" texid="7425" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3169854" id="1" texid="7425" row="4" wordNum="1" hand="m1" regularized="ἐπειδὴ" original="ἐπειδὴ" completeness="complete" tag="conjunction" lemma="ἐπεί" lemmaFlag="ok"/>
+			<word wordref_id="3169855" id="2" texid="7425" row="4" wordNum="2" hand="m1" regularized="ἀφειλκύσθημεν" original="ἀφειλκύσθημεν" completeness="complete" tag="verb.1.pl.aor.ind.pass" lemma="ἀφέλκω" lemmaFlag="ok"/>
+			<word wordref_id="3169856" id="3" texid="7425" row="5" wordNum="1" hand="m1" regularized="ἐνταῦθα" original="[ἐν]ταῦθα" completeness="partly_reconstructed" tag="adverb" lemma="ἐνταῦθα" lemmaFlag="ok"/>
+			<word wordref_id="3169857" id="4" texid="7425" row="5" wordNum="2" hand="m1" regularized="διὰ" original="δ[ι]ὰ" completeness="partly_reconstructed" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="3169858" id="5" texid="7425" row="5" wordNum="3" hand="m1" regularized="τὴν" original="τὴν̣" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="3169859" id="6" texid="7425" row="5" wordNum="4" hand="m1" regularized="ὠνὴν" original="ὠν̣[ὴ]ν̣" completeness="partly_reconstructed" tag="noun.sg.fem.acc" lemma="ὠνή" lemmaFlag="ok"/>
+			<word wordref_id="3169860" id="7" texid="7425" row="6" wordNum="1" hand="m1" regularized="|gap=2_lines|" original="|gap=2_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="3169861" id="8" texid="7425" row="7" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

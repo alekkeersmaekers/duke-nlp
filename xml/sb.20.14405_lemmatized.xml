@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.20.14405" TM="7892" HGV="7892" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="4280527" id="1" texid="7892" row="1" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="4280528" id="2" texid="7892" row="1" wordNum="2" hand="m1" regularized="Νεχθενίβιος" original="Νεχθενίβιος" completeness="complete" tag="noun.sg.masc.gen" lemma="Νεχθενιβις" lemmaFlag="ok"/>
+			<word wordref_id="4280529" id="3" texid="7892" row="1" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="4280530" id="1" texid="7892" row="2" wordNum="1" hand="m1" regularized="ὧν" original="ὧν" completeness="complete" tag="relative.pl.masc.gen" lemma="ὅς" lemmaFlag="ok"/>
+			<word wordref_id="4280531" id="2" texid="7892" row="2" wordNum="2" hand="m1" regularized="ἔχω" original="ἔχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἔχω" lemmaFlag="ok"/>
+			<word wordref_id="4280532" id="3" texid="7892" row="2" wordNum="3" hand="m1" regularized="χαλκῶν" original="χαλκῶν" completeness="complete" tag="adjective.pl.masc.gen.pos" lemma="χαλκοῦς" lemmaFlag="ok"/>
+			<word wordref_id="4280533" id="4" texid="7892" row="3" wordNum="1" hand="m1" regularized="νομων" original="νομω̣ν" completeness="complete" tag="noun.pl.masc.gen" lemma="νομος" lemmaFlag="wrong-accent:νομός"/>
+			<word wordref_id="4280534" id="5" texid="7892" row="3" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="4280535" id="6" texid="7892" row="3" wordNum="3" hand="m1" regularized="Διονυσοδώρου" original="Διονυσοδώρου" completeness="complete" tag="noun.sg.masc.gen" lemma="Διονυσόδωρος" lemmaFlag="ok"/>
+			<word wordref_id="4280536" id="7" texid="7892" row="4" wordNum="1" hand="m1" regularized="ἀμπελῶνος" original="ἀμπελῶνος" completeness="complete" tag="noun.sg.masc.gen" lemma="ἀμπελών" lemmaFlag="ok"/>
+			<word wordref_id="4280537" id="8" texid="7892" row="4" wordNum="2" hand="m1" regularized="χαλκοῦ" original="χα(λκοῦ)" completeness="complete" tag="adjective.sg.masc.gen.pos" lemma="χαλκοῦς" lemmaFlag="ok"/>
+			<word wordref_id="4280538" id="9" texid="7892" row="4" wordNum="3" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="4280539" id="10" texid="7892" row="4" wordNum="4" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

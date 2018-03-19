@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.berenike.1.47" TM="70824" HGV="70824" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="528521" id="1" texid="70824" row="1" wordNum="1" hand="m1" regularized="Ῥοβαος" original="Ῥοβα̣ο̣ς̣" completeness="complete" tag="noun.sg.masc.nom" lemma="Ῥ́οβαος" lemmaFlag="ok"/>
+			<word wordref_id="528522" id="2" texid="70824" row="1" wordNum="2" hand="m1" regularized="τοῖς" original="[τοῖς]" completeness="fully_reconstructed" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="528523" id="3" texid="70824" row="1" wordNum="3" hand="m1" regularized="ἐπὶ" original="[ἐπὶ]" completeness="fully_reconstructed" tag="preposition" lemma="ἐπί" lemmaFlag="ok"/>
+			<word wordref_id="528524" id="4" texid="70824" row="1" wordNum="4" hand="m1" regularized="τῇ" original="[τῇ]" completeness="fully_reconstructed" tag="article.sg.fem.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="528525" id="5" texid="70824" row="2" wordNum="1" hand="m1" regularized="πύλῃ" original="πύλῃ" completeness="complete" tag="noun.sg.fem.dat" lemma="πύλη" lemmaFlag="ok"/>
+			<word wordref_id="528526" id="6" texid="70824" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="χα(ίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="528527" id="7" texid="70824" row="2" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="528528" id="1" texid="70824" row="2" wordNum="4" hand="m1" regularized="πάρετε" original="πάρ̣ε̣τ̣ε̣" completeness="complete" tag="verb.2.pl.aor.imp.act" lemma="παρίημι" lemmaFlag="ok"/>
+			<word wordref_id="528529" id="2" texid="70824" row="2-3" wordNum="1" hand="m1" regularized="Πετσείρι" original="Π̣ε̣τ̣-σείρι" completeness="complete" tag="noun.sg.masc.dat" lemma="Πετσεῖρις" lemmaFlag="ok"/>
+			<word wordref_id="528530" id="3" texid="70824" row="3" wordNum="1" hand="m1" regularized="οἴνου" original="οἴνου" completeness="complete" tag="noun.sg.masc.gen" lemma="οἶνος" lemmaFlag="ok"/>
+			<word wordref_id="528531" id="4" texid="70824" row="3" wordNum="2" hand="m1" regularized="ἰταλικὰ" original="ἰτα̣[λ(ικὰ)]" completeness="partly_reconstructed" tag="adjective.pl.neut.acc.pos" lemma="ἰταλικός" lemmaFlag="suspect"/>
+			<word wordref_id="528532" id="5" texid="70824" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="528533" id="6" texid="70824" row="4" wordNum="1" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok"/>
+			<word wordref_id="528534" id="7" texid="70824" row="4" wordNum="2" hand="m1" regularized="ἐξαρτισμόν" original="ἐξαρτ̣ι̣σ̣μ̣[όν]" completeness="partly_reconstructed" tag="noun.sg.masc.acc" lemma="ἐξαρτισμός" lemmaFlag="ok"/>
+			<word wordref_id="528535" id="8" texid="70824" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

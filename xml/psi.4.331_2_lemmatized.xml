@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="psi.4.331" TM="2025" HGV="2025" lang="grc" textpart="v">
+	<text>
+		<sentence id="1">
+			<word wordref_id="3916116" id="1" texid="2025" row="6" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="3916117" id="2" texid="2025" row="6" wordNum="2" hand="m1" regularized="κθ|digit=29|" original="κθ|digit=29|" completeness="complete" tag="numeral.none.none.none" lemma="κθ" lemmaFlag="ok"/>
+			<word wordref_id="3916118" id="3" texid="2025" row="6" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="3916119" id="1" texid="2025" row="6" wordNum="4" hand="m1" regularized="Ἐφάρμοστος" original="Ἐφάρμοστος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἐφάρμοστος" lemmaFlag="ok"/>
+			<word wordref_id="3916120" id="2" texid="2025" row="7" wordNum="1" hand="m1" regularized="δορκαδέων" original="δορκαδέων" completeness="complete" tag="participle.sg.pres.act.masc.nom" lemma="δορκαδέω" lemmaFlag="suspect"/>
+			<word wordref_id="3916121" id="3" texid="2025" row="7" wordNum="2" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok"/>
+		</sentence>
+	</text>
+</file>

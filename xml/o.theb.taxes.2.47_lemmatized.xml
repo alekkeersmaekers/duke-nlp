@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.theb.taxes.2.47" TM="44080" HGV="44080" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="810361" id="1" texid="44080" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok"/>
+			<word wordref_id="810362" id="2" texid="44080" row="1" wordNum="2" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok"/>
+			<word wordref_id="810363" id="3" texid="44080" row="1" wordNum="3" hand="m1" regularized="Παυνι" original="Παυνι" completeness="complete" tag="noun.sg.none.nom" lemma="Παῦνι" lemmaFlag="ok"/>
+			<word wordref_id="810364" id="4" texid="44080" row="1" wordNum="4" hand="m1" regularized="ε|digit=5|" original="ε|digit=5|" completeness="complete" tag="numeral.none.none.none" lemma="ε" lemmaFlag="ok"/>
+			<word wordref_id="810365" id="5" texid="44080" row="2" wordNum="1" hand="m1" regularized="Πασχεῦς" original="Πασ̣χεῦς" completeness="complete" tag="noun.sg.masc.gen" lemma="Πασχεῦς" lemmaFlag="ok"/>
+			<word wordref_id="810366" id="6" texid="44080" row="2" wordNum="2" hand="m1" regularized="ἁλικῆς" original="ἑλικῆ̣ς̣*" completeness="complete" tag="noun.sg.fem.gen" lemma="ἁλική" lemmaFlag="suspect"/>
+			<word wordref_id="810367" id="7" texid="44080" row="3" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok"/>
+			<word wordref_id="810368" id="8" texid="44080" row="3" wordNum="2" hand="m1" regularized="Φανίου" original="Φαν̣ί̣ου" completeness="complete" tag="noun.sg.masc.gen" lemma="Φανίας" lemmaFlag="ok"/>
+			<word wordref_id="810369" id="9" texid="44080" row="3" wordNum="3" hand="m1" regularized="δραχμὴ" original="(δραχμὴ)" completeness="complete" tag="noun.sg.fem.nom" lemma="δραχμή" lemmaFlag="ok"/>
+			<word wordref_id="810370" id="10" texid="44080" row="3" wordNum="4" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok"/>
+			<word wordref_id="810371" id="11" texid="44080" row="3" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="810372" id="1" texid="44080" row="4" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.mil.congr.xiv.pg112" TM="18116" HGV="18116" lang="grc">
+	<text>
+		<sentence id="1">
+			<word wordref_id="2525624" id="1" texid="18116" row="1" wordNum="1" hand="m1" regularized="μετὰ" original="μετὰ" completeness="complete" tag="preposition" lemma="μετά" lemmaFlag="ok"/>
+			<word wordref_id="2525625" id="2" texid="18116" row="1" wordNum="2" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2525626" id="3" texid="18116" row="1-2" wordNum="1" hand="m1" regularized="ὑπατείαν" original="ὑπατεί-αν" completeness="complete" tag="noun.sg.fem.acc" lemma="ὑπατεία" lemmaFlag="ok"/>
+			<word wordref_id="2525627" id="4" texid="18116" row="2" wordNum="1" hand="m1" regularized="Φλαυίων" original="Φλαυίων" completeness="complete" tag="noun.pl.masc.gen" lemma="Φλαύιος" lemmaFlag="ok"/>
+			<word wordref_id="2525628" id="5" texid="18116" row="3" wordNum="1" hand="m1" regularized="Μωδέστου" original="Μωδέστου" completeness="complete" tag="noun.sg.masc.gen" lemma="Μωδεστος" lemmaFlag="ok"/>
+			<word wordref_id="2525629" id="6" texid="18116" row="3" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="2525630" id="7" texid="18116" row="4" wordNum="1" hand="m1" regularized="|extra|" original="{καὶ}" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2525631" id="8" texid="18116" row="4" wordNum="2" hand="m1" regularized="Ἀρινθέου" original="Ἀρινθέου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἀρινθέος" lemmaFlag="ok"/>
+			<word wordref_id="2525632" id="9" texid="18116" row="5" wordNum="1" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="2525633" id="10" texid="18116" row="5-6" wordNum="1" hand="m1" regularized="λαμπροτάτων" original="λαμπρο-τάτων" completeness="complete" tag="adjective.pl.masc.gen.sup" lemma="λαμπρός" lemmaFlag="ok"/>
+			<word wordref_id="2525634" id="11" texid="18116" row="7" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2525635" id="12" texid="18116" row="8" wordNum="1" hand="m1" regularized="|check|" original="|check|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="2525636" id="13" texid="18116" row="8" wordNum="2" hand="m1" regularized="κτῆμα" original="κτῆ(μα)" completeness="complete" tag="noun.sg.neut.nom" lemma="κτῆμα" lemmaFlag="ok"/>
+			<word wordref_id="2525637" id="14" texid="18116" row="8" wordNum="3" hand="m1" regularized="|unintelligible|" original="|unintelligible|" completeness="complete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>

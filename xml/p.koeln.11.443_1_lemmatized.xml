@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.koeln.11.443" TM="112478" HGV="112478" lang="grc" textpart="a">
+	<text>
+		<sentence id="1">
+			<word wordref_id="1827179" id="1" texid="112478" row="1" wordNum="1" hand="m1" regularized="Θέστωρ" original="Θέστωρ" completeness="complete" tag="noun.sg.masc.nom" lemma="Θέστωρ" lemmaFlag="ok"/>
+			<word wordref_id="1827180" id="2" texid="112478" row="1" wordNum="2" hand="m1" regularized="Θεομνήστωι" original="Θεομν[ή]σ̣τ̣[ω]ι̣" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Θεόμνηστος" lemmaFlag="ok"/>
+			<word wordref_id="1827181" id="3" texid="112478" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok"/>
+			<word wordref_id="1827182" id="4" texid="112478" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok"/>
+		</sentence>
+		<sentence id="2">
+			<word wordref_id="1827183" id="1" texid="112478" row="2" wordNum="3" hand="m1" regularized="γραφήτω" original="γραφήτω" completeness="complete" tag="verb.3.sg.aor.imp.pass" lemma="γράφω" lemmaFlag="ok"/>
+			<word wordref_id="1827184" id="2" texid="112478" row="2" wordNum="4" hand="m1" regularized="τοῖς" original="το̣ῖ̣ς̣" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1827185" id="3" texid="112478" row="3" wordNum="1" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok"/>
+			<word wordref_id="1827186" id="4" texid="112478" row="3" wordNum="2" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok"/>
+			<word wordref_id="1827187" id="5" texid="112478" row="3" wordNum="3" hand="m1" regularized="φυλακίταις" original="φυλακίτ̣αις" completeness="complete" tag="noun.pl.masc.dat" lemma="φυλακίτης" lemmaFlag="ok"/>
+			<word wordref_id="1827188" id="6" texid="112478" row="4" wordNum="1" hand="m1" regularized="συνυπογράφοντος" original="συνυπ[ο]γ̣ράφο[ν]τος" completeness="partly_reconstructed" tag="participle.sg.pres.act.masc.gen" lemma="συνυπογράφω" lemmaFlag="ok"/>
+			<word wordref_id="1827189" id="7" texid="112478" row="4" wordNum="2" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok"/>
+			<word wordref_id="1827190" id="8" texid="112478" row="5" wordNum="1" hand="m1" regularized="τοῦ" original="τ̣ο̣ῦ̣" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok"/>
+			<word wordref_id="1827191" id="9" texid="112478" row="5" wordNum="2" hand="m1" regularized="τοπογραμματέως" original="τ̣ο̣π̣ο̣γρ(αμματέως)" completeness="complete" tag="noun.sg.masc.gen" lemma="τοπογραμματεύς" lemmaFlag="ok"/>
+			<word wordref_id="1827192" id="10" texid="112478" row="5" wordNum="3" hand="m1" regularized="προέσθαι" original="προ[έ]σ[θ]α̣ι" completeness="partly_reconstructed" tag="infinitive.aor.mid" lemma="προίημι" lemmaFlag="suspect"/>
+			<word wordref_id="1827193" id="11" texid="112478" row="6" wordNum="1" hand="m1" regularized="|gap=3|πε|gap=2|ια" original="|gap=3|π̣ε̣|gap=2|ι̣α̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1827194" id="12" texid="112478" row="6" wordNum="2" hand="m1" regularized="|gap=4||gap=2|" original="[|gap=4|]|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1827195" id="13" texid="112478" row="7" wordNum="1" hand="m1" regularized="|gap=3||gap=1|επ|gap=1||gap=unknown|" original="[|gap=3|]|gap=1|ε̣π̣|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+			<word wordref_id="1827196" id="14" texid="112478" row="7" wordNum="2" hand="m1" regularized="|gap=2_lines|" original="|gap=2_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect"/>
+		</sentence>
+	</text>
+</file>
