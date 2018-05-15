@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="chr.wilck.50" TM="554" HGV="554" lang="grc" textpart="r,Fr3">
+  <text>
+    <sentence id="1">
+      <word wordref_id="395603" id="1" texid="554" row="16" wordNum="1" hand="m1" regularized="|gap=4|" original="|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="395604" id="2" texid="554" row="17" wordNum="1" hand="m1" regularized="ἐπιχείου" original="ἐπιχείου" completeness="complete" tag="verb.2.sg.pres.imp.mid" lemma="ἐπιχέω" lemmaFlag="ok" perseusTag="v2spme---"/>
+      <word wordref_id="395605" id="3" texid="554" row="17" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+      <word wordref_id="395606" id="4" texid="554" row="17" wordNum="3" hand="m1" regularized="ὃν" original="ὃν" completeness="complete" tag="relative.sg.masc.acc" lemma="ὅς" lemmaFlag="ok" perseusTag="p-s---ma-"/>
+      <word wordref_id="395607" id="5" texid="554" row="17" wordNum="4" hand="m1" regularized="τρόπον" original="τρόπον" completeness="complete" tag="noun.sg.masc.acc" lemma="τρόπος" lemmaFlag="ok" perseusTag="n-s---ma-"/>
+      <word wordref_id="395608" id="6" texid="554" row="17" wordNum="5" hand="m1" regularized="καὶ" original="κἀγὼ*" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="395609" id="7" texid="554" row="17" wordNum="6" hand="m1" regularized="ἐγὼ" original="|extra|*" completeness="complete" tag="personal.sg.comm.nom" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1s----n-"/>
+      <word wordref_id="395610" id="8" texid="554" row="18" wordNum="1" hand="m1" regularized="ἡμέραν" original="ἡμέραν" completeness="complete" tag="noun.sg.fem.acc" lemma="ἡμέρα" lemmaFlag="ok" perseusTag="n-s---fa-"/>
+      <word wordref_id="395611" id="9" texid="554" row="18" wordNum="2" hand="m1" regularized="καλὴν" original="καλὴν" completeness="complete" tag="adjective.sg.fem.acc.pos" lemma="καλός" lemmaFlag="ok" perseusTag="a-s---fa-"/>
+      <word wordref_id="395612" id="10" texid="554" row="18" wordNum="3" hand="m1" regularized="ἤγαγον" original="ἤγαγον" completeness="complete" tag="verb.1.sg.aor.ind.act" lemma="ἄγω" lemmaFlag="ok" perseusTag="v1saia---"/>
+      <word wordref_id="395613" id="11" texid="554" row="18" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="395614" id="1" texid="554" row="19" wordNum="1" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok" perseusTag="v2srme---"/>
+      <word wordref_id="395615" id="2" texid="554" row="19" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="395616" id="1" texid="554" row="19" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="395617" id="2" texid="554" row="19" wordNum="4" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="395618" id="3" texid="554" row="19" wordNum="5" hand="m1" regularized="Φαῶφι" original="Φαῶφι" completeness="complete" tag="noun.sg.none.none" lemma="Φαῶφι" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="395619" id="4" texid="554" row="19" wordNum="6" hand="m1" regularized="κε|digit=25|" original="κε|digit=25|" completeness="complete" tag="numeral.none.none.none" lemma="κε" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="395620" id="5" texid="554" row="19" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

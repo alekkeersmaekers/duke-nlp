@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.tebt.1.62" TM="3698" HGV="3698" lang="grc" textpart="6,ctr">
+  <text>
+    <sentence id="1">
+      <word wordref_id="3571615" id="1" texid="3698" row="99" wordNum="1" hand="m1" regularized="γίνονται" original="γίνονται" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok" perseusTag="v3ppie---"/>
+      <word wordref_id="3571616" id="2" texid="3698" row="99" wordNum="2" hand="m1" regularized="κατοίκων" original="κατοίκων" completeness="complete" tag="noun.pl.masc.gen" lemma="κατοίκος" lemmaFlag="wrong-accent:κάτοικος" perseusTag="n-p---mg-"/>
+      <word wordref_id="3571617" id="3" texid="3698" row="99" wordNum="3" hand="m1" regularized="ἄρουραι" original="(ἄρουραι)" completeness="complete" tag="noun.pl.fem.nom" lemma="ἄρουρα" lemmaFlag="ok" perseusTag="n-p---fn-"/>
+      <word wordref_id="3571618" id="4" texid="3698" row="99" wordNum="4" hand="m1" regularized="γ|digit=3|οη|digit=78|" original="[γ|digit=3|]οη|digit=78|" completeness="partly_reconstructed" tag="numeral.none.none.none" lemma="γοη" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="3571619" id="5" texid="3698" row="99" wordNum="5" hand="m1" regularized="𐅵|digit=1/2|" original="𐅵|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="𐅵" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="3571620" id="6" texid="3698" row="99" wordNum="6" hand="m1" regularized="δ´|digit=1/4|" original="δ´|digit=1/4|" completeness="complete" tag="numeral.none.none.none" lemma="δ´" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="3571621" id="7" texid="3698" row="99" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="3571622" id="1" texid="3698" row="100" wordNum="1" hand="m1" regularized="ἐρημοφυλάκων" original="ἐρη(μο)φυ(λάκων)" completeness="complete" tag="noun.pl.masc.gen" lemma="ἐρημοφύλαξ" lemmaFlag="ok" perseusTag="n-p---mg-"/>
+      <word wordref_id="3571623" id="2" texid="3698" row="100" wordNum="2" hand="m1" regularized="τῶν" original="τῶν" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-p---mg-"/>
+      <word wordref_id="3571624" id="3" texid="3698" row="100" wordNum="3" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="3571625" id="4" texid="3698" row="100" wordNum="4" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.neut.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---nd-"/>
+      <word wordref_id="3571626" id="5" texid="3698" row="100" wordNum="5" hand="m1" regularized="λβ|digit=32|" original="λβ|digit=32|" completeness="complete" tag="numeral.none.none.none" lemma="λβ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="3571627" id="6" texid="3698" row="100" wordNum="6" hand="m1" regularized="ἔτει" original="(ἔτει)" completeness="complete" tag="noun.sg.neut.dat" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---nd-"/>
+      <word wordref_id="3571628" id="7" texid="3698" row="100" wordNum="7" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

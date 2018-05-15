@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.dura.32" TM="17229" HGV="17229" lang="grc" textpart="ext,v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="1423294" id="1" texid="17229" row="1" wordNum="1" hand="m5" regularized="Πατροκλειανός" original="[Π]ατρ[οκλ]ε̣ιανό̣[ς]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Πατροκλειανός" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="1423295" id="2" texid="17229" row="1" wordNum="2" hand="m5" regularized="στρατιώτης" original="στρα(τιώτης)" completeness="complete" tag="noun.sg.masc.nom" lemma="στρατιώτης" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="1423296" id="3" texid="17229" row="1" wordNum="3" hand="m5" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="1423297" id="1" texid="17229" row="2" wordNum="1" hand="m6" regularized="Ἀββοῦις" original="[Ἀ]ββο̣ῦ̣ι̣ς̣" completeness="partly_reconstructed" tag="noun.sg.fem.nom" lemma="Ἀββοῦις" lemmaFlag="ok" perseusTag="n-s---fn-"/>
+      <word wordref_id="1423298" id="2" texid="17229" row="2" wordNum="2" hand="m6" regularized="Ἀβ|gap=3|ει|gap=2|ιειο" original="Ἀβ|gap=3|ει|gap=2|ιει̣ο̣" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423299" id="3" texid="17229" row="2" wordNum="3" hand="m6" regularized="μαρτυρῶ" original="μ(α)ρ(τυρῶ)" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="μαρτυρέω" lemmaFlag="ok" perseusTag="v1spia---"/>
+      <word wordref_id="1423300" id="4" texid="17229" row="2" wordNum="4" hand="m6" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="1423301" id="1" texid="17229" row="3" wordNum="1" hand="m7" regularized="|la|Iulius" original="|la|Ịụl(ius)" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423302" id="2" texid="17229" row="3" wordNum="2" hand="m7" regularized="|la|Scr|gap=3|be|gap=3|gal" original="|la|Sc̣ṛ|gap=3|be|gap=3|gal" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423303" id="3" texid="17229" row="3" wordNum="3" hand="m7" regularized="|la|signavi" original="|la|[si]g̣ṇavi" completeness="partly_reconstructed" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423304" id="4" texid="17229" row="3" wordNum="4" hand="m7" regularized="|la|." original="|la|." completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423305" id="5" texid="17229" row="4" wordNum="1" hand="m8" regularized="Ἀσκληπιόδοτος" original="Ἀσκ[λ]ηπι[ό]δοτ[ος]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Ἀσκληπιόδοτος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="1423306" id="6" texid="17229" row="4" wordNum="2" hand="m8" regularized="Ἀθηνοδώρου" original="[Ἀ]θηνοδώρ[ου]" completeness="fully_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀθηνόδωρος" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="1423307" id="7" texid="17229" row="4" wordNum="3" hand="m8" regularized="βουλευτὴς" original="βουλ(ευτὴς)" completeness="complete" tag="noun.sg.masc.nom" lemma="βουλευτής" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="1423308" id="8" texid="17229" row="4" wordNum="4" hand="m8" regularized="μαρτυρῶ" original="μ(α)ρ(τυρῶ)" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="μαρτυρέω" lemmaFlag="ok" perseusTag="v1spia---"/>
+      <word wordref_id="1423309" id="9" texid="17229" row="4" wordNum="5" hand="m8" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="4">
+      <word wordref_id="1423310" id="1" texid="17229" row="5-5" wordNum="1" hand="m9" regularized="" original="-" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1423311" id="2" texid="17229" row="5" wordNum="1" hand="m9" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

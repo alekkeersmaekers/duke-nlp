@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.2.582" TM="9242" HGV="9242" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="161111" id="1" texid="9242" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="161112" id="2" texid="9242" row="1" wordNum="2" hand="m1" regularized="ιζ|digit=17|" original="ιζ|digit=17|" completeness="complete" tag="numeral.none.none.none" lemma="ιζ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="161113" id="3" texid="9242" row="1" wordNum="3" hand="m1" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="161114" id="4" texid="9242" row="1" wordNum="4" hand="m1" regularized="κβ|digit=22|" original="κβ|digit=22|" completeness="complete" tag="numeral.none.none.none" lemma="κβ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="161115" id="5" texid="9242" row="1" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="161116" id="1" texid="9242" row="2" wordNum="1" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---md-"/>
+      <word wordref_id="161117" id="2" texid="9242" row="2" wordNum="2" hand="m1" regularized="κρατίστῳ" original="κρατίστῳ" completeness="complete" tag="adjective.sg.masc.dat.sup" lemma="κράτιστος" lemmaFlag="ok" perseusTag="a-s---mds"/>
+      <word wordref_id="161118" id="3" texid="9242" row="2" wordNum="3" hand="m1" regularized="ἐπιστρατήγῳ" original="ἐπιστρατήγῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἐπιστράτηγος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="161119" id="4" texid="9242" row="3" wordNum="1" hand="m1" regularized="ἔντυχε" original="ἔντυχε" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἐντυγχάνω" lemmaFlag="ok" perseusTag="v2sama---"/>
+      <word wordref_id="161120" id="5" texid="9242" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="161121" id="1" texid="9242" row="3" wordNum="3" hand="m1" regularized="προθές?" original="προθ(ές?)" completeness="complete" tag="adjective.sg.masc.voc.pos" lemma="προθής" lemmaFlag="suspect" perseusTag="a-s---mv-"/>
+      <word wordref_id="161122" id="2" texid="9242" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="4">
+      <word wordref_id="161123" id="1" texid="9242" row="3" wordNum="5" hand="m1" regularized="κόλλημα" original="κόλ(λημα)" completeness="complete" tag="noun.sg.neut.nom" lemma="κόλλημα" lemmaFlag="ok" perseusTag="n-s---nn-"/>
+      <word wordref_id="161124" id="2" texid="9242" row="3" wordNum="6" hand="m1" regularized="ρζ|digit=107|" original="ρζ|digit=107|" completeness="complete" tag="numeral.none.none.none" lemma="ρζ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="161125" id="3" texid="9242" row="3" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

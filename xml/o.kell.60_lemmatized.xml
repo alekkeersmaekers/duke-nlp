@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.kell.60" TM="74584" HGV="74584" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="702197" id="1" texid="74584" row="1" wordNum="1" hand="m1" regularized="ἐδεξάμην" original="ἐδεξάμην" regularized_old="Ἐδεξάμην" original_old="Ἐδεξάμην" completeness="complete" tag="verb.1.sg.aor.ind.mid" lemma="δέχομαι" lemmaFlag="ok" perseusTag="v1saim---"/>
+      <word wordref_id="702198" id="2" texid="74584" row="1" wordNum="2" hand="m1" regularized="διὰ" original="δι(ὰ)" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="702199" id="3" texid="74584" row="1" wordNum="3" hand="m1" regularized="Κομε" original="Κομε̣" completeness="complete" tag="noun.sg.masc.voc" lemma="Κόμος" lemmaFlag="ok" perseusTag="n-s---mv-"/>
+      <word wordref_id="702200" id="4" texid="74584" row="2" wordNum="1" hand="m1" regularized="ἐρεγμοῦ" original="ἐρεγμος*" completeness="complete" tag="noun.sg.masc.gen" lemma="ἐρεγμός" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="702201" id="5" texid="74584" row="2" wordNum="2" hand="m1" regularized="ἀρτάβας" original="ερτάβας*" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="702202" id="6" texid="74584" row="3" wordNum="1" hand="m1" regularized="δέκα|num=10|" original="δέκα|num=10|" completeness="complete" tag="numeral.none.none.none" lemma="δέκα" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="702203" id="7" texid="74584" row="3" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+      <word wordref_id="702204" id="8" texid="74584" row="3" wordNum="3" hand="m1" regularized="γίνονται" original="(γίνονται)" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok" perseusTag="v3ppie---"/>
+      <word wordref_id="702205" id="9" texid="74584" row="3" wordNum="4" hand="m1" regularized="ἀρταβαὶ" original="(ἀρταβαὶ)" completeness="complete" tag="noun.pl.fem.nom" lemma="ἀρταβή" lemmaFlag="wrong-accent:ἀρτάβη" perseusTag="n-p---fn-"/>
+      <word wordref_id="702206" id="10" texid="74584" row="3" wordNum="5" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="702207" id="11" texid="74584" row="3" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="702208" id="1" texid="74584" row="4" wordNum="1" hand="m1" regularized="σεσημείωμαι" original="σεσημίωμαι*" regularized_old="Σεσημείωμαι" original_old="Σεσημίωμαι*" completeness="complete" tag="verb.1.sg.pf.ind.mid" lemma="σημειόω" lemmaFlag="ok" perseusTag="v1srie---"/>
+      <word wordref_id="702209" id="2" texid="74584" row="5" wordNum="1" hand="m1" regularized="Ὡρίων" original="Ὡρίων" completeness="complete" tag="noun.sg.masc.voc" lemma="Ὡρίων" lemmaFlag="ok" perseusTag="n-s---mv-"/>
+    </sentence>
+  </text>
+</file>

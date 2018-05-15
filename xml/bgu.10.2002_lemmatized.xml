@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.10.2002" TM="8328" HGV="8328" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="41529" id="1" texid="8328" row="1" wordNum="1" hand="m1" regularized="Φίλιππος" original="Φίλ[ιπ]πος" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="Φίλιππος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="41530" id="2" texid="8328" row="1" wordNum="2" hand="m1" regularized="Ἀμμωνίωι" original="Ἀμμ̣[ωνίωι]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀμμώνιος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="41531" id="3" texid="8328" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="41532" id="4" texid="8328" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="41533" id="1" texid="8328" row="2" wordNum="1" hand="m1" regularized="ἔγραψας" original="ἔγ[ρα]ψας" completeness="partly_reconstructed" tag="verb.2.sg.aor.ind.act" lemma="γράφω" lemmaFlag="ok" perseusTag="v2saia---"/>
+      <word wordref_id="41534" id="2" texid="8328" row="2" wordNum="2" hand="m1" regularized="ἡμῖν" original="ἡμῖν" completeness="complete" tag="personal.pl.comm.dat" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1p----d-"/>
+      <word wordref_id="41535" id="3" texid="8328" row="2" wordNum="3" hand="m1" regularized="περὶ" original="π[ερὶ]" completeness="partly_reconstructed" tag="preposition" lemma="περί" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="41536" id="4" texid="8328" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="41537" id="5" texid="8328" row="3" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

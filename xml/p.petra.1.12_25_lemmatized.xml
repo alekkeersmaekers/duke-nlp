@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.petra.1.12" TM="78730" HGV="78730" lang="grc" textpart="Fr65">
+  <text>
+    <sentence id="1">
+      <word wordref_id="3184531" id="1" texid="78730" row="1" wordNum="1" hand="m8" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="3184532" id="2" texid="78730" row="1" wordNum="2" hand="m8" regularized="ὑπέγραψα" original="[ὑπέγραψα]" completeness="fully_reconstructed" tag="verb.1.sg.aor.ind.act" lemma="ὑπογράφω" lemmaFlag="ok" perseusTag="v1saia---"/>
+      <word wordref_id="3184533" id="3" texid="78730" row="1" wordNum="3" hand="m8" regularized="χειρὶ" original="[χειρ]ὶ" completeness="partly_reconstructed" tag="noun.sg.fem.dat" lemma="χείρ" lemmaFlag="ok" perseusTag="n-s---fd-"/>
+      <word wordref_id="3184534" id="4" texid="78730" row="1" wordNum="4" hand="m8" regularized="ἐμῇ" original="ἐμῇ" completeness="complete" tag="adjective.sg.fem.dat.pos" lemma="ἐμός" lemmaFlag="ok" perseusTag="a-s---fd-"/>
+      <word wordref_id="3184535" id="5" texid="78730" row="1" wordNum="5" hand="m8" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="3184536" id="1" texid="78730" row="1" wordNum="6" hand="m8" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

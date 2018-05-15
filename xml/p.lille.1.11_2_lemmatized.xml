@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lille.1.11" TM="3217" HGV="3217" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="1890940" id="1" texid="3217" row="1" wordNum="1" hand="m1" regularized="|gap=unknown||gap=1|" original="|gap=unknown||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1890941" id="2" texid="3217" row="1" wordNum="2" hand="m1" regularized="Τῦβι" original="Τῦβι" completeness="complete" tag="noun.sg.none.none" lemma="Τῦβι" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="1890942" id="3" texid="3217" row="1" wordNum="3" hand="m1" regularized="α|digit=1||gap=1|" original="α̣|digit=1||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1890943" id="4" texid="3217" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="1890944" id="1" texid="3217" row="2" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1890945" id="2" texid="3217" row="2" wordNum="2" hand="m1" regularized="ψαμμιθιου" original="[ψ]α̣μ̣μιθιου" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="ψαμμιθιας" lemmaFlag="suspect" perseusTag="n-s---mg-"/>
+    </sentence>
+  </text>
+</file>

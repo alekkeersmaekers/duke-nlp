@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.lille.1.40" TM="3242" HGV="3242" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="1896530" id="1" texid="3242" row="15" wordNum="1" hand="m1" regularized="Λεπτίνηι" original="Λεπτίνηι" completeness="complete" tag="noun.sg.masc.dat" lemma="Λεπτίνης" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="1896531" id="2" texid="3242" row="16" wordNum="1" hand="m1" regularized="|vac=unknown|" original="|vac=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1896532" id="3" texid="3242" row="16" wordNum="2" hand="m1" regularized="Θρασυμήδει" original="Θρασυμήδει" completeness="complete" tag="noun.sg.masc.dat" lemma="Θρασυμήδης" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="1896533" id="4" texid="3242" row="16" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="1896534" id="1" texid="3242" row="17" wordNum="1" hand="m1" regularized="κριθοπυροῦ" original="κρ(ι)θοπυρ(οῦ)" completeness="complete" tag="noun.sg.neut.gen" lemma="κριθοπυρόν" lemmaFlag="wrong-accent:κριθόπυρον" perseusTag="n-s---ng-"/>
+      <word wordref_id="1896535" id="2" texid="3242" row="17" wordNum="2" hand="m1" regularized="ἀρτάβας" original="(ἀρτάβας)" completeness="complete" tag="noun.pl.fem.acc" lemma="ἀρτάβη" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="1896536" id="3" texid="3242" row="17" wordNum="3" hand="m1" regularized="ρι|digit=110|" original="ρι|digit=110|" completeness="complete" tag="numeral.none.none.none" lemma="ρι" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="1896537" id="4" texid="3242" row="17" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

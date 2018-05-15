@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.stras.1.441" TM="76029" HGV="76029" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="785070" id="1" texid="76029" row="1" wordNum="1" hand="m1" regularized="Γᾶις" original="Γᾶις" completeness="complete" tag="noun.sg.masc.nom" lemma="Γᾶις" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="785071" id="2" texid="76029" row="1" wordNum="2" hand="m1" regularized="Λ|gap=unknown|" original="Λ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="785072" id="3" texid="76029" row="2" wordNum="1" hand="m1" regularized="φι" original="φι" completeness="complete" tag="noun.sg.masc.dat" lemma="φι" lemmaFlag="suspect" perseusTag="n-s---md-"/>
+      <word wordref_id="785073" id="4" texid="76029" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="785074" id="1" texid="76029" row="2" wordNum="3" hand="m1" regularized="ἔχω" original="ἔχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἔχω" lemmaFlag="ok" perseusTag="v1spia---"/>
+      <word wordref_id="785075" id="2" texid="76029" row="2" wordNum="4" hand="m1" regularized="παρὰ" original="[παρὰ]" completeness="fully_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="785076" id="3" texid="76029" row="2" wordNum="5" hand="m1" regularized="σοῦ" original="[σοῦ]" completeness="fully_reconstructed" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----g-"/>
+      <word wordref_id="785077" id="4" texid="76029" row="3" wordNum="1" hand="m1" regularized="ἀχύρου" original="ἀχύρου" completeness="complete" tag="noun.sg.masc.gen" lemma="ἄχυρον" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="785078" id="5" texid="76029" row="3" wordNum="2" hand="m1" regularized="γόμους" original="γ[όμ(ους)]" completeness="partly_reconstructed" tag="noun.pl.masc.acc" lemma="γόμος" lemmaFlag="ok" perseusTag="n-p---ma-"/>
+      <word wordref_id="785079" id="6" texid="76029" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="785080" id="7" texid="76029" row="4" wordNum="1" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="785081" id="8" texid="76029" row="4" wordNum="2" hand="m1" regularized="ιβ|digit=12|" original="ιβ|digit=12|" completeness="complete" tag="numeral.none.none.none" lemma="ιβ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="785082" id="9" texid="76029" row="4" wordNum="3" hand="m1" regularized="Δομιτιανοῦ" original="Δωμιτ[ιανοῦ]*" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Δομιτιανός" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="785083" id="10" texid="76029" row="5" wordNum="1" hand="m1" regularized="Μεσορὴ" original="Μεσ[ορὴ]" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="785084" id="11" texid="76029" row="5" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

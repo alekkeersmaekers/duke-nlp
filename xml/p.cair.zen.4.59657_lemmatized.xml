@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.4.59657" TM="1288" HGV="1288" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="1269887" id="1" texid="1988" row="1" wordNum="1" hand="m1" regularized="ὑπόμνημα" original="[ὑπό]μνημα" completeness="partly_reconstructed" tag="noun.sg.neut.nom" lemma="ὑπόμνημα" lemmaFlag="ok" perseusTag="n-s---nn-"/>
+      <word wordref_id="1269888" id="2" texid="1988" row="2" wordNum="1" hand="m1" regularized="Ζήνωνι" original="[Ζήνω]νι" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="1269889" id="3" texid="1988" row="2" wordNum="2" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="1269890" id="4" texid="1988" row="3" wordNum="1" hand="m1" regularized="|gap=3||gap=1|ος" original="|gap=3||gap=1|ος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="1269891" id="5" texid="1988" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="1269892" id="1" texid="1988" row="3" wordNum="3" hand="m1" regularized="εἴ" original="εἴ" completeness="complete" tag="conjunction" lemma="εἰ" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="1269893" id="2" texid="1988" row="3" wordNum="4" hand="m1" regularized="σοι" original="σοι" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----d-"/>
+      <word wordref_id="1269894" id="3" texid="1988" row="4" wordNum="1" hand="m1" regularized="δοκεῖ" original="[δοκεῖ]" completeness="fully_reconstructed" tag="verb.3.sg.pres.ind.act" lemma="δοκέω" lemmaFlag="ok" perseusTag="v3spia---"/>
+      <word wordref_id="1269895" id="4" texid="1988" row="4" wordNum="2" hand="m1" regularized="," original="[,]" completeness="fully_reconstructed" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+      <word wordref_id="1269896" id="5" texid="1988" row="4" wordNum="3" hand="m1" regularized="ἐμφάνισόν" original="[ἐ]μφάνισόν" completeness="partly_reconstructed" tag="verb.2.sg.aor.imp.act" lemma="ἐμφανίζω" lemmaFlag="ok" perseusTag="v2sama---"/>
+      <word wordref_id="1269897" id="6" texid="1988" row="5" wordNum="1" hand="m1" regularized="μοι" original="[μοι]" completeness="fully_reconstructed" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1s----d-"/>
+      <word wordref_id="1269898" id="7" texid="1988" row="5" wordNum="2" hand="m1" regularized="τί" original="[τί]" completeness="fully_reconstructed" tag="interrogative.sg.neut.acc" lemma="τίς" lemmaFlag="wrong-accent:τις" perseusTag="p-s---na-"/>
+      <word wordref_id="1269899" id="8" texid="1988" row="5" wordNum="3" hand="m1" regularized="δεῖ" original="δεῖ" completeness="complete" tag="verb.3.sg.pres.ind.act" lemma="δέω" lemmaFlag="ok" perseusTag="v3spia---"/>
+      <word wordref_id="1269900" id="9" texid="1988" row="5" wordNum="4" hand="m1" regularized="ποιεῖν" original="ποεῖν*" completeness="complete" tag="infinitive.pres.act" lemma="ποιέω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="1269901" id="10" texid="1988" row="5" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="1269902" id="1" texid="1988" row="6" wordNum="1" hand="m1" regularized="εὐτύχει" original="[εὐτύ]χι*" completeness="partly_reconstructed" tag="verb.2.sg.pres.imp.act" lemma="εὐτυχέω" lemmaFlag="ok" perseusTag="v2spma---"/>
+      <word wordref_id="1269903" id="2" texid="1988" row="6" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

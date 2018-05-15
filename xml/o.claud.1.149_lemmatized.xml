@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.1.149" TM="24160" HGV="24160" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="618558" id="1" texid="24160" row="1" wordNum="1" hand="m1" regularized="Ἀντωνίνῳ" original="Ἀντω[νίνῳ]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="Ἀντωνῖνος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="618559" id="2" texid="24160" row="1" wordNum="2" hand="m1" regularized="ἑκατοντάρχῃ?" original="[(ἑκατοντάρχῃ?)]" completeness="fully_reconstructed" tag="noun.sg.masc.dat" lemma="ἑκατοντάρχης" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="618560" id="3" texid="24160" row="1" wordNum="3" hand="m1" regularized="Κλήμης" original="[Κλήμης]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Κλήμης" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="618561" id="4" texid="24160" row="2" wordNum="1" hand="m1" regularized="κουράτωρ" original="κουράτ[ωρ]" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="κουράτωρ" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="618562" id="5" texid="24160" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="[χ(αίρειν)]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="618563" id="6" texid="24160" row="2" wordNum="3" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="618564" id="1" texid="24160" row="2" wordNum="4" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="618565" id="2" texid="24160" row="3" wordNum="1" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="618566" id="3" texid="24160" row="3" wordNum="2" hand="m1" regularized="οὐσίᾳ" original="οὐσίᾳ" completeness="complete" tag="noun.sg.fem.dat" lemma="οὐσία" lemmaFlag="ok" perseusTag="n-s---fd-"/>
+      <word wordref_id="618567" id="4" texid="24160" row="3" wordNum="3" hand="m1" regularized="μ|gap=unknown|" original="μ̣|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="618568" id="5" texid="24160" row="4" wordNum="1" hand="m1" regularized="δεκαπέντε|num=15|" original="δεκαπέντε|num=15|" completeness="complete" tag="numeral.none.none.none" lemma="δεκαπέντε" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="618569" id="6" texid="24160" row="4" wordNum="2" hand="m1" regularized="στατῆρες?|gap=unknown|" original="σ̣[τατῆρες?]|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="618570" id="7" texid="24160" row="5" wordNum="1" hand="m1" regularized="ἐμοῦ" original="ἐμοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1s----g-"/>
+      <word wordref_id="618571" id="8" texid="24160" row="5" wordNum="2" hand="m1" regularized="ἀνὰ" original="ἀνὰ" completeness="complete" tag="preposition" lemma="ἀνά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="618572" id="9" texid="24160" row="5" wordNum="3" hand="m1" regularized="ὀκτώ|num=8|" original="ὀκτώ|num=8|" completeness="complete" tag="numeral.none.none.none" lemma="ὀκτώ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="618573" id="10" texid="24160" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="618574" id="1" texid="24160" row="5" wordNum="5" hand="m1" regularized="ἐὰν" original="ἐ̣ὰ̣ν̣" completeness="complete" tag="conjunction" lemma="ἐάν" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="618575" id="2" texid="24160" row="6" wordNum="1" hand="m1" regularized="θέλεις" original="θέλεις" completeness="complete" tag="verb.2.sg.pres.ind.act" lemma="θέλω" lemmaFlag="ok" perseusTag="v2spia---"/>
+      <word wordref_id="618576" id="3" texid="24160" row="6" wordNum="2" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+      <word wordref_id="618577" id="4" texid="24160" row="6" wordNum="3" hand="m1" regularized="δώσεις" original="δώσις*" completeness="complete" tag="verb.2.sg.fut.ind.act" lemma="δίδωμι" lemmaFlag="ok" perseusTag="v2sfia---"/>
+      <word wordref_id="618578" id="5" texid="24160" row="6" wordNum="4" hand="m1" regularized="τὸν" original="τὸν" completeness="complete" tag="article.sg.masc.acc" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---ma-"/>
+      <word wordref_id="618579" id="6" texid="24160" row="7" wordNum="1" hand="m1" regularized="χαλκὸν" original="χαλκὸν" completeness="complete" tag="noun.sg.masc.acc" lemma="χαλκός" lemmaFlag="ok" perseusTag="n-s---ma-"/>
+      <word wordref_id="618580" id="7" texid="24160" row="7" wordNum="2" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---md-"/>
+      <word wordref_id="618581" id="8" texid="24160" row="7-8" wordNum="1" hand="m1" regularized="διδόντι" original="δι-δόντι" completeness="complete" tag="participle.sg.pres.act.masc.dat" lemma="δίδωμι" lemmaFlag="ok" perseusTag="v-sppamd-"/>
+      <word wordref_id="618582" id="9" texid="24160" row="8" wordNum="1" hand="m1" regularized="σοι" original="σοι" completeness="complete" tag="personal.sg.comm.dat" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----d-"/>
+      <word wordref_id="618583" id="10" texid="24160" row="8" wordNum="2" hand="m1" regularized="τὸ" original="τὸ" completeness="complete" tag="article.sg.neut.acc" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---na-"/>
+      <word wordref_id="618584" id="11" texid="24160" row="8-9" wordNum="1" hand="m1" regularized="ἐπιστόλιν" original="ἐ-πιστόλιν" completeness="complete" tag="noun.sg.neut.acc" lemma="ἐπιστόλιν" lemmaFlag="suspect" perseusTag="n-s---na-"/>
+      <word wordref_id="618585" id="12" texid="24160" row="9" wordNum="1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="4">
+      <word wordref_id="618586" id="1" texid="24160" row="10" wordNum="1" hand="m1" regularized="ἔρρωσο" original="ἔρρωσο" completeness="complete" tag="verb.2.sg.pf.imp.mid" lemma="ῥώννυμι" lemmaFlag="ok" perseusTag="v2srme---"/>
+      <word wordref_id="618587" id="2" texid="24160" row="10" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

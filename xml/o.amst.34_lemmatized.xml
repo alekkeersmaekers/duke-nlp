@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.amst.34" TM="70381" HGV="70381" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="517691" id="1" texid="70381" row="1" wordNum="1" hand="m1" regularized="|gap=9|" original="|gap=9|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="517692" id="2" texid="70381" row="1" wordNum="2" hand="m1" regularized="Σεραπύλλῳ" original="Σεραπύλλῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Σεραπύλλος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="517693" id="3" texid="70381" row="2" wordNum="1" hand="m1" regularized="|gap=9|σεραπι" original="|gap=9|σεραπι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="517694" id="4" texid="70381" row="2-3" wordNum="1" hand="m1" regularized="ἀμφοτέροις" original="ἀμφο-[τέροις]" completeness="partly_reconstructed" tag="adjective.pl.masc.dat.pos" lemma="ἀμφότερος" lemmaFlag="ok" perseusTag="a-p---md-"/>
+      <word wordref_id="517695" id="5" texid="70381" row="3" wordNum="1" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-p---md-"/>
+      <word wordref_id="517696" id="6" texid="70381" row="3" wordNum="2" hand="m1" regularized="ἀδελφοῖς" original="ἀδελφοῖς" completeness="complete" tag="noun.pl.masc.dat" lemma="ἀδελφός" lemmaFlag="ok" perseusTag="n-p---md-"/>
+      <word wordref_id="517697" id="7" texid="70381" row="4" wordNum="1" hand="m1" regularized="πλεῖστα" original="[πλεῖστ]α" completeness="partly_reconstructed" tag="adjective.pl.neut.acc.pos" lemma="πλεῖστος" lemmaFlag="ok" perseusTag="a-p---na-"/>
+      <word wordref_id="517698" id="8" texid="70381" row="4" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="517699" id="9" texid="70381" row="4" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="517700" id="1" texid="70381" row="4-5" wordNum="1" hand="m1" regularized="ἀναγ|gap=7||gap=1|νδημ|gap=2||gap=1||gap=unknown|" original="ἀναγ-|gap=7||gap=1|νδημ|gap=2||gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="517701" id="2" texid="70381" row="6" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

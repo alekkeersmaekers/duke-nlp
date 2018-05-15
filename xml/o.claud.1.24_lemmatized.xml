@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.1.24" TM="24037" HGV="24037" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="620033" id="1" texid="24037" row="1" wordNum="1" hand="m1" regularized="Ἱερώνυμος" original="Ἱερώνυμος" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἱερώνυμος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="620034" id="2" texid="24037" row="1" wordNum="2" hand="m1" regularized="Κ|gap=unknown|" original="Κ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="620035" id="3" texid="24037" row="2" wordNum="1" hand="m1" regularized="τῶι" original="τῶι" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---md-"/>
+      <word wordref_id="620036" id="4" texid="24037" row="2" wordNum="2" hand="m1" regularized="φιλτάτῳ" original="φ[ιλτάτῳ]" completeness="partly_reconstructed" tag="adjective.sg.masc.dat.pos" lemma="φίλτατος" lemmaFlag="ok" perseusTag="a-s---md-"/>
+      <word wordref_id="620037" id="5" texid="24037" row="2" wordNum="3" hand="m1" regularized="χαίρειν" original="[χαίρειν]" completeness="fully_reconstructed" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="620038" id="6" texid="24037" row="2" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="620039" id="1" texid="24037" row="3" wordNum="1" hand="m1" regularized="ἐχθὲς" original="ἐκθὲς*" completeness="complete" tag="adverb" lemma="χθές" lemmaFlag="ok" perseusTag="d--------"/>
+      <word wordref_id="620040" id="2" texid="24037" row="3" wordNum="2" hand="m1" regularized="Ἀφρ|gap=unknown|" original="Ἀφρ|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="620041" id="3" texid="24037" row="4" wordNum="1" hand="m1" regularized="ἐν" original="ἐν" completeness="complete" tag="preposition" lemma="ἐν" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="620042" id="4" texid="24037" row="4" wordNum="2" hand="m1" regularized="Ῥαιμα" original="Ῥαιμα" completeness="complete" tag="noun.sg.masc.gen" lemma="Ῥ͂αιμα" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="620043" id="5" texid="24037" row="4" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="620044" id="6" texid="24037" row="5" wordNum="1" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="620045" id="7" texid="24037" row="5" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---mg-"/>
+      <word wordref_id="620046" id="8" texid="24037" row="5" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="620047" id="9" texid="24037" row="6" wordNum="1" hand="m1" regularized="ἔλαιον" original="ἔλαιν*" completeness="complete" tag="noun.sg.neut.acc" lemma="ἔλαιον" lemmaFlag="ok" perseusTag="n-s---na-"/>
+      <word wordref_id="620048" id="10" texid="24037" row="6" wordNum="2" hand="m1" regularized="|gap=2||gap=unknown|" original="|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="620049" id="11" texid="24037" row="7" wordNum="1" hand="m1" regularized="|gap=1_lines|" original="|gap=1_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

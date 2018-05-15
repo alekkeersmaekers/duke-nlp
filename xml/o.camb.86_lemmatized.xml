@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.camb.86" TM="73565" HGV="73565" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="616508" id="1" texid="73565" row="1" wordNum="1" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="616509" id="2" texid="73565" row="1" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="616510" id="1" texid="73565" row="2" wordNum="1" hand="m1" regularized="Περμάμιος" original="Περμάμιο(ς)" completeness="complete" tag="noun.sg.masc.gen" lemma="Περμᾶμις" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="616511" id="2" texid="73565" row="2" wordNum="2" hand="m1" regularized="Ὀννώφριος" original="Ὀννώ(φριος)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ὀννωφρις" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="616512" id="3" texid="73565" row="2" wordNum="3" hand="m1" regularized="Π|gap=1||gap=unknown|" original="Π|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="616513" id="4" texid="73565" row="3" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="616514" id="5" texid="73565" row="3" wordNum="2" hand="m1" regularized="λε|digit=35|" original="λε|digit=35|" completeness="complete" tag="numeral.none.none.none" lemma="λε" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="616515" id="6" texid="73565" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="616516" id="1" texid="73565" row="4" wordNum="1" hand="m1" regularized="Παναμεῦς" original="Πανα(μεῦς)" completeness="complete" tag="noun.sg.masc.gen" lemma="Παναμεύς" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="616517" id="2" texid="73565" row="4" wordNum="2" hand="m1" regularized="Παρ|gap=1||gap=unknown|" original="Παρ|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="616518" id="3" texid="73565" row="5" wordNum="1" hand="m1" regularized="Π|gap=2||gap=unknown|" original="Π|gap=2||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="stud.pal.3(2).1.102" TM="37593" HGV="37593" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="4602766" id="1" texid="37593" row="4" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4602767" id="2" texid="37593" row="4" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ̣|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="4602768" id="3" texid="37593" row="4" wordNum="3" hand="m1" regularized="ἰνδικτίωνος" original="[ἰ(ν)]δ(ικτίωνος)" completeness="partly_reconstructed" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect" perseusTag="n-s---fg-"/>
+      <word wordref_id="4602769" id="4" texid="37593" row="4" wordNum="4" hand="m1" regularized="|extra|" original="|extra|" regularized_old=".|stauros|" original_old=".|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4602770" id="5" texid="37593" row="4" wordNum="4@1" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="4602771" id="1" texid="37593" row="4" wordNum="4@2" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

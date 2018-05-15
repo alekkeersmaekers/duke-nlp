@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.1.32" TM="9050" HGV="9050" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="23190" id="1" texid="9050" row="1" wordNum="1" hand="m1" regularized="Νικήφορος" original="Νικήφορ̣ος" completeness="complete" tag="noun.sg.masc.nom" lemma="Νικήφορος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="23191" id="2" texid="9050" row="1" wordNum="2" hand="m1" regularized="οἰκονόμος" original="οἰκονόμος" completeness="complete" tag="noun.sg.masc.nom" lemma="οἰκονόμος" lemmaFlag="wrong-accent:οἰκόνομος" perseusTag="n-s---mn-"/>
+      <word wordref_id="23192" id="3" texid="9050" row="2" wordNum="1" hand="m1" regularized="Πτολεμαίῳ" original="Πτολεμαίῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Πτολεμαῖος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="23193" id="4" texid="9050" row="2" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="23194" id="1" texid="9050" row="2" wordNum="3" hand="m1" regularized="ἀπέσχον" original="ἀπέσχον" completeness="complete" tag="verb.3.pl.aor.ind.act" lemma="ἀπέχω" lemmaFlag="ok" perseusTag="v3paia---"/>
+      <word wordref_id="23195" id="2" texid="9050" row="2" wordNum="4" hand="m1" regularized="παρὰ" original="παρὰ" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="23196" id="3" texid="9050" row="2" wordNum="5" hand="m1" regularized="σοῦ" original="σοῦ" completeness="complete" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----g-"/>
+      <word wordref_id="23197" id="4" texid="9050" row="3" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπὲρ" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="23198" id="5" texid="9050" row="3" wordNum="2" hand="m1" regularized="ἐνοικίου" original="ἐνοικ(ίου)" completeness="complete" tag="adjective.sg.fem.gen.pos" lemma="ἐνοίκιος" lemmaFlag="ok" perseusTag="a-s---fg-"/>
+      <word wordref_id="23199" id="6" texid="9050" row="3" wordNum="3" hand="m1" regularized="ἀποθήκης" original="ἀποθήκ(ης)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἀποθήκη" lemmaFlag="ok" perseusTag="n-s---fg-"/>
+      <word wordref_id="23200" id="7" texid="9050" row="3" wordNum="4" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---mg-"/>
+      <word wordref_id="23201" id="8" texid="9050" row="4" wordNum="1" hand="m1" regularized="Ἐπεὶφ" original="Ἐπεὶφ" completeness="complete" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="23202" id="9" texid="9050" row="4" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-p---mg-"/>
+      <word wordref_id="23203" id="10" texid="9050" row="4" wordNum="3" hand="m1" regularized="κγ|digit=23|" original="κγ|digit=23|" completeness="complete" tag="numeral.none.none.none" lemma="κγ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="23204" id="11" texid="9050" row="4" wordNum="4" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="23205" id="12" texid="9050" row="4" wordNum="5" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="23206" id="13" texid="9050" row="4" wordNum="6" hand="m1" regularized="μ|digit=40|" original="μ|digit=40|" completeness="complete" tag="numeral.none.none.none" lemma="μ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="23207" id="14" texid="9050" row="4" wordNum="7" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

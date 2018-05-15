@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.cair.zen.2.59201" TM="846" HGV="846" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="1228332" id="1" texid="846" row="4" wordNum="1" hand="m1" regularized="εἰς" original="εἰς" completeness="complete" tag="preposition" lemma="εἰς" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="1228333" id="2" texid="846" row="4" wordNum="2" hand="m1" regularized="Φιλαδέλφειαν" original="Φιλαδέλφειαν" completeness="complete" tag="noun.sg.fem.acc" lemma="Φιλαδέλφεια" lemmaFlag="ok" perseusTag="n-s---fa-"/>
+      <word wordref_id="1228334" id="3" texid="846" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="1228335" id="1" texid="846" row="4" wordNum="4" hand="m1" regularized="Ζήνωνι" original="Ζήνωνι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζήνων" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="1228336" id="2" texid="846" row="4" wordNum="5" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="1228337" id="1" texid="846" row="4" wordNum="6" hand="m1" regularized="Ἀπολλώνιον" original="Ἀπολλώνιον" completeness="complete" tag="noun.sg.masc.acc" lemma="Ἀπολλώνιος" lemmaFlag="ok" perseusTag="n-s---ma-"/>
+      <word wordref_id="1228338" id="2" texid="846" row="5" wordNum="1" hand="m1" regularized="ἐργολάβον" original="ἐργολάβον" completeness="complete" tag="noun.sg.masc.acc" lemma="ἐργολάβος" lemmaFlag="wrong-accent:ἐργόλαβος" perseusTag="n-s---ma-"/>
+      <word wordref_id="1228339" id="3" texid="846" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

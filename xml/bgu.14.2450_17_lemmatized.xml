@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.14.2450" TM="4045" HGV="4045b" lang="grc" textpart="Fr13,1">
+  <text>
+    <sentence id="1">
+      <word wordref_id="95562" id="1" texid="4045" row="29" wordNum="1" hand="m1" regularized="|gap=unknown||gap=2|" original="|gap=unknown||gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="95563" id="2" texid="4045" row="30" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="95564" id="3" texid="4045" row="30" wordNum="2" hand="m1" regularized="ἐκ" original="[ἐκ]" completeness="fully_reconstructed" tag="preposition" lemma="ἐκ" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="95565" id="4" texid="4045" row="30" wordNum="3" hand="m1" regularized="τοῦ" original="[τ]οῦ" completeness="partly_reconstructed" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---mg-"/>
+      <word wordref_id="95566" id="5" texid="4045" row="30" wordNum="4" hand="m1" regularized="Θεογένους" original="Θεο̣γέ(νους)" completeness="complete" tag="noun.sg.masc.gen" lemma="Θεογένης" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="95567" id="6" texid="4045" row="30" wordNum="5" hand="m1" regularized="ἃς" original="ἃς" completeness="complete" tag="relative.pl.fem.acc" lemma="ὅς" lemmaFlag="ok" perseusTag="p-p---fa-"/>
+      <word wordref_id="95568" id="7" texid="4045" row="30" wordNum="6" hand="m1" regularized="μετειληφέναι" original="με(τειληφέναι)" completeness="complete" tag="infinitive.pf.act" lemma="μεταλαμβάνω" lemmaFlag="ok" perseusTag="v--rna---"/>
+    </sentence>
+  </text>
+</file>

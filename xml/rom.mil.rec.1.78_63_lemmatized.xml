@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="rom.mil.rec.1.78" TM="45120 45121 45130 45122 45124 45126 45127 45134 45129 45131 45125 45133 45135 45123 18845 72683 72704 18847 72682 72681 72684 18851 45119 72685 72686 72687 72688 72691 72689 18835 18843 18831 18833 72692 72693 18841 18839 18853 18837 72694 72707 27797 72712 45132 72699 72696 72697 27799 27798 27796 72702 72713 72700 72708 72705 72703 27803 72711 72701 27800 72698 27801 72706 72714 72680 72690 18849 18829 77649 27802 72695 45118 72679 72710 45136 72709 45128" HGV="45120 45121 45130 45122 45124 45126 45127 45134 45129 45131 45125 45133 45135 45123 18845 72683 72704 18847 72682 72681 72684 18851 45119 72685 72686 72687 72688 72691 72689 18835 18843 18831 18833 72692 72693 18841 18839 18853 18837 72694 72707 27797 72712 45132 72699 72696 72697 27799 27798 27796 72702 72713 72700 72708 72705 72703 27803 72711 72701 27800 72698 27801 72706 72714 72680 72690 18849 18829 77649 27802 72695 45118 72679 72710 45136 72709 45128" lang="grc" textpart="62">
+  <text>
+    <sentence id="1">
+      <word wordref_id="4002156" id="1" texid="27801" row="1" wordNum="1" hand="m1" regularized="Πόσιτος" original="Πόσιτος" completeness="complete" tag="noun.sg.masc.gen" lemma="Πόσις" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="4002157" id="2" texid="27801" row="1" wordNum="2" hand="m1" regularized="κοινωδις" original="κοινωδις" completeness="complete" tag="preposition" lemma="κοινωδις" lemmaFlag="suspect" perseusTag="r--------"/>
+      <word wordref_id="4002158" id="3" texid="27801" row="2" wordNum="1" hand="m1" regularized="τοῖς" original="τοῖς" completeness="complete" tag="article.pl.neut.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-p---nd-"/>
+      <word wordref_id="4002159" id="4" texid="27801" row="2" wordNum="2" hand="m1" regularized="αὐτοῖς" original="[αὐ]τοῖς" completeness="partly_reconstructed" tag="demonstrative.pl.neut.dat" lemma="αὐτός" lemmaFlag="ok" perseusTag="p-p---nd-"/>
+      <word wordref_id="4002160" id="5" texid="27801" row="2" wordNum="3" hand="m1" regularized="ὀνόμασι" original="ὀν(όμασι)" completeness="complete" tag="noun.pl.neut.dat" lemma="ὄνομα" lemmaFlag="ok" perseusTag="n-p---nd-"/>
+      <word wordref_id="4002161" id="6" texid="27801" row="2" wordNum="4" hand="m1" regularized="τρικέραμον" original="τρικ(έραμον)" completeness="complete" tag="noun.sg.neut.nom" lemma="τρικέραμον" lemmaFlag="ok" perseusTag="n-s---nn-"/>
+      <word wordref_id="4002162" id="7" texid="27801" row="2" wordNum="5" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="4002163" id="8" texid="27801" row="3" wordNum="1" hand="m1" regularized="διὰ" original="διὰ" completeness="complete" tag="preposition" lemma="διά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="4002164" id="9" texid="27801" row="3" wordNum="2" hand="m1" regularized="Πιοᾶν" original="Πιοᾶν" completeness="complete" tag="noun.sg.masc.acc" lemma="Πιοᾶς" lemmaFlag="ok" perseusTag="n-s---ma-"/>
+      <word wordref_id="4002165" id="10" texid="27801" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

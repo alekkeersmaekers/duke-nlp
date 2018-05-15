@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.wilck.1042" TM="77509" HGV="77509" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="821500" id="1" texid="77509" row="1" wordNum="1" hand="m1" regularized="Πετεμενῶφις" original="Πετεμενῶ(φις)" completeness="complete" tag="noun.sg.masc.nom" lemma="Πετεμενῶφις" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="821501" id="2" texid="77509" row="1" wordNum="2" hand="m1" regularized="Πετεχώνσιος" original="Πετεχώ(νσιος)" completeness="complete" tag="noun.sg.masc.gen" lemma="Πετεχῶνσις" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="821502" id="3" texid="77509" row="1" wordNum="3" hand="m1" regularized="|gap=1||gap=unknown|" original="|gap=1||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="821503" id="4" texid="77509" row="2" wordNum="1" hand="m1" regularized="Ἐπωνύχου" original="Ἐπωνύχ(ου)" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἐπώνυχος" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="821504" id="5" texid="77509" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="χα(ίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="821505" id="6" texid="77509" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="821506" id="1" texid="77509" row="2" wordNum="4" hand="m1" regularized="ἀπέχω" original="ἀπέχω" completeness="complete" tag="verb.1.sg.pres.ind.act" lemma="ἀπέχω" lemmaFlag="ok" perseusTag="v1spia---"/>
+      <word wordref_id="821507" id="2" texid="77509" row="2" wordNum="5" hand="m1" regularized="παρὰ" original="π[αρὰ]" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="821508" id="3" texid="77509" row="2" wordNum="6" hand="m1" regularized="σοῦ" original="[σοῦ]" completeness="fully_reconstructed" tag="personal.sg.comm.gen" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----g-"/>
+      <word wordref_id="821509" id="4" texid="77509" row="2" wordNum="7" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="821510" id="5" texid="77509" row="3" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.pl.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-p---mg-"/>
+      <word wordref_id="821511" id="6" texid="77509" row="3" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="821512" id="7" texid="77509" row="3" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="821513" id="8" texid="77509" row="3" wordNum="4" hand="m1" regularized="Οὐεσπασιανοῦ" original="Οὐασπασινο[ῦ]*" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Οὐεσπασιανός" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="821514" id="9" texid="77509" row="3" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.abu.mina.458" TM="116650" HGV="116650" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="511262" id="1" texid="116650" row="1" wordNum="1" hand="m1" regularized="|stauros|" original="|stauros|" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="511263" id="2" texid="116650" row="1" wordNum="2" hand="m1" regularized="ἀπὸ" original="ἀπὸ" completeness="complete" tag="preposition" lemma="ἀπό" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="511264" id="3" texid="116650" row="1" wordNum="3" hand="m1" regularized="απα" original="απα" completeness="complete" tag="noun.sg.masc.acc" lemma="απα" lemmaFlag="suspect" perseusTag="n-s---ma-"/>
+      <word wordref_id="511265" id="4" texid="116650" row="1" wordNum="4" hand="m1" regularized="Ἰωάννου" original="Ἰνη*" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἰωάννης" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="511266" id="5" texid="116650" row="1" wordNum="5" hand="m1" regularized=";" original="|extra|*" completeness="complete" tag="PUNCT" lemma=";" lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="511267" id="1" texid="116650" row="2" wordNum="1" hand="m1" regularized="ὀνικὴ" original="ὀνικὲ*" completeness="complete" tag="adjective.sg.fem.nom.pos" lemma="ὀνικός" lemmaFlag="ok" perseusTag="a-s---fn-"/>
+      <word wordref_id="511268" id="2" texid="116650" row="2" wordNum="2" hand="m1" regularized="φορὰ" original="φ(ορὰ)" completeness="complete" tag="noun.sg.fem.nom" lemma="φορά" lemmaFlag="ok" perseusTag="n-s---fn-"/>
+      <word wordref_id="511269" id="3" texid="116650" row="2" wordNum="3" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="511270" id="4" texid="116650" row="2" wordNum="4" hand="m1" regularized="ἥμισυ|digit=1/2|" original="(ἥμισυ)|digit=1/2|" completeness="complete" tag="numeral.none.none.none" lemma="ἥμισυ" lemmaFlag="ok" perseusTag="m--------"/>
+    </sentence>
+  </text>
+</file>

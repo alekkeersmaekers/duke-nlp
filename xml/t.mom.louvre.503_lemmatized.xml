@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="t.mom.louvre.503" TM="79675" HGV="79675" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="4658331" id="1" texid="79675" row="1" wordNum="1" hand="m1" regularized="|gap=unknown|πεσ|gap=1|α|gap=2|πωτος" original="|gap=unknown|πεσ|gap=1|α̣|gap=2|πωτος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4658332" id="2" texid="79675" row="2" wordNum="1" hand="m1" regularized="ἐβίωσεν" original="ἐβίωσεν" completeness="complete" tag="verb.3.sg.aor.ind.act" lemma="βιόω" lemmaFlag="ok" perseusTag="v3saia---"/>
+      <word wordref_id="4658333" id="3" texid="79675" row="2" wordNum="2" hand="m1" regularized="ἐτῶν" original="ἐτῶν" completeness="complete" tag="noun.pl.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-p---ng-"/>
+      <word wordref_id="4658334" id="4" texid="79675" row="2" wordNum="3" hand="m1" regularized="λ|digit=30|" original="λ|digit=30|" completeness="complete" tag="numeral.none.none.none" lemma="λ" lemmaFlag="ok" perseusTag="m--------"/>
+    </sentence>
+  </text>
+</file>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.claud.2.221" TM="23991" HGV="23991" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="621568" id="1" texid="23991" row="1" wordNum="1" hand="m1" regularized="Βῆκις" original="Βῆκις" completeness="complete" tag="noun.sg.masc.nom" lemma="Βῆκις" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="621569" id="2" texid="23991" row="1" wordNum="2" hand="m1" regularized="Πετεαροήρι" original="Πετεαροήρι" completeness="complete" tag="noun.sg.masc.dat" lemma="Πετεαροῆρις" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="621570" id="3" texid="23991" row="1" wordNum="3" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---md-"/>
+      <word wordref_id="621571" id="4" texid="23991" row="1" wordNum="4" hand="m1" regularized="υἱῷ" original="υἱῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="υἱός" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="621572" id="5" texid="23991" row="1" wordNum="5" hand="m1" regularized="χαίρειν" original="χ̣α(ίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="621573" id="6" texid="23991" row="1" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="621574" id="1" texid="23991" row="2" wordNum="1" hand="m1" regularized="πέμψον" original="πέμψον" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="πέμπω" lemmaFlag="ok" perseusTag="v2sama---"/>
+      <word wordref_id="621575" id="2" texid="23991" row="2" wordNum="2" hand="m1" regularized="μοι" original="μοι" completeness="complete" tag="personal.sg.comm.dat" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1s----d-"/>
+      <word wordref_id="621576" id="3" texid="23991" row="2" wordNum="3" hand="m1" regularized="σπληνάριν" original="σπληνάριν" completeness="complete" tag="noun.sg.fem.acc" lemma="σπληνάρις" lemmaFlag="suspect" perseusTag="n-s---fa-"/>
+      <word wordref_id="621577" id="4" texid="23991" row="3" wordNum="1" hand="m1" regularized="ἰς" original="[ἰς]" completeness="fully_reconstructed" tag="preposition" lemma="εἰς" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="621578" id="5" texid="23991" row="3" wordNum="2" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---fa-"/>
+      <word wordref_id="621579" id="6" texid="23991" row="3" wordNum="3" hand="m1" regularized="κεφαλήν" original="κεφαλήν" completeness="complete" tag="noun.sg.fem.acc" lemma="κεφαλή" lemmaFlag="ok" perseusTag="n-s---fa-"/>
+      <word wordref_id="621580" id="7" texid="23991" row="3" wordNum="4" hand="m1" regularized="μου" original="μου" completeness="complete" tag="personal.sg.comm.gen" lemma="ἐγώ" lemmaFlag="ok" perseusTag="p1s----g-"/>
+      <word wordref_id="621581" id="8" texid="23991" row="3" wordNum="5" hand="m1" regularized="ἐπὶ" original="ἐπὶ" completeness="complete" tag="preposition" lemma="ἐπί" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="621582" id="9" texid="23991" row="3" wordNum="6" hand="m1" regularized="|gap=2|" original="|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="621583" id="10" texid="23991" row="4" wordNum="1" hand="m1" regularized="|gap=4_lines|" original="|gap=4_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

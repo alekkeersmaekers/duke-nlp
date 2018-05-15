@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="bgu.10.1916" TM="4975" HGV="4975" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="36002" id="1" texid="4975" row="1" wordNum="1" hand="m1" regularized="Καλλίστρατος" original="Καλλίστρατος" completeness="complete" tag="noun.sg.masc.nom" lemma="Καλλίστρατος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="36003" id="2" texid="4975" row="1" wordNum="2" hand="m1" regularized="Ἀκεστίαι" original="Ἀκεστίαι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ἀκεστίας" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="36004" id="3" texid="4975" row="1" wordNum="3" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="36005" id="4" texid="4975" row="1" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="36006" id="1" texid="4975" row="1" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="36007" id="2" texid="4975" row="2" wordNum="1" hand="m1" regularized="|gap=1|αντος" original="|gap=1|αντος" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="36008" id="3" texid="4975" row="2" wordNum="2" hand="m1" regularized="μὴ" original="μὴ" completeness="complete" tag="adverb" lemma="μή" lemmaFlag="ok" perseusTag="d--------"/>
+      <word wordref_id="36009" id="4" texid="4975" row="2" wordNum="3" hand="m1" regularized="ἐγδημῆσαι" original="ἐγδημῆσαι" completeness="complete" tag="infinitive.aor.act" lemma="ἐγδημέω" lemmaFlag="suspect" perseusTag="v--ana---"/>
+      <word wordref_id="36010" id="5" texid="4975" row="2" wordNum="4" hand="m1" regularized="ἐὰν" original="ἐὰν" completeness="complete" tag="conjunction" lemma="ἐάν" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="36011" id="6" texid="4975" row="2" wordNum="5" hand="m1" regularized="μὴ" original="μὴ" completeness="complete" tag="adverb" lemma="μή" lemmaFlag="ok" perseusTag="d--------"/>
+      <word wordref_id="36012" id="7" texid="4975" row="2" wordNum="6" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="36013" id="8" texid="4975" row="3" wordNum="1" hand="m1" regularized="τὴν" original="τὴν" completeness="complete" tag="article.sg.fem.acc" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---fa-"/>
+      <word wordref_id="36014" id="9" texid="4975" row="3" wordNum="2" hand="m1" regularized="ἀπογραφὴν" original="ἀπογραφὴ̣[ν]" completeness="partly_reconstructed" tag="noun.sg.fem.acc" lemma="ἀπογραφή" lemmaFlag="ok" perseusTag="n-s---fa-"/>
+      <word wordref_id="36015" id="10" texid="4975" row="4" wordNum="1" hand="m1" regularized="ἀπέσταλκα?" original="ἀπέσταλκ[α?]" completeness="partly_reconstructed" tag="verb.1.sg.pf.ind.act" lemma="ἀποστέλλω" lemmaFlag="ok" perseusTag="v1sria---"/>
+      <word wordref_id="36016" id="11" texid="4975" row="5" wordNum="1" hand="m1" regularized="τούτους" original="[το]ύ̣τους" completeness="partly_reconstructed" tag="demonstrative.pl.masc.acc" lemma="οὗτος" lemmaFlag="ok" perseusTag="p-p---ma-"/>
+      <word wordref_id="36017" id="12" texid="4975" row="5" wordNum="2" hand="m1" regularized="ὀφείλοντας?" original="ὀφείλο[ντας?]" completeness="partly_reconstructed" tag="participle.pl.pres.act.masc.acc" lemma="ὀφείλω" lemmaFlag="ok" perseusTag="v-pppama-"/>
+    </sentence>
+  </text>
+</file>

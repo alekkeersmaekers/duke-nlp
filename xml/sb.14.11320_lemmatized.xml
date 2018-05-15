@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="sb.14.11320" TM="4222" HGV="4222" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="4100108" id="1" texid="4222" row="1" wordNum="1" hand="m1" regularized="Θέων" original="Θέων" completeness="complete" tag="noun.sg.masc.nom" lemma="Θέων" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="4100109" id="2" texid="4222" row="1" wordNum="2" hand="m1" regularized="Φ|gap=3|…" original="Φ|gap=3|(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4100110" id="3" texid="4222" row="1" wordNum="3" hand="m1" regularized="Πρωτάρχῳ" original="Π̣ρω(τάρχῳ)" completeness="complete" tag="noun.sg.masc.dat" lemma="Πρώταρχος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="4100111" id="4" texid="4222" row="1" wordNum="4" hand="m1" regularized="τραπεζίτῃ" original="τ̣ρ̣[α(πεζίτῃ)]" completeness="partly_reconstructed" tag="noun.sg.masc.dat" lemma="τραπεζίτης" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="4100112" id="5" texid="4222" row="2" wordNum="1" hand="m1" regularized="χαίρειν" original="χα(ίρειν)" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="4100113" id="6" texid="4222" row="2" wordNum="2" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="4100114" id="1" texid="4222" row="2" wordNum="3" hand="m1" regularized="χρημάτισμον" original="χρη̣(μάτισμον)" completeness="complete" tag="adjective.sg.masc.acc.pos" lemma="χρημάτισμος" lemmaFlag="wrong-accent:χρηματισμός" perseusTag="a-s---ma-"/>
+      <word wordref_id="4100115" id="2" texid="4222" row="2" wordNum="4" hand="m1" regularized="|gap=3|ωι" original="|gap=3|ωι" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4100116" id="3" texid="4222" row="3" wordNum="1" hand="m1" regularized="δισχιλίας" original="δισχιλ(ίας)" completeness="complete" tag="numeral.pl.fem.acc" lemma="δισχίλιοι" lemmaFlag="ok" perseusTag="m-p---fa-"/>
+      <word wordref_id="4100117" id="4" texid="4222" row="3" wordNum="2" hand="m1" regularized="γίνονται" original="γίνονται" completeness="complete" tag="verb.3.pl.pres.ind.mid" lemma="γίγνομαι" lemmaFlag="ok" perseusTag="v3ppie---"/>
+      <word wordref_id="4100118" id="5" texid="4222" row="3" wordNum="3" hand="m1" regularized="Β|digit=2000|" original="Β|digit=2000|" completeness="complete" tag="numeral.none.none.none" lemma="́Β" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="4100119" id="6" texid="4222" row="3" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="4100120" id="1" texid="4222" row="3" wordNum="5" hand="m1" regularized="ἔτους?" original="(ἔτους?)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="4100121" id="2" texid="4222" row="3" wordNum="6" hand="m1" regularized="λγ|digit=33|" original="λ̣γ̣|digit=33|" completeness="complete" tag="numeral.none.none.none" lemma="λγ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="4100122" id="3" texid="4222" row="3" wordNum="7" hand="m1" regularized="Θὼθ" original="Θὼθ" completeness="complete" tag="noun.sg.none.none" lemma="Θώθ" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="4100123" id="4" texid="4222" row="3" wordNum="8" hand="m1" regularized="ιε|digit=15|" original="ιε̣|digit=15|" completeness="complete" tag="numeral.none.none.none" lemma="ιε" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="4100124" id="5" texid="4222" row="3" wordNum="9" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

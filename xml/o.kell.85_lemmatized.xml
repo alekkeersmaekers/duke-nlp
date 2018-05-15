@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.kell.85" TM="74609" HGV="74609" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="702755" id="1" texid="74609" row="1" wordNum="1" hand="m1" regularized="Παυσανίας" original="Παυσανίας" completeness="complete" tag="noun.sg.masc.nom" lemma="Παυσανίας" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="702756" id="2" texid="74609" row="1" wordNum="2" hand="m1" regularized="Κομε" original="Κομ̣ε" completeness="complete" tag="noun.sg.masc.voc" lemma="Κόμος" lemmaFlag="ok" perseusTag="n-s---mv-"/>
+      <word wordref_id="702757" id="3" texid="74609" row="2" wordNum="1" hand="m1" regularized="ἀδελφῷ" original="ἀδελφῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="ἀδελφός" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="702758" id="4" texid="74609" row="2" wordNum="2" hand="m1" regularized="χαίρειν" original="χαίρειν" completeness="complete" tag="infinitive.pres.act" lemma="χαίρω" lemmaFlag="ok" perseusTag="v--pna---"/>
+      <word wordref_id="702759" id="5" texid="74609" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="702760" id="1" texid="74609" row="3" wordNum="1" hand="m1" regularized="ὄρνεα" original="ὄρνεα" regularized_old="Ὄρνεα" original_old="Ὄρνεα" completeness="complete" tag="noun.pl.neut.nom" lemma="ὄρνεον" lemmaFlag="ok" perseusTag="n-p---nn-"/>
+      <word wordref_id="702761" id="2" texid="74609" row="3" wordNum="2" hand="m1" regularized="τέσσαρα|num=4|" original="τέσσαρα̣|num=4|" completeness="complete" tag="numeral.pl.neut.nom" lemma="τέσσαρες" lemmaFlag="ok" perseusTag="m-p---nn-"/>
+      <word wordref_id="702762" id="3" texid="74609" row="4" wordNum="1" hand="m1" regularized="ὑπὲρ" original="ὑπὲρ" completeness="complete" tag="preposition" lemma="ὑπέρ" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="702763" id="4" texid="74609" row="4" wordNum="2" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="702764" id="5" texid="74609" row="4" wordNum="3" hand="m1" regularized="ἰνδικτίονος" original="ἰνδικ(τίονος)" completeness="complete" tag="noun.sg.fem.gen" lemma="ἰνδικτίων" lemmaFlag="suspect" perseusTag="n-s---fg-"/>
+      <word wordref_id="702765" id="6" texid="74609" row="4" wordNum="4" hand="m1" regularized="δὸς" original="δὸς" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="δίδωμι" lemmaFlag="ok" perseusTag="v2sama---"/>
+      <word wordref_id="702766" id="7" texid="74609" row="5" wordNum="1" hand="m1" regularized="τῷ" original="τῷ" completeness="complete" tag="article.sg.masc.dat" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---md-"/>
+      <word wordref_id="702767" id="8" texid="74609" row="5" wordNum="2" hand="m1" regularized="υἱῷ" original="υἱῷ" completeness="complete" tag="noun.sg.masc.dat" lemma="υἱός" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="702768" id="9" texid="74609" row="5" wordNum="3" hand="m1" regularized="Πισιστράτῳ" original="Πισιστράτῳ" completeness="complete" tag="noun.sg.masc.dat" lemma="Πισίστρατος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="702769" id="10" texid="74609" row="5" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="702770" id="1" texid="74609" row="6" wordNum="1" hand="m1" regularized="Ἔρρῶσθαί" original="Ἔρρῶσθαί" completeness="complete" tag="infinitive.pf.mid" lemma="Ἄγιρρώσκω" lemmaFlag="ok" perseusTag="v--rne---"/>
+      <word wordref_id="702771" id="2" texid="74609" row="7" wordNum="1" hand="m1" regularized="σε" original="σε" completeness="complete" tag="personal.sg.comm.acc" lemma="σύ" lemmaFlag="ok" perseusTag="p2s----a-"/>
+      <word wordref_id="702772" id="3" texid="74609" row="7" wordNum="2" hand="m1" regularized="εὔχομαι" original="εὔχομαι" completeness="complete" tag="verb.1.sg.pres.ind.mid" lemma="εὔχομαι" lemmaFlag="ok" perseusTag="v1spie---"/>
+    </sentence>
+  </text>
+</file>

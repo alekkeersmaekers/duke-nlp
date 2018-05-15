@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.athen.xyla.4" TM="18969" HGV="18969" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="962607" id="1" texid="18969" row="17" wordNum="1" hand="m1" regularized="νομισμάτια" original="νο(μισμάτια)" completeness="complete" tag="noun.pl.neut.nom" lemma="νομισμάτιον" lemmaFlag="ok" perseusTag="n-p---nn-"/>
+      <word wordref_id="962608" id="2" texid="18969" row="17" wordNum="2" hand="m1" regularized="ι|digit=10|" original="ι|digit=10|" completeness="complete" tag="numeral.none.none.none" lemma="ι" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="962609" id="3" texid="18969" row="17" wordNum="3" hand="m1" regularized="παρὰ" original="[πα]ρὰ" completeness="partly_reconstructed" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="962610" id="4" texid="18969" row="17" wordNum="4" hand="m1" regularized="κεράτια" original="κ[ε]ρά[τια]" completeness="partly_reconstructed" tag="noun.pl.neut.acc" lemma="κεράτιον" lemmaFlag="ok" perseusTag="n-p---na-"/>
+      <word wordref_id="962611" id="5" texid="18969" row="17" wordNum="5" hand="m1" regularized="ξ|digit=60|" original="[ξ|digit=60|]" completeness="fully_reconstructed" tag="numeral.none.none.none" lemma="ξ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="962612" id="6" texid="18969" row="18" wordNum="1" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

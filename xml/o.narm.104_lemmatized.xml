@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.narm.104" TM="40826" HGV="40826" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="744798" id="1" texid="40826" row="1" wordNum="1" hand="m1" regularized="περὶ" original="περὶ" completeness="complete" tag="preposition" lemma="περί" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="744799" id="2" texid="40826" row="1" wordNum="2" hand="m1" regularized="τῆς" original="τῆς" completeness="complete" tag="article.sg.fem.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---fg-"/>
+      <word wordref_id="744800" id="3" texid="40826" row="2" wordNum="1" hand="m1" regularized="μηνύσεως" original="μηνύσεως" completeness="complete" tag="noun.sg.fem.gen" lemma="μήνυσις" lemmaFlag="ok" perseusTag="n-s---fg-"/>
+      <word wordref_id="744801" id="4" texid="40826" row="3" wordNum="1" hand="m1" regularized="αὐτοῦ" original="αὐτοῦ" completeness="complete" tag="demonstrative.sg.masc.gen" lemma="αὐτός" lemmaFlag="ok" perseusTag="p-s---mg-"/>
+      <word wordref_id="744802" id="5" texid="40826" row="3" wordNum="2" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.neut.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---ng-"/>
+      <word wordref_id="744803" id="6" texid="40826" row="4" wordNum="1" hand="m1" regularized="ιϛ|digit=16|" original="ιϛ|digit=16|" completeness="complete" tag="numeral.none.none.none" lemma="ιϛ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="744804" id="7" texid="40826" row="4" wordNum="2" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="744805" id="8" texid="40826" row="4" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="744806" id="1" texid="40826" row="5" wordNum="1" hand="m1" regularized="ϛ|digit=6|" original="ϛ|digit=6|" completeness="complete" tag="numeral.none.none.none" lemma="ϛ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="744807" id="2" texid="40826" row="5" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

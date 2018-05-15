@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.camb.104" TM="73583" HGV="73583" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="614049" id="1" texid="73583" row="1" wordNum="1" hand="m1" regularized="|gap=1|βικ…" original="|gap=1|βικ̣(…)" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="614050" id="2" texid="73583" row="1" wordNum="2" hand="m1" regularized="αλλ|gap=3||gap=unknown|" original="αλλ|gap=3||gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="614051" id="3" texid="73583" row="2" wordNum="1" hand="m1" regularized="β" original="β" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="614052" id="4" texid="73583" row="2" wordNum="2" hand="m1" regularized="μηχανη" original="μηχανη̣" completeness="complete" tag="noun.pl.neut.nom" lemma="μηχανή" lemmaFlag="ok" perseusTag="n-p---nn-"/>
+      <word wordref_id="614053" id="5" texid="73583" row="2" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="614054" id="1" texid="73583" row="3" wordNum="1" hand="m1" regularized="δ|digit=4|" original="δ|digit=4|" completeness="complete" tag="numeral.none.none.none" lemma="δ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="614055" id="2" texid="73583" row="3" wordNum="2" hand="m1" regularized="Αμμ|gap=4|θ|gap=2|" original="Αμμ̣|gap=4|θ̣|gap=2|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="614056" id="3" texid="73583" row="4" wordNum="1" hand="m1" regularized="ἀρτοκοπ|gap=4||gap=1|" original="ἀρτοκοπ|gap=4||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="614057" id="4" texid="73583" row="4" wordNum="2" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="614058" id="5" texid="73583" row="4" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="614059" id="6" texid="73583" row="4" wordNum="4" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="614060" id="1" texid="73583" row="5" wordNum="1" hand="m1" regularized="τηκα|gap=2|υ|gap=4|" original="τηκα|gap=2|υ|gap=4|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="614061" id="2" texid="73583" row="5" wordNum="2" hand="m1" regularized="δραχμὰς" original="(δραχμὰς)" completeness="complete" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="614062" id="3" texid="73583" row="5" wordNum="3" hand="m1" regularized="β|digit=2|" original="β|digit=2|" completeness="complete" tag="numeral.none.none.none" lemma="β" lemmaFlag="ok" perseusTag="m--------"/>
+    </sentence>
+  </text>
+</file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.mich.1.561" TM="42341" HGV="42341" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="734210" id="1" texid="42341" row="1" wordNum="1" hand="m1" regularized="|gap=1||gap=6||gap=1|" original="|gap=1||gap=6||gap=1|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="734211" id="2" texid="42341" row="1" wordNum="2" hand="m1" regularized="ὀνόματος" original="ὀν(όματος)" completeness="complete" tag="noun.sg.neut.gen" lemma="ὄνομα" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="734212" id="3" texid="42341" row="1-2" wordNum="1" hand="m1" regularized="Ἀλεξάνδρου" original="Ἀ̣[λε]-ξά̣ν̣δ̣ρ̣ο̣υ̣" completeness="partly_reconstructed" tag="noun.sg.masc.gen" lemma="Ἀλέξανδρος" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="734213" id="4" texid="42341" row="2" wordNum="1" hand="m1" regularized="Δίου" original="Δ̣ί̣ο̣υ̣" completeness="complete" tag="noun.sg.masc.gen" lemma="Δίας" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="734214" id="5" texid="42341" row="3" wordNum="1" hand="m1" regularized="ὄνον" original="ὄν̣ο̣ν" completeness="complete" tag="noun.sg.fem.acc" lemma="ὄνος" lemmaFlag="ok" perseusTag="n-s---fa-"/>
+      <word wordref_id="734215" id="6" texid="42341" row="3" wordNum="2" hand="m1" regularized="α|digit=1|" original="α|digit=1|" completeness="complete" tag="numeral.none.none.none" lemma="α" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="734216" id="7" texid="42341" row="3" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.joach.6" TM="5650" HGV="5650" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="697936" id="1" texid="5650" row="1" wordNum="1" hand="m1" regularized="ἔτους" original="ἔτους" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="697937" id="2" texid="5650" row="1" wordNum="2" hand="m1" regularized="ζ|digit=7|" original="ζ|digit=7|" completeness="complete" tag="numeral.none.none.none" lemma="ζ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="697938" id="3" texid="5650" row="1" wordNum="3" hand="m1" regularized="," original="," completeness="complete" tag="PUNCT" lemma="," lemmaFlag="ok" perseusTag="u--------"/>
+      <word wordref_id="697939" id="4" texid="5650" row="1" wordNum="4" hand="m1" regularized="Ἐπὶφ" original="@^inline^Ἐπὶφ@⟦φπιφ⟧" completeness="complete" tag="noun.sg.none.none" lemma="Ἐπείφ" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="697940" id="5" texid="5650" row="1" wordNum="5" hand="m1" regularized="κη|digit=28|" original="κη|digit=28|" completeness="complete" tag="numeral.none.none.none" lemma="κη" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="697941" id="6" texid="5650" row="1" wordNum="6" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="697942" id="1" texid="5650" row="2" wordNum="1" hand="m1" regularized="Ἑρμίας" original="Ἑρμίας" completeness="complete" tag="noun.sg.masc.nom" lemma="Ἑρμίας" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="697943" id="2" texid="5650" row="2" wordNum="2" hand="m1" regularized="Ἑρμίου" original="Ἑρμίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Ἑρμίας" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="697944" id="3" texid="5650" row="3" wordNum="1" hand="m1" regularized="οἰκονόμος" original="οἰκονόμος" completeness="complete" tag="noun.sg.masc.nom" lemma="οἰκονόμος" lemmaFlag="wrong-accent:οἰκόνομος" perseusTag="n-s---mn-"/>
+      <word wordref_id="697945" id="4" texid="5650" row="3" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

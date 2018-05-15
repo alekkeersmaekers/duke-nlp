@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="t.mom.louvre.888" TM="55193" HGV="55193" lang="grc" textpart="A">
+  <text>
+    <sentence id="1">
+      <word wordref_id="4660550" id="1" texid="55193" row="1" wordNum="1" hand="m1" regularized="Ἀ?πο?λλ?ώνιος?" original="[Ἀ?]π[ο?]λ[λ?]ών[ιος?]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Ἀπολλώνιος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="4660551" id="2" texid="55193" row="1-2" wordNum="1" hand="m1" regularized="νεώτερος" original="νεώ-[τερος]" completeness="partly_reconstructed" tag="adjective.sg.masc.nom.comp" lemma="νέος" lemmaFlag="ok" perseusTag="a-s---mnc"/>
+      <word wordref_id="4660552" id="3" texid="55193" row="2" wordNum="1" hand="m1" regularized="Α|gap=3||gap=1||gap=3|" original="Α|gap=3||gap=1||gap=3|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="4660553" id="4" texid="55193" row="2" wordNum="2" hand="m1" regularized="Βησᾶ" original="[Β]ησ[ᾶ]" completeness="fully_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="Βησοῦς" lemmaFlag="ok" perseusTag="a-s---mg-"/>
+      <word wordref_id="4660554" id="5" texid="55193" row="3" wordNum="1" hand="m1" regularized="πρεσβυτέρου" original="[πρε]σβ[υτέρου]" completeness="fully_reconstructed" tag="adjective.sg.masc.gen.comp" lemma="πρεσβύτερος" lemmaFlag="suspect" perseusTag="a-s---mgc"/>
+    </sentence>
+  </text>
+</file>

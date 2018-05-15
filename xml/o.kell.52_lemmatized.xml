@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.kell.52" TM="74576" HGV="74576" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="701997" id="1" texid="74576" row="1" wordNum="1" hand="m1" regularized="ιγ|digit=13|" original="ιγ|digit=13|" completeness="complete" tag="numeral.none.none.none" lemma="ιγ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="701998" id="2" texid="74576" row="1" wordNum="2" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="701999" id="3" texid="74576" row="1" wordNum="3" hand="m1" regularized="·" original="·" completeness="complete" tag="PUNCT" lemma="·" lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="702000" id="1" texid="74576" row="1" wordNum="4" hand="m1" regularized="διέγραψεν" original="δι[έγραψεν]" completeness="partly_reconstructed" tag="verb.3.sg.aor.ind.act" lemma="διαγράφω" lemmaFlag="ok" perseusTag="v3saia---"/>
+      <word wordref_id="702001" id="2" texid="74576" row="1" wordNum="5" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="702002" id="3" texid="74576" row="2" wordNum="1" hand="m1" regularized="Ψάις" original="Ψάις" completeness="complete" tag="noun.sg.masc.nom" lemma="Ψαις" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="702003" id="4" texid="74576" row="2" wordNum="2" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="702004" id="5" texid="74576" row="3" wordNum="1" hand="m1" regularized="ἀργυρίου" original="ἀργυρ[ίου]" completeness="partly_reconstructed" tag="noun.sg.neut.gen" lemma="ἀργύριον" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="702005" id="6" texid="74576" row="3" wordNum="2" hand="m1" regularized="δραχμὰς" original="[δραχμὰς]" completeness="fully_reconstructed" tag="noun.pl.fem.acc" lemma="δραχμή" lemmaFlag="ok" perseusTag="n-p---fa-"/>
+      <word wordref_id="702006" id="7" texid="74576" row="3" wordNum="3" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="702007" id="8" texid="74576" row="3" wordNum="4" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="3">
+      <word wordref_id="702008" id="1" texid="74576" row="3" wordNum="5" hand="m1" regularized="Αὐρήλιος" original="[Αὐρήλιος]" completeness="fully_reconstructed" tag="noun.sg.masc.nom" lemma="Αὐρήλιος" lemmaFlag="ok" perseusTag="n-s---mn-"/>
+      <word wordref_id="702009" id="2" texid="74576" row="3" wordNum="6" hand="m1" regularized="|gap=unknown|" original="|gap=unknown|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="702010" id="3" texid="74576" row="4" wordNum="1" hand="m1" regularized="Ἀψαθ|gap=unknown|" original="@^inline^Ἀψαθ̣|gap=unknown|@⟦ογαθ̣|gap=unknown|⟧" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+    </sentence>
+  </text>
+</file>

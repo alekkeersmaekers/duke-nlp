@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="o.bodl.1.131" TM="70905" HGV="70905" lang="grc">
+  <text>
+    <sentence id="1">
+      <word wordref_id="535029" id="1" texid="70905" row="1" wordNum="1" hand="m1" regularized="|gap=unknown_lines|" original="|gap=unknown_lines|" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="535030" id="2" texid="70905" row="1" wordNum="2" hand="m1" regularized="|gap=6||gap=1|τὸ" original="|gap=6||gap=1|[τὸ]" completeness="incomplete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="535031" id="3" texid="70905" row="1-2" wordNum="1" hand="m1" regularized="τελος" original="[τε]-λος" completeness="partly_reconstructed" tag="noun.sg.masc.nom" lemma="τελος" lemmaFlag="wrong-accent:τέλος" perseusTag="n-s---mn-"/>
+      <word wordref_id="535032" id="4" texid="70905" row="2" wordNum="1" hand="m1" regularized="τοῦ" original="τοῦ" completeness="complete" tag="article.sg.masc.gen" lemma="ὁ" lemmaFlag="ok" perseusTag="l-s---mg-"/>
+      <word wordref_id="535033" id="5" texid="70905" row="2" wordNum="2" hand="m1" regularized="Παχὼν" original="Παχ[ὼν]" completeness="partly_reconstructed" tag="noun.sg.none.none" lemma="Παχών" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="535034" id="6" texid="70905" row="3" wordNum="1" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="535035" id="7" texid="70905" row="3" wordNum="2" hand="m1" regularized="Παῦνι" original="Παῦνι" completeness="complete" tag="noun.sg.none.nom" lemma="Παῦνι" lemmaFlag="ok" perseusTag="n-s----n-"/>
+      <word wordref_id="535036" id="8" texid="70905" row="3" wordNum="3" hand="m1" regularized="καὶ" original="καὶ" completeness="complete" tag="conjunction" lemma="καί" lemmaFlag="ok" perseusTag="c--------"/>
+      <word wordref_id="535037" id="9" texid="70905" row="4" wordNum="1" hand="m1" regularized="Ἐπείπ" original="Ἐπείπ" completeness="complete" tag="noun.sg.none.nom" lemma="Ἐπείπ" lemmaFlag="ok" perseusTag="n-s----n-"/>
+      <word wordref_id="535038" id="10" texid="70905" row="4" wordNum="2" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="535039" id="1" texid="70905" row="4" wordNum="3" hand="m1" regularized="ἔτους" original="(ἔτους)" completeness="complete" tag="noun.sg.neut.gen" lemma="ἔτος" lemmaFlag="ok" perseusTag="n-s---ng-"/>
+      <word wordref_id="535040" id="2" texid="70905" row="4" wordNum="4" hand="m1" regularized="λγ|digit=33|" original="λγ|digit=33|" completeness="complete" tag="numeral.none.none.none" lemma="λγ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="535041" id="3" texid="70905" row="5" wordNum="1" hand="m1" regularized="Μεσορὴ" original="Μεσορὴ" completeness="complete" tag="noun.sg.none.none" lemma="Μεσορή" lemmaFlag="ok" perseusTag="n-s------"/>
+      <word wordref_id="535042" id="4" texid="70905" row="5" wordNum="2" hand="m1" regularized="γ|digit=3|" original="γ|digit=3|" completeness="complete" tag="numeral.none.none.none" lemma="γ" lemmaFlag="ok" perseusTag="m--------"/>
+      <word wordref_id="535043" id="5" texid="70905" row="5" wordNum="3" hand="m1" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>

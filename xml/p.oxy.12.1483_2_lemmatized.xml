@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file name="p.oxy.12.1483" TM="28995" HGV="28995" lang="grc" textpart="v">
+  <text>
+    <sentence id="1">
+      <word wordref_id="2696093" id="1" texid="28995" row="22" wordNum="1" hand="m1" regularized="Ζωΐλωι" original="Ζωΐλωι" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζωίλος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="2696094" id="2" texid="28995" row="22" wordNum="2" hand="m1" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="2696095" id="3" texid="28995" row="22" wordNum="3" hand="m1" regularized="Δίου" original="Δίου" completeness="complete" tag="noun.sg.masc.gen" lemma="Δίας" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="2696096" id="4" texid="28995" row="22" wordNum="4" hand="m1" regularized="φίλου" original="φί[λ(ου)]" completeness="partly_reconstructed" tag="adjective.sg.masc.gen.pos" lemma="φίλος" lemmaFlag="ok" perseusTag="a-s---mg-"/>
+      <word wordref_id="2696097" id="5" texid="28995" row="22" wordNum="5" hand="m1" regularized="." original="[.]" completeness="fully_reconstructed" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+    <sentence id="2">
+      <word wordref_id="2696098" id="1" texid="28995" row="23" wordNum="1" hand="m2?" regularized="ἀπόδος" original="ἀπόδ(ος)" completeness="complete" tag="verb.2.sg.aor.imp.act" lemma="ἀποδίδωμι" lemmaFlag="ok" perseusTag="v2sama---"/>
+      <word wordref_id="2696099" id="2" texid="28995" row="23" wordNum="2" hand="m2?" regularized="Ζωΐλῳ" original="@^inline^Ζωΐλ(ῳ)@⟦ζωις⟧" completeness="complete" tag="noun.sg.masc.dat" lemma="Ζωίλος" lemmaFlag="ok" perseusTag="n-s---md-"/>
+      <word wordref_id="2696100" id="3" texid="28995" row="23" wordNum="3" hand="m2?" regularized="|extra|" original="⟦λ̣ο̣υ⟧" completeness="complete" tag="" lemma="" lemmaFlag="suspect" perseusTag=""/>
+      <word wordref_id="2696101" id="4" texid="28995" row="23" wordNum="4" hand="m2?" regularized="παρὰ" original="π(αρὰ)" completeness="complete" tag="preposition" lemma="παρά" lemmaFlag="ok" perseusTag="r--------"/>
+      <word wordref_id="2696102" id="5" texid="28995" row="23" wordNum="5" hand="m2?" regularized="Δείου" original="Δείου" completeness="complete" tag="noun.sg.masc.gen" lemma="Δεῖος" lemmaFlag="ok" perseusTag="n-s---mg-"/>
+      <word wordref_id="2696103" id="6" texid="28995" row="23" wordNum="6" hand="m2?" regularized="." original="." completeness="complete" tag="PUNCT" lemma="." lemmaFlag="ok" perseusTag="u--------"/>
+    </sentence>
+  </text>
+</file>
