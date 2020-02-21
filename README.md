@@ -25,4 +25,3 @@ The texts are divided into sentences and 'words' (i.e. tokens). For each token t
 ## How to cite
 This data is available under a [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). Please refer to the following paper when using this data:
 > Keersmaekers, Alek, and Mark Depauw. Forthcoming. “Bringing Together Linguistics and Social History in Automated Text Analysis of Greek Papyri.” *Classics@*.
-µ$
